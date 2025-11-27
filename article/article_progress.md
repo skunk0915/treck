@@ -1,9 +1,9 @@
 # 記事作成進捗リスト
 
 ## 現在の進捗状況
-*   **完了数**: 67 / 100 記事
-*   **進捗率**: 67%
-*   **次に書く記事**: 68. サーマレスト マット (Therm-a-Rest)
+*   **完了数**: 68 / 100 記事
+*   **進捗率**: 68%
+*   **次に書く記事**: 69. ニーモ マット (Nemo)
 
 ---
 
@@ -83,7 +83,7 @@
 - [x] 65. イスカ 寝袋 (Isuka) -> `isuka_sleeping_bag_guide.md`
 - [x] 66. モンベル 寝袋 (Montbell) -> `montbell_sleeping_bag_guide.md`
 - [x] 67. ウエスタンマウンテニアリング (Western Mountaineering) -> `western_mountaineering_sleeping_bag_guide.md`
-- [ ] 68. サーマレスト マット (Therm-a-Rest)
+- [x] 68. サーマレスト マット (Therm-a-Rest) -> `thermarest_mat_guide.md`
 - [ ] 69. ニーモ マット (Nemo)
 - [ ] 70. 登山用ピロー
 
