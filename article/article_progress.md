@@ -1,9 +1,9 @@
 # 記事作成進捗リスト
 
 ## 現在の進捗状況
-*   **完了数**: 68 / 100 記事
-*   **進捗率**: 68%
-*   **次に書く記事**: 69. ニーモ マット (Nemo)
+*   **完了数**: 71 / 100 記事
+*   **進捗率**: 71%
+*   **次に書く記事**: 72. SOTO ウインドマスター (SOTO)
 
 ---
 
@@ -84,11 +84,11 @@
 - [x] 66. モンベル 寝袋 (Montbell) -> `montbell_sleeping_bag_guide.md`
 - [x] 67. ウエスタンマウンテニアリング (Western Mountaineering) -> `western_mountaineering_sleeping_bag_guide.md`
 - [x] 68. サーマレスト マット (Therm-a-Rest) -> `thermarest_mat_guide.md`
-- [ ] 69. ニーモ マット (Nemo)
-- [ ] 70. 登山用ピロー
+- [x] 69. ニーモ マット (Nemo) -> `nemo_mat_guide.md`
+- [x] 70. 登山用ピロー -> `hiking_pillow_guide.md`
 
 ## 5. クッキング・食料 (Cooking & Food)
-- [ ] 71. プリムス P-153 (Primus)
+- [x] 71. プリムス P-153 (Primus) -> `primus_p153_guide.md`
 - [ ] 72. SOTO ウインドマスター (SOTO)
 - [ ] 73. ジェットボイル (Jetboil)
 - [ ] 74. EPIgas (EPIgas)
