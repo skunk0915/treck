@@ -1,9 +1,9 @@
 # 記事作成進捗リスト
 
 ## 現在の進捗状況
-*   **完了数**: 65 / 100 記事
-*   **進捗率**: 65%
-*   **次に書く記事**: 66. モンベル 寝袋 (Montbell)
+*   **完了数**: 66 / 100 記事
+*   **進捗率**: 66%
+*   **次に書く記事**: 67. ウエスタンマウンテニアリング (Western Mountaineering)
 
 ---
 
@@ -81,7 +81,7 @@
 - [x] 63. ツェルト -> `zelt_guide.md`
 - [x] 64. ナンガ 寝袋 (Nanga) -> `nanga_sleeping_bag_guide.md`
 - [x] 65. イスカ 寝袋 (Isuka) -> `isuka_sleeping_bag_guide.md`
-- [ ] 66. モンベル 寝袋 (Montbell)
+- [x] 66. モンベル 寝袋 (Montbell) -> `montbell_sleeping_bag_guide.md`
 - [ ] 67. ウエスタンマウンテニアリング (Western Mountaineering)
 - [ ] 68. サーマレスト マット (Therm-a-Rest)
 - [ ] 69. ニーモ マット (Nemo)
