@@ -1,9 +1,9 @@
 # 記事作成進捗リスト
 
 ## 現在の進捗状況
-*   **完了数**: 66 / 100 記事
-*   **進捗率**: 66%
-*   **次に書く記事**: 67. ウエスタンマウンテニアリング (Western Mountaineering)
+*   **完了数**: 70 / 100 記事
+*   **進捗率**: 70%
+*   **次に書く記事**: 71. プリムス P-153 (Primus)
 
 ---
 
@@ -82,10 +82,10 @@
 - [x] 64. ナンガ 寝袋 (Nanga) -> `nanga_sleeping_bag_guide.md`
 - [x] 65. イスカ 寝袋 (Isuka) -> `isuka_sleeping_bag_guide.md`
 - [x] 66. モンベル 寝袋 (Montbell) -> `montbell_sleeping_bag_guide.md`
-- [ ] 67. ウエスタンマウンテニアリング (Western Mountaineering)
-- [ ] 68. サーマレスト マット (Therm-a-Rest)
-- [ ] 69. ニーモ マット (Nemo)
-- [ ] 70. 登山用ピロー
+- [x] 67. ウエスタンマウンテニアリング (Western Mountaineering) -> `western_mountaineering_sleeping_bag_guide.md`
+- [x] 68. サーマレスト マット (Therm-a-Rest) -> `thermarest_mattress_guide.md`
+- [x] 69. ニーモ マット (Nemo) -> `nemo_mattress_guide.md`
+- [x] 70. 登山用ピロー -> `hiking_pillow_guide.md`
 
 ## 5. クッキング・食料 (Cooking & Food)
 - [ ] 71. プリムス P-153 (Primus)
