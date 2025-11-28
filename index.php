@@ -74,6 +74,10 @@ function getArticleMetadata($filename) {
     preg_match('/>\s*\*\*Image Prompt:\*\*\s*(.*)/', $content, $imagePromptMatch);
     $imagePrompt = $imagePromptMatch ? trim($imagePromptMatch[1]) : null;
 
+    // Extract First Image URL
+    preg_match('/!\[.*?\]\((.*?)\)/', $content, $imageMatch);
+    $thumbnail = $imageMatch ? $imageMatch[1] : null;
+
     // Generate Tags
     $filenameBase = str_replace('.md', '', $filename);
     $parts = explode('_', $filenameBase);
@@ -98,6 +102,7 @@ function getArticleMetadata($filename) {
         'title' => $title,
         'filename' => $filenameBase,
         'imagePrompt' => $imagePrompt,
+        'thumbnail' => $thumbnail,
         'tags' => array_values($tags),
         'category' => $category,
         'description' => $description,
@@ -209,21 +214,22 @@ if (preg_match('/^tag\/(.+)$/', $path, $matches)) {
 if ($path === '') {
     $files = glob($articleDir . '/*.md');
     $articles = [];
+    $allTags = [];
+
     foreach ($files as $file) {
         $meta = getArticleMetadata(basename($file));
         if ($meta) {
             $articles[] = $meta;
+            foreach ($meta['tags'] as $tag) {
+                if (!in_array($tag, $allTags)) {
+                    $allTags[] = $tag;
+                }
+            }
         }
     }
 
-    // Group by Category
-    $categories = array_unique(array_column($articles, 'category'));
-    $articlesByCategory = [];
-    foreach ($categories as $cat) {
-        $articlesByCategory[$cat] = array_filter($articles, function($a) use ($cat) {
-            return $a['category'] === $cat;
-        });
-    }
+    // Shuffle articles for random order
+    shuffle($articles);
 
     // Render Index
     ?>
@@ -254,30 +260,41 @@ if ($path === '') {
     </header>
 
     <main class="container">
-        <h1><?php echo htmlspecialchars($siteName); ?> 記事一覧</h1>
-        <div class="categories">
-            <?php foreach ($categories as $cat): ?>
-                <section class="category-section">
-                    <h2><?php echo htmlspecialchars($cat); ?></h2>
-                    <ul class="article-list">
-                        <?php foreach ($articlesByCategory[$cat] as $article): ?>
-                            <li>
-                                <a href="<?php echo $baseUrl; ?>/<?php echo htmlspecialchars($article['filename']); ?>"><?php echo htmlspecialchars($article['title']); ?></a>
-                                <div class="meta">
-                                    <span class="tags">Tags: 
-                                        <?php 
-                                        $tagLinks = array_map(function($t) use ($baseUrl) {
-                                            return '<a href="' . $baseUrl . '/tag/' . urlencode($t) . '" class="tag-link">' . htmlspecialchars($t) . '</a>';
-                                        }, $article['tags']);
-                                        echo implode(', ', $tagLinks); 
-                                        ?>
-                                    </span>
-                                </div>
-                            </li>
-                        <?php endforeach; ?>
-                    </ul>
-                </section>
+        <div class="filter-section">
+            <input type="text" id="searchInput" placeholder="キーワードで検索..." class="search-input">
+            <div class="tag-filter" id="tagFilter">
+                <button class="tag-btn active" data-tag="all">All</button>
+                <?php foreach ($allTags as $tag): ?>
+                    <button class="tag-btn" data-tag="<?php echo htmlspecialchars($tag); ?>"><?php echo htmlspecialchars($tag); ?></button>
+                <?php endforeach; ?>
+            </div>
+        </div>
+
+        <div class="article-grid" id="articleGrid">
+            <?php foreach ($articles as $article): ?>
+                <article class="article-card" data-tags="<?php echo htmlspecialchars(json_encode($article['tags'])); ?>" data-title="<?php echo htmlspecialchars($article['title']); ?>">
+                    <a href="<?php echo $baseUrl; ?>/<?php echo htmlspecialchars($article['filename']); ?>" class="card-link">
+                        <div class="card-image">
+                            <?php if ($article['thumbnail']): ?>
+                                <img src="<?php echo htmlspecialchars($article['thumbnail']); ?>" alt="<?php echo htmlspecialchars($article['title']); ?>" loading="lazy">
+                            <?php else: ?>
+                                <div class="no-image">No Image</div>
+                            <?php endif; ?>
+                        </div>
+                        <div class="card-content">
+                            <h2 class="card-title"><?php echo htmlspecialchars($article['title']); ?></h2>
+                            <div class="card-tags">
+                                <?php foreach ($article['tags'] as $tag): ?>
+                                    <span class="card-tag">#<?php echo htmlspecialchars($tag); ?></span>
+                                <?php endforeach; ?>
+                            </div>
+                        </div>
+                    </a>
+                </article>
             <?php endforeach; ?>
+        </div>
+        <div id="noResults" style="display: none; text-align: center; margin-top: 2rem;">
+            該当する記事は見つかりませんでした。
         </div>
     </main>
 
@@ -286,6 +303,7 @@ if ($path === '') {
             <p>&copy; 2025 <?php echo htmlspecialchars($siteName); ?></p>
         </div>
     </footer>
+    <script src="<?php echo $baseUrl; ?>/js/home.js"></script>
 </body>
 </html>
     <?php
