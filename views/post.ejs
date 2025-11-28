@@ -1,0 +1,32 @@
+<article class="post">
+	<header class="post-header">
+		<h1>
+			<%= title %>
+		</h1>
+		<div class="post-meta">
+			<span class="category-label">
+				<%= category %>
+			</span>
+			<span class="tags-label">Tags: <%= tags.join(', ') %></span>
+        </div>
+        <% if (imagePrompt) { %>
+            <div class="post-hero-placeholder">
+                <p>Image Prompt: <%= imagePrompt %></p>
+            </div>
+        <% } %>
+    </header>
+    <div class="post-content">
+        <%- content %>
+    </div>
+    
+    <% if (related && related.length > 0) { %>
+    <section class="related-posts">
+        <h2>Related Articles</h2>
+        <ul class="related-list">
+            <% related.forEach(function(post) { %>
+                <li><a href="<%= post.filename %>"><%= post.title %></a></li>
+            <% }); %>
+        </ul>
+    </section>
+    <% } %>
+</article>
