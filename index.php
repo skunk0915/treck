@@ -21,40 +21,89 @@ function parseDialogue($content) {
     $processedLines = [];
     $Parsedown = new Parsedown();
 
+    $currentSpeaker = null;
+    $currentMessageLines = [];
+    $currentType = null;
+    $currentIconHtml = null;
+
     foreach ($lines as $line) {
         if (preg_match('/^\s*\*\*(.+?)\*\*:\s*(.*)/', $line, $matches)) {
-            $name = $matches[1];
-            $message = $matches[2];
-            $type = 'other';
-            $iconText = mb_substr($name, 0, 1);
-
-            if (strpos($name, '先生') !== false) {
-                $type = 'teacher';
-                $iconHtml = '<img src="' . $baseUrl . '/img/teacher.png" alt="先生">';
-            } elseif (strpos($name, 'JK') !== false || strpos($name, '生徒') !== false) {
-                $type = 'student';
-                $iconHtml = '<img src="' . $baseUrl . '/img/jk.png" alt="JK">';
-            } else {
-                 $iconHtml = mb_substr($name, 0, 1);
-            }
-
-            $renderedMessage = $Parsedown->line($message);
-
-            $html = "
-<div class=\"chat-row $type\">
-    <div class=\"icon $type\">$iconHtml</div>
+            // Found a new speaker line
+            
+            // 1. Close previous speaker if exists
+            if ($currentSpeaker) {
+                $fullMessage = implode("\n", $currentMessageLines);
+                $renderedMessage = $Parsedown->line($fullMessage);
+                
+                $html = "
+<div class=\"chat-row $currentType\">
+    <div class=\"icon $currentType\">$currentIconHtml</div>
     <div class=\"bubble\">
         <div class=\"message\">$renderedMessage</div>
     </div>
 </div>";
-            $processedLines[] = $html;
+                $processedLines[] = $html;
+            }
+
+            // 2. Setup new speaker
+            $currentSpeaker = $matches[1];
+            $currentMessageLines = [$matches[2]]; // Start with the message part of the first line
+            
+            $currentType = 'other';
+            $currentIconHtml = mb_substr($currentSpeaker, 0, 1);
+
+            if (strpos($currentSpeaker, '先生') !== false) {
+                $currentType = 'teacher';
+                $currentIconHtml = '<img src="' . $baseUrl . '/img/teacher.png" alt="先生">';
+            } elseif (strpos($currentSpeaker, 'JK') !== false || strpos($currentSpeaker, '生徒') !== false) {
+                $currentType = 'student';
+                $currentIconHtml = '<img src="' . $baseUrl . '/img/jk.png" alt="JK">';
+            }
+            
+        } elseif ($currentSpeaker) {
+            // We are inside a dialogue
+            if (trim($line) === '') {
+                // Blank line ends the dialogue
+                $fullMessage = implode("\n", $currentMessageLines);
+                $renderedMessage = $Parsedown->line($fullMessage); 
+                
+                $html = "
+<div class=\"chat-row $currentType\">
+    <div class=\"icon $currentType\">$currentIconHtml</div>
+    <div class=\"bubble\">
+        <div class=\"message\">$renderedMessage</div>
+    </div>
+</div>";
+                $processedLines[] = $html;
+                
+                $currentSpeaker = null;
+                $currentMessageLines = [];
+                $processedLines[] = $line; // Keep the blank line
+            } else {
+                // Continuation of the message
+                $currentMessageLines[] = $line;
+            }
         } else {
+            // Normal text
             $processedLines[] = $line;
         }
     }
-    return implode("\n", $processedLines);
 
-    
+    // Flush last speaker if exists
+    if ($currentSpeaker) {
+        $fullMessage = implode("\n", $currentMessageLines);
+        $renderedMessage = $Parsedown->line($fullMessage);
+        $html = "
+<div class=\"chat-row $currentType\">
+    <div class=\"icon $currentType\">$currentIconHtml</div>
+    <div class=\"bubble\">
+        <div class=\"message\">$renderedMessage</div>
+    </div>
+</div>";
+        $processedLines[] = $html;
+    }
+
+    return implode("\n", $processedLines);
 }
 
 // Helper: Get Article Metadata

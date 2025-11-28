@@ -153,11 +153,13 @@ nav a {
 .chat-row.teacher .bubble {
 	background-color: var(--chat-bg-teacher);
 	border-top-left-radius: 0;
+	border: 1px solid #81dfff;
 }
 
 .chat-row.student .bubble {
 	background-color: var(--chat-bg-student);
 	border-top-left-radius: 0;
+	border: 1px solid #ffbfd4;
 }
 
 /* Mobile Layout */
