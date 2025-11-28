@@ -16,7 +16,7 @@
 - [x] 4. ノースフェイス (The North Face) -> `north_face_backpack_guide.md`
 - [x] 5. ドイター エアコンタクト (Deuter) -> `deuter_aircontact_guide.md`
 - [x] 6. カリマー リッジ30 (Karrimor) -> `karrimor_ridge_guide.md`
-- [x] 7. モンベル (Montbell) -> `montbell_backpack_review.md`
+- [x] 7. モンベル (Montbell) -> `montbell_backpack_review.md` ✨**内容見直し完了 (12,476文字)**
 - [x] 8. ミステリーランチ (Mystery Ranch) -> `mystery_ranch_backpack_guide.md`
 - [x] 9. HMG (Hyperlite Mountain Gear) -> `hmg_backpack_review.md`
 - [x] 10. ブラックダイヤモンド (Black Diamond) -> `black_diamond_backpack_guide.md`
