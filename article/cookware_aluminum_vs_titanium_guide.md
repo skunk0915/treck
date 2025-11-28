@@ -1,4 +1,5 @@
 # アルミ vs チタン！クッカー（コッヘル）選びで迷ったら「何を作るか」で決めろ
+Tags: Guide, Stove & Cookware
 
 > **Image Prompt:** Two cooking pots side by side - one aluminum (shiny silver) and one titanium (matte gray). Both have food cooking in them on mountain stoves. Comparison setup. Mountain camping scene. Photorealistic, high quality.
 

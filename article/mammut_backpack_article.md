@@ -1,4 +1,5 @@
 # マムートのリュック、種類多すぎ！？登山ガイドの先生が教える「失敗しない選び方」
+Tags: Backpack
 
 「マムート（Mammut）のリュックが欲しい！マンモスのかわいいロゴがついたやつ！」
 そう思ってお店やネットを見てみたものの…
@@ -9,7 +10,7 @@
 
 今回は、そんな登山初心者さんのために、マムートのリュックの「モデルごとの違い」を、ベテラン登山ガイドの先生が分かりやすく解説します！
 
-> **Image Prompt:** A high-quality photo of a Mammut backpack with the iconic mammoth logo, set against a blurred background of a green mountain trail. Bright, sunny atmosphere.
+![A high-quality photo of a Mammut backpack with the iconic mammoth logo, set against a blurred background of a green mountain trail. Bright, sunny atmosphere.](/img/mammut_backpack_article_01.webp)
 
 ---
 
@@ -47,7 +48,7 @@
 
 **先生**: まず紹介するのは**「Ducan（デュカン）」**だ。これは**「背中の涼しさ」**が最強だ。
 
-> **Image Prompt:** A hiker wearing a Mammut Ducan backpack, walking on a sunny trail. Close-up on the back panel showing the "air space" gap between the back and the pack. Visualizing breathability.
+![A hiker wearing a Mammut Ducan backpack, walking on a sunny trail. Close-up on the back panel showing the "air space" gap between the back and the pack. Visualizing breathability.](/img/mammut_backpack_article_02.webp)
 
 **JK**: 背中の涼しさ？
 
@@ -87,7 +88,7 @@
 
 **先生**: 次は**「Lithium（リチウム）」**だ。これはマムートの定番中の定番。特徴はズバリ、**「軽さと使いやすさ」**だ。
 
-> **Image Prompt:** A young woman using a Mammut Lithium backpack in a city setting (cafe or street), looking stylish. The backpack looks lightweight and fits a casual outfit.
+![A young woman using a Mammut Lithium backpack in a city setting (cafe or street), looking stylish. The backpack looks lightweight and fits a casual outfit.](/img/mammut_backpack_article_03.webp)
 
 **JK**: 軽いのは正義！
 
@@ -113,7 +114,7 @@
 
 **先生**: さて、ここからは少し「ガチ勢」向けになるぞ。**「Trion（トリオン）」**は、アルピニストのために作られたモデルだ。
 
-> **Image Prompt:** A rugged mountaineer with a Mammut Trion backpack in a snowy alpine environment. Ice axe attached, dramatic lighting, serious and professional vibe.
+![A rugged mountaineer with a Mammut Trion backpack in a snowy alpine environment. Ice axe attached, dramatic lighting, serious and professional vibe.](/img/mammut_backpack_article_04.webp)
 
 **JK**: アルピニスト…強そう。
 

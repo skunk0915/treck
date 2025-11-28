@@ -1,4 +1,5 @@
 # モンベルの寝袋は「伸びる」！スーパースパイラルストレッチが快適すぎる (Montbell)
+Tags: Guide, Sleeping Bag
 
 > **Image Prompt:** A cozy tent interior in the Japanese mountains at dawn. A hiker is stretching comfortably inside a Montbell sleeping bag with the distinctive spiral stitch pattern visible. The bag appears to be stretching with the person's movement. Warm morning light filtering through the tent. Photorealistic, high quality.
 

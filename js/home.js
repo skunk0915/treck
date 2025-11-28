@@ -1,21 +1,20 @@
 document.addEventListener('DOMContentLoaded', function () {
+	// Search Functionality
 	const searchInput = document.getElementById('searchInput');
-	const tagButtons = document.querySelectorAll('.tag-btn');
 	const articleGrid = document.getElementById('articleGrid');
-	const articles = document.querySelectorAll('.article-card');
+	const articles = articleGrid.querySelectorAll('.article-card');
 	const noResults = document.getElementById('noResults');
-
+	const tagButtons = document.querySelectorAll('.tag-btn');
 	let currentTag = 'all';
-	let currentSearch = '';
 
 	function filterArticles() {
+		const query = searchInput.value.toLowerCase();
 		let visibleCount = 0;
 
 		articles.forEach(article => {
-			const title = article.dataset.title.toLowerCase();
-			const tags = JSON.parse(article.dataset.tags);
-
-			const matchesSearch = title.includes(currentSearch);
+			const title = article.getAttribute('data-title').toLowerCase();
+			const tags = JSON.parse(article.getAttribute('data-tags'));
+			const matchesSearch = title.includes(query);
 			const matchesTag = currentTag === 'all' || tags.includes(currentTag);
 
 			if (matchesSearch && matchesTag) {
@@ -33,22 +32,29 @@ document.addEventListener('DOMContentLoaded', function () {
 		}
 	}
 
-	// Search Input Event
-	searchInput.addEventListener('input', function (e) {
-		currentSearch = e.target.value.toLowerCase();
-		filterArticles();
-	});
+	searchInput.addEventListener('input', filterArticles);
 
-	// Tag Button Click Event
 	tagButtons.forEach(btn => {
 		btn.addEventListener('click', function () {
-			// Update Active State
 			tagButtons.forEach(b => b.classList.remove('active'));
 			this.classList.add('active');
-
-			// Update Filter
-			currentTag = this.dataset.tag;
+			currentTag = this.getAttribute('data-tag');
 			filterArticles();
 		});
 	});
+
+	// Tag Accordion
+	const showMoreBtn = document.getElementById('showMoreTags');
+	const tagAccordion = document.getElementById('tagFilter');
+
+	if (showMoreBtn && tagAccordion) {
+		showMoreBtn.addEventListener('click', function () {
+			tagAccordion.classList.toggle('open');
+			if (tagAccordion.classList.contains('open')) {
+				showMoreBtn.textContent = '閉じる';
+			} else {
+				showMoreBtn.textContent = 'もっと見る';
+			}
+		});
+	}
 });

@@ -1,4 +1,5 @@
 # 寝心地重視ならエアーマット！ニーモ「テンサー」で山でも爆睡する方法 (Nemo)
+Tags: Guide, Mat
 
 > **Image Prompt:** A cozy tent interior at night with the Nemo Tensor sleeping pad in vibrant green color, fully inflated and looking plush. A hiker is sleeping peacefully on it. Soft lantern light, mountains visible through tent mesh. Photorealistic, high quality.
 

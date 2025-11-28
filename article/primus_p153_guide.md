@@ -1,4 +1,5 @@
 # プリムス「P-153」は火力が違う！風に強いバーナーで山頂ラーメンを作ろう (Primus)
+Tags: Guide, Stove & Cookware
 
 > **Image Prompt:** A hiker using the Primus P-153 ultralight backpacking stove on a rocky mountain summit. The stove has a distinctive X-shaped pot support. A small pot is boiling water with visible steam. Blue sky and mountains in background. Photorealistic, high quality.
 

@@ -1,4 +1,5 @@
 # お湯が沸くのが早すぎ！ジェットボイルがあればカップ麺待ち時間ゼロ説 (Jetboil)
+Tags: Guide, Stove & Cookware
 
 > **Image Prompt:** A hiker using a Jetboil Flash stove system on a mountain trail. The distinctive orange insulated cup with color-changing heat indicator is steaming rapidly. The integrated burner design is clearly visible. Alpine scenery background with snow-capped peaks. Photorealistic, high quality.
 

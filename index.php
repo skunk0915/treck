@@ -78,12 +78,19 @@ function getArticleMetadata($filename) {
     preg_match('/!\[.*?\]\((.*?)\)/', $content, $imageMatch);
     $thumbnail = $imageMatch ? $imageMatch[1] : null;
 
-    // Generate Tags
+    // Extract Tags
     $filenameBase = str_replace('.md', '', $filename);
-    $parts = explode('_', $filenameBase);
-    $tags = array_filter($parts, function($t) {
-        return !in_array($t, ['guide', 'article', 'review', 'comparison']);
-    });
+    preg_match('/^Tags:\s*(.*)/m', $content, $tagsMatch);
+    if ($tagsMatch) {
+        $tags = array_map('trim', explode(',', $tagsMatch[1]));
+    } else {
+        // Fallback to filename-based tags
+        $parts = explode('_', $filenameBase);
+        $tags = array_filter($parts, function($t) {
+            return !in_array($t, ['guide', 'article', 'review', 'comparison']);
+        });
+        $tags = array_values($tags);
+    }
     
     // Add Category
     $category = 'General';
@@ -103,7 +110,7 @@ function getArticleMetadata($filename) {
         'filename' => $filenameBase,
         'imagePrompt' => $imagePrompt,
         'thumbnail' => $thumbnail,
-        'tags' => array_values($tags),
+        'tags' => $tags,
         'category' => $category,
         'description' => $description,
         'content' => $content
@@ -262,11 +269,14 @@ if ($path === '') {
     <main class="container">
         <div class="filter-section">
             <input type="text" id="searchInput" placeholder="キーワードで検索..." class="search-input">
-            <div class="tag-filter" id="tagFilter">
-                <button class="tag-btn active" data-tag="all">All</button>
-                <?php foreach ($allTags as $tag): ?>
-                    <button class="tag-btn" data-tag="<?php echo htmlspecialchars($tag); ?>"><?php echo htmlspecialchars($tag); ?></button>
-                <?php endforeach; ?>
+            <div class="tag-accordion-container">
+                <div class="tag-filter tag-accordion" id="tagFilter">
+                    <button class="tag-btn active" data-tag="all">All</button>
+                    <?php foreach ($allTags as $tag): ?>
+                        <button class="tag-btn" data-tag="<?php echo htmlspecialchars($tag); ?>"><?php echo htmlspecialchars($tag); ?></button>
+                    <?php endforeach; ?>
+                </div>
+                <button id="showMoreTags" class="show-more-tags">もっと見る</button>
             </div>
         </div>
 
@@ -276,7 +286,7 @@ if ($path === '') {
                     <a href="<?php echo $baseUrl; ?>/<?php echo htmlspecialchars($article['filename']); ?>" class="card-link">
                         <div class="card-image">
                             <?php if ($article['thumbnail']): ?>
-                                <img src="<?php echo htmlspecialchars($article['thumbnail']); ?>" alt="<?php echo htmlspecialchars($article['title']); ?>" loading="lazy">
+                                <img src="<?php echo (strpos($article['thumbnail'], 'http') === 0 ? '' : $baseUrl) . htmlspecialchars($article['thumbnail']); ?>" alt="<?php echo htmlspecialchars($article['title']); ?>" loading="lazy">
                             <?php else: ?>
                                 <div class="no-image">No Image</div>
                             <?php endif; ?>
@@ -340,6 +350,7 @@ $contentBody = preg_replace('/^#\s+.*\n/', '', $article['content']);
 $contentBody = parseDialogue($contentBody);
 $Parsedown = new Parsedown();
 $htmlContent = $Parsedown->text($contentBody);
+$htmlContent = str_replace('src="/img/', 'src="' . $baseUrl . '/img/', $htmlContent);
 
 ?>
 <!DOCTYPE html>

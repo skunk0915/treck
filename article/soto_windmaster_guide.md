@@ -1,4 +1,5 @@
 # SOTO「ウインドマスター」はその名の通り風に強い！寒冷地でも安定する理由
+Tags: Guide, Stove & Cookware
 
 > **Image Prompt:** A SOTO WindMaster stove in action on a windy mountain ridge at sunset. The distinctive concave burner head is visible with a stable blue flame despite strong wind. A small titanium pot is boiling water with steam rising. Dramatic mountain landscape background with clouds. Photorealistic, high quality, professional outdoor photography.
 

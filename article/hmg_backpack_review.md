@@ -1,4 +1,5 @@
 # 白いリュックは汚れる？HMGのULザックを1年使ってわかったリアルな感想
+Tags: Backpack
 
 > **Image Prompt:** 岩稜帯に立つ登山者。背中には真っ白なHyperlite Mountain Gearのザック。使い込まれて少し汚れがあるが、それが味になっている。青空背景。
 

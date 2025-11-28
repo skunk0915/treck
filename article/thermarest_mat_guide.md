@@ -1,4 +1,5 @@
 # サーマレスト「Zライトソル」はなぜ定番なのか？パタパタ畳めるマットの利便性 (Therm-a-Rest)
+Tags: Guide, Mat
 
 > **Image Prompt:** A hiker sitting on a bright yellow and silver accordion-style Therm-a-Rest Z-Lite Sol sleeping pad in a scenic alpine meadow. The pad is folded in its characteristic zigzag pattern. Mountains and blue sky in background. Photorealistic, high quality.
 

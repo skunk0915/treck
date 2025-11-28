@@ -28,6 +28,8 @@
         <article class="post">
             <header class="post-header">
                 <h1>このサイトについて</h1>
+
+                <img src="img/about-mv.jpg" alt="">
             </header>
             <div class="post-content">
                 
@@ -66,8 +68,7 @@
                     <div class="icon teacher"><img src="<?php echo $baseUrl; ?>/img/teacher.png" alt="先生"></div>
                     <div class="bubble">
                         <div class="message">
-                            <p>む…。痛いところを突くな。<br>
-                            だからこそ、君がいるんじゃないか。<br>
+                            いやいや、だからこそ、君がいるんじゃないか。<br>
                             君は<strong>「初心者代表」</strong>として、分からないことは素直に質問し、重い・ダサいと思ったら正直にツッコミを入れる。<br>
                             それが読者の皆さんの「知りたいこと」に繋がるんだ。</p>
                         </div>
@@ -80,7 +81,7 @@
                     <div class="icon student"><img src="<?php echo $baseUrl; ?>/img/jk.png" alt="JK"></div>
                     <div class="bubble">
                         <div class="message">
-                            <p><strong>JK（私）</strong><br>
+                            <p><strong>JK</strong><br>
                             先生に連れられて山を始めたばかりの女子高生です！<br>
                             正直、機能とかよく分かんないし、可愛くて楽なのが一番だと思ってます。<br>
                             でも、最近ちょっとだけ山の楽しさが分かってきた…かも？</p>
@@ -92,7 +93,7 @@
                     <div class="icon teacher"><img src="<?php echo $baseUrl; ?>/img/teacher.png" alt="先生"></div>
                     <div class="bubble">
                         <div class="message">
-                            <p><strong>先生（私）</strong><br>
+                            <p><strong>先生</strong><br>
                             登山歴20年のガイドだ。<br>
                             道具は「命を預ける相棒」だと思っているから、選び方にはうるさいぞ。<br>
                             流行り廃りには疎いが、機能美と耐久性には目がない。<br>

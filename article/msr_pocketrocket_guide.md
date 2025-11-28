@@ -1,4 +1,5 @@
 # MSR「ポケットロケット」は小さすぎる！ULハイカー御用達の超軽量バーナー (MSR)
+Tags: Guide, Stove & Cookware
 
 > **Image Prompt:** A tiny MSR PocketRocket 2 stove, one of the smallest backpacking stoves in the world, sitting on a rock. The stove looks incredibly compact. A hiker's hand for scale. Mountain background. Photorealistic, high quality.
 

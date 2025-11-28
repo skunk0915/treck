@@ -1,4 +1,5 @@
 # EPIgasは「緑の缶」！安定感抜群の分離型バーナーで凝った料理に挑戦 (EPIgas)
+Tags: Guide, Stove & Cookware
 
 > **Image Prompt:** An EPIgas REVO-3700 stove with its characteristic separated burner design. The burner head is connected to a green EPIgas canister via a flexible hose. A large pot is simmering stably on the wide pot support. Mountain camping scene with cooking in progress. Photorealistic, high quality.
 
