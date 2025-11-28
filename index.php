@@ -3,6 +3,7 @@ require 'Parsedown.php';
 
 // Configuration
 $articleDir = __DIR__ . '/article';
+$siteName = "先生、それ、重くないですか？"; // Site Name Variable
 
 // Calculate Base URL dynamically to support subdirectories
 $protocol = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http");
@@ -15,6 +16,7 @@ $baseUrl = "$protocol://$host$scriptDir";
 
 // Helper: Parse Dialogue
 function parseDialogue($content) {
+    global $baseUrl;
     $lines = explode("\n", $content);
     $processedLines = [];
     $Parsedown = new Parsedown();
@@ -28,19 +30,20 @@ function parseDialogue($content) {
 
             if (strpos($name, '先生') !== false) {
                 $type = 'teacher';
-                $iconText = '先';
+                $iconHtml = '<img src="' . $baseUrl . '/img/teacher.png" alt="先生">';
             } elseif (strpos($name, 'JK') !== false || strpos($name, '生徒') !== false) {
                 $type = 'student';
-                $iconText = 'JK';
+                $iconHtml = '<img src="' . $baseUrl . '/img/jk.png" alt="JK">';
+            } else {
+                 $iconHtml = mb_substr($name, 0, 1);
             }
 
             $renderedMessage = $Parsedown->line($message);
 
             $html = "
 <div class=\"chat-row $type\">
-    <div class=\"icon $type\">$iconText</div>
+    <div class=\"icon $type\">$iconHtml</div>
     <div class=\"bubble\">
-        <div class=\"name\"><strong>$name</strong></div>
         <div class=\"message\">$renderedMessage</div>
     </div>
 </div>";
@@ -50,6 +53,8 @@ function parseDialogue($content) {
         }
     }
     return implode("\n", $processedLines);
+
+    
 }
 
 // Helper: Get Article Metadata
@@ -120,6 +125,86 @@ if ($path === 'index.php') {
     $path = '';
 }
 
+// About Page
+if ($path === 'about') {
+    include 'views/about.php';
+    exit;
+}
+
+// Tag Page
+if (preg_match('/^tag\/(.+)$/', $path, $matches)) {
+    $tagName = urldecode($matches[1]);
+    $files = glob($articleDir . '/*.md');
+    $articles = [];
+    foreach ($files as $file) {
+        $meta = getArticleMetadata(basename($file));
+        if ($meta && in_array($tagName, $meta['tags'])) {
+            $articles[] = $meta;
+        }
+    }
+
+    ?>
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>タグ: <?php echo htmlspecialchars($tagName); ?> - <?php echo htmlspecialchars($siteName); ?></title>
+    <link rel="canonical" href="<?php echo $baseUrl; ?>/tag/<?php echo htmlspecialchars($tagName); ?>">
+    <link rel="stylesheet" href="<?php echo $baseUrl; ?>/css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <a href="<?php echo $baseUrl; ?>/" class="logo"><?php echo htmlspecialchars($siteName); ?></a>
+            <nav>
+                <ul>
+                    <li><a href="<?php echo $baseUrl; ?>/">Home</a></li>
+                    <li><a href="<?php echo $baseUrl; ?>/about">About</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <h1>タグ: <?php echo htmlspecialchars($tagName); ?> の記事一覧</h1>
+        <ul class="article-list">
+            <?php if (empty($articles)): ?>
+                <li>該当する記事は見つかりませんでした。</li>
+            <?php else: ?>
+                <?php foreach ($articles as $article): ?>
+                    <li>
+                        <a href="<?php echo $baseUrl; ?>/<?php echo htmlspecialchars($article['filename']); ?>"><?php echo htmlspecialchars($article['title']); ?></a>
+                        <div class="meta">
+                            <span class="tags">Tags: 
+                                <?php 
+                                $tagLinks = array_map(function($t) use ($baseUrl) {
+                                    return '<a href="' . $baseUrl . '/tag/' . urlencode($t) . '" class="tag-link">' . htmlspecialchars($t) . '</a>';
+                                }, $article['tags']);
+                                echo implode(', ', $tagLinks); 
+                                ?>
+                            </span>
+                        </div>
+                    </li>
+                <?php endforeach; ?>
+            <?php endif; ?>
+        </ul>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 <?php echo htmlspecialchars($siteName); ?></p>
+        </div>
+    </footer>
+</body>
+</html>
+    <?php
+    exit;
+}
+
 // Home Page
 if ($path === '') {
     $files = glob($articleDir . '/*.md');
@@ -147,7 +232,7 @@ if ($path === '') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mountain Blog</title>
+    <title><?php echo htmlspecialchars($siteName); ?></title>
     <meta name="description" content="A blog about mountain gear, hiking tips, and outdoor adventures.">
     <link rel="canonical" href="<?php echo $baseUrl; ?>/">
     <link rel="stylesheet" href="<?php echo $baseUrl; ?>/css/style.css">
@@ -158,17 +243,18 @@ if ($path === '') {
 <body>
     <header>
         <div class="container">
-            <a href="<?php echo $baseUrl; ?>/" class="logo">Mountain Blog</a>
+            <a href="<?php echo $baseUrl; ?>/" class="logo"><?php echo htmlspecialchars($siteName); ?></a>
             <nav>
                 <ul>
                     <li><a href="<?php echo $baseUrl; ?>/">Home</a></li>
+                    <li><a href="<?php echo $baseUrl; ?>/about">About</a></li>
                 </ul>
             </nav>
         </div>
     </header>
 
     <main class="container">
-        <h1>Mountain Blog Articles</h1>
+        <h1><?php echo htmlspecialchars($siteName); ?> 記事一覧</h1>
         <div class="categories">
             <?php foreach ($categories as $cat): ?>
                 <section class="category-section">
@@ -178,7 +264,14 @@ if ($path === '') {
                             <li>
                                 <a href="<?php echo $baseUrl; ?>/<?php echo htmlspecialchars($article['filename']); ?>"><?php echo htmlspecialchars($article['title']); ?></a>
                                 <div class="meta">
-                                    <span class="tags">Tags: <?php echo implode(', ', $article['tags']); ?></span>
+                                    <span class="tags">Tags: 
+                                        <?php 
+                                        $tagLinks = array_map(function($t) use ($baseUrl) {
+                                            return '<a href="' . $baseUrl . '/tag/' . urlencode($t) . '" class="tag-link">' . htmlspecialchars($t) . '</a>';
+                                        }, $article['tags']);
+                                        echo implode(', ', $tagLinks); 
+                                        ?>
+                                    </span>
                                 </div>
                             </li>
                         <?php endforeach; ?>
@@ -190,7 +283,7 @@ if ($path === '') {
 
     <footer>
         <div class="container">
-            <p>&copy; 2025 Mountain Blog</p>
+            <p>&copy; 2025 <?php echo htmlspecialchars($siteName); ?></p>
         </div>
     </footer>
 </body>
@@ -236,7 +329,7 @@ $htmlContent = $Parsedown->text($contentBody);
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo htmlspecialchars($article['title']); ?> - Mountain Blog</title>
+    <title><?php echo htmlspecialchars($article['title']); ?> - <?php echo htmlspecialchars($siteName); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($article['description']); ?>">
     <link rel="canonical" href="<?php echo $baseUrl; ?>/<?php echo htmlspecialchars($article['filename']); ?>">
     <link rel="stylesheet" href="<?php echo $baseUrl; ?>/css/style.css">
@@ -247,10 +340,11 @@ $htmlContent = $Parsedown->text($contentBody);
 <body>
     <header>
         <div class="container">
-            <a href="<?php echo $baseUrl; ?>/" class="logo">Mountain Blog</a>
+            <a href="<?php echo $baseUrl; ?>/" class="logo"><?php echo htmlspecialchars($siteName); ?></a>
             <nav>
                 <ul>
                     <li><a href="<?php echo $baseUrl; ?>/">Home</a></li>
+                    <li><a href="<?php echo $baseUrl; ?>/about">About</a></li>
                 </ul>
             </nav>
         </div>
@@ -262,7 +356,14 @@ $htmlContent = $Parsedown->text($contentBody);
                 <h1><?php echo htmlspecialchars($article['title']); ?></h1>
                 <div class="post-meta">
                     <span class="category-label"><?php echo htmlspecialchars($article['category']); ?></span>
-                    <span class="tags-label">Tags: <?php echo implode(', ', $article['tags']); ?></span>
+                    <span class="tags-label">Tags: 
+                        <?php 
+                        $tagLinks = array_map(function($t) use ($baseUrl) {
+                            return '<a href="' . $baseUrl . '/tag/' . urlencode($t) . '" class="tag-link">' . htmlspecialchars($t) . '</a>';
+                        }, $article['tags']);
+                        echo implode(', ', $tagLinks); 
+                        ?>
+                    </span>
                 </div>
                 <?php if ($article['imagePrompt']): ?>
                     <div class="post-hero-placeholder">
@@ -289,7 +390,7 @@ $htmlContent = $Parsedown->text($contentBody);
 
     <footer>
         <div class="container">
-            <p>&copy; 2025 Mountain Blog</p>
+            <p>&copy; 2025 <?php echo htmlspecialchars($siteName); ?></p>
         </div>
     </footer>
 </body>
