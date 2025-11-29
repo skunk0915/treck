@@ -1,28 +1,10 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>このサイトについて - <?php echo htmlspecialchars($siteName); ?></title>
-    <meta name="description" content="<?php echo htmlspecialchars($siteName); ?>の使い方とキャラクター紹介">
-    <link rel="canonical" href="<?php echo $baseUrl; ?>/about">
-    <link rel="stylesheet" href="<?php echo $baseUrl; ?>/css/style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
-</head>
-<body>
-    <header>
-        <div class="container">
-            <a href="<?php echo $baseUrl; ?>/" class="logo"><?php echo htmlspecialchars($siteName); ?></a>
-            <nav>
-                <ul>
-                    <li><a href="<?php echo $baseUrl; ?>/">Home</a></li>
-                    <li><a href="<?php echo $baseUrl; ?>/about">About</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
+<?php
+$pageTitle = 'このサイトについて - ' . $siteName;
+$pageDescription = $siteName . 'の使い方とキャラクター紹介';
+$pageCanonical = '/about';
+include 'parts/head.php';
+include 'parts/header.php';
+?>
 
     <main class="container">
         <article class="post">
@@ -138,10 +120,4 @@
         </article>
     </main>
 
-    <footer>
-        <div class="container">
-            <p>&copy; 2025 <?php echo htmlspecialchars($siteName); ?></p>
-        </div>
-    </footer>
-</body>
-</html>
+<?php include 'parts/footer.php'; ?>

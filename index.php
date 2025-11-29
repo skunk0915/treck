@@ -197,30 +197,12 @@ if (preg_match('/^tag\/(.+)$/', $path, $matches)) {
     }
 
     ?>
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>タグ: <?php echo htmlspecialchars($tagName); ?> - <?php echo htmlspecialchars($siteName); ?></title>
-    <link rel="canonical" href="<?php echo $baseUrl; ?>/tag/<?php echo htmlspecialchars($tagName); ?>">
-    <link rel="stylesheet" href="<?php echo $baseUrl; ?>/css/style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
-</head>
-<body>
-    <header>
-        <div class="container">
-            <a href="<?php echo $baseUrl; ?>/" class="logo"><?php echo htmlspecialchars($siteName); ?></a>
-            <nav>
-                <ul>
-                    <li><a href="<?php echo $baseUrl; ?>/">Home</a></li>
-                    <li><a href="<?php echo $baseUrl; ?>/about">About</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
+<?php
+    $pageTitle = 'タグ: ' . $tagName . ' - ' . $siteName;
+    $pageCanonical = '/tag/' . urlencode($tagName);
+    include 'views/parts/head.php';
+    include 'views/parts/header.php';
+?>
 
     <main class="container">
         <h1>タグ: <?php echo htmlspecialchars($tagName); ?> の記事一覧</h1>
@@ -247,13 +229,7 @@ if (preg_match('/^tag\/(.+)$/', $path, $matches)) {
         </ul>
     </main>
 
-    <footer>
-        <div class="container">
-            <p>&copy; 2025 <?php echo htmlspecialchars($siteName); ?></p>
-        </div>
-    </footer>
-</body>
-</html>
+<?php include 'views/parts/footer.php'; ?>
     <?php
     exit;
 }
@@ -276,31 +252,13 @@ if ($path === '') {
 
     // Render Index
     ?>
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo htmlspecialchars($siteName); ?></title>
-    <meta name="description" content="A blog about mountain gear, hiking tips, and outdoor adventures.">
-    <link rel="canonical" href="<?php echo $baseUrl; ?>/">
-    <link rel="stylesheet" href="<?php echo $baseUrl; ?>/css/style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
-</head>
-<body>
-    <header>
-        <div class="container">
-            <a href="<?php echo $baseUrl; ?>/" class="logo"><?php echo htmlspecialchars($siteName); ?></a>
-            <nav>
-                <ul>
-                    <li><a href="<?php echo $baseUrl; ?>/">Home</a></li>
-                    <li><a href="<?php echo $baseUrl; ?>/about">About</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
+<?php
+    $pageTitle = $siteName;
+    $pageDescription = "A blog about mountain gear, hiking tips, and outdoor adventures.";
+    $pageCanonical = '/';
+    include 'views/parts/head.php';
+    include 'views/parts/header.php';
+?>
 
     <main class="container">
         <div class="filter-section">
@@ -344,14 +302,10 @@ if ($path === '') {
         </div>
     </main>
 
-    <footer>
-        <div class="container">
-            <p>&copy; 2025 <?php echo htmlspecialchars($siteName); ?></p>
-        </div>
-    </footer>
-    <script src="<?php echo $baseUrl; ?>/js/home.js"></script>
-</body>
-</html>
+<?php
+    $extraScripts = '<script src="' . $baseUrl . '/js/home.js"></script>';
+    include 'views/parts/footer.php';
+?>
     <?php
     exit;
 }
@@ -394,31 +348,13 @@ $htmlContent = $Parsedown->text($contentBody);
 $htmlContent = str_replace('src="/img/', 'src="' . $baseUrl . '/img/', $htmlContent);
 
 ?>
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo htmlspecialchars($article['title']); ?> - <?php echo htmlspecialchars($siteName); ?></title>
-    <meta name="description" content="<?php echo htmlspecialchars($article['description']); ?>">
-    <link rel="canonical" href="<?php echo $baseUrl; ?>/<?php echo htmlspecialchars($article['filename']); ?>">
-    <link rel="stylesheet" href="<?php echo $baseUrl; ?>/css/style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
-</head>
-<body>
-    <header>
-        <div class="container">
-            <a href="<?php echo $baseUrl; ?>/" class="logo"><?php echo htmlspecialchars($siteName); ?></a>
-            <nav>
-                <ul>
-                    <li><a href="<?php echo $baseUrl; ?>/">Home</a></li>
-                    <li><a href="<?php echo $baseUrl; ?>/about">About</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
+<?php
+    $pageTitle = $article['title'] . ' - ' . $siteName;
+    $pageDescription = $article['description'];
+    $pageCanonical = '/' . $article['filename'];
+    include 'views/parts/head.php';
+    include 'views/parts/header.php';
+?>
 
     <main class="container">
         <article class="post">
@@ -471,10 +407,4 @@ $htmlContent = str_replace('src="/img/', 'src="' . $baseUrl . '/img/', $htmlCont
         </article>
     </main>
 
-    <footer>
-        <div class="container">
-            <p>&copy; 2025 <?php echo htmlspecialchars($siteName); ?></p>
-        </div>
-    </footer>
-</body>
-</html>
+<?php include 'views/parts/footer.php'; ?>
