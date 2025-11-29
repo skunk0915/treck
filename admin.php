@@ -1,10 +1,14 @@
 <?php
 session_start();
+require_once __DIR__ . '/lib/TagManager.php';
 
 // Configuration
 $articleDir = __DIR__ . '/article';
+$dataFile = __DIR__ . '/data/tags.json';
 $adminEmail = 'skunk0915@gmail.com';
 $adminPassword = 'yosuke0915'; // Change this in production!
+
+$tagManager = new TagManager($dataFile);
 
 // Handle Login
 if (isset($_POST['action']) && $_POST['action'] === 'login') {
@@ -72,39 +76,6 @@ if (!isset($_SESSION['admin_logged_in'])) {
 
 // --- Admin Logic ---
 
-function getArticleTags($filepath) {
-    if (!file_exists($filepath)) return [];
-    $content = file_get_contents($filepath);
-    if (preg_match('/^Tags:\s*(.*)/m', $content, $matches)) {
-        return array_filter(array_map('trim', explode(',', $matches[1])));
-    }
-    return [];
-}
-
-function updateArticleTags($filepath, $newTagsArray) {
-    if (!file_exists($filepath)) return;
-    $content = file_get_contents($filepath);
-    
-    // Clean tags: trim and remove empty
-    $newTagsArray = array_filter(array_map('trim', $newTagsArray));
-    $newTagsLine = "Tags: " . implode(', ', $newTagsArray);
-    
-    if (preg_match('/^Tags:\s*(.*)/m', $content)) {
-        $newContent = preg_replace('/^Tags:\s*(.*)/m', $newTagsLine, $content);
-    } else {
-        // Insert after title if Tags line doesn't exist
-        if (preg_match('/^#\s+.*\n/m', $content, $matches)) {
-            // Insert after the title line
-            $titleLine = $matches[0];
-            $newContent = str_replace($titleLine, $titleLine . $newTagsLine . "\n", $content);
-        } else {
-            // Or just prepend if no title found (unlikely)
-            $newContent = $newTagsLine . "\n" . $content;
-        }
-    }
-    file_put_contents($filepath, $newContent);
-}
-
 $message = '';
 $messageType = 'success';
 
@@ -113,46 +84,27 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         if ($_POST['action'] === 'update_tags') {
             $filename = $_POST['filename'];
             $tags = explode(',', $_POST['tags']);
-            updateArticleTags($articleDir . '/' . $filename, $tags);
+            $tagManager->setTags($filename, $tags);
             $message = "記事「" . htmlspecialchars($filename) . "」のタグを更新しました。";
         } elseif ($_POST['action'] === 'rename_tag') {
             $oldTag = trim($_POST['old_tag']);
             $newTag = trim($_POST['new_tag']);
             if ($oldTag && $newTag) {
-                $count = 0;
-                $files = glob($articleDir . '/*.md');
-                foreach ($files as $file) {
-                    $tags = getArticleTags($file);
-                    if (in_array($oldTag, $tags)) {
-                        $tags = array_map(function($t) use ($oldTag, $newTag) {
-                            return $t === $oldTag ? $newTag : $t;
-                        }, $tags);
-                        updateArticleTags($file, array_unique($tags));
-                        $count++;
-                    }
-                }
+                $count = $tagManager->renameTag($oldTag, $newTag);
                 $message = "タグ「{$oldTag}」を「{$newTag}」に変更しました。（{$count}件の記事を更新）";
             }
         } elseif ($_POST['action'] === 'merge_tags') {
             $sourceTag = trim($_POST['source_tag']);
             $targetTag = trim($_POST['target_tag']);
             if ($sourceTag && $targetTag && $sourceTag !== $targetTag) {
-                $count = 0;
-                $files = glob($articleDir . '/*.md');
-                foreach ($files as $file) {
-                    $tags = getArticleTags($file);
-                    if (in_array($sourceTag, $tags)) {
-                        // Remove source
-                        $tags = array_diff($tags, [$sourceTag]);
-                        // Add target if not present
-                        if (!in_array($targetTag, $tags)) {
-                            $tags[] = $targetTag;
-                        }
-                        updateArticleTags($file, array_values($tags));
-                        $count++;
-                    }
+                $isDelete = ($targetTag === '(削除)');
+                $count = $tagManager->mergeTags($sourceTag, $targetTag, $isDelete);
+                
+                if ($isDelete) {
+                    $message = "タグ「{$sourceTag}」を削除しました。（{$count}件の記事から削除）";
+                } else {
+                    $message = "タグ「{$sourceTag}」を「{$targetTag}」に統合しました。（{$count}件の記事を更新）";
                 }
-                $message = "タグ「{$sourceTag}」を「{$targetTag}」に統合しました。（{$count}件の記事を更新）";
             }
         }
     }
@@ -161,25 +113,21 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 // Get Data for View
 $files = glob($articleDir . '/*.md');
 $articles = [];
-$allTags = [];
+$allTags = $tagManager->getAllTags();
 
 foreach ($files as $file) {
     $content = file_get_contents($file);
     preg_match('/^#\s+(.*)/m', $content, $titleMatch);
     $title = $titleMatch ? trim($titleMatch[1]) : basename($file);
-    $tags = getArticleTags($file);
+    $filename = basename($file);
+    $tags = $tagManager->getTags($filename);
     
     $articles[] = [
-        'filename' => basename($file),
+        'filename' => $filename,
         'title' => $title,
         'tags' => $tags
     ];
-    
-    foreach ($tags as $t) {
-        if ($t) $allTags[$t] = ($allTags[$t] ?? 0) + 1;
-    }
 }
-ksort($allTags);
 ?>
 <!DOCTYPE html>
 <html lang="ja">
@@ -205,6 +153,7 @@ ksort($allTags);
         .btn-primary { background-color: #007bff; color: white; }
         .btn-primary:hover { background-color: #0056b3; }
         .btn-danger { background-color: #dc3545; color: white; }
+        .btn-warning { background-color: #ffc107; color: #212529; }
         .btn-sm { padding: 0.25rem 0.5rem; font-size: 0.85rem; }
         
         table { width: 100%; border-collapse: collapse; }
@@ -236,7 +185,10 @@ ksort($allTags);
         <?php endif; ?>
 
         <div class="admin-section">
-            <h2>タグ一括管理</h2>
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem;">
+                <h2 style="border: none; margin: 0; padding: 0;">タグ一括管理</h2>
+            </div>
+            
             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem;">
                 <!-- Rename Tag -->
                 <div>
@@ -263,8 +215,8 @@ ksort($allTags);
 
                 <!-- Merge Tags -->
                 <div>
-                    <h3>タグの統合</h3>
-                    <p style="font-size: 0.9rem; color: #666; margin-bottom: 1rem;">「統合元」のタグを削除し、「統合先」のタグを付与します。</p>
+                    <h3>タグの統合・削除</h3>
+                    <p style="font-size: 0.9rem; color: #666; margin-bottom: 1rem;">「統合元」のタグを削除し、「統合先」のタグを付与します。「(削除)」を選ぶとタグ自体が消えます。</p>
                     <form method="post" class="form-inline">
                         <input type="hidden" name="action" value="merge_tags">
                         <div class="form-group">
@@ -280,6 +232,7 @@ ksort($allTags);
                             <label>統合先（残るタグ）</label>
                             <input type="text" name="target_tag" class="form-control" list="existing-tags" placeholder="既存または新規タグ" required>
                             <datalist id="existing-tags">
+                                <option value="(削除)">
                                 <?php foreach ($allTags as $tag => $count): ?>
                                     <option value="<?php echo htmlspecialchars($tag); ?>">
                                 <?php endforeach; ?>

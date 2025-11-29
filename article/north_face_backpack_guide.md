@@ -1,8 +1,7 @@
 # 街でも山でも！ノースフェイスのリュックが「最強の万能選手」と呼ばれるワケ
 Tags: Backpack, Guide
 
-> **Image Prompt:** The North Faceのロゴが入ったリュックを背負い、都会のビル群と遠くの山々が融合したような背景に立つ若者。スタイリッシュでアーバンアウトドアな雰囲気。
-
+![](img/north_face_backpack_guide_01.jpg)
 ## 導入
 
 **JK**: 先生！私、決めました。リュックはやっぱり**ノースフェイス (The North Face)** にします！

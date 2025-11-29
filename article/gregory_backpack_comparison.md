@@ -1,7 +1,7 @@
 # グレゴリーの大型リュック、バルトロとパラゴンどっちを買うべき？徹底比較
 Tags: Backpack, Guide
 
-> **Image Prompt:** グレゴリー (Gregory) のロゴが大きく入った、雄大な山脈を背景にしたイメージ画像。高品質でプロフェッショナルな雰囲気。
+![グレゴリーのバルトロの写真。](/img/gregory_backpack_comparison_01.jpg)
 
 ## 導入
 

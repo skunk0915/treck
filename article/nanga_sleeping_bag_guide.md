@@ -1,7 +1,7 @@
 # ナンガの寝袋は「永久保証」！破れても直してくれる安心感と暖かさ (Nanga)
 Tags: Guide, Sleeping Bag
 
-> **Image Prompt:** A cozy tent interior at night in the Japanese Alps, illuminated by a warm lantern. A hiker is sleeping comfortably in a Nanga sleeping bag with the "NANGA" logo visible. Outside the tent, a starry sky and snowy peaks. Photorealistic, high quality.
+![ナンガのシュラフ寝袋](/img/nanga_sleeping_bag_guide_01.jpg)
 
 ## 1. 導入：寝袋なんてどれも一緒でしょ？
 

@@ -1,9 +1,13 @@
 <?php
 require 'Parsedown.php';
+require_once __DIR__ . '/lib/TagManager.php';
 
 // Configuration
 $articleDir = __DIR__ . '/article';
+$dataFile = __DIR__ . '/data/tags.json';
 $siteName = "先生、それ、重くないですか？"; // Site Name Variable
+
+$tagManager = new TagManager($dataFile);
 
 // Calculate Base URL dynamically to support subdirectories
 $protocol = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http");
@@ -108,7 +112,7 @@ function parseDialogue($content) {
 
 // Helper: Get Article Metadata
 function getArticleMetadata($filename) {
-    global $articleDir;
+    global $articleDir, $tagManager;
     $filePath = $articleDir . '/' . $filename;
     if (!file_exists($filePath)) {
         return null;
@@ -119,29 +123,17 @@ function getArticleMetadata($filename) {
     preg_match('/^#\s+(.*)/m', $content, $titleMatch);
     $title = $titleMatch ? trim($titleMatch[1]) : str_replace('.md', '', $filename);
 
-    // Extract Image Prompt
-    preg_match('/>\s*\*\*Image Prompt:\*\*\s*(.*)/', $content, $imagePromptMatch);
-    $imagePrompt = $imagePromptMatch ? trim($imagePromptMatch[1]) : null;
+
 
     // Extract First Image URL
     preg_match('/!\[.*?\]\((.*?)\)/', $content, $imageMatch);
     $thumbnail = $imageMatch ? $imageMatch[1] : null;
 
-    // Extract Tags
-    $filenameBase = str_replace('.md', '', $filename);
-    preg_match('/^Tags:\s*(.*)/m', $content, $tagsMatch);
-    if ($tagsMatch) {
-        $tags = array_map('trim', explode(',', $tagsMatch[1]));
-    } else {
-        // Fallback to filename-based tags
-        $parts = explode('_', $filenameBase);
-        $tags = array_filter($parts, function($t) {
-            return !in_array($t, ['guide', 'article', 'review', 'comparison']);
-        });
-        $tags = array_values($tags);
-    }
+    // Extract Tags from TagManager
+    $tags = $tagManager->getTags($filename);
     
     // Add Category
+    $filenameBase = str_replace('.md', '', $filename);
     $category = 'General';
     if (strpos($filenameBase, 'guide') !== false) $category = 'Guide';
     elseif (strpos($filenameBase, 'review') !== false) $category = 'Review';
@@ -157,7 +149,7 @@ function getArticleMetadata($filename) {
     return [
         'title' => $title,
         'filename' => $filenameBase,
-        'imagePrompt' => $imagePrompt,
+
         'thumbnail' => $thumbnail,
         'tags' => $tags,
         'category' => $category,
@@ -270,17 +262,12 @@ if (preg_match('/^tag\/(.+)$/', $path, $matches)) {
 if ($path === '') {
     $files = glob($articleDir . '/*.md');
     $articles = [];
-    $allTags = [];
+    $allTags = array_keys($tagManager->getAllTags());
 
     foreach ($files as $file) {
         $meta = getArticleMetadata(basename($file));
         if ($meta) {
             $articles[] = $meta;
-            foreach ($meta['tags'] as $tag) {
-                if (!in_array($tag, $allTags)) {
-                    $allTags[] = $tag;
-                }
-            }
         }
     }
 
@@ -380,19 +367,24 @@ if (!$article) {
     exit;
 }
 
-// Find Related Articles
+// Find Related Articles Grouped by Tag
 $files = glob($articleDir . '/*.md');
-$related = [];
-foreach ($files as $file) {
-    $fName = basename($file);
-    if ($fName !== $filename) {
-        $meta = getArticleMetadata($fName);
-        if ($meta && array_intersect($article['tags'], $meta['tags'])) {
-            $related[] = $meta;
+$relatedByTag = [];
+
+foreach ($article['tags'] as $tag) {
+    $relatedByTag[$tag] = [];
+    foreach ($files as $file) {
+        $fName = basename($file);
+        if ($fName !== $filename) {
+            $meta = getArticleMetadata($fName);
+            if ($meta && in_array($tag, $meta['tags'])) {
+                $relatedByTag[$tag][] = $meta;
+            }
         }
     }
+    // Limit to 5 articles per tag
+    $relatedByTag[$tag] = array_slice($relatedByTag[$tag], 0, 5);
 }
-$related = array_slice($related, 0, 5);
 
 // Process Content
 $contentBody = preg_replace('/^#\s+.*\n/', '', $article['content']);
@@ -433,7 +425,7 @@ $htmlContent = str_replace('src="/img/', 'src="' . $baseUrl . '/img/', $htmlCont
             <header class="post-header">
                 <h1><?php echo htmlspecialchars($article['title']); ?></h1>
                 <div class="post-meta">
-                    <span class="category-label"><?php echo htmlspecialchars($article['category']); ?></span>
+
                     <span class="tags-label">Tags: 
                         <?php 
                         $tagLinks = array_map(function($t) use ($baseUrl) {
@@ -443,26 +435,39 @@ $htmlContent = str_replace('src="/img/', 'src="' . $baseUrl . '/img/', $htmlCont
                         ?>
                     </span>
                 </div>
-                <?php if ($article['imagePrompt']): ?>
-                    <div class="post-hero-placeholder">
-                        <p>Image Prompt: <?php echo htmlspecialchars($article['imagePrompt']); ?></p>
-                    </div>
-                <?php endif; ?>
+
             </header>
             <div class="post-content">
                 <?php echo $htmlContent; ?>
             </div>
 
-            <?php if (!empty($related)): ?>
-            <section class="related-posts">
-                <h2>Related Articles</h2>
-                <ul class="related-list">
-                    <?php foreach ($related as $post): ?>
-                        <li><a href="<?php echo $baseUrl; ?>/<?php echo htmlspecialchars($post['filename']); ?>"><?php echo htmlspecialchars($post['title']); ?></a></li>
-                    <?php endforeach; ?>
-                </ul>
+            <section class="related-posts-container">
+                <?php foreach ($relatedByTag as $tag => $posts): ?>
+                    <?php if (!empty($posts)): ?>
+                        <div class="related-tag-section">
+                            <h3><?php echo htmlspecialchars($tag); ?>に関連する記事</h3>
+                            <div class="related-list">
+                                <?php foreach ($posts as $post): ?>
+                                    <div class="related-card">
+                                        <a href="<?php echo $baseUrl; ?>/<?php echo htmlspecialchars($post['filename']); ?>" class="related-card-link">
+                                            <div class="related-card-image">
+                                                <?php if ($post['thumbnail']): ?>
+                                                    <img src="<?php echo (strpos($post['thumbnail'], 'http') === 0 ? '' : $baseUrl) . htmlspecialchars($post['thumbnail']); ?>" alt="<?php echo htmlspecialchars($post['title']); ?>" loading="lazy">
+                                                <?php else: ?>
+                                                    <div class="no-image">No Image</div>
+                                                <?php endif; ?>
+                                            </div>
+                                            <div class="related-card-content">
+                                                <h4 class="related-card-title"><?php echo htmlspecialchars($post['title']); ?></h4>
+                                            </div>
+                                        </a>
+                                    </div>
+                                <?php endforeach; ?>
+                            </div>
+                        </div>
+                    <?php endif; ?>
+                <?php endforeach; ?>
             </section>
-            <?php endif; ?>
         </article>
     </main>
 

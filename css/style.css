@@ -1,7 +1,7 @@
 :root {
-	--primary-color: #2c3e50;
-	--accent-color: #e74c3c;
-	--bg-color: #f9f9f9;
+	--primary-color: green;
+	--accent-color: orange;
+	--bg-color: #EEECE1;
 	--text-color: #333;
 	--chat-bg-teacher: #e8f4f8;
 	--chat-bg-student: #fff0f5;
@@ -425,6 +425,7 @@ nav a {
 
 .search-input {
 	width: 100%;
+	box-sizing: border-box;
 	max-width: 400px;
 	padding: 10px 15px;
 	border: 1px solid #ddd;
@@ -531,12 +532,14 @@ nav a {
 	flex-grow: 1;
 	display: flex;
 	flex-direction: column;
+	background: var(--primary-color);
 }
 
 .card-title {
 	font-size: 1.1rem;
 	margin: 0 0 10px 0;
-	color: var(--primary-color);
+	/* color: var(--primary-color); */
+	color: white;
 	line-height: 1.4;
 }
 
@@ -607,28 +610,88 @@ nav a {
 }
 
 /* Related Posts */
-.related-posts {
+.related-posts-container {
 	margin-top: 3rem;
 	padding-top: 1rem;
 	border-top: 1px solid #ddd;
 }
 
-.related-list {
-	list-style: none;
-	padding: 0;
+.related-tag-section {
+	margin-bottom: 2rem;
 }
 
-.related-list li {
-	margin-bottom: 0.5rem;
-}
-
-.related-list a {
+.related-tag-section h3 {
+	font-size: 1.2rem;
 	color: var(--primary-color);
-	text-decoration: none;
+	margin-bottom: 1rem;
+	padding-left: 10px;
+	border-left: 4px solid var(--accent-color);
 }
 
-.related-list a:hover {
-	text-decoration: underline;
+.related-list {
+	display: flex;
+	gap: 15px;
+	overflow-x: auto;
+	padding-bottom: 15px;
+	/* Space for scrollbar */
+	list-style: none;
+	padding-left: 0;
+	margin: 0;
+	-webkit-overflow-scrolling: touch;
+	/* Smooth scrolling on iOS */
+}
+
+.related-card {
+	flex: 0 0 200px;
+	/* Fixed width for cards */
+	background: #fff;
+	border-radius: 8px;
+	overflow: hidden;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+	transition: transform 0.2s;
+	display: flex;
+	flex-direction: column;
+}
+
+.related-card:hover {
+	transform: translateY(-3px);
+}
+
+.related-card-link {
+	text-decoration: none;
+	color: inherit;
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+}
+
+.related-card-image {
+	width: 100%;
+	aspect-ratio: 16 / 9;
+	background: #eee;
+	overflow: hidden;
+}
+
+.related-card-image img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.related-card-content {
+	padding: 10px;
+	flex-grow: 1;
+}
+
+.related-card-title {
+	font-size: 0.9rem;
+	margin: 0;
+	color: var(--text-color);
+	line-height: 1.4;
+	display: -webkit-box;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
 }
 
 /* Tag Accordion */
@@ -638,7 +701,7 @@ nav a {
 }
 
 .tag-accordion {
-	max-height: 100px;
+	max-height: 50px;
 	overflow: hidden;
 	position: relative;
 	transition: max-height 0.3s ease;

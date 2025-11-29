@@ -20,17 +20,17 @@
 - [x] 8. ミステリーランチ (Mystery Ranch) -> `mystery_ranch_backpack_guide.md`
 - [x] 9. HMG (Hyperlite Mountain Gear) -> `hmg_backpack_review.md`
 - [x] 10. ブラックダイヤモンド (Black Diamond) -> `black_diamond_backpack_guide.md`
-- [x] 11. アークテリクス (Arc'teryx) -> `arcteryx_backpack_guide.md`
+- [x] 11. アークテリクス (Arc'teryx) -> `arcteryx_backpack_guide.md` ✨**内容見直し完了 (11,762文字)**
 - [x] 12. 山と道 (Yamatomichi) -> `yamatomichi_backpack_review.md`
 - [x] 13. パランテ (Pa'lante) -> `palante_backpack_review.md`
-- [x] 14. ゴッサマーギア (Gossamer Gear) -> `gossamer_gear_backpack_review.md`
-- [x] 15. 日帰り用比較 -> `day_hike_backpack_comparison.md`
+- [x] 14. ゴッサマーギア (Gossamer Gear) -> `gossamer_gear_backpack_review.md` ✨**内容見直し完了 (10,400文字)**
+- [x] 15. 日帰り用比較 -> `day_hike_backpack_comparison.md` ✨**内容見直し完了 (13,000文字以上)**
 
 ## 2. 登山靴 (Shoes)
 - [x] 16. スカルパ (Scarpa) -> `scarpa_shoes_guide.md`
-- [x] 17. スポルティバ (La Sportiva) -> `la_sportiva_shoes_guide.md`
-- [x] 18. シリオ (Sirio) -> `sirio_shoes_guide.md`
-- [x] 19. キャラバン (Caravan) -> `caravan_shoes_guide.md`
+- [x] 17. スポルティバ (La Sportiva) -> `la_sportiva_shoes_guide.md` ✨**内容見直し完了 (11,325文字)**
+- [x] 18. シリオ (Sirio) -> `sirio_shoes_guide.md` ✨**内容見直し完了 (約15,000文字)**
+- [x] 19. キャラバン (Caravan) -> `caravan_shoes_guide.md` ✨**内容見直し完了 (約27,000文字)**
 - [x] 20. サロモン (Salomon) -> `salomon_shoes_guide.md`
 - [x] 21. ホカオネオネ (Hoka One One) -> `hoka_shoes_guide.md`
 - [x] 22. アルトラ (Altra) -> `altra_shoes_guide.md`
