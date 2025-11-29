@@ -33,7 +33,7 @@
 - [x] 19. キャラバン (Caravan) -> `caravan_shoes_guide.md` ✨**内容見直し完了 (約27,000文字)**
 - [x] 20. サロモン (Salomon) -> `salomon_shoes_guide.md` ✨**内容見直し完了 (約11,000文字)**
 - [x] 21. ホカオネオネ (Hoka One One) -> `hoka_shoes_guide.md` ✨**内容見直し完了 (約11,000文字)**
-- [x] 22. アルトラ (Altra) -> `altra_shoes_guide.md`
+- [x] 22. アルトラ (Altra) -> `altra_shoes_guide.md` ✨**内容見直し完了 (約17,000文字)**
 - [x] 23. メレル (Merrell) -> `merrell_shoes_guide.md`
 - [x] 24. キーン (Keen) -> `keen_shoes_guide.md`
 - [x] 25. マムート (Mammut) -> `mammut_shoes_guide.md`
