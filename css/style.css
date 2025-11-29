@@ -82,6 +82,7 @@ nav a {
   width: 100%;
   border-collapse: collapse;
   margin: 1rem 0;
+  background: white;
 }
 .post-content th,
 .post-content td {
