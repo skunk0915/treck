@@ -59,8 +59,8 @@
 - [x] 43. サポートタイツ (CW-X) -> `cwx_tights_guide.md` ✨**内容見直し完了 (約20,000文字)**
 - [x] 44. グローブ -> `trekking_gloves_guide.md` ✨**内容見直し完了 (約20,000文字)**
 - [x] 45. 帽子 (ハット vs キャップ) -> `hat_vs_cap_guide.md` ✨**内容見直し完了 (約25,000文字)**
-- [x] 46. 防寒着 -> `insulation_wear_guide.md`
-- [x] 47. ウィンドシェル -> `windshell_guide.md`
+- [x] 46. 防寒着 -> `insulation_wear_guide.md` ✨**内容見直し完了 (約17,000文字)**
+- [x] 47. ウィンドシェル -> `windshell_guide.md` ✨**内容見直し完了 (大幅拡充)**
 - [x] 48. 山シャツ -> `mountain_shirt_guide.md`
 - [x] 49. 山スカート・ショーツ -> `skirt_shorts_guide.md`
 - [x] 50. アームカバー -> `arm_cover_guide.md`

@@ -116,23 +116,24 @@ def generate_and_save_image_openai(client, prompt, output_path):
 def generate_and_save_image_google(prompt, output_path):
     """Generates an image using Google Gen AI SDK and saves it."""
     try:
-        model = genai.ImageGenerationModel(IMAGE_MODEL)
+        # Use GenerativeModel for nano-banana-pro-preview
+        model = genai.GenerativeModel(IMAGE_MODEL)
         
-        response = model.generate_images(
-            prompt=prompt,
-            number_of_images=1,
-            aspect_ratio="16:9",
-            safety_filter_level="block_only_high",
-            person_generation="allow_adult"
-        )
+        # For image generation, we just pass the prompt. 
+        # The model should return an image in the response parts.
+        response = model.generate_content(prompt)
         
-        if response and response.images:
-            image = response.images[0]
-            image.save(output_path)
-            return True
-        else:
-            print("Google model returned no images.")
-            return False
+        if response.parts:
+            for part in response.parts:
+                if hasattr(part, 'inline_data') and part.inline_data and part.inline_data.mime_type.startswith('image/'):
+                    with open(output_path, 'wb') as f:
+                        f.write(part.inline_data.data)
+                    return True
+                # Fallback for some versions where inline_data might be accessed differently
+                # But usually part.inline_data.data is correct for Blob
+        
+        print("Google model returned no images.")
+        return False
             
     except Exception as e:
         print(f"Error generating image with Google model {IMAGE_MODEL}: {e}")
@@ -213,7 +214,7 @@ def process_file(openai_client, filepath, is_google_text, is_google_image):
     print(f"  - Finished {filename}. Generated {image_index-1} images.")
 
 def main():
-    global TEXT_MODEL # Allow modifying global if needed
+    global TEXT_MODEL, IMAGE_MODEL # Allow modifying global if needed
     
     if not os.path.exists(IMG_DIR):
         os.makedirs(IMG_DIR)
@@ -224,9 +225,13 @@ def main():
     
     # Auto-switch text model if image model is Google but text model is still default OpenAI
     if is_google_image and TEXT_MODEL == "gpt-4o":
-        print("Google Image Model detected. Switching default Text Model to 'gemini-1.5-flash'.")
-        TEXT_MODEL = "gemini-1.5-flash"
+        print("Google Image Model detected. Switching default Text Model to 'nano-banana-pro-preview'.")
+        TEXT_MODEL = "nano-banana-pro-preview"
         is_google_text = True
+    
+    # Normalize image model name if it's the banana one
+    if "banana" in IMAGE_MODEL.lower():
+        IMAGE_MODEL = "nano-banana-pro-preview"
 
     print(f"Using Text Model: {TEXT_MODEL} ({'Google' if is_google_text else 'OpenAI'})")
     print(f"Using Image Model: {IMAGE_MODEL} ({'Google' if is_google_image else 'OpenAI'})")
@@ -234,15 +239,8 @@ def main():
     openai_client = None
     if is_google_text or is_google_image:
         setup_google_client()
-    
-    if not is_google_text or not is_google_image:
-        # If either is NOT google, we might need OpenAI client (unless using mixed providers which is rare here)
-        # But specifically if text is OpenAI, we need it.
-        if not is_google_text:
-            openai_client = setup_openai_client()
-        # If image is OpenAI, we need it.
-        if not is_google_image and not openai_client:
-            openai_client = setup_openai_client()
+    else:
+        openai_client = setup_openai_client()
 
     files = sorted(glob.glob(os.path.join(ARTICLE_DIR, "*.md")))
     if not files:
