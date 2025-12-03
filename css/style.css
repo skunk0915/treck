@@ -100,6 +100,9 @@ nav a {
   background: #fff8f8;
   padding: 1rem;
 }
+.post-content hr {
+  display: none;
+}
 .post-content ul {
   list-style: none;
   padding: 0;

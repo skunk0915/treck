@@ -1,5 +1,6 @@
 # もしもの時の命綱。「ココヘリ」会員証を持っているだけで安心感が違う理由
 Tags: Safety, Guide
+![cocoheli](img/cocoheli_guide_01.jpg)
 
 ## 1. 導入
 **JK**: 先生、ココヘリって何ですか？

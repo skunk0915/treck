@@ -122,6 +122,10 @@ nav {
             padding: 1rem;
         }
 
+        hr {
+            display: none;
+        }
+
         ul {
             list-style: none;
             padding: 0;
@@ -575,6 +579,8 @@ nav {
     &-content {
         padding: 10px;
         flex-grow: 1;
+
+
     }
 
     &-title {

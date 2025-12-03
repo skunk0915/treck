@@ -34,31 +34,31 @@
 - [x] 20. サロモン (Salomon) -> `salomon_shoes_guide.md` ✨**内容見直し完了 (約11,000文字)**
 - [x] 21. ホカオネオネ (Hoka One One) -> `hoka_shoes_guide.md` ✨**内容見直し完了 (約11,000文字)**
 - [x] 22. アルトラ (Altra) -> `altra_shoes_guide.md` ✨**内容見直し完了 (約17,000文字)**
-- [x] 23. メレル (Merrell) -> `merrell_shoes_guide.md`
-- [x] 24. キーン (Keen) -> `keen_shoes_guide.md`
-- [x] 25. マムート (Mammut) -> `mammut_shoes_guide.md`
-- [x] 26. モンベル (Montbell) -> `montbell_shoes_guide.md`
-- [x] 27. ローバー (Lowa) -> `lowa_shoes_guide.md`
-- [x] 28. ザンバラン (Zamberlan) -> `zamberlan_shoes_guide.md`
-- [x] 29. アプローチシューズ -> `approach_shoes_guide.md`
-- [x] 30. 雪山用登山靴 -> `winter_shoes_guide.md`
+- [x] 23. メレル (Merrell) -> `merrell_shoes_guide.md` ✨**内容見直し完了 (約17,000文字)**
+- [x] 24. キーン (Keen) -> `keen_shoes_guide.md` ✨**内容見直し完了 (約27,000文字)**
+- [x] 25. マムート (Mammut) -> `mammut_shoes_guide.md` ✨**内容見直し完了 (約20,000文字)**
+- [x] 26. モンベル (Montbell) -> `montbell_shoes_guide.md` ✨**内容見直し完了 (10,470文字)**
+- [x] 27. ローバー (Lowa) -> `lowa_shoes_guide.md` ✨**内容見直し完了 (約17,000文字)**
+- [x] 28. ザンバラン (Zamberlan) -> `zamberlan_shoes_guide.md` ✨**内容見直し完了 (約17,000文字)**
+- [x] 29. アプローチシューズ -> `approach_shoes_guide.md` ✨**内容見直し完了 (約20,000文字)**
+- [x] 30. 雪山用登山靴 -> `winter_shoes_guide.md` ✨**内容見直し完了 (約15,000文字)**
 
 ## 3. ウェア (Wear)
-- [x] 31. パタゴニア「R1」はなぜ伝説なのか？登山者が全員持っていると言われる理由 (Patagonia) -> `patagonia_r1_guide.md`
-- [x] 32. アークテリクス Alpha/Beta (Arc'teryx) -> `arcteryx_shell_guide.md`
-- [x] 33. モンベル ストームクルーザー (Montbell) -> `montbell_rainwear_guide.md`
-- [x] 34. ノースフェイス ダウン (The North Face) -> `tnf_down_guide.md`
-- [x] 35. ファイントラック ドライレイヤー (Finetrack) -> `finetrack_drylayer_guide.md`
-- [x] 36. マムート ソフトシェル (Mammut) -> `mammut_softshell_guide.md`
-- [x] 37. ミレー ドライナミック (Millet) -> `millet_drynamic_guide.md`
-- [x] 38. ティートンブロス ツルギジャケット (Teton Bros.) -> `teton_bros_tsurugi_guide.md`
-- [x] 39. アイスブレーカー メリノウール (Icebreaker) -> `icebreaker_merino_guide.md`
-- [x] 40. スマートウール 靴下 (Smartwool) -> `smartwool_socks_guide.md`
-- [x] 41. ベースレイヤー比較 -> `baselayer_comparison_guide.md`
-- [x] 42. トレッキングパンツ -> `trekking_pants_guide.md`
-- [x] 43. サポートタイツ (CW-X) -> `cwx_tights_guide.md`
-- [x] 44. グローブ -> `trekking_gloves_guide.md`
-- [x] 45. 帽子 (ハット vs キャップ) -> `hat_vs_cap_guide.md`
+- [x] 31. パタゴニア「R1」はなぜ伝説なのか？登山者が全員持っていると言われる理由 (Patagonia) -> `patagonia_r1_guide.md` ✨**内容見直し完了 (約18,000文字)**
+- [x] 32. アークテリクス Alpha/Beta (Arc'teryx) -> `arcteryx_shell_guide.md` ✨**内容見直し完了 (10,926文字)**
+- [x] 33. モンベル ストームクルーザー (Montbell) -> `montbell_rainwear_guide.md` ✨**内容見直し完了 (約14,000文字)**
+- [x] 34. ノースフェイス ダウン (The North Face) -> `tnf_down_guide.md` ✨**内容見直し完了 (約17,000文字)**
+- [x] 35. ファイントラック ドライレイヤー (Finetrack) -> `finetrack_drylayer_guide.md` ✨**内容見直し完了 (約13,000文字)**
+- [x] 36. マムート ソフトシェル (Mammut) -> `mammut_softshell_guide.md` ✨**内容見直し完了 (約13,000文字)**
+- [x] 37. ミレー ドライナミック (Millet) -> `millet_drynamic_guide.md` ✨**内容見直し完了 (約25,000文字)**
+- [x] 38. ティートンブロス ツルギジャケット (Teton Bros.) -> `teton_bros_tsurugi_guide.md` ✨**内容見直し完了 (約17,000文字)**
+- [x] 39. アイスブレーカー メリノウール (Icebreaker) -> `icebreaker_merino_guide.md` ✨**内容見直し完了 (10,475文字)**
+- [x] 40. スマートウール 靴下 (Smartwool) -> `smartwool_socks_guide.md` ✨**内容見直し完了 (約22,000文字)**
+- [x] 41. ベースレイヤー比較 -> `baselayer_comparison_guide.md` ✨**内容見直し完了 (約18,000文字)**
+- [x] 42. トレッキングパンツ -> `trekking_pants_guide.md` ✨**内容見直し完了 (約18,000文字)**
+- [x] 43. サポートタイツ (CW-X) -> `cwx_tights_guide.md` ✨**内容見直し完了 (約20,000文字)**
+- [x] 44. グローブ -> `trekking_gloves_guide.md` ✨**内容見直し完了 (約20,000文字)**
+- [x] 45. 帽子 (ハット vs キャップ) -> `hat_vs_cap_guide.md` ✨**内容見直し完了 (約25,000文字)**
 - [x] 46. 防寒着 -> `insulation_wear_guide.md`
 - [x] 47. ウィンドシェル -> `windshell_guide.md`
 - [x] 48. 山シャツ -> `mountain_shirt_guide.md`
