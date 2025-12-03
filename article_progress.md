@@ -132,7 +132,7 @@
 ---
 
 ## 8. モンベル商品ジャンル別ガイド (Montbell Product Guides)
-- [ ] 101. モンベル レインウェア完全ガイド → `montbell_rainwear_complete_guide.md`
+- [x] 101. モンベル レインウェア完全ガイド → `montbell_rainwear_complete_guide.md` ✨**作成完了 (約15,000文字)**
 - [ ] 102. モンベル リュック・バックパック完全ガイド → `montbell_backpack_complete_guide.md`
 - [ ] 103. モンベル テント完全ガイド → `montbell_tent_complete_guide.md`
 - [ ] 104. モンベル ダウンジャケット完全ガイド → `montbell_down_complete_guide.md`
