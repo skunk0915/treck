@@ -265,11 +265,12 @@ nav {
         }
 
         .bubble {
-            box-shadow: inset 0px 0px 10px 0px rgba(0, 0, 0, 0.3);
+
             border: none;
-            border-radius: 20px;
-            font-size: .7em;
-            color: #999;
+            border-radius: 10px;
+            font-size: .6em;
+            color: #666;
+            background: #deddd3;
             padding: 1.5em 2em;
         }
     }

@@ -1,14 +1,17 @@
 <?php
 session_start();
 require_once __DIR__ . '/lib/TagManager.php';
+require_once __DIR__ . '/lib/ArticleMetaManager.php';
 
 // Configuration
 $articleDir = __DIR__ . '/article';
 $dataFile = __DIR__ . '/data/tags.json';
+$metaFile = __DIR__ . '/data/article_meta.json';
 $adminEmail = 'skunk0915@gmail.com';
 $adminPassword = 'yosuke0915'; // Change this in production!
 
 $tagManager = new TagManager($dataFile);
+$articleMetaManager = new ArticleMetaManager($metaFile);
 
 // Handle Login
 if (isset($_POST['action']) && $_POST['action'] === 'login') {
@@ -106,6 +109,20 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     $message = "タグ「{$sourceTag}」を「{$targetTag}」に統合しました。（{$count}件の記事を更新）";
                 }
             }
+        } elseif ($_POST['action'] === 'update_meta') {
+            $filename = $_POST['filename'];
+            $published_at = $_POST['published_at'] ?: null;
+            $status = $_POST['status'];
+            
+            $articleMetaManager->setMeta($filename, [
+                'published_at' => $published_at,
+                'status' => $status
+            ]);
+            
+            // Return JSON for AJAX
+            header('Content-Type: application/json');
+            echo json_encode(['status' => 'success', 'message' => '保存しました']);
+            exit;
         }
     }
 }
@@ -121,11 +138,13 @@ foreach ($files as $file) {
     $title = $titleMatch ? trim($titleMatch[1]) : basename($file);
     $filename = basename($file);
     $tags = $tagManager->getTags($filename);
+    $meta = $articleMetaManager->getMeta($filename);
     
     $articles[] = [
         'filename' => $filename,
         'title' => $title,
-        'tags' => $tags
+        'tags' => $tags,
+        'meta' => $meta
     ];
 }
 ?>
@@ -258,21 +277,39 @@ foreach ($files as $file) {
             <table>
                 <thead>
                     <tr>
-                        <th style="width: 40%;">記事タイトル</th>
-                        <th style="width: 15%;">ファイル名</th>
+                        <th style="width: 30%;">記事タイトル / ファイル名</th>
+                        <th style="width: 25%;">公開設定</th>
                         <th style="width: 35%;">タグ (カンマ区切り)</th>
-                        <th style="width: 10%;">操作</th>
+                        <th style="width: 10%;">タグ更新</th>
                     </tr>
                 </thead>
                 <tbody>
                     <?php foreach ($articles as $article): ?>
                         <tr>
                             <td>
-                                <a href="<?php echo htmlspecialchars($article['filename']); ?>" target="_blank" style="font-weight: bold; text-decoration: none; color: #333;">
-                                    <?php echo htmlspecialchars($article['title']); ?>
-                                </a>
+                                <div style="font-weight: bold; margin-bottom: 0.25rem;">
+                                    <a href="<?php echo htmlspecialchars($article['filename']); ?>" target="_blank" style="text-decoration: none; color: #333;">
+                                        <?php echo htmlspecialchars($article['title']); ?>
+                                    </a>
+                                </div>
+                                <div style="font-size: 0.8rem; color: #888;"><?php echo htmlspecialchars($article['filename']); ?></div>
                             </td>
-                            <td style="font-size: 0.85rem; color: #666;"><?php echo htmlspecialchars($article['filename']); ?></td>
+                            <td>
+                                <form class="meta-form" data-filename="<?php echo htmlspecialchars($article['filename']); ?>" style="background: #f8f9fa; padding: 0.5rem; border-radius: 4px;">
+                                    <div style="margin-bottom: 0.5rem;">
+                                        <label style="font-size: 0.75rem; display: block; color: #666; margin-bottom: 2px;">公開日時</label>
+                                        <input type="datetime-local" name="published_at" class="form-control" style="font-size: 0.85rem; padding: 0.25rem;" value="<?php echo htmlspecialchars($article['meta']['published_at'] ?? ''); ?>">
+                                    </div>
+                                    <div>
+                                        <label style="font-size: 0.75rem; display: block; color: #666; margin-bottom: 2px;">ステータス</label>
+                                        <select name="status" class="form-control" style="font-size: 0.85rem; padding: 0.25rem;">
+                                            <option value="public" <?php echo ($article['meta']['status'] === 'public') ? 'selected' : ''; ?>>公開</option>
+                                            <option value="private" <?php echo ($article['meta']['status'] === 'private') ? 'selected' : ''; ?>>非公開</option>
+                                        </select>
+                                    </div>
+                                    <div class="save-status" style="font-size: 0.75rem; color: green; height: 1.2em; margin-top: 2px;"></div>
+                                </form>
+                            </td>
                             <td>
                                 <form method="post" id="form-<?php echo md5($article['filename']); ?>" style="display: flex; gap: 0.5rem;">
                                     <input type="hidden" name="action" value="update_tags">
@@ -289,5 +326,46 @@ foreach ($files as $file) {
             </table>
         </div>
     </div>
+
+    <script>
+        document.querySelectorAll('.meta-form').forEach(form => {
+            const inputs = form.querySelectorAll('input, select');
+            const statusDiv = form.querySelector('.save-status');
+            
+            inputs.forEach(input => {
+                input.addEventListener('change', () => {
+                    const formData = new FormData(form);
+                    formData.append('action', 'update_meta');
+                    formData.append('filename', form.dataset.filename);
+                    
+                    statusDiv.textContent = '保存中...';
+                    statusDiv.style.color = '#666';
+                    
+                    fetch('admin.php', {
+                        method: 'POST',
+                        body: formData
+                    })
+                    .then(response => response.json())
+                    .then(data => {
+                        if (data.status === 'success') {
+                            statusDiv.textContent = '保存しました';
+                            statusDiv.style.color = 'green';
+                            setTimeout(() => {
+                                statusDiv.textContent = '';
+                            }, 2000);
+                        } else {
+                            statusDiv.textContent = 'エラーが発生しました';
+                            statusDiv.style.color = 'red';
+                        }
+                    })
+                    .catch(error => {
+                        console.error('Error:', error);
+                        statusDiv.textContent = '通信エラー';
+                        statusDiv.style.color = 'red';
+                    });
+                });
+            });
+        });
+    </script>
 </body>
 </html>

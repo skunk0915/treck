@@ -1,18 +1,32 @@
 <?php
+session_start();
 require 'Parsedown.php';
 require_once __DIR__ . '/lib/TagManager.php';
+require_once __DIR__ . '/lib/ArticleMetaManager.php';
 
 // Configuration
 $articleDir = __DIR__ . '/article';
 $dataFile = __DIR__ . '/data/tags.json';
+$metaFile = __DIR__ . '/data/article_meta.json';
 $siteName = "先生、それ、重くないですか？"; // Site Name Variable
 
 $tagManager = new TagManager($dataFile);
+$articleMetaManager = new ArticleMetaManager($metaFile);
+
+// Initialize variables to prevent warnings
+$pageTitle = '';
+$pageDescription = '';
+$pageCanonical = '';
+$extraScripts = '';
+$article = null;
+$relatedByTag = [];
+
 
 // Calculate Base URL dynamically to support subdirectories
 $protocol = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http");
-$host = $_SERVER['HTTP_HOST'];
-$scriptDir = str_replace('\\', '/', dirname($_SERVER['SCRIPT_NAME']));
+$host = $_SERVER['HTTP_HOST'] ?? 'localhost';
+$scriptName = $_SERVER['SCRIPT_NAME'] ?? '/index.php';
+$scriptDir = str_replace('\\', '/', dirname($scriptName));
 if ($scriptDir === '/') {
     $scriptDir = '';
 }
@@ -112,7 +126,7 @@ function parseDialogue($content) {
 
 // Helper: Get Article Metadata
 function getArticleMetadata($filename) {
-    global $articleDir, $tagManager;
+    global $articleDir, $tagManager, $articleMetaManager;
     $filePath = $articleDir . '/' . $filename;
     if (!file_exists($filePath)) {
         return null;
@@ -131,6 +145,11 @@ function getArticleMetadata($filename) {
 
     // Extract Tags from TagManager
     $tags = $tagManager->getTags($filename);
+    
+    // Extract Meta from ArticleMetaManager
+    $meta = $articleMetaManager->getMeta($filename);
+    $published_at = $meta['published_at'];
+    $status = $meta['status'];
     
     // Add Category
     $filenameBase = str_replace('.md', '', $filename);
@@ -152,10 +171,32 @@ function getArticleMetadata($filename) {
 
         'thumbnail' => $thumbnail,
         'tags' => $tags,
+        'published_at' => $published_at,
+        'status' => $status,
         'category' => $category,
         'description' => $description,
         'content' => $content
     ];
+}
+
+// Helper: Check if article is visible
+function isArticleVisible($article) {
+    if (isset($_SESSION['admin_logged_in']) && $_SESSION['admin_logged_in']) {
+        return true;
+    }
+    
+    if ($article['status'] === 'private') {
+        return false;
+    }
+    
+    if ($article['published_at']) {
+        $publishTime = strtotime($article['published_at']);
+        if ($publishTime > time()) {
+            return false;
+        }
+    }
+    
+    return true;
 }
 
 // Router
@@ -172,6 +213,7 @@ if ($scriptDir !== '/' && strpos($path, $scriptDir) === 0) {
 }
 
 $path = trim($path, '/');
+error_log("Debug Path: [" . $path . "]");
 
 // If path is 'index.php', treat it as empty (home)
 if ($path === 'index.php') {
@@ -191,46 +233,40 @@ if (preg_match('/^tag\/(.+)$/', $path, $matches)) {
     $articles = [];
     foreach ($files as $file) {
         $meta = getArticleMetadata(basename($file));
-        if ($meta && in_array($tagName, $meta['tags'])) {
+        if ($meta && in_array($tagName, $meta['tags']) && isArticleVisible($meta)) {
             $articles[] = $meta;
         }
     }
 
-    ?>
-<?php
     $pageTitle = 'タグ: ' . $tagName . ' - ' . $siteName;
     $pageCanonical = '/tag/' . urlencode($tagName);
     include 'views/parts/head.php';
     include 'views/parts/header.php';
-?>
 
-    <main class="container">
-        <h1>タグ: <?php echo htmlspecialchars($tagName); ?> の記事一覧</h1>
-        <ul class="article-list">
-            <?php if (empty($articles)): ?>
-                <li>該当する記事は見つかりませんでした。</li>
-            <?php else: ?>
-                <?php foreach ($articles as $article): ?>
-                    <li>
-                        <a href="<?php echo $baseUrl; ?>/<?php echo htmlspecialchars($article['filename']); ?>"><?php echo htmlspecialchars($article['title']); ?></a>
-                        <div class="meta">
-                            <span class="tags">Tags: 
-                                <?php 
-                                $tagLinks = array_map(function($t) use ($baseUrl) {
-                                    return '<a href="' . $baseUrl . '/tag/' . urlencode($t) . '" class="tag-link">' . htmlspecialchars($t) . '</a>';
-                                }, $article['tags']);
-                                echo implode(', ', $tagLinks); 
-                                ?>
-                            </span>
-                        </div>
-                    </li>
-                <?php endforeach; ?>
-            <?php endif; ?>
-        </ul>
-    </main>
+    echo '<main class="container">';
+    echo '<h1>タグ: ' . htmlspecialchars($tagName) . ' の記事一覧</h1>';
+    echo '<ul class="article-list">';
+    if (empty($articles)) {
+        echo '<li>該当する記事は見つかりませんでした。</li>';
+    } else {
+        foreach ($articles as $article) {
+            echo '<li>';
+            echo '<a href="' . $baseUrl . '/' . htmlspecialchars($article['filename']) . '">' . htmlspecialchars($article['title']) . '</a>';
+            echo '<div class="meta">';
+            echo '<span class="tags">Tags: ';
+            $tagLinks = array_map(function($t) use ($baseUrl) {
+                return '<a href="' . $baseUrl . '/tag/' . urlencode($t) . '" class="tag-link">' . htmlspecialchars($t) . '</a>';
+            }, $article['tags']);
+            echo implode(', ', $tagLinks);
+            echo '</span>';
+            echo '</div>';
+            echo '</li>';
+        }
+    }
+    echo '</ul>';
+    echo '</main>';
 
-<?php include 'views/parts/footer.php'; ?>
-    <?php
+    include 'views/parts/footer.php';
     exit;
 }
 
@@ -242,7 +278,7 @@ if ($path === '') {
 
     foreach ($files as $file) {
         $meta = getArticleMetadata(basename($file));
-        if ($meta) {
+        if ($meta && isArticleVisible($meta)) {
             $articles[] = $meta;
         }
     }
@@ -251,63 +287,57 @@ if ($path === '') {
     shuffle($articles);
 
     // Render Index
-    ?>
-<?php
     $pageTitle = $siteName;
     $pageDescription = "A blog about mountain gear, hiking tips, and outdoor adventures.";
     $pageCanonical = '/';
     include 'views/parts/head.php';
     include 'views/parts/header.php';
-?>
 
-    <main class="container">
-        <div class="filter-section">
-            <input type="text" id="searchInput" placeholder="キーワードで検索..." class="search-input">
-            <div class="tag-accordion-container">
-                <div class="tag-filter tag-accordion" id="tagFilter">
-                    <button class="tag-btn active" data-tag="all">All</button>
-                    <?php foreach ($allTags as $tag): ?>
-                        <button class="tag-btn" data-tag="<?php echo htmlspecialchars($tag); ?>"><?php echo htmlspecialchars($tag); ?></button>
-                    <?php endforeach; ?>
-                </div>
-                <button id="showMoreTags" class="show-more-tags">もっと見る</button>
-            </div>
-        </div>
+    echo '<main class="container">';
+    echo '<div class="filter-section">';
+    echo '<input type="text" id="searchInput" placeholder="キーワードで検索..." class="search-input">';
+    echo '<div class="tag-accordion-container">';
+    echo '<div class="tag-filter tag-accordion" id="tagFilter">';
+    echo '<button class="tag-btn active" data-tag="all">All</button>';
+    foreach ($allTags as $tag) {
+        echo '<button class="tag-btn" data-tag="' . htmlspecialchars($tag) . '">' . htmlspecialchars($tag) . '</button>';
+    }
+    echo '</div>';
+    echo '<button id="showMoreTags" class="show-more-tags">もっと見る</button>';
+    echo '</div>';
+    echo '</div>';
 
-        <div class="article-grid" id="articleGrid">
-            <?php foreach ($articles as $article): ?>
-                <article class="article-card" data-tags="<?php echo htmlspecialchars(json_encode($article['tags'])); ?>" data-title="<?php echo htmlspecialchars($article['title']); ?>">
-                    <a href="<?php echo $baseUrl; ?>/<?php echo htmlspecialchars($article['filename']); ?>" class="card-link">
-                        <div class="card-image">
-                            <?php if ($article['thumbnail']): ?>
-                                <img src="<?php echo (strpos($article['thumbnail'], 'http') === 0 ? '' : $baseUrl) . htmlspecialchars($article['thumbnail']); ?>" alt="<?php echo htmlspecialchars($article['title']); ?>" loading="lazy">
-                            <?php else: ?>
-                                <div class="no-image">No Image</div>
-                            <?php endif; ?>
-                        </div>
-                        <div class="card-content">
-                            <h2 class="card-title"><?php echo htmlspecialchars($article['title']); ?></h2>
-                            <div class="card-tags">
-                                <?php foreach ($article['tags'] as $tag): ?>
-                                    <span class="card-tag">#<?php echo htmlspecialchars($tag); ?></span>
-                                <?php endforeach; ?>
-                            </div>
-                        </div>
-                    </a>
-                </article>
-            <?php endforeach; ?>
-        </div>
-        <div id="noResults" style="display: none; text-align: center; margin-top: 2rem;">
-            該当する記事は見つかりませんでした。
-        </div>
-    </main>
+    echo '<div class="article-grid" id="articleGrid">';
+    foreach ($articles as $article) {
+        $thumbnailUrl = $article['thumbnail'] ? ((strpos($article['thumbnail'], 'http') === 0 ? '' : $baseUrl) . htmlspecialchars($article['thumbnail'])) : '';
+        
+        echo '<article class="article-card" data-tags="' . htmlspecialchars(json_encode($article['tags'])) . '" data-title="' . htmlspecialchars($article['title']) . '">';
+        echo '<a href="' . $baseUrl . '/' . htmlspecialchars($article['filename']) . '" class="card-link">';
+        echo '<div class="card-image">';
+        if ($thumbnailUrl) {
+            echo '<img src="' . $thumbnailUrl . '" alt="' . htmlspecialchars($article['title']) . '" loading="lazy">';
+        } else {
+            echo '<div class="no-image">No Image</div>';
+        }
+        echo '</div>';
+        echo '<div class="card-content">';
+        echo '<h2 class="card-title">' . htmlspecialchars($article['title']) . '</h2>';
+        echo '<div class="card-tags">';
+        foreach ($article['tags'] as $tag) {
+            echo '<span class="card-tag">#' . htmlspecialchars($tag) . '</span>';
+        }
+        echo '</div>';
+        echo '</div>';
+        echo '</a>';
+        echo '</article>';
+    }
+    echo '</div>';
+    echo '<div id="noResults" style="display: none; text-align: center; margin-top: 2rem;">該当する記事は見つかりませんでした。</div>';
+    echo '</main>';
 
-<?php
     $extraScripts = '<script src="' . $baseUrl . '/js/home.js"></script>';
     include 'views/parts/footer.php';
-?>
-    <?php
-    exit;
+    die();
 }
 
 // Article Page
@@ -315,7 +345,7 @@ $slug = $path;
 $filename = $slug . '.md';
 $article = getArticleMetadata($filename);
 
-if (!$article) {
+if (!$article || !isArticleVisible($article)) {
     http_response_code(404);
     echo "Article not found";
     exit;
@@ -331,7 +361,7 @@ foreach ($article['tags'] as $tag) {
         $fName = basename($file);
         if ($fName !== $filename) {
             $meta = getArticleMetadata($fName);
-            if ($meta && in_array($tag, $meta['tags'])) {
+            if ($meta && in_array($tag, $meta['tags']) && isArticleVisible($meta)) {
                 $relatedByTag[$tag][] = $meta;
             }
         }
@@ -366,7 +396,7 @@ $htmlContent = str_replace('src="/img/', 'src="' . $baseUrl . '/img/', $htmlCont
                         <?php 
                         $tagLinks = array_map(function($t) use ($baseUrl) {
                             return '<a href="' . $baseUrl . '/tag/' . urlencode($t) . '" class="tag-link">' . htmlspecialchars($t) . '</a>';
-                        }, $article['tags']);
+                        }, $article['tags'] ?? []);
                         echo implode(', ', $tagLinks); 
                         ?>
                     </span>

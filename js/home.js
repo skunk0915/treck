@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-	// Search Functionality
+	console.log('home.js loaded');
 	const searchInput = document.getElementById('searchInput');
 	const articleGrid = document.getElementById('articleGrid');
 	const articles = articleGrid.querySelectorAll('.article-card');
@@ -32,7 +32,9 @@ document.addEventListener('DOMContentLoaded', function () {
 		}
 	}
 
-	searchInput.addEventListener('input', filterArticles);
+	if (searchInput) {
+		searchInput.addEventListener('input', filterArticles);
+	}
 
 	tagButtons.forEach(btn => {
 		btn.addEventListener('click', function () {

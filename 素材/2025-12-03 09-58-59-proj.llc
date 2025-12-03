@@ -1,0 +1,10 @@
+{
+  version: 1,
+  mediaFileName: '2025-12-03 09-58-59.mov',
+  cutSegments: [
+    {
+      end: 3435.322817,
+      name: '',
+    },
+  ],
+}
