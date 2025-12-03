@@ -288,7 +288,7 @@ foreach ($files as $file) {
                         <tr>
                             <td>
                                 <div style="font-weight: bold; margin-bottom: 0.25rem;">
-                                    <a href="<?php echo htmlspecialchars($article['filename']); ?>" target="_blank" style="text-decoration: none; color: #333;">
+                                    <a href="<?php echo htmlspecialchars(str_replace('.md', '', $article['filename'])); ?>" target="_blank" style="text-decoration: none; color: #333;">
                                         <?php echo htmlspecialchars($article['title']); ?>
                                     </a>
                                 </div>
