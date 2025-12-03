@@ -215,6 +215,17 @@ nav a {
   border-top-left-radius: 0;
   border-color: orange;
 }
+.chat-row.other .icon {
+  display: none;
+}
+.chat-row.other .bubble {
+  box-shadow: inset 0px 0px 10px 0px rgba(0, 0, 0, 0.3);
+  border: none;
+  border-radius: 20px;
+  font-size: 0.7em;
+  color: #999;
+  padding: 1.5em 2em;
+}
 
 .icon {
   width: 60px;

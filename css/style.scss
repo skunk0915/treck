@@ -249,15 +249,7 @@ nav {
         // background-color: var(--chat-bg-teacher);
         border-top-left-radius: 0;
         border-color: green;
-        // border: 1px solid #81dfff; // Commented out in original? No, it was there in line 156 but not 350. Wait, there are duplicate blocks in the original CSS!
-        // Lines 118-163 and 315-358 seem to be duplicates or near duplicates.
-        // I will use the later definitions as they override the former.
-        // Checking original file...
-        // Lines 26-62 (Header) vs 233-264 (Header) - Duplicate
-        // Lines 64-116 (Post) vs 266-313 (Post) - Duplicate
-        // Lines 118-163 (Chat) vs 315-358 (Chat) - Duplicate
-        // It seems the file has duplicated content appended. I will clean this up.
-        // I will use the last occurrence of each rule.
+        // border: 1px solid #81dfff;
     }
 
     &.student .bubble {
@@ -265,6 +257,21 @@ nav {
         border-top-left-radius: 0;
         border-color: orange;
         // border: 1px solid #ffbfd4;
+    }
+
+    &.other {
+        .icon {
+            display: none;
+        }
+
+        .bubble {
+            box-shadow: inset 0px 0px 10px 0px rgba(0, 0, 0, 0.3);
+            border: none;
+            border-radius: 20px;
+            font-size: .7em;
+            color: #999;
+            padding: 1.5em 2em;
+        }
     }
 }
 
