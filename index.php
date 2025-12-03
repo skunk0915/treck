@@ -143,6 +143,11 @@ function getArticleMetadata($filename) {
     preg_match('/!\[.*?\]\((.*?)\)/', $content, $imageMatch);
     $thumbnail = $imageMatch ? $imageMatch[1] : null;
 
+    // Normalize thumbnail path to ensure it starts with / if it's local
+    if ($thumbnail && strpos($thumbnail, 'http') !== 0 && strpos($thumbnail, '/') !== 0) {
+        $thumbnail = '/' . $thumbnail;
+    }
+
     // Extract Tags from TagManager
     $tags = $tagManager->getTags($filename);
     
