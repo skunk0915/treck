@@ -220,9 +220,20 @@ if ($scriptDir !== '/' && strpos($path, $scriptDir) === 0) {
 $path = trim($path, '/');
 error_log("Debug Path: [" . $path . "]");
 
-// If path is 'index.php', treat it as empty (home)
+// If path starts with 'index.php/', redirect to canonical URL
+if (strpos($path, 'index.php/') === 0) {
+    $cleanPath = substr($path, 10); // length of 'index.php/'
+    $redirectUrl = $baseUrl . '/' . $cleanPath;
+    header("HTTP/1.1 301 Moved Permanently");
+    header("Location: " . $redirectUrl);
+    exit;
+}
+
+// If path is 'index.php', redirect to home
 if ($path === 'index.php') {
-    $path = '';
+    header("HTTP/1.1 301 Moved Permanently");
+    header("Location: " . $baseUrl . '/');
+    exit;
 }
 
 // About Page

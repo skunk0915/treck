@@ -130,7 +130,7 @@ nav {
             list-style: none;
             padding: 0;
             margin: 1.5rem 0;
-            background: white;
+            background: #e2e0d3;
             padding: 2em;
 
             li {
@@ -151,7 +151,7 @@ nav {
                     top: 0.6em;
                     width: 6px;
                     height: 6px;
-                    background-color: var(--primary-color);
+                    background-color: #b6b4a8;
                     border-radius: 50%;
                 }
 
@@ -166,7 +166,7 @@ nav {
             list-style: none;
             padding: 0;
             margin: 1.5rem 0;
-            background: white;
+            background: #e2e0d3;
             padding: 2em;
             counter-reset: item;
 
@@ -187,7 +187,7 @@ nav {
                     position: absolute;
                     left: 0;
                     top: 0;
-                    color: var(--primary-color);
+                    color: #b6b4a8;
                     font-weight: bold;
                 }
 

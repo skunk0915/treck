@@ -1,411 +1,310 @@
 {
     "altra_shoes_guide.md": [
-        "Shoes",
-        "Guide"
+        "靴"
     ],
     "approach_shoes_guide.md": [
-        "Shoes",
-        "Guide"
+        "靴"
     ],
     "arai_tent_air_raiz_guide.md": [
-        "Tent",
-        "Guide"
+        "Tent"
     ],
     "arcteryx_backpack_guide.md": [
-        "Backpack",
-        "Guide"
+        "バックパック"
     ],
-    "arcteryx_shell_guide.md": [
-        "Guide"
-    ],
+    "arcteryx_shell_guide.md": [],
     "arm_cover_guide.md": [
-        "Accessories",
-        "Guide"
+        "アクセサリー"
     ],
     "baselayer_comparison_guide.md": [
-        "Guide",
-        "Base Layer"
+        "ベースレイヤー"
     ],
     "bear_bell_guide.md": [
-        "Safety",
-        "Guide"
+        "Safety"
     ],
     "big_agnes_tent_guide.md": [
-        "Tent",
-        "Guide"
+        "Tent"
     ],
     "black_diamond_backpack_guide.md": [
-        "Backpack",
-        "Guide"
+        "バックパック"
     ],
     "black_diamond_headlamp_guide.md": [
-        "Headlamp",
-        "Guide"
+        "電装"
     ],
     "black_diamond_trekking_poles_guide.md": [
-        "Trekking Poles",
-        "Guide"
+        "Trekking Poles"
     ],
     "boxer_pants_guide.md": [
-        "Bottoms",
-        "Guide"
+        "パンツ"
     ],
     "camera_guide.md": [
-        "Guide",
-        "Electronics"
+        "電装"
     ],
     "caravan_shoes_guide.md": [
-        "Shoes",
-        "Guide"
+        "靴"
     ],
     "climbing_insurance_guide.md": [
-        "Safety",
-        "Guide"
+        "Safety"
     ],
-    "climbing_permit_guide.md": [
-        "Guide"
-    ],
+    "climbing_permit_guide.md": [],
     "cocoheli_guide.md": [
-        "Safety",
-        "Guide"
+        "Safety"
     ],
     "cookware_aluminum_vs_titanium_guide.md": [
-        "Guide",
         "Stove & Cookware"
     ],
     "cutlery_guide.md": [
-        "Guide",
         "Stove & Cookware"
     ],
     "cwx_tights_guide.md": [
-        "Guide",
-        "Base Layer"
+        "ベースレイヤー"
     ],
     "day_hike_backpack_comparison.md": [
-        "Backpack",
-        "Guide",
-        "Day Hiking"
+        "バックパック",
+        "日帰り"
     ],
     "deuter_aircontact_guide.md": [
-        "Backpack",
-        "Guide"
+        "バックパック"
     ],
     "epigas_guide.md": [
-        "Guide",
         "Stove & Cookware"
     ],
     "finetrack_drylayer_guide.md": [
-        "Guide",
-        "Base Layer"
+        "ベースレイヤー"
     ],
     "first_aid_kit_guide.md": [
-        "Safety",
-        "Guide"
+        "Safety"
     ],
     "freezedried_food_guide.md": [
-        "Guide",
-        "Food"
+        "食事"
     ],
     "gaiter_spats_guide.md": [
-        "Accessories",
-        "Guide"
+        "アクセサリー"
     ],
     "garmin_smartwatch_guide.md": [
-        "Guide",
-        "Electronics"
+        "電装"
     ],
     "gear_maintenance_guide.md": [
-        "Maintenance",
-        "Guide"
+        "Maintenance"
     ],
     "gossamer_gear_backpack_review.md": [
-        "Backpack"
+        "バックパック"
     ],
     "gregory_backpack_comparison.md": [
-        "Backpack",
-        "Guide"
+        "バックパック"
     ],
     "hat_vs_cap_guide.md": [
-        "Accessories",
-        "Guide"
+        "アクセサリー"
     ],
     "helmet_guide.md": [
-        "Safety",
-        "Guide"
+        "Safety"
     ],
-    "hiking_pillow_guide.md": [
-        "Guide"
-    ],
+    "hiking_pillow_guide.md": [],
     "hmg_backpack_review.md": [
-        "Backpack"
+        "バックパック"
     ],
     "hoka_shoes_guide.md": [
-        "Shoes",
-        "Guide"
+        "靴"
     ],
     "icebreaker_merino_guide.md": [
-        "Guide",
-        "Base Layer"
+        "ベースレイヤー"
     ],
     "insulation_wear_guide.md": [
-        "Guide",
         "Insulation"
     ],
     "isuka_sleeping_bag_guide.md": [
-        "Guide",
         "Sleeping Bag"
     ],
     "jetboil_guide.md": [
-        "Guide",
         "Stove & Cookware"
     ],
     "karrimor_ridge_guide.md": [
-        "Backpack",
-        "Guide"
+        "バックパック"
     ],
     "keen_shoes_guide.md": [
-        "Shoes",
-        "Guide"
+        "靴"
     ],
     "knee_support_guide.md": [
-        "Accessories",
-        "Guide"
+        "アクセサリー"
     ],
     "la_sportiva_shoes_guide.md": [
-        "Shoes",
-        "Guide"
+        "靴"
     ],
-    "layering_guide.md": [
-        "Guide"
-    ],
+    "layering_guide.md": [],
     "leki_trekking_poles_guide.md": [
-        "Trekking Poles",
-        "Guide"
+        "Trekking Poles"
     ],
     "lowa_shoes_guide.md": [
-        "Shoes",
-        "Guide"
+        "靴"
     ],
     "mammut_backpack_article.md": [
-        "Backpack"
+        "バックパック"
     ],
     "mammut_shoes_guide.md": [
-        "Shoes",
-        "Guide"
+        "靴"
     ],
     "mammut_softshell_guide.md": [
-        "Guide",
         "Softshell\/Windshell"
     ],
     "merrell_shoes_guide.md": [
-        "Shoes",
-        "Guide"
+        "靴"
     ],
     "millet_drynamic_guide.md": [
-        "Guide",
-        "Base Layer"
+        "ベースレイヤー"
     ],
     "millet_saas_fee_guide.md": [
-        "Backpack"
+        "バックパック"
     ],
     "mobile_battery_guide.md": [
-        "Guide",
-        "Electronics"
+        "電装"
     ],
     "montbell_backpack_review.md": [
-        "Backpack"
+        "バックパック"
     ],
     "montbell_rainwear_guide.md": [
-        "Guide",
         "Rainwear"
     ],
     "montbell_shoes_guide.md": [
-        "Shoes",
-        "Guide"
+        "靴"
     ],
     "montbell_sleeping_bag_guide.md": [
-        "Guide",
         "Sleeping Bag"
     ],
     "montbell_stellaridge_guide.md": [
         "Tent",
-        "Backpack",
-        "Guide"
+        "バックパック"
     ],
     "mountain_shirt_guide.md": [
-        "Guide",
-        "Base Layer"
+        "ベースレイヤー"
     ],
     "msr_pocketrocket_guide.md": [
-        "Guide",
         "Stove & Cookware"
     ],
     "msr_tent_guide.md": [
-        "Tent",
-        "Guide"
+        "Tent"
     ],
     "mystery_ranch_backpack_guide.md": [
-        "Backpack",
-        "Guide"
+        "バックパック"
     ],
     "nanga_sleeping_bag_guide.md": [
-        "Guide",
         "Sleeping Bag"
     ],
     "neck_gaiter_guide.md": [
-        "Accessories",
-        "Guide"
+        "アクセサリー"
     ],
     "nemo_mat_guide.md": [
-        "Guide",
         "Mat"
     ],
     "nemo_mattress_guide.md": [
-        "Guide",
         "Mat"
     ],
     "nemo_tani_guide.md": [
-        "Tent",
-        "Guide"
+        "Tent"
     ],
     "north_face_backpack_guide.md": [
-        "Backpack",
-        "Guide"
+        "バックパック"
     ],
     "osprey_backpack_comfort.md": [
-        "Backpack"
+        "バックパック"
     ],
     "packing_guide.md": [
-        "Guide",
         "Packing"
     ],
     "palante_backpack_review.md": [
-        "Backpack"
+        "バックパック"
     ],
     "patagonia_r1_guide.md": [
-        "Guide",
         "Insulation"
     ],
     "petzl_headlamp_guide.md": [
-        "Headlamp",
-        "Guide"
+        "電装"
     ],
     "primus_p153_guide.md": [
-        "Guide",
         "Stove & Cookware"
     ],
     "salomon_shoes_guide.md": [
-        "Shoes",
-        "Guide"
+        "靴"
     ],
     "scarpa_shoes_guide.md": [
-        "Shoes",
-        "Guide"
+        "靴"
     ],
     "sirio_shoes_guide.md": [
-        "Shoes",
-        "Guide"
+        "靴"
     ],
     "six_moon_designs_tent_guide.md": [
-        "Tent",
-        "Guide"
+        "Tent"
     ],
     "skirt_shorts_guide.md": [
-        "Bottoms",
-        "Guide"
+        "パンツ"
     ],
     "smartwool_socks_guide.md": [
-        "Accessories",
-        "Guide",
-        "Base Layer"
+        "アクセサリー",
+        "ベースレイヤー"
     ],
     "soto_windmaster_guide.md": [
-        "Guide",
         "Stove & Cookware"
     ],
-    "sports_bra_guide.md": [
-        "Guide"
-    ],
+    "sports_bra_guide.md": [],
     "stock_guide.md": [
-        "Trekking Poles",
-        "Guide"
+        "Trekking Poles"
     ],
     "stuff_sack_organization_guide.md": [
-        "Guide",
         "Packing"
     ],
     "sunglasses_guide.md": [
-        "Accessories",
-        "Guide"
+        "アクセサリー"
     ],
     "sunscreen_guide.md": [
-        "Accessories",
-        "Guide"
+        "アクセサリー"
     ],
     "superfeet_insole_guide.md": [
-        "Accessories",
-        "Guide"
+        "アクセサリー"
     ],
     "teton_bros_tsurugi_guide.md": [
-        "Guide",
         "Rainwear"
     ],
     "thermarest_mat_guide.md": [
-        "Guide",
         "Mat"
     ],
     "thermarest_mattress_guide.md": [
-        "Guide",
         "Mat"
     ],
     "tnf_down_guide.md": [
-        "Guide",
         "Insulation",
         "Sleeping Bag"
     ],
     "trail_snacks_guide.md": [
-        "Guide",
-        "Food"
+        "食事"
     ],
     "trekking_gloves_guide.md": [
-        "Accessories",
-        "Guide"
+        "アクセサリー"
     ],
     "trekking_pants_guide.md": [
-        "Bottoms",
-        "Guide"
+        "パンツ"
     ],
     "water_bottle_guide.md": [
-        "Guide",
         "Stove & Cookware"
     ],
     "western_mountaineering_sleeping_bag_guide.md": [
-        "Guide",
         "Sleeping Bag"
     ],
     "windshell_guide.md": [
-        "Guide",
         "Softshell\/Windshell"
     ],
     "winter_shoes_guide.md": [
-        "Shoes",
-        "Guide"
+        "靴"
     ],
     "yamatomichi_backpack_review.md": [
-        "Backpack",
+        "バックパック",
         "Mat"
     ],
     "zamberlan_shoes_guide.md": [
-        "Shoes",
-        "Guide"
+        "靴"
     ],
     "zelt_guide.md": [
-        "Tent",
-        "Guide"
+        "Tent"
     ],
     "zerogram_el_chalten_guide.md": [
-        "Tent",
-        "Guide"
+        "Tent"
     ],
     "test_article.md": []
 }
