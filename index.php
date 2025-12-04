@@ -186,9 +186,7 @@ function getArticleMetadata($filename) {
 
 // Helper: Check if article is visible
 function isArticleVisible($article) {
-    if (isset($_SESSION['admin_logged_in']) && $_SESSION['admin_logged_in']) {
-        return true;
-    }
+
     
     if ($article['status'] === 'private') {
         return false;
