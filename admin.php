@@ -137,7 +137,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $filename = $_POST['filename'];
             $tags = explode(',', $_POST['tags']);
             $tagManager->setTags($filename, $tags);
-            $message = "記事「" . htmlspecialchars($filename) . "」のタグを更新しました。";
+
+            header('Content-Type: application/json');
+            echo json_encode(['status' => 'success', 'message' => 'タグを更新しました']);
+            exit;
         } elseif ($_POST['action'] === 'rename_tag') {
             $oldTag = trim($_POST['old_tag']);
             $newTag = trim($_POST['new_tag']);
@@ -473,6 +476,51 @@ foreach ($files as $file) {
             font-weight: bold;
             color: #007bff;
         }
+
+        .tag-cloud-item {
+            cursor: pointer;
+            user-select: none;
+            transition: all 0.2s;
+        }
+
+        .tag-cloud-item:hover {
+            background-color: #e2e6ea;
+        }
+
+        .tag-cloud-item.active {
+            background-color: #007bff;
+            color: white;
+            border-color: #0056b3;
+        }
+
+        .tag-cloud-item.active .tag-count {
+            color: #e0e0e0;
+        }
+
+        #floating-save-btn {
+            position: fixed;
+            bottom: 2rem;
+            right: 2rem;
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+            cursor: pointer;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 1.5rem;
+            z-index: 1000;
+            transition: transform 0.2s;
+        }
+
+        #floating-save-btn:hover {
+            transform: scale(1.1);
+            background-color: #218838;
+        }
     </style>
 </head>
 
@@ -553,7 +601,7 @@ foreach ($files as $file) {
                 <h3>現在のタグ一覧</h3>
                 <div class="tag-list-cloud">
                     <?php foreach ($allTags as $tag => $count): ?>
-                        <span class="tag-cloud-item"><?php echo htmlspecialchars($tag); ?> <span class="tag-count"><?php echo $count; ?></span></span>
+                        <span class="tag-cloud-item" data-tag="<?php echo htmlspecialchars($tag); ?>"><?php echo htmlspecialchars($tag); ?> <span class="tag-count"><?php echo $count; ?></span></span>
                     <?php endforeach; ?>
                 </div>
             </div>
@@ -569,10 +617,9 @@ foreach ($files as $file) {
             <table id="article-table">
                 <thead>
                     <tr>
-                        <th style="width: 30%;" data-sort="title">記事タイトル / ファイル名</th>
+                        <th style="width: 35%;" data-sort="title">記事タイトル / ファイル名</th>
                         <th style="width: 25%;" data-sort="date">公開設定</th>
-                        <th style="width: 35%;" data-sort="tags">タグ (カンマ区切り)</th>
-                        <th style="width: 10%;">タグ更新</th>
+                        <th style="width: 40%;" data-sort="tags">タグ (カンマ区切り)</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -605,17 +652,14 @@ foreach ($files as $file) {
                                 </form>
                             </td>
                             <td data-tags="<?php echo htmlspecialchars(implode(', ', $article['tags'])); ?>">
-                                <form method="post" id="form-<?php echo md5($article['filename']); ?>" style="display: flex; gap: 0.5rem;">
-                                    <input type="hidden" name="action" value="update_tags">
-                                    <input type="hidden" name="filename" value="<?php echo htmlspecialchars($article['filename']); ?>">
-                                    <div class="tag-input-wrapper">
-                                        <input type="text" name="tags" class="form-control tag-input" value="<?php echo htmlspecialchars(implode(', ', $article['tags'])); ?>" style="font-size: 0.9rem;" autocomplete="off">
-                                        <div class="tag-suggestions"></div>
-                                    </div>
-                                </form>
-                            </td>
-                            <td>
-                                <button type="submit" form="form-<?php echo md5($article['filename']); ?>" class="btn btn-primary btn-sm">更新</button>
+                                <div class="tag-input-wrapper">
+                                    <input type="text" class="form-control tag-input"
+                                        value="<?php echo htmlspecialchars(implode(', ', $article['tags'])); ?>"
+                                        data-original-value="<?php echo htmlspecialchars(implode(', ', $article['tags'])); ?>"
+                                        data-filename="<?php echo htmlspecialchars($article['filename']); ?>"
+                                        style="font-size: 0.9rem;" autocomplete="off">
+                                    <div class="tag-suggestions"></div>
+                                </div>
                             </td>
                         </tr>
                     <?php endforeach; ?>
@@ -623,6 +667,8 @@ foreach ($files as $file) {
             </table>
         </div>
     </div>
+
+    <button id="floating-save-btn" title="変更を保存">💾</button>
 
     <script>
         // Meta Update Logic
@@ -710,21 +756,134 @@ foreach ($files as $file) {
         // Filtering Logic
         const searchInput = document.getElementById('article-search');
         const tableRows = document.querySelectorAll('.article-row');
+        const tagCloudItems = document.querySelectorAll('.tag-cloud-item');
+        let selectedTags = new Set();
 
-        searchInput.addEventListener('input', (e) => {
-            const keyword = e.target.value.toLowerCase();
+        function applyFilters() {
+            const keyword = searchInput.value.toLowerCase();
 
             tableRows.forEach(row => {
                 const title = row.querySelector('td[data-title]').dataset.title.toLowerCase();
                 const filename = row.querySelector('td[data-title]').dataset.filename.toLowerCase();
-                const tags = row.querySelector('td[data-tags]').dataset.tags.toLowerCase();
+                const tagsStr = row.querySelector('td[data-tags]').dataset.tags;
+                const tagsLower = tagsStr.toLowerCase();
+                const articleTags = tagsStr.split(',').map(t => t.trim());
 
-                if (title.includes(keyword) || filename.includes(keyword) || tags.includes(keyword)) {
+                // Keyword Match
+                const keywordMatch = !keyword || title.includes(keyword) || filename.includes(keyword) || tagsLower.includes(keyword);
+
+                // Tag Match (AND condition)
+                let tagsMatch = true;
+                if (selectedTags.size > 0) {
+                    for (let tag of selectedTags) {
+                        if (!articleTags.includes(tag)) {
+                            tagsMatch = false;
+                            break;
+                        }
+                    }
+                }
+
+                if (keywordMatch && tagsMatch) {
                     row.style.display = '';
                 } else {
                     row.style.display = 'none';
                 }
             });
+        }
+
+        searchInput.addEventListener('input', applyFilters);
+
+        tagCloudItems.forEach(item => {
+            item.addEventListener('click', () => {
+                const tag = item.dataset.tag;
+                if (selectedTags.has(tag)) {
+                    selectedTags.delete(tag);
+                    item.classList.remove('active');
+                } else {
+                    selectedTags.add(tag);
+                    item.classList.add('active');
+                }
+                applyFilters();
+            });
+        });
+
+        // Floating Save Button Logic
+        const saveBtn = document.getElementById('floating-save-btn');
+
+        saveBtn.addEventListener('click', async () => {
+            const inputs = document.querySelectorAll('.tag-input');
+            const updates = [];
+
+            inputs.forEach(input => {
+                const currentVal = input.value;
+                const originalVal = input.dataset.originalValue;
+
+                if (currentVal !== originalVal) {
+                    updates.push({
+                        filename: input.dataset.filename,
+                        tags: currentVal,
+                        inputElement: input
+                    });
+                }
+            });
+
+            if (updates.length === 0) {
+                alert('変更されたタグはありません。');
+                return;
+            }
+
+            if (!confirm(`${updates.length}件の記事のタグを更新しますか？`)) {
+                return;
+            }
+
+            saveBtn.disabled = true;
+            saveBtn.textContent = '⏳';
+
+            let successCount = 0;
+            let errors = [];
+
+            const promises = updates.map(update => {
+                const formData = new FormData();
+                formData.append('action', 'update_tags');
+                formData.append('filename', update.filename);
+                formData.append('tags', update.tags);
+
+                return fetch('admin.php', {
+                        method: 'POST',
+                        body: formData
+                    })
+                    .then(response => response.json())
+                    .then(data => {
+                        if (data.status === 'success') {
+                            successCount++;
+                            // Update original value and data-tags attribute
+                            update.inputElement.dataset.originalValue = update.tags;
+                            update.inputElement.closest('td').dataset.tags = update.tags;
+                            // Flash success
+                            update.inputElement.style.backgroundColor = '#d4edda';
+                            setTimeout(() => update.inputElement.style.backgroundColor = '', 1000);
+                        } else {
+                            errors.push(`${update.filename}: ${data.message}`);
+                        }
+                    })
+                    .catch(err => {
+                        errors.push(`${update.filename}: 通信エラー`);
+                    });
+            });
+
+            await Promise.all(promises);
+
+            saveBtn.disabled = false;
+            saveBtn.textContent = '💾';
+
+            if (errors.length > 0) {
+                alert(`完了しましたが、以下のエラーが発生しました：\n${errors.join('\n')}`);
+            } else {
+                // alert('すべての更新が完了しました。');
+            }
+
+            // Re-apply filters in case tags changed
+            applyFilters();
         });
 
         // Sorting Logic

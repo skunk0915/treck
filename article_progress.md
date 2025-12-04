@@ -154,7 +154,7 @@
 - [ ] 116. コロンビア ダウンジャケット完全ガイド → `columbia_down_complete_guide.md`
 - [x] 117. コロンビア フリース完全ガイド → `columbia_fleece_complete_guide.md` ✨**作成完了 (約15,000文字)**
 - [ ] 118. コロンビア 登山靴・トレッキングシューズ完全ガイド → `columbia_shoes_complete_guide.md`
-- [ ] 119. コロンビア オムニテック製品完全ガイド → `columbia_omnitech_complete_guide.md`
+- [x] 119. コロンビア オムニテック製品完全ガイド → `columbia_omnitech_complete_guide.md` ✨**作成完了 (約15,000文字)**
 - [ ] 120. コロンビア オムニヒート製品完全ガイド → `columbia_omniheat_complete_guide.md`
 - [ ] 121. コロンビア パンツ完全ガイド → `columbia_pants_complete_guide.md`
 - [ ] 122. コロンビア 帽子・キャップ完全ガイド → `columbia_headwear_complete_guide.md`
