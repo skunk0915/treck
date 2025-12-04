@@ -6,7 +6,7 @@
         "靴"
     ],
     "arai_tent_air_raiz_guide.md": [
-        "Tent"
+        "テント"
     ],
     "arcteryx_backpack_guide.md": [
         "バックパック"
@@ -16,13 +16,13 @@
         "アクセサリー"
     ],
     "baselayer_comparison_guide.md": [
-        "ベースレイヤー"
+        "インナー"
     ],
     "bear_bell_guide.md": [
-        "Safety"
+        "安全"
     ],
     "big_agnes_tent_guide.md": [
-        "Tent"
+        "テント"
     ],
     "black_diamond_backpack_guide.md": [
         "バックパック"
@@ -31,7 +31,7 @@
         "電装"
     ],
     "black_diamond_trekking_poles_guide.md": [
-        "Trekking Poles"
+        "トレッキングポール"
     ],
     "boxer_pants_guide.md": [
         "パンツ"
@@ -43,11 +43,11 @@
         "靴"
     ],
     "climbing_insurance_guide.md": [
-        "Safety"
+        "安全"
     ],
     "climbing_permit_guide.md": [],
     "cocoheli_guide.md": [
-        "Safety"
+        "安全"
     ],
     "cookware_aluminum_vs_titanium_guide.md": [
         "Stove & Cookware"
@@ -56,7 +56,7 @@
         "Stove & Cookware"
     ],
     "cwx_tights_guide.md": [
-        "ベースレイヤー"
+        "インナー"
     ],
     "day_hike_backpack_comparison.md": [
         "バックパック",
@@ -69,10 +69,10 @@
         "Stove & Cookware"
     ],
     "finetrack_drylayer_guide.md": [
-        "ベースレイヤー"
+        "インナー"
     ],
     "first_aid_kit_guide.md": [
-        "Safety"
+        "安全"
     ],
     "freezedried_food_guide.md": [
         "食事"
@@ -96,7 +96,7 @@
         "アクセサリー"
     ],
     "helmet_guide.md": [
-        "Safety"
+        "安全"
     ],
     "hiking_pillow_guide.md": [],
     "hmg_backpack_review.md": [
@@ -106,11 +106,9 @@
         "靴"
     ],
     "icebreaker_merino_guide.md": [
-        "ベースレイヤー"
+        "インナー"
     ],
-    "insulation_wear_guide.md": [
-        "Insulation"
-    ],
+    "insulation_wear_guide.md": [],
     "isuka_sleeping_bag_guide.md": [
         "Sleeping Bag"
     ],
@@ -131,7 +129,7 @@
     ],
     "layering_guide.md": [],
     "leki_trekking_poles_guide.md": [
-        "Trekking Poles"
+        "トレッキングポール"
     ],
     "lowa_shoes_guide.md": [
         "靴"
@@ -143,13 +141,13 @@
         "靴"
     ],
     "mammut_softshell_guide.md": [
-        "Softshell\/Windshell"
+        "上着"
     ],
     "merrell_shoes_guide.md": [
         "靴"
     ],
     "millet_drynamic_guide.md": [
-        "ベースレイヤー"
+        "インナー"
     ],
     "millet_saas_fee_guide.md": [
         "バックパック"
@@ -161,7 +159,7 @@
         "バックパック"
     ],
     "montbell_rainwear_guide.md": [
-        "Rainwear"
+        "レインウェア"
     ],
     "montbell_shoes_guide.md": [
         "靴"
@@ -170,17 +168,17 @@
         "Sleeping Bag"
     ],
     "montbell_stellaridge_guide.md": [
-        "Tent",
+        "テント",
         "バックパック"
     ],
     "mountain_shirt_guide.md": [
-        "ベースレイヤー"
+        "インナー"
     ],
     "msr_pocketrocket_guide.md": [
         "Stove & Cookware"
     ],
     "msr_tent_guide.md": [
-        "Tent"
+        "テント"
     ],
     "mystery_ranch_backpack_guide.md": [
         "バックパック"
@@ -192,13 +190,13 @@
         "アクセサリー"
     ],
     "nemo_mat_guide.md": [
-        "Mat"
+        "マット"
     ],
     "nemo_mattress_guide.md": [
-        "Mat"
+        "マット"
     ],
     "nemo_tani_guide.md": [
-        "Tent"
+        "テント"
     ],
     "north_face_backpack_guide.md": [
         "バックパック"
@@ -212,9 +210,7 @@
     "palante_backpack_review.md": [
         "バックパック"
     ],
-    "patagonia_r1_guide.md": [
-        "Insulation"
-    ],
+    "patagonia_r1_guide.md": [],
     "petzl_headlamp_guide.md": [
         "電装"
     ],
@@ -231,21 +227,21 @@
         "靴"
     ],
     "six_moon_designs_tent_guide.md": [
-        "Tent"
+        "テント"
     ],
     "skirt_shorts_guide.md": [
         "パンツ"
     ],
     "smartwool_socks_guide.md": [
         "アクセサリー",
-        "ベースレイヤー"
+        "インナー"
     ],
     "soto_windmaster_guide.md": [
         "Stove & Cookware"
     ],
     "sports_bra_guide.md": [],
     "stock_guide.md": [
-        "Trekking Poles"
+        "トレッキングポール"
     ],
     "stuff_sack_organization_guide.md": [
         "Packing"
@@ -260,16 +256,15 @@
         "アクセサリー"
     ],
     "teton_bros_tsurugi_guide.md": [
-        "Rainwear"
+        "レインウェア"
     ],
     "thermarest_mat_guide.md": [
-        "Mat"
+        "マット"
     ],
     "thermarest_mattress_guide.md": [
-        "Mat"
+        "マット"
     ],
     "tnf_down_guide.md": [
-        "Insulation",
         "Sleeping Bag"
     ],
     "trail_snacks_guide.md": [
@@ -288,23 +283,23 @@
         "Sleeping Bag"
     ],
     "windshell_guide.md": [
-        "Softshell\/Windshell"
+        "上着"
     ],
     "winter_shoes_guide.md": [
         "靴"
     ],
     "yamatomichi_backpack_review.md": [
         "バックパック",
-        "Mat"
+        "マット"
     ],
     "zamberlan_shoes_guide.md": [
         "靴"
     ],
     "zelt_guide.md": [
-        "Tent"
+        "テント"
     ],
     "zerogram_el_chalten_guide.md": [
-        "Tent"
+        "テント"
     ],
     "test_article.md": []
 }

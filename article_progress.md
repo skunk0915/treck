@@ -150,9 +150,9 @@
 
 ## 9. コロンビア商品ジャンル別ガイド (Columbia Product Guides)
 - [ ] 114. コロンビア レインウェア完全ガイド → `columbia_rainwear_complete_guide.md`
-- [ ] 115. コロンビア リュック・バックパック完全ガイド → `columbia_backpack_complete_guide.md`
+- [x] 115. コロンビア リュック・バックパック完全ガイド → `columbia_backpack_complete_guide.md` ✨**作成完了 (約13,000文字)**
 - [ ] 116. コロンビア ダウンジャケット完全ガイド → `columbia_down_complete_guide.md`
-- [ ] 117. コロンビア フリース完全ガイド → `columbia_fleece_complete_guide.md`
+- [x] 117. コロンビア フリース完全ガイド → `columbia_fleece_complete_guide.md` ✨**作成完了 (約15,000文字)**
 - [ ] 118. コロンビア 登山靴・トレッキングシューズ完全ガイド → `columbia_shoes_complete_guide.md`
 - [ ] 119. コロンビア オムニテック製品完全ガイド → `columbia_omnitech_complete_guide.md`
 - [ ] 120. コロンビア オムニヒート製品完全ガイド → `columbia_omniheat_complete_guide.md`
