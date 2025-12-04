@@ -33,7 +33,8 @@ if ($scriptDir === '/') {
 $baseUrl = "$protocol://$host$scriptDir";
 
 // Helper: Parse Dialogue
-function parseDialogue($content) {
+function parseDialogue($content)
+{
     global $baseUrl;
     $lines = explode("\n", $content);
     $processedLines = [];
@@ -47,12 +48,12 @@ function parseDialogue($content) {
     foreach ($lines as $line) {
         if (preg_match('/^\s*\*\*(.+?)\*\*:\s*(.*)/', $line, $matches)) {
             // Found a new speaker line
-            
+
             // 1. Close previous speaker if exists
             if ($currentSpeaker) {
                 $fullMessage = implode("\n", $currentMessageLines);
                 $renderedMessage = $Parsedown->line($fullMessage);
-                
+
                 $html = "
 <div class=\"chat-row $currentType\">
     <div class=\"icon $currentType\">$currentIconHtml</div>
@@ -66,7 +67,7 @@ function parseDialogue($content) {
             // 2. Setup new speaker
             $currentSpeaker = $matches[1];
             $currentMessageLines = [$matches[2]]; // Start with the message part of the first line
-            
+
             $currentType = 'other';
             $currentIconHtml = mb_substr($currentSpeaker, 0, 1);
 
@@ -77,14 +78,13 @@ function parseDialogue($content) {
                 $currentType = 'student';
                 $currentIconHtml = '<img src="' . $baseUrl . '/img/jk.png" alt="JK">';
             }
-            
         } elseif ($currentSpeaker) {
             // We are inside a dialogue
             if (trim($line) === '') {
                 // Blank line ends the dialogue
                 $fullMessage = implode("\n", $currentMessageLines);
-                $renderedMessage = $Parsedown->line($fullMessage); 
-                
+                $renderedMessage = $Parsedown->line($fullMessage);
+
                 $html = "
 <div class=\"chat-row $currentType\">
     <div class=\"icon $currentType\">$currentIconHtml</div>
@@ -93,7 +93,7 @@ function parseDialogue($content) {
     </div>
 </div>";
                 $processedLines[] = $html;
-                
+
                 $currentSpeaker = null;
                 $currentMessageLines = [];
                 $processedLines[] = $line; // Keep the blank line
@@ -125,7 +125,8 @@ function parseDialogue($content) {
 }
 
 // Helper: Get Article Metadata
-function getArticleMetadata($filename) {
+function getArticleMetadata($filename)
+{
     global $articleDir, $tagManager, $articleMetaManager;
     $filePath = $articleDir . '/' . $filename;
     if (!file_exists($filePath)) {
@@ -150,12 +151,12 @@ function getArticleMetadata($filename) {
 
     // Extract Tags from TagManager
     $tags = $tagManager->getTags($filename);
-    
+
     // Extract Meta from ArticleMetaManager
     $meta = $articleMetaManager->getMeta($filename);
     $published_at = $meta['published_at'];
     $status = $meta['status'];
-    
+
     // Add Category
     $filenameBase = str_replace('.md', '', $filename);
     $category = 'General';
@@ -185,20 +186,21 @@ function getArticleMetadata($filename) {
 }
 
 // Helper: Check if article is visible
-function isArticleVisible($article) {
+function isArticleVisible($article)
+{
 
-    
+
     if ($article['status'] === 'private') {
         return false;
     }
-    
+
     if ($article['published_at']) {
         $publishTime = strtotime($article['published_at']);
         if ($publishTime > time()) {
             return false;
         }
     }
-    
+
     return true;
 }
 
@@ -240,52 +242,11 @@ if ($path === 'about') {
     exit;
 }
 
-// Tag Page
-if (preg_match('/^tag\/(.+)$/', $path, $matches)) {
-    $tagName = urldecode($matches[1]);
-    $files = glob($articleDir . '/*.md');
-    $articles = [];
-    foreach ($files as $file) {
-        $meta = getArticleMetadata(basename($file));
-        if ($meta && in_array($tagName, $meta['tags']) && isArticleVisible($meta)) {
-            $articles[] = $meta;
-        }
-    }
+// Unified Home and Tag Page Logic
+$isTagPage = preg_match('/^tag\/(.+)$/', $path, $matches);
+$activeTag = $isTagPage ? urldecode($matches[1]) : 'all';
 
-    $pageTitle = 'タグ: ' . $tagName . ' - ' . $siteName;
-    $pageCanonical = '/tag/' . urlencode($tagName);
-    include 'views/parts/head.php';
-    include 'views/parts/header.php';
-
-    echo '<main class="container">';
-    echo '<h1>タグ: ' . htmlspecialchars($tagName) . ' の記事一覧</h1>';
-    echo '<ul class="article-list">';
-    if (empty($articles)) {
-        echo '<li>該当する記事は見つかりませんでした。</li>';
-    } else {
-        foreach ($articles as $article) {
-            echo '<li>';
-            echo '<a href="' . $baseUrl . '/' . htmlspecialchars($article['filename']) . '">' . htmlspecialchars($article['title']) . '</a>';
-            echo '<div class="meta">';
-            echo '<span class="tags">Tags: ';
-            $tagLinks = array_map(function($t) use ($baseUrl) {
-                return '<a href="' . $baseUrl . '/tag/' . urlencode($t) . '" class="tag-link">' . htmlspecialchars($t) . '</a>';
-            }, $article['tags']);
-            echo implode(', ', $tagLinks);
-            echo '</span>';
-            echo '</div>';
-            echo '</li>';
-        }
-    }
-    echo '</ul>';
-    echo '</main>';
-
-    include 'views/parts/footer.php';
-    exit;
-}
-
-// Home Page
-if ($path === '') {
+if ($path === '' || $isTagPage) {
     $files = glob($articleDir . '/*.md');
     $articles = [];
     $allTags = array_keys($tagManager->getAllTags());
@@ -301,21 +262,41 @@ if ($path === '') {
     shuffle($articles);
 
     // Render Index
-    $pageTitle = $siteName;
-    $pageDescription = "A blog about mountain gear, hiking tips, and outdoor adventures.";
-    $pageCanonical = '/';
+    if ($isTagPage) {
+        $pageTitle = 'タグ: ' . $activeTag . ' - ' . $siteName;
+        $pageCanonical = '/tag/' . urlencode($activeTag);
+        $pageDescription = $activeTag . 'に関する記事一覧です。';
+    } else {
+        $pageTitle = $siteName;
+        $pageDescription = "A blog about mountain gear, hiking tips, and outdoor adventures.";
+        $pageCanonical = '/';
+    }
+
     include 'views/parts/head.php';
     include 'views/parts/header.php';
 
     echo '<main class="container">';
+
+    // Title for Tag Page
+    if ($isTagPage) {
+        echo '<h1>タグ: ' . htmlspecialchars($activeTag) . ' の記事一覧</h1>';
+    }
+
     echo '<div class="filter-section">';
     echo '<input type="text" id="searchInput" placeholder="キーワードで検索..." class="search-input">';
     echo '<div class="tag-accordion-container">';
     echo '<div class="tag-filter tag-accordion" id="tagFilter">';
-    echo '<button class="tag-btn active" data-tag="all">All</button>';
+
+    // All Button
+    $activeClass = ($activeTag === 'all') ? ' active' : '';
+    echo '<button class="tag-btn' . $activeClass . '" data-tag="all">All</button>';
+
+    // Tag Buttons
     foreach ($allTags as $tag) {
-        echo '<button class="tag-btn" data-tag="' . htmlspecialchars($tag) . '">' . htmlspecialchars($tag) . '</button>';
+        $activeClass = ($activeTag === $tag) ? ' active' : '';
+        echo '<button class="tag-btn' . $activeClass . '" data-tag="' . htmlspecialchars($tag) . '">' . htmlspecialchars($tag) . '</button>';
     }
+
     echo '</div>';
     echo '<button id="showMoreTags" class="show-more-tags">もっと見る</button>';
     echo '</div>';
@@ -324,9 +305,10 @@ if ($path === '') {
     echo '<div class="article-grid" id="articleGrid">';
     foreach ($articles as $article) {
         $thumbnailUrl = $article['thumbnail'] ? ((strpos($article['thumbnail'], 'http') === 0 ? '' : $baseUrl) . htmlspecialchars($article['thumbnail'])) : '';
-        
+
         echo '<article class="article-card" data-tags="' . htmlspecialchars(json_encode($article['tags'])) . '" data-title="' . htmlspecialchars($article['title']) . '">';
-        echo '<a href="' . $baseUrl . '/' . htmlspecialchars($article['filename']) . '" class="card-link">';
+
+        echo '<a href="' . $baseUrl . '/' . htmlspecialchars($article['filename']) . '" class="card-link-image">';
         echo '<div class="card-image">';
         if ($thumbnailUrl) {
             echo '<img src="' . $thumbnailUrl . '" alt="' . htmlspecialchars($article['title']) . '" loading="lazy">';
@@ -334,15 +316,18 @@ if ($path === '') {
             echo '<div class="no-image">No Image</div>';
         }
         echo '</div>';
+        echo '</a>';
+
         echo '<div class="card-content">';
+        echo '<a href="' . $baseUrl . '/' . htmlspecialchars($article['filename']) . '" class="card-link-title">';
         echo '<h2 class="card-title">' . htmlspecialchars($article['title']) . '</h2>';
+        echo '</a>';
         echo '<div class="card-tags">';
         foreach ($article['tags'] as $tag) {
-            echo '<span class="card-tag">#' . htmlspecialchars($tag) . '</span>';
+            echo '<a href="' . $baseUrl . '/tag/' . urlencode($tag) . '" class="card-tag">#' . htmlspecialchars($tag) . '</a>';
         }
         echo '</div>';
         echo '</div>';
-        echo '</a>';
         echo '</article>';
     }
     echo '</div>';
@@ -393,62 +378,62 @@ $htmlContent = str_replace('src="/img/', 'src="' . $baseUrl . '/img/', $htmlCont
 
 ?>
 <?php
-    $pageTitle = $article['title'] . ' - ' . $siteName;
-    $pageDescription = $article['description'];
-    $pageCanonical = '/' . $article['filename'];
-    include 'views/parts/head.php';
-    include 'views/parts/header.php';
+$pageTitle = $article['title'] . ' - ' . $siteName;
+$pageDescription = $article['description'];
+$pageCanonical = '/' . $article['filename'];
+include 'views/parts/head.php';
+include 'views/parts/header.php';
 ?>
 
-    <main class="container">
-        <article class="post">
-            <header class="post-header">
-                <h1><?php echo htmlspecialchars($article['title']); ?></h1>
-                <div class="post-meta">
+<main class="container">
+    <article class="post">
+        <header class="post-header">
+            <h1><?php echo htmlspecialchars($article['title']); ?></h1>
+            <div class="post-meta">
 
-                    <span class="tags-label">Tags: 
-                        <?php 
-                        $tagLinks = array_map(function($t) use ($baseUrl) {
-                            return '<a href="' . $baseUrl . '/tag/' . urlencode($t) . '" class="tag-link">' . htmlspecialchars($t) . '</a>';
-                        }, $article['tags'] ?? []);
-                        echo implode(', ', $tagLinks); 
-                        ?>
-                    </span>
-                </div>
-
-            </header>
-            <div class="post-content">
-                <?php echo $htmlContent; ?>
+                <span class="tags-label">Tags:
+                    <?php
+                    $tagLinks = array_map(function ($t) use ($baseUrl) {
+                        return '<a href="' . $baseUrl . '/tag/' . urlencode($t) . '" class="tag-link">' . htmlspecialchars($t) . '</a>';
+                    }, $article['tags'] ?? []);
+                    echo implode(', ', $tagLinks);
+                    ?>
+                </span>
             </div>
 
-            <section class="related-posts-container">
-                <?php foreach ($relatedByTag as $tag => $posts): ?>
-                    <?php if (!empty($posts)): ?>
-                        <div class="related-tag-section">
-                            <h3><?php echo htmlspecialchars($tag); ?>に関連する記事</h3>
-                            <div class="related-list">
-                                <?php foreach ($posts as $post): ?>
-                                    <div class="related-card">
-                                        <a href="<?php echo $baseUrl; ?>/<?php echo htmlspecialchars($post['filename']); ?>" class="related-card-link">
-                                            <div class="related-card-image">
-                                                <?php if ($post['thumbnail']): ?>
-                                                    <img src="<?php echo (strpos($post['thumbnail'], 'http') === 0 ? '' : $baseUrl) . htmlspecialchars($post['thumbnail']); ?>" alt="<?php echo htmlspecialchars($post['title']); ?>" loading="lazy">
-                                                <?php else: ?>
-                                                    <div class="no-image">No Image</div>
-                                                <?php endif; ?>
-                                            </div>
-                                            <div class="related-card-content">
-                                                <h4 class="related-card-title"><?php echo htmlspecialchars($post['title']); ?></h4>
-                                            </div>
-                                        </a>
-                                    </div>
-                                <?php endforeach; ?>
-                            </div>
+        </header>
+        <div class="post-content">
+            <?php echo $htmlContent; ?>
+        </div>
+
+        <section class="related-posts-container">
+            <?php foreach ($relatedByTag as $tag => $posts): ?>
+                <?php if (!empty($posts)): ?>
+                    <div class="related-tag-section">
+                        <h3><?php echo htmlspecialchars($tag); ?>に関連する記事</h3>
+                        <div class="related-list">
+                            <?php foreach ($posts as $post): ?>
+                                <div class="related-card">
+                                    <a href="<?php echo $baseUrl; ?>/<?php echo htmlspecialchars($post['filename']); ?>" class="related-card-link">
+                                        <div class="related-card-image">
+                                            <?php if ($post['thumbnail']): ?>
+                                                <img src="<?php echo (strpos($post['thumbnail'], 'http') === 0 ? '' : $baseUrl) . htmlspecialchars($post['thumbnail']); ?>" alt="<?php echo htmlspecialchars($post['title']); ?>" loading="lazy">
+                                            <?php else: ?>
+                                                <div class="no-image">No Image</div>
+                                            <?php endif; ?>
+                                        </div>
+                                        <div class="related-card-content">
+                                            <h4 class="related-card-title"><?php echo htmlspecialchars($post['title']); ?></h4>
+                                        </div>
+                                    </a>
+                                </div>
+                            <?php endforeach; ?>
                         </div>
-                    <?php endif; ?>
-                <?php endforeach; ?>
-            </section>
-        </article>
-    </main>
+                    </div>
+                <?php endif; ?>
+            <?php endforeach; ?>
+        </section>
+    </article>
+</main>
 
 <?php include 'views/parts/footer.php'; ?>

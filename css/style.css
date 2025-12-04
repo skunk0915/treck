@@ -75,8 +75,8 @@ nav a {
   margin-top: 4rem;
 }
 .post-content h3 {
-  margin-top: 1.5rem;
-  color: var(--primary-color);
+  margin-top: 3.5rem;
+  margin-bottom: 2em;
 }
 .post-content table {
   width: 100%;
@@ -339,9 +339,8 @@ nav a {
   display: flex;
   flex-direction: column;
 }
-.article-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+.article-card a {
+  text-decoration: none;
 }
 .article-card:hover .card-image img {
   transform: scale(1.05);
@@ -408,6 +407,9 @@ nav a {
   background: orange;
   padding: 2px 6px;
   border-radius: 4px;
+}
+.card-tag:hover {
+  opacity: 0.8;
 }
 
 /* Index List */

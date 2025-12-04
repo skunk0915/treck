@@ -7,6 +7,15 @@ document.addEventListener('DOMContentLoaded', function () {
 	const tagButtons = document.querySelectorAll('.tag-btn');
 	let currentTag = 'all';
 
+    // Check for initially active tag
+    const activeBtn = document.querySelector('.tag-btn.active');
+    if (activeBtn) {
+        currentTag = activeBtn.getAttribute('data-tag');
+    }
+
+    // Initial filter
+    filterArticles();
+
 	function filterArticles() {
 		const query = searchInput.value.toLowerCase();
 		let visibleCount = 0;
