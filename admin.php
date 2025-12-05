@@ -288,6 +288,7 @@ foreach ($files as $file) {
         }
 
         .form-control {
+            box-sizing: border-box;
             width: 100%;
             padding: 0.5rem;
             border: 1px solid #ddd;
@@ -636,13 +637,13 @@ foreach ($files as $file) {
                                 <div class="save-status-title" style="font-size: 0.75rem; color: green; height: 1.2em;"></div>
                             </td>
                             <td data-date="<?php echo htmlspecialchars($article['meta']['published_at'] ?? ''); ?>" data-status="<?php echo htmlspecialchars($article['meta']['status']); ?>">
-                                <form class="meta-form" data-filename="<?php echo htmlspecialchars($article['filename']); ?>" style="background: #f8f9fa; padding: 0.5rem; border-radius: 4px;">
+                                <form class="meta-form" data-filename="<?php echo htmlspecialchars($article['filename']); ?>" style="border-radius: 4px;">
                                     <div style="margin-bottom: 0.5rem;">
-                                        <label style="font-size: 0.75rem; display: block; color: #666; margin-bottom: 2px;">公開日時</label>
+                                        <label style="font-size: 0.75rem; display: block; color: #666; margin-bottom: 2px; display:none;">公開日時</label>
                                         <input type="datetime-local" name="published_at" class="form-control" style="font-size: 0.85rem; padding: 0.25rem;" value="<?php echo htmlspecialchars($article['meta']['published_at'] ?? ''); ?>">
                                     </div>
                                     <div>
-                                        <label style="font-size: 0.75rem; display: block; color: #666; margin-bottom: 2px;">ステータス</label>
+                                        <label style="font-size: 0.75rem; display: block; color: #666; margin-bottom: 2px; display:none;">ステータス</label>
                                         <select name="status" class="form-control" style="font-size: 0.85rem; padding: 0.25rem;">
                                             <option value="public" <?php echo ($article['meta']['status'] === 'public') ? 'selected' : ''; ?>>公開</option>
                                             <option value="private" <?php echo ($article['meta']['status'] === 'private') ? 'selected' : ''; ?>>非公開</option>
