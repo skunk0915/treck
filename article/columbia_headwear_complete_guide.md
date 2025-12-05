@@ -57,8 +57,7 @@ Tags: Headwear, Guide
 
 **先生**: **UPF（紫外線保護指数）**とは、紫外線をどれだけカットできるかを示す数値だ。UPF50なら、紫外線の約98%をカットできる。日本の山は標高が高いほど紫外線が強いから、これは重要だぞ。
 
-> 「UPF50であれば紫外線の98%をブロックします」  
-> **引用元**: Columbia公式サイト (https://www.columbia.com/c/technology/omni-shade/)
+**参考情報**: 「UPF50であれば紫外線の98%をブロックします」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1CkrCk5g9rTmkRH4ej3jr7O9PtbiiHt8gCYp14ykFSPsK7b4hC1Pej2j6TnuiURQKAEyxNfVGHrmcHoWAKQaS-fnsSbFepgzMrYlea6T_Bi4IGJH-tVHeehDGnHlIKB38ryZ1Vj8kIQdDGwpW`</details>
 
 **JK**: 98%！！それってすごくないですか？
 
@@ -78,15 +77,13 @@ Tags: Headwear, Guide
 
 **先生**: これは**汗を利用して生地の温度を下げる冷却テクノロジー**だ。生地の裏に小さな青いサークルがついている。
 
-> 「The technology uses small blue rings on the fabric that react with your sweat or any moisture to create a cooling effect」  
-> **引用元**: Columbia公式サイト (https://www.columbia.com/c/omni-freeze-zero/)
+**参考情報**: 「The technology uses small blue rings on the fabric that react with your sweat or any moisture to create a cooling effect」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqe1MoKF6FqBAOXhjR5HvRvLom3ay7hjwx3DBe0K8Wl7NCRonihGNSzOxwC8hYycAgQH-EflnPJqmw7W9SEoB7GoVAmzKDlHI5qKufaeXGvAasfJYRkvUpqlT1RfcH40b1Xt4Vav_o2MOq98DAwg==`</details>
 
 **JK**: 汗で冷やす...？どういうこと？
 
 **先生**: 青いサークルには特殊なポリマーが含まれていて、汗に反応して熱を吸収する。さらに、汗を素早く拡散させることで、蒸発冷却の効果も高めるんだ。
 
-> 「These rings contain a special cooling polymer that absorbs heat upon contact with moisture, making the fabric feel cooler to the touch」  
-> **引用元**: New Atlas (https://www.newatlas.com/columbia-omni-freeze-zero-cooling-fabric/28035/)
+**参考情報**: 「These rings contain a special cooling polymer that absorbs heat upon contact with moisture, making the fabric feel cooler to the touch」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqZtX0l-SnhRCEQ8v0_8JvObXD-Gzvu0ul4dopKEPbh50pfzyieS6wu0A2HgSmHwBlGgfQcaXj8tGttvGFhuhfMj41mUur1F5IK_Qd2p-aDn0HZ1M20_YyozuGJiUD3oEx7pfW8qLvJOV8IA4Z`</details>
 
 **JK**: へぇ〜！科学的！でも、本当に涼しくなるんですか？
 
@@ -120,8 +117,7 @@ Tags: Headwear, Guide
 
 **先生**: ボラボラブーニーには、**オムニシェイド UPF50**、**オムニウィック**のスウェットバンド、**メッシュパネル**による通気性、そして**広いツバ**が特徴だ。
 
-> 「It features Omni-Shade™ UPF 50 sun protection, an Omni-Wick™ sweatband to manage moisture, and a wide brim to shield the face and neck from the sun's rays.」  
-> **引用元**: REI (https://www.rei.com/product/894384/columbia-bora-bora-ii-booney-hat)
+**参考情報**: 「It features Omni-Shade™ UPF 50 sun protection, an Omni-Wick™ sweatband to manage moisture, and a wide brim to shield the face and neck from the sun's rays.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7kB9jroEnEsvvDNw41MEGVii3jlvIG1r6omsxpEJVq_cbYGU-uAK2BDcCViZAG6SrSLR9Wng4dtqerliOBSq7bFrVQmZJVJOzFg10QGrqPu9BTJB1DJP6hVvQr6yDQ0eqaw-hoNaluxZsp6jMCqOhIgTwGVWM`</details>
 
 **JK**: つばが広いのは確かに良さそう...でも、ダサくないですか？
 
@@ -139,15 +135,13 @@ Tags: Headwear, Guide
 
 **先生**: 実際のユーザーレビューでも、紫外線保護、通気性、軽量性が高く評価されている。
 
-> 「多くのユーザーが、UPF 50の紫外線保護機能（オムニシェイド）と、吸湿発散性のあるスウェットバンド（オムニウィック）による快適さを評価しています。」  
-> **引用元**: Columbia公式サイト (https://www.columbia.com/p/bora-bora-ii-booney-1447091.html)
+**参考情報**: 「多くのユーザーが、UPF 50の紫外線保護機能（オムニシェイド）と、吸湿発散性のあるスウェットバンド（オムニウィック）による快適さを評価しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7kB9jroEnEsvvDNw41MEGVii3jlvIG1r6omsxpEJVq_cbYGU-uAK2BDcCViZAG6SrSLR9Wng4dtqerliOBSq7bFrVQmZJVJOzFg10QGrqPu9BTJB1DJP6hVvQr6yDQ0eqaw-hoNaluxZsp6jMCqOhIgTwGVWM`</details>
 
 **JK**: みんな満足してるんですね！
 
 **先生**: ああ、だが一部には「デザインが地味」「生地が伸びやすい」という意見もある。
 
-> 「一部のレビューでは、デザインがごく一般的で、色が地味だと感じられることがあります。」「生地の特性上、やや伸びやすく、つばがすぐに floppy になる可能性があるという意見もあります。」  
-> **引用元**: OutdoorGearLab (https://www.outdoorgearlab.com/reviews/clothing/sun-hat/columbia-bora-bora-booney-ii)
+**参考情報**: 「一部のレビューでは、デザインがごく一般的で、色が地味だと感じられることがあります。」「生地の特性上、やや伸びやすく、つばがすぐに floppy になる可能性があるという意見もあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7kB9jroEnEsvvDNw41MEGVii3jlvIG1r6omsxpEJVq_cbYGU-uAK2BDcCViZAG6SrSLR9Wng4dtqerliOBSq7bFrVQmZJVJOzFg10QGrqPu9BTJB1DJP6hVvQr6yDQ0eqaw-hoNaluxZsp6jMCqOhIgTwGVWM`</details>
 
 **JK**: やっぱりダサいんじゃん！
 
@@ -188,8 +182,7 @@ Tags: Headwear, Guide
 
 **先生**: キャシャロットとは、**首の後ろを守るネックフラップ付きのハット**のことだ。レジオネアハットに似た構造だな。
 
-> 「A "cachalot hat" describes a style of hat that typically includes a neck flap, providing extended sun protection for the back of the neck and ears, similar to a legionnaire's hat.」  
-> **引用元**: Columbia公式サイト (https://www.columbia.com/p/schooner-bank-cachalot-hat-1447091.html)
+**参考情報**: 「A "cachalot hat" describes a style of hat that typically includes a neck flap, providing extended sun protection for the back of the neck and ears, similar to a legionnaire's hat.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6fpStIkJVdo7eOUHPdmld70Ew-9CwNAQUuY9rhpR2-37eK3npC2fRe3WPRdaS4mvNK77Qizr6PEioSNr85nvb25aZJEq3w6EXAVwD07EITlhwV-Rgtkl4JODQ6SobiXN74FSctWHcY1T4w8zBg0SMhF8ALFq8iEirfKghccVLHA==`</details>
 
 **JK**: ネックフラップって、あの首の後ろにひらひらついてるやつですか？小学校のプールの時間に被ってたみたいな...
 
@@ -199,8 +192,7 @@ Tags: Headwear, Guide
 
 **先生**: スクーナーバンク キャシャロットには、**UPF 50のオムニシェイド**、**オムニウィック**、**オムニシールド**の撥水・防汚性、そして**展開可能なネックフラップ**が搭載されている。
 
-> 「UPF 50の紫外線保護機能 (Omni-Shade™)」「吸湿速乾性 (Omni-Wick™)」「撥水・防汚性 (Omni-Shield™)」  
-> **引用元**: Cabela's (https://www.cabelas.com/shop/en/columbia-schooner-bank-cachalot-iii-hat)
+**参考情報**: 「UPF 50の紫外線保護機能 (Omni-Shade™)」「吸湿速乾性 (Omni-Wick™)」「撥水・防汚性 (Omni-Shield™)」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6fpStIkJVdo7eOUHPdmld70Ew-9CwNAQUuY9rhpR2-37eK3npC2fRe3WPRdaS4mvNK77Qizr6PEioSNr85nvb25aZJEq3w6EXAVwD07EITlhwV-Rgtkl4JODQ6SobiXN74FSctWHcY1T4w8zBg0SMhF8ALFq8iEirfKghccVLHA==`</details>
 
 **JK**: 撥水があるってことは、水に強いんですね。
 
@@ -214,15 +206,13 @@ Tags: Headwear, Guide
 
 **先生**: ユーザーからも、日焼け防止効果と軽量性が高く評価されている。
 
-> 「多くのユーザーは、その優れた日焼け防止機能と軽量性、快適性を高く評価しています。特に、テニスプレイヤーや釣り人、ハイカーなど、長時間日差しの下にいる人々から支持されています。」  
-> **引用元**: Trailspace (https://www.trailspace.com/gear/columbia/schooner-bank-cachalot/)
+**参考情報**: 「多くのユーザーは、その優れた日焼け防止機能と軽量性、快適性を高く評価しています。特に、テニスプレイヤーや釣り人、ハイカーなど、長時間日差しの下にいる人々から支持されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEotIrMxWrtLaKSzZTvZk7b5cCddZDrpMGmcjn6tcYwJpPncSWOG5SjmPUl9riFbFAWS7DVlqPRmn7qJ8ln2gmf_BCMBmjnKMwwgnxt4kfDdA5SuawXJreuzCKwLJaAq6G4TIluLSPx84EF3vHe7SKdvrNec9ykEWSwLOCavXExoFFrZlHHA6gIF5bOPnrJHF_4AKEYLpcGfzK53Fd8djPymlmnBcbgKtG1`</details>
 
 **JK**: テニスにも使えるんですね！
 
 **先生**: ああ、実はタウンユースでも人気がある。ただし、ファッション性よりも実用性重視のデザインだから、その点は理解しておくべきだ。
 
-> 「ファッション性よりも実用性を重視したデザインであるという声もあります。」  
-> **引用元**: Trailspace (https://www.trailspace.com/gear/columbia/schooner-bank-cachalot/)
+**参考情報**: 「ファッション性よりも実用性を重視したデザインであるという声もあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEotIrMxWrtLaKSzZTvZk7b5cCddZDrpMGmcjn6tcYwJpPncSWOG5SjmPUl9riFbFAWS7DVlqPRmn7qJ8ln2gmf_BCMBmjnKMwwgnxt4kfDdA5SuawXJreuzCKwLJaAq6G4TIluLSPx84EF3vHe7SKdvrNec9ykEWSwLOCavXExoFFrZlHHA6gIF5bOPnrJHF_4AKEYLpcGfzK53Fd8djPymlmnBcbgKtG1`</details>
 
 **JK**: やっぱり見た目はイマイチなんですね...でも、機能は良さそう。
 
@@ -262,8 +252,7 @@ Tags: Headwear, Guide
 
 **先生**: その通り。クールヘッド ゼロ IIには、オムニフリーズゼロに加えて、**オムニウィック**、**オムニシェイド UPF 50**も搭載されている。
 
-> 「Omni-Freeze Zero（オムニフリーズゼロ）：汗を利用して生地の温度を瞬時に下げる冷却機能です。生地に施された小さな青いサークルが汗と反応し、持続的なクーリング効果を提供することで、高温下でも涼しさを保ちます」  
-> **引用元**: 好日山荘 (https://www.kojitusanso.jp/shop/g/g4547945787976/)
+**参考情報**: 「Omni-Freeze Zero（オムニフリーズゼロ）：汗を利用して生地の温度を瞬時に下げる冷却機能です。生地に施された小さな青いサークルが汗と反応し、持続的なクーリング効果を提供することで、高温下でも涼しさを保ちます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqe1MoKF6FqBAOXhjR5HvRvLom3ay7hjwx3DBe0K8Wl7NCRonihGNSzOxwC8hYycAgQH-EflnPJqmw7W9SEoB7GoVAmzKDlHI5qKufaeXGvAasfJYRkvUpqlT1RfcH40b1Xt4Vav_o2MOq98DAwg==`</details>
 
 **JK**: 最強じゃないですか！
 
@@ -375,15 +364,13 @@ Tags: Headwear, Guide
 
 **先生**: **ザ・ノース・フェイス**は、機能性とデザイン性の両立が強みだ。スタイリッシュで、タウンユースでも人気がある。ただし、価格は高め。
 
-> 「ザ・ノース・フェイスの帽子は、機能性とデザイン性を両立しており、タウンユースから本格的なアウトドアまで幅広い層に人気です。」  
-> **引用元**: よんろくブログ (https://yonroku-blog.com/north-face-hat/)
+**参考情報**: 「ザ・ノース・フェイスの帽子は、機能性とデザイン性を両立しており、タウンユースから本格的なアウトドアまで幅広い層に人気です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUMrM2pnlve6KLNjz8i0UAsKS5HfutwTqc1pw__MFr-jaeam2y0V32EbzkP14Zz5T8-PxgalYVMHW0-eqAyjgizBy8poc_BQGGoFl8d9e6-qnYPMC0xAKp4Q5zL2B-3CD9Zav5SSv_r-QpAS4PhBRQ5hK1NgZUZ2APDnNQiRmC8fu2q7FF6XLU_oMkkoxQMAfjUTemop5-BuI1Ofp7DnfPAxE=`</details>
 
 **JK**: おしゃれだけど高いんですね...
 
 **先生**: 一方、**コロンビア**は、独自の高機能テクノロジーを手頃な価格で提供している。中価格帯でコストパフォーマンスが高いんだ。
 
-> 「独自の高機能テクノロジー (UVカット、防水透湿、吸湿速乾、保温) を手頃な価格で提供。」  
-> **引用元**: hinata (https://hinata.me/article/2820716569577963563)
+**参考情報**: 「独自の高機能テクノロジー (UVカット、防水透湿、吸湿速乾、保温) を手頃な価格で提供。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUMrM2pnlve6KLNjz8i0UAsKS5HfutwTqc1pw__MFr-jaeam2y0V32EbzkP14Zz5T8-PxgalYVMHW0-eqAyjgizBy8poc_BQGGoFl8d9e6-qnYPMC0xAKp4Q5zL2B-3CD9Zav5SSv_r-QpAS4PhBRQ5hK1NgZUZ2APDnNQiRmC8fu2q7FF6XLU_oMkkoxQMAfjUTemop5-BuI1Ofp7DnfPAxE=`</details>
 
 **JK**: コスパ重視ならコロンビアってことですか？
 
@@ -393,8 +380,7 @@ Tags: Headwear, Guide
 
 **先生**: **パタゴニア**は、環境に配慮した素材選びが特徴だ。オーガニックコットンやリサイクルポリエステルを使用している。
 
-> 「パタゴニアの帽子は、環境に配慮した素材選びと高い機能性、そして流行に左右されないデザインが特徴です。」  
-> **引用元**: FUNQ (https://funq.jp/patagonia-cap-recommended/)
+**参考情報**: 「パタゴニアの帽子は、環境に配慮した素材選びと高い機能性、そして流行に左右されないデザインが特徴です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6LhXfBfteSN1ZDD-qy31ubHJuHtFO9ZtFEfzG7P9yiIearoq8GGtKxELk6pv2RP_gHmt2twfynpy1sYy0zpJdGZPQVvH9R4iQme8Gizo7xoFbSxptPvgKKBA5Lz-Zcw1zJbQBgWu5btmn_22tokpmViE=`</details>
 
 **JK**: 環境に優しいのはいいですね！
 
@@ -406,8 +392,7 @@ Tags: Headwear, Guide
 
 **先生**: **モンベル**は、日本の気候や体格に合わせた製品開発が強みだ。高品質でありながら、価格は比較的安価だ。
 
-> 「モンベルの帽子は、高い品質とコストパフォーマンスの良さが魅力です。登山をするスタッフが商品開発に携わっているため、日本の気候や体格に合わせた機能的な製品が多いです。」  
-> **引用元**: hinata (https://hinata.me/article/montbell-outdoor-hat/)
+**参考情報**: 「モンベルの帽子は、高い品質とコストパフォーマンスの良さが魅力です。登山をするスタッフが商品開発に携わっているため、日本の気候や体格に合わせた機能的な製品が多いです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZWt_63if9nYVL8jiyYrMQ48ghSFgL8cKViO0NPUKXFwemCYPSyS-MyLFjbBHl4TWLc7DmgEQreF6aC9oaFLcTk56l47WxhbFlWIdSqshEp0FBmXlr0a4xl4sintT09rIEzlMXNw==`</details>
 
 **JK**: モンベルも安いんですね！
 
@@ -443,8 +428,7 @@ Tags: Headwear, Guide
 *   **調整可能なワンサイズ**: 頭囲約53.8-62.2cm
 *   **大人用ワンサイズ**: 頭囲約53.3-60.4cm
 
-> 「S/M: 21.5-21.8インチ (約54.6-55.3cm)」「L/XL: 21.8-23.5インチ (約55.3-59.6cm)」  
-> **引用元**: Campmor (https://www.campmor.com/pages/columbia-size-chart)
+**参考情報**: 「S/M: 21.5-21.8インチ (約54.6-55.3cm)」「L/XL: 21.8-23.5インチ (約55.3-59.6cm)」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyjNWJrZMROaIox68OMBaoZBlk7r-RHLigCp6j8fAz28uImtbqAXYAIU7UmF2p5o7PelBT9dsY8s_aOFyDOjhmxmlYku4aQKwEcYwj4pZVN4wjB2AjW4cu2CVUyHcO3C5ON2ts4ocmMegrgQkDgBZlMJMy`</details>
 
 **JK**: ワンサイズって便利そう！
 
@@ -458,8 +442,7 @@ Tags: Headwear, Guide
 *   **ロープロファイル**: 頭に低くフィット。ぴったりとした被り心地で、リラックス感がある。
 *   **ミッドクラウン**: カジュアルなフィット感。中程度の高さ。
 
-> 「ハイプロファイル（High-profile）ハット: クラウンの高さが4インチ（約10cm）以上で、つばの後ろにゆとりがある構造です。」  
-> **引用元**: Columbia公式サイト (https://www.columbia.com/c/hats-fitting-guide/)
+**参考情報**: 「ハイプロファイル（High-profile）ハット: クラウンの高さが4インチ（約10cm）以上で、つばの後ろにゆとりがある構造です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNPWLa-B3Y0NGTslMXcgEjQZkEM2IpALdOv53aodbEH8dGYLEd6zzfBiiYeICYu-UeTiA8kg39rAv_ZI27z1S5ErAWpmH4vyqCVdCFx_L6s8eGUqRhsRHtB8t03Ia0ob3YkDQ2jFeKCPO1`</details>
 
 **JK**: う〜ん、よく分からないです...
 
@@ -469,8 +452,7 @@ Tags: Headwear, Guide
 
 **先生**: 多くのコロンビアの帽子には、**調整可能なストラップやクロージャー**が付いている。Dリング、アジャスター、あご紐などだ。
 
-> 「多くのコロンビアの帽子には、個人に合わせたフィット感を可能にする調整機能が備わっています。」  
-> **引用元**: Dick's Sporting Goods (https://www.dickssportinggoods.com/c/columbia-hats)
+**参考情報**: 「多くのコロンビアの帽子には、個人に合わせたフィット感を可能にする調整機能が備わっています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWdG_Xa6U_eQXK0ZnCbvikot3_wuJ62-4O7Uevlv9O6MyCzP19jvw2krhailecTAmkDc8k5Sz6TyNbiB8hM8HhgGQL19nuVxZqwHxOQJYV-4v8TOflIB3llrPoviHQomjBHTdnS7XTOZm3f8Fx9A==`</details>
 
 **JK**: あご紐があると安心ですね！
 
@@ -493,8 +475,7 @@ Tags: Headwear, Guide
 3.  **脱水**: バスタオルで包み、優しく押さえて水分を拭き取る。強く絞らない。
 4.  **乾燥**: 内側にタオルや丸めた紙を詰めて形を整え、風通しの良い日陰で平干し。直射日光は避ける。
 
-> 「手洗い: 洗面器にぬるま湯（30℃程度）と中性洗剤を入れ、よく混ぜます。帽子を洗剤液に沈め、優しく押し洗いします。もみ洗いは型崩れの原因になるため避けてください。」  
-> **引用元**: デサント (https://www.descente.co.jp/care/cap/)
+**参考情報**: 「手洗い: 洗面器にぬるま湯（30℃程度）と中性洗剤を入れ、よく混ぜます。帽子を洗剤液に沈め、優しく押し洗いします。もみ洗いは型崩れの原因になるため避けてください。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPMUAOUmRNFva9K2skFq50duOLlQaPsiJZDVyMn4xUNsIal1Se-iQcL6mZncD_mYAO3H4rbDj9GMFBIaiE-yChmFFO54eqzpd_8Ek-D_LrywTLE4rnMoQHjfG_tnuHkhJZt4BdGZZoNKSa-bV0qRqaJ7Hzlnsxd4cWfeG9DqQ=`</details>
 
 **JK**: 結構手間かかるんですね...
 
@@ -504,8 +485,7 @@ Tags: Headwear, Guide
 
 **先生**: コロンビアの帽子は、**汗の成分と紫外線で変色**しやすい。特に綿素材や濃色（黒、紺、カーキ）は注意が必要だ。使用後はこまめに洗うことが推奨される。
 
-> 「コロンビアの帽子、特にキャップは、汗の成分と紫外線が原因で変色（汗染み）することが多いため、使用後はこまめに洗うことが推奨されています。」  
-> **引用元**: Columbia公式サポート (https://columbiasupportcenter.zendesk.com/hc/ja)
+**参考情報**: 「コロンビアの帽子、特にキャップは、汗の成分と紫外線が原因で変色（汗染み）することが多いため、使用後はこまめに洗うことが推奨されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVn4FHbCm-zQ6NetDYXtEj1e1Mn8FBRCQkIyMm6imq-hA69RJUEumaodawNWsxZkrYiKozqLqIIUKD6xR7Km4wfKdQoBdeAQgOsKTVo7hV8Y4MIhmfZkh4BlJwrPKzeZVmBF4d`</details>
 
 **JK**: え、変色するんですか！？
 
@@ -519,8 +499,7 @@ Tags: Headwear, Guide
 *   **型崩れ防止**: 中に丸めた紙やタオルを詰める。スタッフバッグに入れたままやたたんだ状態での長期保管は避ける。
 *   **防虫対策**: ウールなどの天然素材は防虫剤を一緒に入れる。
 
-> 「直射日光が当たらず、湿気の少ない風通しの良い場所に保管してください。」  
-> **引用元**: ライオン (https://lion-do.jp/laundry/cap-storage/)
+**参考情報**: 「直射日光が当たらず、湿気の少ない風通しの良い場所に保管してください。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPY4_Czq20P547QNTFynP3iP01moY37PkB3Ua5awEiVUGCBlLdsZhxuRzx5-foxdzrlazzhIEGl6hIQ0SWpGJoxYeD4wR8_IX5BXKG5xOrqxNq7kAEUn2FJynIcih_oB1EQEWV`</details>
 
 **JK**: うわぁ、面倒...でも、大事なんですね。
 

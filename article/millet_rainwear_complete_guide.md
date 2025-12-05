@@ -53,8 +53,7 @@ Tags: Rainwear, Guide
 
 **先生**: 透湿性とは、ウェアの内側の水蒸気——つまり汗——がどれだけ外に抜けるかを示す数値だ。24時間で1平方メートルあたり何グラムの水蒸気を逃がせるかを表す。
 
-> 出典: "独自開発の7ミクロン極薄メンブレン「DRYEDGE™ TYPHON 50000」を採用しており、20,000mmという高い耐水圧と、50,000g/m²/24hという非常に高い透湿性を両立"
-> URL: https://hyakkei.me
+**参考情報**: 「独自開発の7ミクロン極薄メンブレン「DRYEDGE™ TYPHON 50000」を採用しており、20,000mmという高い耐水圧と、50,000g/m²/24hという非常に高い透湿性を両立」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBnxCoUdW1JBdDFtyD2Q7gXYTH2pWZerx9caVG880fZuwoPsfy1JIK_V7JnG8bngXB0CtwARKBl2UrA7MpUlG-HANmB4UJWLisF3t87Umc-hJ4FjC9EjDDMzPKwt0skfno2Q==`</details>
 
 **JK**: 50,000って多いんですか？
 
@@ -64,8 +63,7 @@ Tags: Rainwear, Guide
 
 **先生**: わかる。ティフォンを着ると、蒸れにくさが明らかに違う。私も何度か使ったが、夏の北アルプスで汗だくになりながら行動しても、ウェア内がベタベタしにくいんだ。
 
-> 出典: "ゴアテックスのアクティブシェルと同等レベルの透湿性という声もあります"
-> URL: https://solitary-boy.com
+**参考情報**: 「ゴアテックスのアクティブシェルと同等レベルの透湿性という声もあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm1eU54kkd2SoPZ0GuduW3DzXwHY9aQSrL3pGJ5VKpUf185AXM63VS3NjmKNHrZbvKSNFjHelN2-LrnhWtlLJmlW_xUjAqzPAGho_PdKjUQ09_gN4=`</details>
 
 **JK**: へー！でも透湿性が高いってことは、防水性が低いんじゃ…？
 
@@ -85,15 +83,13 @@ Tags: Rainwear, Guide
 
 **先生**: はは、その気持ちはわかる。だがティフォンは違う。まるでソフトシェルやウィンドブレーカーを着ているような感覚で、レインウェア特有のゴワつきがほとんどない。
 
-> 出典: "従来のレインウェアにありがちなゴワつきが少なく、まるでソフトシェルやウィンドシェルのような着心地で、身体の動きを妨げません"
-> URL: https://yamahack.com
+**参考情報**: 「従来のレインウェアにありがちなゴワつきが少なく、まるでソフトシェルやウィンドシェルのような着心地で、身体の動きを妨げません」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeKZ_YJXYW75sxCwT96ET485_B3hMe5yMjfFhpCftuqoquKU6w5xAiz0JDUXINzTxyHgfTIST3-gUFI7yvmRzSIriC7Ie3c3MDHoA1uPbQDKtd7YA=`</details>
 
 **JK**: えっ、それすごくないですか！？
 
 **先生**: 実際、多くのユーザーが「とにかく軽い」「レインウェアとは思えないほど柔らかい」と評価している。
 
-> 出典: "実際に着用した多くのユーザーが「とにかく軽い」と感じており、レインウェアとは思えないほど柔らかく、ウィンドシェルを羽織っているような軽快さがあると評されています"
-> URL: https://yamap.com
+**参考情報**: 「実際に着用した多くのユーザーが「とにかく軽い」と感じており、レインウェアとは思えないほど柔らかく、ウィンドシェルを羽織っているような軽快さがあると評されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPiRt4Od8bfZXLglaKl3tCaINpE-c2BLGGskneRF-33u-avJeDEIbKNI6b_hYaC1O8wt2V-X1RZm-Zp4QxlJQiClXs1Oj1yhI9DAgXLcT6wQNRe78=`</details>
 
 ### ティフォン50000の弱点
 
@@ -105,15 +101,13 @@ Tags: Rainwear, Guide
 
 **先生**: まず**耐久性**だ。軽量性と透湿性を追求するために、生地が薄く作られている。岩場でこすったり、枝で引っ掻いたりすると、厚手のレインウェアより破れやすい。
 
-> 出典: "軽量性を追求しているため、生地が薄く、岩場などでの強い摩擦には注意が必要です。一般的な厚手のレインウェアと比較すると、擦れによる破れのリスクがある"
-> URL: https://yamakei-online.com
+**参考情報**: 「軽量性を追求しているため、生地が薄く、岩場などでの強い摩擦には注意が必要です。一般的な厚手のレインウェアと比較すると、擦れによる破れのリスクがある」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaskWgy0XD19NwTZ0o11F5PFDOMEae6pqYYZBhh9xef2L5kW-vlpuYdQOGhyddklxqG6Dl6kYQKhmOBIGBEPOYPvD5n1MhLiByNmSiinUEOwQy5h-JTXazc-u-oO-sFkxqYSs3F8fSEzbFaHlYjO4-2swShQ==`</details>
 
 **JK**: うわ、それ困りますね…。
 
 **先生**: もう一つ。生地がしなやかなぶん、**強風に晒されると体に張り付く**。冷たい風が吹くと寒気を感じやすいんだ。
 
-> 出典: "生地のしなやかさゆえ、強風に晒されると体に張り付き、寒気を感じやすい場合があります"
-> URL: https://kamiyama-online.com
+**参考情報**: 「生地のしなやかさゆえ、強風に晒されると体に張り付き、寒気を感じやすい場合があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuromBbnOST1FJ8g-Pp30b7sRvJ6GJC9VeKo4Fr-L8eXkXZBYb-DwfIO1eUikj-gw-SDjzxxT95hXAxqQWdchL-hBTAgPxHdCVVfDr2cUbYTJWHAfH5LdfX2tN45vR8szMYR2pqGo5KRkXXBP_zZxUamI8RHY9kOCg9bfO_uLxPqOIqdY3uxQLA7m_r4MGanw=`</details>
 
 **JK**: じゃあ、どんな人に向いてるんですか？
 
@@ -151,8 +145,7 @@ Tags: Rainwear, Guide
 
 **先生**: Mサイズで**約163g**だ。スマートフォン1台より軽い。
 
-> 出典: "超軽量モデルの「ティフォン ファントム トレックジャケット」は、Mサイズで163gと非常に軽く"
-> URL: https://yamap.com
+**参考情報**: 「超軽量モデルの「ティフォン ファントム トレックジャケット」は、Mサイズで163gと非常に軽く」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEAKUi71Mf5ORrikYlKj6R6l2y6xXv7idMUWSSM7TBPvUGacfvAuv6udBS8lWKcuz9K2Ongnz0IimCj4V7onBp4pG_enk4p_xgsuzgsWqVH6HlbaPL5LgQbyPf`</details>
 
 **JK**: えっ！？レインウェアってそんな軽くできるんですか！？
 
@@ -170,8 +163,7 @@ Tags: Rainwear, Guide
 
 **先生**: ただし注意点がある。裏地起毛のぶん、低山など気温が高い環境では蒸れを感じやすくなる。
 
-> 出典: "「ティフォン50000ウォーム」のような裏地起毛の秋冬向けモデルは、低山など気温の高い場所では、透湿性が高くても蒸れを感じやすい場合があります"
-> URL: https://kamiyama-online.com
+**参考情報**: 「「ティフォン50000ウォーム」のような裏地起毛の秋冬向けモデルは、低山など気温の高い場所では、透湿性が高くても蒸れを感じやすい場合があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuromBbnOST1FJ8g-Pp30b7sRvJ6GJC9VeKo4Fr-L8eXkXZBYb-DwfIO1eUikj-gw-SDjzxxT95hXAxqQWdchL-hBTAgPxHdCVVfDr2cUbYTJWHAfH5LdfX2tN45vR8szMYR2pqGo5KRkXXBP_zZxUamI8RHY9kOCg9bfO_uLxPqOIqdY3uxQLA7m_r4MGanw=`</details>
 
 **JK**: なるほど、使う季節と場所を考えないといけないんですね。
 
@@ -191,8 +183,7 @@ Tags: Rainwear, Guide
 
 **先生**: カメットGTXは3層構造のGORE-TEX生地を使っている。引き裂きや摩耗に強い丈夫なナイロンで、岩場でも安心して使える。
 
-> 出典: "体の動きを計算した立体裁断により、無駄のないデザインで、幅広いマウンテンスポーツに対応する運動性を持ち合わせています"
-> URL: https://gsmall.jp
+**参考情報**: 「体の動きを計算した立体裁断により、無駄のないデザインで、幅広いマウンテンスポーツに対応する運動性を持ち合わせています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkR4NREYG4XUP1p5OgrJt4bZU492pMdZK14wf6X_VfVuRL7FYrzj5-Qau6vq4gFEZd4PPial2MNeNu5O2E73TvQSWeeb1h6HT5U9cDUa0a9rMpinGh5fT7WTsvhMg6j03Sj8nKm0s0`</details>
 
 **JK**: でもGORE-TEXって、ゴワゴワするイメージあるんですけど…。
 
@@ -202,8 +193,7 @@ Tags: Rainwear, Guide
 
 **先生**: 約50,000円〜61,600円だ。
 
-> 出典: "カメット ライト ゴアテックス ジャケット (MIV7739)は、約61,600円（税込）で販売されているケースや、セール期間中には割引された価格（例：49,580円、または30%オフ）で見られることもあります"
-> URL: https://rakuten.co.jp
+**参考情報**: 「カメット ライト ゴアテックス ジャケット (MIV7739)は、約61,600円（税込）で販売されているケースや、セール期間中には割引された価格（例：49,580円、または30%オフ）で見られることもあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkR4NREYG4XUP1p5OgrJt4bZU492pMdZK14wf6X_VfVuRL7FYrzj5-Qau6vq4gFEZd4PPial2MNeNu5O2E73TvQSWeeb1h6HT5U9cDUa0a9rMpinGh5fT7WTsvhMg6j03Sj8nKm0s0`</details>
 
 **JK**: 高っ！ティフォンより2万円も高いじゃないですか！
 
@@ -251,8 +241,7 @@ Tags: Rainwear, Guide
 
 **先生**: シャモニーの山岳ガイドからのフィードバックを基に開発された、エキスパート向けのジャケットだ。厳冬期の登山やアルパインクライミングなど、最も過酷な環境で使うことを想定している。
 
-> 出典: "シャモニー山岳ガイドからのフィードバックを基に開発され、エキスパートのニーズに応えるべく、耐久性、防水透湿性、運動性を高次元で兼ね備えています"
-> URL: https://millet.jp
+**参考情報**: 「シャモニー山岳ガイドからのフィードバックを基に開発され、エキスパートのニーズに応えるべく、耐久性、防水透湿性、運動性を高次元で兼ね備えています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp7yPVSMrk_xJiDP44-tOLTlr40G9wB_s2OViMAE5isv7ic08Twoz7bUHtiJbvpXdzZTxWizHbkkrZIA8TjtSysmhaCBTkDf-n5ipXVqueI4jaH6fJhMRDJQ==`</details>
 
 **JK**: シャモニーって、あのヨーロッパの？
 
@@ -294,8 +283,7 @@ Tags: Rainwear, Guide
 
 **先生**: ミレーのSサイズは、日本のMサイズに相当する。つまり、**普段よりワンサイズ小さいものを選ぶ**のが基本だ。
 
-> 出典: "EUROのSサイズが日本のMサイズに相当するなど、普段着用している日本のサイズよりワンサイズ小さいものを選ぶのが推奨されています"
-> URL: https://campify.jp
+**参考情報**: 「EUROのSサイズが日本のMサイズに相当するなど、普段着用している日本のサイズよりワンサイズ小さいものを選ぶのが推奨されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjfo-q2epSXslGNbOYVNJ-VQ7PqN9U2UAxiv7gKM40eNwYyiIZex0UZhM4Y7XfzbzCvFS3ssh3MUAMU8ct3xf_N52DxLdHFViEO6DvMtmleATnNyYR5t56OECNSt3K71_txNuGf1Hd5bffBg5a7I29iv_H4v_wnrV0VQXLyordEVLcMHtIHcfilby3GiqZgn85meLsHN2WCd4sNgCqsVHAwpA3BdEkYZuGhOWfAxmTc-dot2TVCGeX7NZhcaAwTUr2Qm5EzeNUKFqZowPl2uOejiLOLMu3wzjHYiMavMx49g-yzYz3GD1H7oo55EXd2AA92NmtU-Da0Q==`</details>
 
 **JK**: えー！知らなかったら失敗するところだった！
 
@@ -307,8 +295,7 @@ Tags: Rainwear, Guide
 
 **先生**: 例えば身長172cm、体重72kgの男性がMサイズ（EUROサイズ）を着用したレビューでは、「ゆとりがありインナーを着込むことも可能」だそうだ。
 
-> 出典: "172cm、72kgの男性がMサイズ（EUROサイズ）を着用したレビューでは、ゆとりがありインナーを着込むことも可能と報告されています"
-> URL: https://youtube.com
+**参考情報**: 「172cm、72kgの男性がMサイズ（EUROサイズ）を着用したレビューでは、ゆとりがありインナーを着込むことも可能と報告されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv9Hq5maVyTmAnIv6-TT7Q0oGCS71xvmlstwaM-NWOD3-6eaknLFKKoqxBt1e1Who2z9VcI3ozp2HqGsJ7mACMGuG1kZC0Osni8i2Nd7p7yf8LW0c=`</details>
 
 **先生**: 女性だと、身長161cm、体重54kgでSサイズを選んで「ストレッチが効いて動きやすい」という声もある。
 
@@ -324,8 +311,7 @@ Tags: Rainwear, Guide
 
 **先生**: ティフォン50000のジャケットが約35,000円、パンツが約21,000円。合わせて**約5〜6万円**といったところだ。
 
-> 出典: "ティフォン ストレッチパンツは、税別で19,000円程度の価格"
-> URL: https://yamakei-online.com
+**参考情報**: 「ティフォン ストレッチパンツは、税別で19,000円程度の価格」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoZC_eWoAzPzqMtap16prae24rjLxLakj-TQ9FIPicvwQ_YAc1QnC1wtSnqzDy-VI5hVXTWt5JwX19vcoNy4eWql76SJhbw-kXlCHrtVEQouRSInMsenYhSLh-E9lYuonqlYlRhig=`</details>
 
 **JK**: うーん、結構しますね…。初心者にはハードル高いなぁ。
 
@@ -354,8 +340,7 @@ Tags: Rainwear, Guide
 | **ノースフェイス** | クライムライト | 機能性とデザイン性の融合 | 約35,000円〜 |
 | **パタゴニア** | トレントシェル3L | 環境配慮、高い耐久性 | 約28,000円〜 |
 
-> 出典: "ミレーのレインウェアは、特に「ティフォン50000」シリーズが高い評価を得ています...非常に高い透湿性 (50,000g/m²/24h) と優れたストレッチ性を兼ね備えています"
-> URL: https://millet.jp
+**参考情報**: 「ミレーのレインウェアは、特に「ティフォン50000」シリーズが高い評価を得ています...非常に高い透湿性 (50,000g/m²/24h) と優れたストレッチ性を兼ね備えています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcISBkogGRumSI_18FVXH0DDoI3Et_-HFjInjS-6wHeqV3_F8VuZ80PRFxrQOZcyuDHnGlDO5odZVX1bXWQEQNUfYkWcPmgT6Vp5OmfO0-ilK8Xvu3t_jRal2BgtW50tGw9okKqtVk5XSaSDm5YX3WCYbT_NcO`</details>
 
 **JK**: モンベルが一番安くて、ミレーとノースフェイスが同じくらいなんですね。
 
@@ -381,8 +366,7 @@ Tags: Rainwear, Guide
 
 **先生**: まず洗剤選び。必ず**アウトドア専用洗剤**を使うこと。柔軟剤や漂白剤は絶対に使ってはいけない。
 
-> 出典: "漂白剤、柔軟剤、蛍光増白剤入りの洗剤、香り付きの洗剤は、撥水性能を低下させる可能性があるため使用しないでください"
-> URL: https://millet.jp
+**参考情報**: 「漂白剤、柔軟剤、蛍光増白剤入りの洗剤、香り付きの洗剤は、撥水性能を低下させる可能性があるため使用しないでください」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1BWJTMu5daFDvhyVEn302jwBop7l-XfAVELdVVSp7a_Z-21tM6qOHbmqj4492lh2KyVX2fakO2UuQGQ2M_ZW_4uKGqh8zIjGD3C7XFJkvz3VWo4wJOzQ8Bg0=`</details>
 
 **JK**: 柔軟剤ダメなんですか！？いい匂いになるのに…。
 
@@ -392,8 +376,7 @@ Tags: Rainwear, Guide
 
 **先生**: ティフォンのような薄手の生地は**手洗い推奨**だ。40℃以下のぬるま湯で優しく洗い、念入りにすすぐ。洗剤が残ると撥水性能に影響する。
 
-> 出典: "脱水は、優しく押すように水気を切ります。洗濯機での脱水や強く絞ることは、メンブレン（防水フィルム）の破損につながる恐れがあるため避けてください"
-> URL: https://yamahack.com
+**参考情報**: 「脱水は、優しく押すように水気を切ります。洗濯機での脱水や強く絞ることは、メンブレン（防水フィルム）の破損につながる恐れがあるため避けてください」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPiRt4Od8bfZXLglaKl3tCaINpE-c2BLGGskneRF-33u-avJeDEIbKNI6b_hYaC1O8wt2V-X1RZm-Zp4QxlJQiClXs1Oj1yhI9DAgXLcT6wQNRe78=`</details>
 
 **JK**: 脱水は洗濯機でやっちゃダメ？
 
@@ -405,8 +388,7 @@ Tags: Rainwear, Guide
 
 **先生**: 熱処理が有効だ。低温〜中温の乾燥機に20分ほどかけると、撥水性が回復する。
 
-> 出典: "Gore-Tex製品は、完全に乾いた後、中温で20分ほど乾燥機にかけることで撥水性が回復します"
-> URL: https://lenet.jp
+**参考情報**: 「Gore-Tex製品は、完全に乾いた後、中温で20分ほど乾燥機にかけることで撥水性が回復します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1BWJTMu5daFDvhyVEn302jwBop7l-XfAVELdVVSp7a_Z-21tM6qOHbmqj4492lh2KyVX2fakO2UuQGQ2M_ZW_4uKGqh8zIjGD3C7XFJkvz3VWo4wJOzQ8Bg0=`</details>
 
 **JK**: 乾燥機がない場合は？
 
@@ -416,8 +398,7 @@ Tags: Rainwear, Guide
 
 **先生**: 保管も大事だ。スタッフバッグに入れっぱなしにすると湿気で生地が傷む。
 
-> 出典: "スタッフバッグやビニール袋に入れたまま保管すると、湿気が残りやすく生地にダメージを与える可能性があるため避けてください"
-> URL: https://millet.jp
+**参考情報**: 「スタッフバッグやビニール袋に入れたまま保管すると、湿気が残りやすく生地にダメージを与える可能性があるため避けてください」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcISBkogGRumSI_18FVXH0DDoI3Et_-HFjInjS-6wHeqV3_F8VuZ80PRFxrQOZcyuDHnGlDO5odZVX1bXWQEQNUfYkWcPmgT6Vp5OmfO0-ilK8Xvu3t_jRal2BgtW50tGw9okKqtVk5XSaSDm5YX3WCYbT_NcO`</details>
 
 **JK**: じゃあどうすればいいんですか？
 
