@@ -165,8 +165,8 @@
 ## 10. ミレー商品ジャンル別ガイド (Millet Product Guides)
 - [x] 124. ミレー レインウェア完全ガイド → `millet_rainwear_complete_guide.md` ✨**作成完了 (約10,400文字)**
 - [x] 125. ミレー リュック・バックパック完全ガイド → `millet_backpack_complete_guide.md` ✨**作成完了 (約18,000文字)**
-- [ ] 126. ミレー ダウンジャケット完全ガイド → `millet_down_complete_guide.md`
-- [ ] 127. ミレー フリース完全ガイド → `millet_fleece_complete_guide.md`
+- [x] 126. ミレー ダウンジャケット完全ガイド → `millet_down_complete_guide.md` ✨**作成完了 (約15,000文字)**
+- [x] 127. ミレー フリース完全ガイド → `millet_fleece_complete_guide.md` ✨**作成完了 (約17,000文字)**
 - [ ] 128. ミレー ソフトシェル完全ガイド → `millet_softshell_complete_guide.md`
 - [ ] 129. ミレー 登山靴・トレッキングシューズ完全ガイド → `millet_shoes_complete_guide.md`
 - [ ] 130. ミレー ドライナミック完全ガイド → `millet_drynamic_complete_guide.md`
