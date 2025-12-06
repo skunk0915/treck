@@ -226,49 +226,134 @@
   - アプローチシューズ、トレイルランニングシューズ
 
 ### アウター（ハードシェル・ソフトシェル・ダウン）
-- [ ] 160. マムート ハードシェル完全ガイド【Convey・Ayako・Nordwand徹底比較】 → `mammut_hardshell_complete_guide.md`
+- [x] 160. マムート ハードシェル完全ガイド【Convey・Ayako・Nordwand徹底比較】 → `mammut_hardshell_complete_guide.md` ✨**作成完了 (約15,000文字)**
   - Convey Tour HS: 2.5レイヤーGORE-TEX、軽量ハイキング向け
   - Ayako Pro 2.0 HS: 2レイヤーGORE-TEX、オールラウンド
   - Eiger Nordwand Pro/Advanced HS: GORE-TEX Pro、本格アルパイン向け
   - Fall Line HS Thermo: スキー向けインサレーション入り
 
-- [ ] 161. マムート ソフトシェル完全ガイド【Ultimate・Macun・Aenergy徹底比較】 → `mammut_softshell_complete_guide_2.md`
+- [x] 161. マムート ソフトシェル完全ガイド【Ultimate・Macun・Aenergy徹底比較】 → `mammut_softshell_complete_guide_2.md` ✨**作成完了 (約15,000文字)**
   - Ultimate VII Softshell: 防風・透湿・ストレッチ、定番モデル
   - Macun 2.0 Softshell: 軽量タイプ
   - Eiger Nordwand Pro SO: アルパイン向けハイエンド
   - Aenergyシリーズ: 高通気・アクティブ向け
 
-- [ ] 162. マムート ダウンジャケット完全ガイド【ドライダウン・Broad Peak・Taiss Pro徹底比較】 → `mammut_down_complete_guide.md`
+- [x] 162. マムート ダウンジャケット完全ガイド【ドライダウン・Broad Peak・Taiss Pro徹底比較】 → `mammut_down_complete_guide.md` ✨**作成完了 (約15,000文字)**
   - DRY DOWNコレクション2024秋冬: 撥水加工ダウン、湿気に強い
   - Broad Peak IN: 軽量コンパクト、携行用
   - Taiss Pro IN: ビレイ・ミッドレイヤー両用
   - Eiger Nordwand Light Down IN: アルパイン向け軽量ダウン
 
 ### ミッドレイヤー（フリース・インサレーション）
-- [ ] 163. マムート ミッドレイヤー完全ガイド【Excursion・Aconcagua・Crag IN徹底比較】 → `mammut_midlayer_complete_guide.md`
+- [x] 163. マムート ミッドレイヤー完全ガイド【Excursion・Aconcagua・Crag IN徹底比較】 → `mammut_midlayer_complete_guide.md` ✨**作成完了 (約15,000文字)**
   - Excursion Midlayer: Polartec Micro、オールシーズン定番フリース
   - Aconcaguaシリーズ: 軽量保温フリース
   - Crag Insulation: LOOPINSULATION（リサイクルロープ繊維）、氷点下対応
   - Flex Air IN: 化繊インサレーション
 
 ### クライミングハードウェア
-- [ ] 164. マムート クライミングギア完全ガイド【ロープ・ハーネス・カラビナ】 → `mammut_climbing_gear_complete_guide.md`
+- [x] 164. マムート クライミングギア完全ガイド【ロープ・ハーネス・カラビナ】 → `mammut_climbing_gear_complete_guide.md` ✨**作成完了 (約15,000文字)**
   - ロープ: 10.2 Crag Classic、8.0 Alpine Core Protect Dry、ロープメーカーの伝統
   - ハーネス: Sender、Comfort Fast Adjust、Ophir 3 Slide、Togir 2.0
   - カラビナ: Smart HMS 2.0、Classic HMS、Crag Key Lock
   - クイックドロー、スリング、チョーク・チョークバッグ
 
 ### アバランチセーフティ（雪崩装備）
-- [ ] 165. マムート 雪崩装備完全ガイド【バリーボックス・アルゲーター徹底解説】 → `mammut_avalanche_safety_complete_guide.md`
+- [x] 165. マムート 雪崩装備完全ガイド【バリーボックス・アルゲーター徹底解説】 → `mammut_avalanche_safety_complete_guide.md` ✨**作成完了 (約15,000文字)**
   - ビーコン: Barryvox S2（2024年新型）、Barryvox、Bluetooth対応、音声ガイダンス
   - プローブ: Speed Lockシステム、Probe 240/280/320、UIAA認定
   - ショベル: Alugator Light/Pro Light Hoe、Hoeモード切替、スノーアンカー対応
   - セーフティパッケージ、アバランチエアバッグシステム
 
 ### 帽子・グローブ・アクセサリー
-- [ ] 166. マムート 帽子・グローブ・アクセサリー完全ガイド → `mammut_accessories_complete_guide.md`
+- [x] 166. マムート 帽子・グローブ・アクセサリー完全ガイド → `mammut_accessories_complete_guide.md` ✨**作成完了 (約15,000文字)**
   - キャップ: Alnasca Cap、Crag Cap Logo、Climate GORE-TEX Cap
   - ビーニー: Tweak Beanie、Aenergy Beanie、リサイクル素材
   - グローブ: Stretch Glove、Passion Glove、アイガーフリーグローブ（GORE-TEX+PrimaLoft Gold）
   - ゲイター、マフラー、ベルト、ボトルホルダー、財布・ポーチ
+
+---
+
+## 14. カリマー商品ジャンル別ガイド (karrimor Product Guides)
+
+> **ブランド概要**: カリマー（karrimor）は1946年イギリス創業のアウトドアブランド。「Carry More（もっと運べる）」が語源で、高機能バックパックを中心に展開。「Naturestyle（ネイチャースタイル）」と「Lifestyle（ライフスタイル）」の2レーベルで幅広い商品を提供。
+
+### リュックサック・バックパック
+- [ ] 167. カリマー 大型リュック完全ガイド【cougar・dalesman徹底比較】 → `karrimor_large_backpack_complete_guide.md`
+  - cougar（クーガー）シリーズ: 55/75L、長期縦走・テント泊向け、PFバックシステム
+  - dalesman（デールスマン）シリーズ: 45/65/75L、ロングトレイル向け、軽量設計
+  - dalesmanシリーズ: 大型ザック入門〜上級者まで
+
+- [x] 168. カリマー 中型リュック完全ガイド【ridge・intrepid徹底比較】 → `karrimor_medium_backpack_complete_guide.md` ✨**作成完了 (約15,000文字)**
+  - ridge（リッジ）シリーズ: 30/40L、日帰り〜小屋泊登山向け、定番モデル
+  - intrepid（イントレピッド）シリーズ: 40L、軽量ハイキング向け
+  - SL（スーパーライト）モデル、エアメッシュバックシステム
+
+- [ ] 169. カリマー 小型リュック完全ガイド【tatra・sector・dale徹底比較】 → `karrimor_small_backpack_complete_guide.md`
+  - tatra（タトラ）シリーズ: 20/25L、デイハイク・タウンユース両用
+  - sector（セクター）シリーズ: 18/25L、コンパクトモデル
+  - dale（デール）シリーズ: ライト〜ミドルユース向け
+
+- [ ] 170. カリマー 女性向けリュック完全ガイド【WF（ウィメンズフィット）モデル徹底解説】 → `karrimor_womens_backpack_complete_guide.md`
+  - ridge WF: 女性の体型に合わせた背面設計
+  - cougar WF: 長めのトルソー、肩幅・ヒップベルト調整
+  - 女性向けサイジング・フィッティングのポイント
+
+- [ ] 171. カリマー ビジネス・ライフスタイルリュック完全ガイド【tribute・habitat徹底比較】 → `karrimor_lifestyle_backpack_complete_guide.md`
+  - tribute（トリビュート）シリーズ: ビジネス〜カジュアル両用
+  - habitat（ハビタット）シリーズ: タウンユース向けデザイン
+  - PC収納、通勤・通学対応モデル
+
+### ショルダー・ヒップバッグ・キャリー
+- [ ] 172. カリマー サコッシュ・ショルダーバッグ完全ガイド【trek carry・VT pouch徹底比較】 → `karrimor_shoulder_bag_complete_guide.md`
+  - trek carryシリーズ: 登山中のサブバッグ、アタッチメント対応
+  - VT pouchシリーズ: 多機能ポーチ
+  - ヒップバッグ、トートバッグ、キャリーケース・ダッフルバッグ
+
+### アパレル - アウター
+- [ ] 173. カリマー レインウェア完全ガイド【beaufort・summit・WTX徹底比較】 → `karrimor_rainwear_complete_guide.md`
+  - beaufort（ボーフォート）シリーズ: 軽量レインジャケット、WTX素材
+  - summitシリーズ: 本格登山向けレインウェア、3レイヤー
+  - WTXテクノロジー: カリマー独自防水透湿素材
+
+- [ ] 174. カリマー アウター・ジャケット完全ガイド【triton・arete・pordoi徹底比較】 → `karrimor_outer_complete_guide.md`
+  - triton（トライトン）シリーズ: シェルジャケット、オールシーズン
+  - arete（アレート）シリーズ: 山岳向けハードシェル
+  - pordoi（ポルドイ）シリーズ: ソフトシェル・ウィンドシェル
+  - ベスト製品も網羅
+
+- [ ] 175. カリマー ダウン・中綿ジャケット完全ガイド【nevis・global徹底比較】 → `karrimor_down_insulated_complete_guide.md`
+  - nevis（ネビス）シリーズ: ダウンジャケット、光電子ダウン
+  - globalシリーズ: 化繊インサレーション
+  - ダウンベスト、中綿ベスト、コート・ロング丈アウター
+
+- [ ] 176. カリマー フリース完全ガイド【trail・journey徹底比較】 → `karrimor_fleece_complete_guide.md`
+  - trail（トレイル）シリーズ: ミッドレイヤー向けフリース
+  - journey（ジャーニー）シリーズ: オールラウンドフリース
+  - ハーフジップ・フルジップ、ジップアップ製品
+
+### アパレル - ボトムス・その他
+- [ ] 177. カリマー シャツ・Tシャツ完全ガイド【DPF（ドライプロテクションファブリック）徹底解説】 → `karrimor_shirt_tshirt_complete_guide.md`
+  - 山シャツ: 速乾・UVカット素材
+  - ベースレイヤー: 吸汗速乾インナー
+  - Tシャツ: アクティブ〜カジュアル
+
+- [ ] 178. カリマー パンツ・ショーツ完全ガイド【comfy・trek・rigg徹底比較】 → `karrimor_pants_complete_guide.md`
+  - comfy（コンフィ）シリーズ: ストレッチトレッキングパンツ
+  - trek（トレック）シリーズ: 本格登山パンツ
+  - rigg（リグ）シリーズ: 軽量ショーツ
+  - スウェット・トレーナーも網羅
+
+### アクセサリ
+- [ ] 179. カリマー 帽子完全ガイド【サンシェード・ハット・キャップ・ビーニー徹底比較】 → `karrimor_headwear_complete_guide.md`
+  - サンシェード: UV対策キャップ、取り外し式シェード
+  - ハット: 広つばハット、撥水加工
+  - キャップ: メッシュキャップ、トレイルランニング向け
+  - ビーニー: 秋冬向け保温ニット帽
+
+- [ ] 180. カリマー グローブ・ネックウォーマー完全ガイド【PSP・windshell徹底比較】 → `karrimor_gloves_accessories_complete_guide.md`
+  - PSPグローブシリーズ: 防風・保温グローブ
+  - windshellグローブ: 軽量ウィンドシェルグローブ
+  - ネックウォーマー・ネックゲイター、ベルト
+  - リュック用レインカバー、ナルゲンボトル
 
