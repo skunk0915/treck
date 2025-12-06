@@ -203,7 +203,72 @@
 - [x] 153. DOD 焚き火台・BBQグリル完全ガイド（めちゃもえファイヤー・すけもえファイヤー・秘密のグリルさん等） → `dod_firepit_bbq_complete_guide.md` ✨**作成完了 (約18,000文字)**
 - [ ] 154. DOD 寝袋・コット完全ガイド（わがやのシュラフ・キャナリーコット・ジミニーコット等） → `dod_sleeping_gear_complete_guide.md`
 - [x] 155. DOD クーラーボックス完全ガイド（ソフトくらら・バベコロ等） → `dod_cooler_complete_guide.md` ✨**作成完了 (約18,000文字)**
-- [ ] 156. DOD キッチン・調理器具完全ガイド（シェラケトルアゲムシ・うさサンドメーカー等） → `dod_kitchen_cookware_complete_guide.md`
-- [ ] 157. DOD キャリーワゴン・収納完全ガイド（アルミキャリーワゴン・ストレージアウトドアテーブル・シェフレルシェルフ等） → `dod_storage_carry_complete_guide.md`
+- [x] 156. DOD キッチン・調理器具完全ガイド（シェラケトルアゲムシ・うさサンドメーカー等） → `dod_kitchen_cookware_complete_guide.md` ✨**作成完了 (約18,000文字)**
+- [x] 157. DOD キャリーワゴン・収納完全ガイド（アルミキャリーワゴン・ストレージアウトドアテーブル・シェフレルシェルフ等） → `dod_storage_carry_complete_guide.md` ✨**作成完了 (約18,000文字)**
 
+---
+
+## 13. マムート商品ジャンル別ガイド (MAMMUT Product Guides)
+
+> **ブランド概要**: マムート（MAMMUT）は1862年スイス創業の老舗アウトドアブランド。ロープメーカーとしての歴史を持ち、現在はクライミングギアからアパレルまで幅広い高品質製品を展開。
+
+### バックパック・リュック
+- [x] 158. マムート バックパック完全ガイド【リチウム・トリオン・デュカン徹底比較】 → `mammut_backpack_complete_guide.md` ✨**作成完了 (約14,000文字)**
+  - リチウム（Lithium）シリーズ: 15/20/25/30/40L、軽量ハイキング向け、レインカバー付属
+  - トリオン（Trion）シリーズ: 15/28/38L、アルパイン・クライミング向け、雪崩装備収納対応
+  - デュカン（Ducan）シリーズ: 22/24/Spine 28-35L、通気性重視ハイキング向け、エアスペースサスペンション
+
+### 登山靴・フットウェア
+- [x] 159. マムート 登山靴完全ガイド【デュカン・サピュエン・セリオン徹底比較】 → `mammut_shoes_complete_guide_2.md` ✨**作成完了 (約14,000文字)**
+  - デュカン（Ducan）II GTX: フレクストロン搭載、BOA/レース、ハイキング〜軽登山向け
+  - サピュエン（Sapuen）High GTX: フレクストロンII搭載、スピードハイキング向け
+  - セリオン（Serion）シリーズ: 本格登山・縦走向け
+  - アプローチシューズ、トレイルランニングシューズ
+
+### アウター（ハードシェル・ソフトシェル・ダウン）
+- [ ] 160. マムート ハードシェル完全ガイド【Convey・Ayako・Nordwand徹底比較】 → `mammut_hardshell_complete_guide.md`
+  - Convey Tour HS: 2.5レイヤーGORE-TEX、軽量ハイキング向け
+  - Ayako Pro 2.0 HS: 2レイヤーGORE-TEX、オールラウンド
+  - Eiger Nordwand Pro/Advanced HS: GORE-TEX Pro、本格アルパイン向け
+  - Fall Line HS Thermo: スキー向けインサレーション入り
+
+- [ ] 161. マムート ソフトシェル完全ガイド【Ultimate・Macun・Aenergy徹底比較】 → `mammut_softshell_complete_guide_2.md`
+  - Ultimate VII Softshell: 防風・透湿・ストレッチ、定番モデル
+  - Macun 2.0 Softshell: 軽量タイプ
+  - Eiger Nordwand Pro SO: アルパイン向けハイエンド
+  - Aenergyシリーズ: 高通気・アクティブ向け
+
+- [ ] 162. マムート ダウンジャケット完全ガイド【ドライダウン・Broad Peak・Taiss Pro徹底比較】 → `mammut_down_complete_guide.md`
+  - DRY DOWNコレクション2024秋冬: 撥水加工ダウン、湿気に強い
+  - Broad Peak IN: 軽量コンパクト、携行用
+  - Taiss Pro IN: ビレイ・ミッドレイヤー両用
+  - Eiger Nordwand Light Down IN: アルパイン向け軽量ダウン
+
+### ミッドレイヤー（フリース・インサレーション）
+- [ ] 163. マムート ミッドレイヤー完全ガイド【Excursion・Aconcagua・Crag IN徹底比較】 → `mammut_midlayer_complete_guide.md`
+  - Excursion Midlayer: Polartec Micro、オールシーズン定番フリース
+  - Aconcaguaシリーズ: 軽量保温フリース
+  - Crag Insulation: LOOPINSULATION（リサイクルロープ繊維）、氷点下対応
+  - Flex Air IN: 化繊インサレーション
+
+### クライミングハードウェア
+- [ ] 164. マムート クライミングギア完全ガイド【ロープ・ハーネス・カラビナ】 → `mammut_climbing_gear_complete_guide.md`
+  - ロープ: 10.2 Crag Classic、8.0 Alpine Core Protect Dry、ロープメーカーの伝統
+  - ハーネス: Sender、Comfort Fast Adjust、Ophir 3 Slide、Togir 2.0
+  - カラビナ: Smart HMS 2.0、Classic HMS、Crag Key Lock
+  - クイックドロー、スリング、チョーク・チョークバッグ
+
+### アバランチセーフティ（雪崩装備）
+- [ ] 165. マムート 雪崩装備完全ガイド【バリーボックス・アルゲーター徹底解説】 → `mammut_avalanche_safety_complete_guide.md`
+  - ビーコン: Barryvox S2（2024年新型）、Barryvox、Bluetooth対応、音声ガイダンス
+  - プローブ: Speed Lockシステム、Probe 240/280/320、UIAA認定
+  - ショベル: Alugator Light/Pro Light Hoe、Hoeモード切替、スノーアンカー対応
+  - セーフティパッケージ、アバランチエアバッグシステム
+
+### 帽子・グローブ・アクセサリー
+- [ ] 166. マムート 帽子・グローブ・アクセサリー完全ガイド → `mammut_accessories_complete_guide.md`
+  - キャップ: Alnasca Cap、Crag Cap Logo、Climate GORE-TEX Cap
+  - ビーニー: Tweak Beanie、Aenergy Beanie、リサイクル素材
+  - グローブ: Stretch Glove、Passion Glove、アイガーフリーグローブ（GORE-TEX+PrimaLoft Gold）
+  - ゲイター、マフラー、ベルト、ボトルホルダー、財布・ポーチ
 
