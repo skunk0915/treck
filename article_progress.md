@@ -363,3 +363,135 @@
   - ストレッチフリースグローブ、ウールグローブ、トレックメッシュグローブ
   - ネックウォーマー（Octa サーマル、UVゲイター）、ベルト、レインカバー、ナルゲンボトル
 
+---
+
+## 15. アークテリクス商品ジャンル別ガイド (Arc'teryx Product Guides)
+
+> **ブランド概要**: アークテリクス（Arc'teryx）は1989年カナダ・バンクーバー創業の高機能アウトドアブランド。ロッククライミング用ハーネスからスタートし、現在はGORE-TEX技術を駆使したシェルジャケットやバックパック、ウェア全般で世界的評価を獲得。製品名は「用途シリーズ名 + 機能修飾子（SV/AR/LT/FL等）」で構成され、目的別に最適化されている。
+
+### ハードシェル・アウター
+- [x] 181. アークテリクス ハードシェル完全ガイド【Alpha・Beta・Zeta徹底比較】 → `arcteryx_hardshell_complete_guide.md` ✨**作成完了 (約18,000文字)**
+  - **Alpha（アルファ）シリーズ**: クライミング・登山特化、ハーネス対応短丈、GORE-TEX Pro
+    - Alpha SV: 最高峰の耐久性（Severe Weather）、過酷環境向け
+    - Alpha AR: オールラウンド、汎用性高
+    - Alpha FL: ファスト＆ライト、最軽量
+  - **Beta（ベータ）シリーズ**: 汎用性最高、ヒップ丈、日常〜登山まで対応
+    - Beta Jacket: シンプルで使いやすいスタンダードモデル
+    - Beta LT: 軽量バージョン
+    - Beta AR: オールラウンド、ハイブリッド構造
+    - Beta SV: 最長丈、最高耐久性
+  - **Zeta（ゼータ）シリーズ**: トレッキング・ハイキング向け、軽量パッカブル
+  - **Gamma（ガンマ）シリーズ**: ソフトシェル、耐風・撥水・高ストレッチ、通気性重視
+    - Gamma MX: 保温性あり、アウター兼ミッド
+    - Gamma LT: 3シーズン汎用
+  - **Sabre（セイバー）シリーズ**: スキー・スノーボード向け
+  - **Squamish Hoody**: ウィンドシェル、超軽量携帯性
+  - 修飾子（SV/AR/LT/SL/FL/MX）の意味解説
+
+### インサレーテッド・ダウンジャケット
+- [ ] 182. アークテリクス ダウン・中綿ジャケット完全ガイド【Atom・Cerium・Thorium徹底比較】 → `arcteryx_insulated_complete_guide.md`
+  - **Atom（アトム）シリーズ**: 化繊Coreloft™、濡れても保温、ミッド兼アウター
+    - Atom LT Hoody: 軽量汎用、人気No.1
+    - Atom SV Hoody: 最厚手、厳冬対応
+  - **Cerium（セリウム）シリーズ**: 高品質グースダウン、高保温・軽量、ダウンコンポジットマッピング
+    - Cerium Hoody/Jacket: 軽量汎用ダウン
+    - Cerium SV Hoody: 最暖、最丈夫
+  - **Thorium（ソリウム）シリーズ**: 750FPダウン、Arato™シェル、高耐久保温
+    - Thorium Hoody/Jacket: 保温性と耐久性の両立
+  - **Fission（フィッション）シリーズ**: 防水中綿アウター
+  - **Beta Down Jacket**: GORE-TEX + 850FPダウン、完全防水ダウン
+  - **Therme Down Jacket/Parka**: 都市型GORE-TEXダウン
+  - **Solano Down Hoody**: GORE-TEX INFINIUM™、防風都会派
+
+### ミッドレイヤー・フリース
+- [ ] 183. アークテリクス フリース・ミッドレイヤー完全ガイド【Delta・Kyanite・Covert徹底比較】 → `arcteryx_fleece_midlayer_complete_guide.md`
+  - **Delta（デルタ）シリーズ**: 軽量速乾フリース、高通気性
+    - Delta Jacket/Hoody: 温かく着回し抜群
+  - **Kyanite（カイアナイト）シリーズ**: Polartec Power Stretch Pro™、高伸縮・保温
+    - Kyanite Hoody/Jacket: 汎用性高いフリース
+  - **Covert Cardigan**: セーター風デザイン、日常使い最適
+  - **Konseal（コンシール）シリーズ**: クライミング特化、耐久・通気性
+  - **Emblem Fleece**: 新シリーズ、フルジップフーディ・クルーネック・ジョガー
+
+### バックパック・リュック
+- [ ] 184. アークテリクス バックパック完全ガイド【Mantis・Arro・Alpha・Blade全シリーズ徹底比較】 → `arcteryx_backpack_complete_guide.md`
+  - **Mantis（マンティス）シリーズ**: デイリー〜軽ハイキング、汎用性高、豊富ポケット
+    - Mantis 16/20/26/30: 容量別ラインナップ
+    - Mantis 1/2 Waistpack: 小型ウエスト・ショルダーバッグ
+  - **Arro（アロー）シリーズ**: アイコンモデル、都会的デザイン、縦型カンガルーポケット
+    - Arro 16/22: PC収納、通勤通学〜ハイキング
+    - Arro 20 Bucket Bag: モダンデザイン
+    - Arro Waist Pack: コンパクトウエスト
+  - **Granville（グランヴィル）シリーズ**: 耐候性・耐久性、悪天候対応都市型
+    - Granville 16/25: PC対応、N400r-AC²耐候素材
+    - Granville 30 Carryall Bag: 大型キャリーオール
+  - **Blade（ブレード）シリーズ**: ビジネス特化、PC・タブレット収納最適
+    - Blade 6/20/28: 容量別、出張対応
+  - **Alpha（アルファ）シリーズ**: 山岳・アルパイン特化、軽量高耐久
+    - Alpha SL 23: 超軽量サミットパック
+    - Alpha FL 20/30: ミニマリストクライミング、Hadron AC²素材
+    - Alpha AR 35/55: 拡張性・防水性・耐久性、13箇所フック
+  - **Heliad（ヒリアド）シリーズ**: 軽量パッカブル、オフィス〜旅行〜ハイキング
+    - Heliad 10/15: デイパック、パッカブル
+    - Heliad Crossbody Bag: ショルダー・ウエスト兼用
+  - **Index（インデックス）シリーズ**: 旧モデル（Heliadに移行）、軽量サミット
+  - **Aerios（エアリオス）シリーズ**: ハイキング・トレッキング、15〜45L、メンズ・ウィメンズ別
+  - **Bora AR（ボラAR）**: 廃盤人気モデル、大型登山・雪山、Bora AR 50/63
+
+### ベースレイヤー
+- [ ] 185. アークテリクス ベースレイヤー完全ガイド【Rho・Satoro・Phase徹底比較】 → `arcteryx_baselayer_complete_guide.md`
+  - **Rho（ロー）シリーズ**: 熱効率良好、湿気排出、合成繊維
+  - **Satoro（サトロ）シリーズ**: メリノウール、自然吸湿・防臭
+  - **Phase（フェイズ）シリーズ**: 高負荷アクティビティ向け、超速乾
+
+### パンツ・ボトムス
+- [ ] 186. アークテリクス パンツ完全ガイド【Beta・Gamma・Lefroy徹底比較】 → `arcteryx_pants_complete_guide.md`
+  - **Beta（ベータ）シリーズ**: GORE-TEX 3L、完全防水・防風・透湿、悪天候登山・スキー
+    - Beta LT/AR/SV Pant: 耐久性・重量で細分化
+    - C-KNITバッカー、PFASフリーGORE-TEX ePE、80デニールリサイクルナイロン
+  - **Gamma（ガンマ）シリーズ**: ソフトシェル、耐風・撥水（DWR）、高ストレッチ・通気性
+    - Gamma Lightweight: 夏向け
+    - Gamma Quick Dry: 速乾、水辺向け
+    - Gamma LT: 軽量万能
+    - Fortius™/Aequora AirPerm™素材
+  - **Lefroy（レフロイ）シリーズ**: 軽量・高透湿・速乾、暖かい季節特化
+    - Aequora AirPerm™素材、トリムフィット、タウンユース兼用
+
+### グローブ・手袋
+- [ ] 187. アークテリクス グローブ完全ガイド【Venta・Rivet・Alpha徹底比較】 → `arcteryx_gloves_complete_guide.md`
+  - **Venta（ベンタ）シリーズ**: GORE-TEX INFINIUM™、軽量防風透湿、XCスキー・トレラン・冬ハイキング
+    - Venta AR Glove: 厚手起毛、高防水
+    - フリース内側、TPU補強、タッチスクリーン対応
+  - **Rivet（リベット）シリーズ**: Polartec Power Stretch + Hardface™、耐久・通気、雪弾く
+    - レザー補強、タッチスクリーン対応、単体〜インナー兼用
+  - **Alpha（アルファ）シリーズ**: クライミング・アルパイン特化
+    - Alpha AR Glove: 汎用登山、耐久性
+    - Alpha SL Glove: 軽量防風、GORE WINDSTOPPER + レザー
+    - Alpha SV Glove: GORE-TEX Pro 3L + Lezanova leather、冬季最高峰
+    - Alpha FL Glove: GORE-TEX + PrimaLoft、防水透湿、登攀向け
+
+### 帽子・ビーニー・キャップ
+- [ ] 188. アークテリクス 帽子・ビーニー・キャップ完全ガイド【Elaho・Grotto・Bird全モデル徹底解説】 → `arcteryx_headwear_complete_guide.md`
+  - **Elaho（イラオ）シリーズ**:
+    - Elaho Cap: 軽量ハイキングキャップ、UPF 50+、ポリエステル平織、ストレッチ・通気性
+  - **Grotto（グロット）シリーズ**: ビーニー（トーク）
+    - Grotto Toque: ウール混厚手フリース、リブ編みカフ、保温性高
+    - Lightweight Grotto Toque / Grotto Rib Toque: バリエーション
+  - **Bird（バード）シリーズ**: クラシックロゴビーニー
+    - Bird Head Toque: ウール＋リサイクルポリエステル、ブラッシュ加工
+    - Bird Word Toque/Trucker Cap: ロゴ入りバリエーション
+    - Small Bird Cap: ロゴキャップ
+  - **その他モデル**:
+    - Gamma 5 Panel Cap: ストレッチ・通気性
+    - Wool Calidum 5 Panel Hat: ウール5パネル
+    - Mallow Toque: ビーニー
+    - Rho Lightweight Wool Toque: 軽量ウールビーニー
+
+### アクセサリー・小物
+- [ ] 189. アークテリクス アクセサリー・小物完全ガイド【ソックス・ネックゲイター・バッグ類】 → `arcteryx_accessories_complete_guide.md`
+  - ソックス（登山・トレッキング用）
+  - ネックゲイター・ネックウォーマー
+  - ベルト
+  - 小型バッグ（サコッシュ、ポーチ）
+  - その他小物類
+
