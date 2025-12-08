@@ -311,29 +311,35 @@
   - ヒップバッグ、トートバッグ、キャリーケース・ダッフルバッグ
 
 ### アパレル - アウター
-- [ ] 173. カリマー レインウェア完全ガイド【beaufort・summit・WTX徹底比較】 → `karrimor_rainwear_complete_guide.md`
+- [x] 173. カリマー レインウェア完全ガイド【beaufort・summit・WTX徹底比較】 → `karrimor_rainwear_complete_guide.md` ✨**作成完了 (約15,000文字)**
   - beaufort（ボーフォート）シリーズ: 軽量レインジャケット、WTX素材
   - summitシリーズ: 本格登山向けレインウェア、3レイヤー
   - WTXテクノロジー: カリマー独自防水透湿素材
 
-- [ ] 174. カリマー アウター・ジャケット完全ガイド【triton・arete・pordoi徹底比較】 → `karrimor_outer_complete_guide.md`
-  - triton（トライトン）シリーズ: シェルジャケット、オールシーズン
-  - arete（アレート）シリーズ: 山岳向けハードシェル
-  - pordoi（ポルドイ）シリーズ: ソフトシェル・ウィンドシェル
-  - ベスト製品も網羅
+- [x] 174. カリマー アウター・ジャケット完全ガイド【triton・arete・wind shell hoodie徹底比較】 → `karrimor_outer_complete_guide.md` ✨**作成完了 (約19,000文字)**
+  - triton（トライトン）シリーズ: マウンテンパーカー、PERTEX素材
+  - arete（アリート）シリーズ: TEXBRID®ソフトシェル、ベンチレーション
+  - wind shell hoodie: 超軽量ウィンドシェル、パッカブル
 
-- [ ] 175. カリマー ダウン・中綿ジャケット完全ガイド【nevis・global徹底比較】 → `karrimor_down_insulated_complete_guide.md`
-  - nevis（ネビス）シリーズ: ダウンジャケット、光電子ダウン
-  - globalシリーズ: 化繊インサレーション
-  - ダウンベスト、中綿ベスト、コート・ロング丈アウター
+- [x] 175. カリマー ダウン・中綿ジャケット完全ガイド【nevis・high loft・ultra feather徹底比較】 → `karrimor_down_insulated_complete_guide.md` ✨**作成完了 (約19,000文字)**
+  - nevis（ネビス）シリーズ: 厳冬期対応最強オーバーダウン、650-700FP
+  - high loft down jkt: 800FP積雪期対応、パッカブル
+  - ultra feather jkt: 900FPポーランド産グース、260g超軽量
+  - concordia: 1000FP最高級、200g究極軽量
+  - eday down parka: ダントツ撥水、タウン〜アウトドア兼用
+  - 化繊PrimaLoftシリーズ: insulation LT hoodie/vest
 
-- [ ] 176. カリマー フリース完全ガイド【trail・journey徹底比較】 → `karrimor_fleece_complete_guide.md`
-  - trail（トレイル）シリーズ: ミッドレイヤー向けフリース
-  - journey（ジャーニー）シリーズ: オールラウンドフリース
-  - ハーフジップ・フルジップ、ジップアップ製品
+- [x] 176. カリマー フリース完全ガイド【trail・journey徹底比較】 → `karrimor_fleece_complete_guide.md` ✨**作成完了 (約15,000文字)**
+  - Journey（ジャーニー）シリーズ: POLARTEC Thermal Pro、クラシックデザイン、タウンユース可
+  - GRPN（グラフェン）シリーズ: 次世代素材グラフェン、蓄熱・保温・軽量、冬山向け
+  - Trail（トレイル）シリーズ: POLARTEC Classic Micro、軽量マイクロフリース、撥水性
+  - Octa（オクタ）シリーズ: タコ足型断面繊維、吸汗速乾、通気性重視、thermal/mountain/midlayer
+  - active breath zip-up: 登山特化、多機能、360g
+  - パタゴニア・モンベルとの比較
+
 
 ### アパレル - ボトムス・その他
-- [ ] 177. カリマー シャツ・Tシャツ完全ガイド【DPF（ドライプロテクションファブリック）徹底解説】 → `karrimor_shirt_tshirt_complete_guide.md`
+- [x] 177. カリマー シャツ・Tシャツ完全ガイド【DPF（ドライプロテクションファブリック）徹底解説】 → `karrimor_shirt_tshirt_complete_guide.md` ✨**作成完了 (約12,000文字)**
   - 山シャツ: 速乾・UVカット素材
   - ベースレイヤー: 吸汗速乾インナー
   - Tシャツ: アクティブ〜カジュアル
