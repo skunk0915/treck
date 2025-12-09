@@ -369,12 +369,90 @@ foreach ($article['tags'] as $tag) {
     $relatedByTag[$tag] = array_slice($relatedByTag[$tag], 0, 5);
 }
 
+
+// Helper: Generate Table of Contents
+function generateTOC(&$content)
+{
+    $toc = '';
+    $matches = [];
+    if (preg_match_all('/<h([2-3])>(.*?)<\/h[2-3]>/', $content, $matches, PREG_SET_ORDER)) {
+        $toc .= '<div class="toc-container">';
+        $toc .= '<p class="toc-title">目次 <button class="toc-toggle">[-]</button></p>';
+        $toc .= '<ul class="toc-list">';
+        
+        $currentLevel = 2;
+        $counter = 0;
+        $openLi = false;
+
+        foreach ($matches as $match) {
+            $level = (int)$match[1];
+            $text = strip_tags($match[2]);
+            $id = 'section-' . ++$counter;
+
+            // Add ID to the original header in content
+            $content = str_replace($match[0], "<h$level id=\"$id\">" . $match[2] . "</h$level>", $content);
+
+            if ($level > $currentLevel) {
+                $toc .= '<ul>';
+                $openLi = false; // The new UL is inside the currently open LI
+            } elseif ($level < $currentLevel) {
+                if ($openLi) {
+                    $toc .= '</li>'; // Close the last item of the inner list
+                }
+                $toc .= '</ul>';
+                $toc .= '</li>'; // Close the parent item
+                $openLi = true; // We are back to the parent level, but that LI is now closed, so next we open a new one
+            } elseif ($openLi) {
+                 $toc .= '</li>'; // Close previous item at same level
+            }
+
+            // Fix for the case where we dropped down a level:
+            // When we do $toc .= '</li>' above after </ul>, we have closed the item.
+            // But if we are continuing at level 2, we just open a new one.
+            // If we are at level 3, we also just open a new one.
+            // The logic $level < $currentLevel sets $openLi = true which is slightly confusing naming. 
+            // Let's rely on standard logic: always open a new LI here.
+            
+            $toc .= "<li><a href=\"#$id\">$text</a>";
+            $openLi = true;
+            $currentLevel = $level;
+        }
+
+        // Close any open tags
+        if ($openLi) {
+            $toc .= '</li>';
+        }
+        while ($currentLevel > 2) {
+            $toc .= '</ul></li>';
+            $currentLevel--;
+        }
+
+        $toc .= '</ul>';
+        $toc .= '</div>';
+    }
+    return $toc;
+}
+
 // Process Content
 $contentBody = preg_replace('/^#\s+.*\n/', '', $article['content']);
 $contentBody = parseDialogue($contentBody);
 $Parsedown = new Parsedown();
 $htmlContent = $Parsedown->text($contentBody);
 $htmlContent = str_replace('src="/img/', 'src="' . $baseUrl . '/img/', $htmlContent);
+
+// Generate and Insert TOC
+$tocHtml = generateTOC($htmlContent);
+if ($tocHtml) {
+    // Insert TOC before the first h2
+    $pos = strpos($htmlContent, '<h2');
+    if ($pos !== false) {
+        $htmlContent = substr_replace($htmlContent, $tocHtml, $pos, 0);
+    } else {
+        // If no h2, prepend to content
+        $htmlContent = $tocHtml . $htmlContent;
+    }
+}
+
 
 ?>
 <?php
