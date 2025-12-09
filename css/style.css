@@ -66,6 +66,21 @@ nav a {
   border-radius: 8px;
   margin-bottom: 2rem;
 }
+.post-content {
+  /* ----------------------------------------------------
+     Case 1: Horizontal Headers (thead th)
+     Always sticky to top.
+  ---------------------------------------------------- */
+  /* ----------------------------------------------------
+     Case 2: Vertical Headers (tbody th)
+     Sticky to left, with width constraint.
+  ---------------------------------------------------- */
+  /* ----------------------------------------------------
+     Intersection (Top-Left Corner) Handling
+     If the table acts as a matrix (has vertical headers),
+     the top-left cell must also stick to the left.
+  ---------------------------------------------------- */
+}
 .post-content img {
   display: block;
   width: 100%;
@@ -119,23 +134,11 @@ nav a {
   background-color: #f2f2f2;
   font-weight: bold;
 }
-.post-content {
-  /* ----------------------------------------------------
-     Case 1: Horizontal Headers (thead th)
-     Always sticky to top.
-  ---------------------------------------------------- */
-}
 .post-content thead th {
   position: sticky;
   top: 0;
   z-index: 10;
   border-bottom: 2px solid #ddd;
-}
-.post-content {
-  /* ----------------------------------------------------
-     Case 2: Vertical Headers (tbody th)
-     Sticky to left, with width constraint.
-  ---------------------------------------------------- */
 }
 .post-content tbody th {
   position: sticky;
@@ -148,13 +151,6 @@ nav a {
   white-space: normal;
   /* Allow wrapping for restricted width */
   word-wrap: break-word;
-}
-.post-content {
-  /* ----------------------------------------------------
-     Intersection (Top-Left Corner) Handling
-     If the table acts as a matrix (has vertical headers),
-     the top-left cell must also stick to the left.
-  ---------------------------------------------------- */
 }
 .post-content table:has(tbody th) thead th:first-child {
   position: sticky;
@@ -780,7 +776,7 @@ html {
 }
 
 .toc-container {
-  background: #f9f9f9;
+  background: #deddd3;
   border: 1px solid #e0e0e0;
   border-radius: 8px;
   padding: 1.5rem 2rem;
@@ -805,10 +801,15 @@ html {
   list-style: none;
   padding: 0;
   margin: 0;
+  background: none;
 }
 .toc-container ul > li {
   margin-bottom: 0.8rem;
   font-weight: bold;
+  padding: 0;
+}
+.toc-container ul > li::before {
+  content: none;
 }
 .toc-container ul > li > a {
   color: var(--text-color);
@@ -822,9 +823,7 @@ html {
   color: var(--primary-color);
 }
 .toc-container ul > li ul {
-  margin-top: 0.5rem;
   padding-left: 1rem;
-  border-left: 2px solid #ddd;
 }
 .toc-container ul > li ul li {
   margin-bottom: 0.4rem;
@@ -954,9 +953,8 @@ html {
 }
 .toc-modal ul li ul {
   margin-left: 1rem;
-  padding-left: 0.5rem;
-  border-left: 2px solid #ddd;
-  margin-top: 0.2rem;
+  padding-left: 1rem;
+  border-left: 2px dotted #ddd;
 }
 
 /* Related Article FAB */
@@ -1052,6 +1050,4 @@ html {
 .modal-content .pwa-instruction p strong {
   color: #2e7d32;
   font-size: 1.2em;
-}
-
-/*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=style.css.map */

@@ -891,7 +891,7 @@ html {
 }
 
 .toc-container {
-    background: #f9f9f9;
+    background: #deddd3;
     border: 1px solid #e0e0e0;
     border-radius: 8px;
     padding: 1.5rem 2rem;
@@ -918,10 +918,16 @@ html {
         list-style: none;
         padding: 0;
         margin: 0;
+        background: none;
 
         >li {
             margin-bottom: 0.8rem;
             font-weight: bold;
+            padding: 0;
+
+            &::before {
+                content: none;
+            }
 
             >a {
                 color: var(--text-color);
@@ -938,10 +944,10 @@ html {
             }
 
             ul {
-                margin-top: 0.5rem;
+                // margin-top: 0.5rem;
                 // margin-left: 1rem;
                 padding-left: 1rem;
-                border-left: 2px solid #ddd;
+                // border-left: 2px solid #ddd;
 
                 li {
                     margin-bottom: 0.4rem;
@@ -1089,9 +1095,10 @@ html {
 
             ul {
                 margin-left: 1rem;
-                padding-left: 0.5rem;
-                border-left: 2px solid #ddd;
-                margin-top: 0.2rem;
+                padding-left: 1rem;
+
+                border-left: 2px dotted #ddd;
+                // margin-top: 0.2rem;
             }
         }
     }
