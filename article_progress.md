@@ -92,8 +92,8 @@
 - [x] 72. SOTO ウインドマスター (SOTO) -> `soto_windmaster_guide.md`
 - [x] 73. ジェットボイル (Jetboil) -> `jetboil_guide.md`
 - [x] 74. EPIgas (EPIgas) -> `epigas_guide.md`
-- [x] 75.  MSR ポケットロケット (MSR) -> `msr_pocketrocket_guide.md` ✨**内容見直し完了 (約13,000文字)**
-- [x] 76. [非公開] クッカー選び (アルミ vs チタン) -> `cookware_aluminum_vs_titanium_guide.md`
+- [x] 75. MSR ポケットロケット (MSR) -> `msr_pocketrocket_guide.md` ✨**内容見直し完了 (約13,000文字)**
+- [x] 76. クッカー選び (アルミ vs チタン) -> `cookware_aluminum_vs_titanium_guide.md` ✨**内容見直し完了 (約13,000文字)**
 - [x] 77. [非公開] カトラリー -> `cutlery_guide.md`
 - [x] 78. [非公開] フリーズドライ (尾西・アマノフーズ) -> `freezedried_food_guide.md`
 - [x] 79. [非公開] 行動食 -> `trail_snacks_guide.md`
