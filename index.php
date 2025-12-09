@@ -514,4 +514,9 @@ include 'views/parts/header.php';
     </article>
 </main>
 
+
+<script>
+    var siteBaseUrl = "<?php echo $baseUrl; ?>";
+    var relatedArticlesData = <?php echo json_encode($relatedByTag); ?>;
+</script>
 <?php include 'views/parts/footer.php'; ?>

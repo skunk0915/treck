@@ -953,4 +953,36 @@ html {
   padding-left: 0.5rem;
   border-left: 2px solid #ddd;
   margin-top: 0.2rem;
+}
+
+/* Related Article FAB */
+.related-fab {
+  position: fixed;
+  bottom: 20px;
+  right: 90px;
+  z-index: 1000;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: var(--accent-color);
+  color: #fff;
+  border: none;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.2s;
+  font-size: 0.8rem;
+  text-align: center;
+  line-height: 1.2;
+}
+.related-fab:hover {
+  transform: scale(1.1);
+}
+
+.toc-modal.related-mode .toc-modal-content {
+  max-width: 800px;
+  width: 95%;
 }/*# sourceMappingURL=style.css.map */
