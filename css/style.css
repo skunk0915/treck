@@ -1,4 +1,4 @@
-﻿@charset "UTF-8";
+@charset "UTF-8";
 :root {
   --primary-color: green;
   --accent-color: orange;
@@ -67,6 +67,21 @@ nav a {
   border-radius: 8px;
   margin-bottom: 2rem;
 }
+.post-content {
+  /* ----------------------------------------------------
+     Case 1: Horizontal Headers (thead th)
+     Always sticky to top.
+  ---------------------------------------------------- */
+  /* ----------------------------------------------------
+     Case 2: Vertical Headers (tbody th)
+     Sticky to left, with width constraint.
+  ---------------------------------------------------- */
+  /* ----------------------------------------------------
+     Intersection (Top-Left Corner) Handling
+     If the table acts as a matrix (has vertical headers),
+     the top-left cell must also stick to the left.
+  ---------------------------------------------------- */
+}
 .post-content img {
   display: block;
   width: 100%;
@@ -80,18 +95,73 @@ nav a {
   margin-bottom: 2em;
 }
 .post-content table {
+  display: block;
   width: 100%;
-  border-collapse: collapse;
+  overflow: auto;
   margin: 1rem 0;
   background: white;
+  border-collapse: separate;
+  border-spacing: 0;
+  max-height: 80vh;
+  border-top: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+}
+.post-content table::-webkit-scrollbar {
+  height: 10px;
+  width: 10px;
+}
+.post-content table::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+.post-content table::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 5px;
+}
+.post-content table::-webkit-scrollbar-thumb:hover {
+  background: #999;
 }
 .post-content th,
 .post-content td {
-  border: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
   padding: 0.5rem;
+  vertical-align: middle;
+  box-sizing: border-box;
+  white-space: nowrap;
+  /* Default: don't wrap, let it scroll */
 }
 .post-content th {
   background-color: #f2f2f2;
+  font-weight: bold;
+}
+.post-content thead th {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  border-bottom: 2px solid #ddd;
+}
+.post-content tbody th {
+  position: sticky;
+  left: 0;
+  z-index: 11;
+  background-color: #f2f2f2;
+  border-right: 2px solid #ddd;
+  max-width: 30vw;
+  /* User requirement: max 30% width */
+  white-space: normal;
+  /* Allow wrapping for restricted width */
+  word-wrap: break-word;
+}
+.post-content table:has(tbody th) thead th:first-child {
+  position: sticky;
+  left: 0;
+  z-index: 20;
+  /* Highest z-index for corner */
+  max-width: 30vw;
+  /* Match the column width */
+  white-space: normal;
+  word-wrap: break-word;
+  border-right: 2px solid #ddd;
 }
 .post-content blockquote {
   border-left: 4px solid var(--accent-color);
@@ -722,7 +792,7 @@ html {
   align-items: center;
 }
 .toc-container .toc-title::before {
-  content: "遶包ｽ｡";
+  content: "竕｡";
   margin-right: 10px;
   font-size: 1.4rem;
   color: var(--primary-color);
@@ -771,4 +841,4 @@ html {
   content: "- ";
   color: #999;
   margin-right: 5px;
-}
+}/*# sourceMappingURL=style.css.map */
