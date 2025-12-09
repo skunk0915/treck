@@ -841,4 +841,118 @@ html {
   content: "- ";
   color: #999;
   margin-right: 5px;
+}
+
+/* TOC Overlay & FAB */
+.toc-fab {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: var(--primary-color);
+  color: #fff;
+  border: none;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.2s;
+  font-size: 0.9rem;
+}
+.toc-fab:hover {
+  transform: scale(1.1);
+}
+
+.toc-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 2000;
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.3s, visibility 0.3s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.toc-modal.visible {
+  visibility: visible;
+  opacity: 1;
+}
+.toc-modal-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+}
+.toc-modal-content {
+  position: relative;
+  background: #fff;
+  width: 90%;
+  max-width: 500px;
+  max-height: 80vh;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  /* Scrollable if content is long */
+}
+.toc-modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 10px;
+}
+.toc-modal-header h3 {
+  margin: 0;
+  font-size: 1.2rem;
+  color: var(--primary-color);
+}
+.toc-modal-close {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #999;
+}
+.toc-modal-close:hover {
+  color: #333;
+}
+.toc-modal ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.toc-modal ul li {
+  margin-bottom: 0.5rem;
+}
+.toc-modal ul li a {
+  text-decoration: none;
+  color: var(--text-color);
+  display: block;
+  padding: 5px;
+  border-bottom: 1px solid #eee;
+}
+.toc-modal ul li a:hover {
+  color: var(--primary-color);
+  background: #f9f9f9;
+}
+.toc-modal ul li ul {
+  margin-left: 1rem;
+  padding-left: 0.5rem;
+  border-left: 2px solid #ddd;
+  margin-top: 0.2rem;
 }/*# sourceMappingURL=style.css.map */
