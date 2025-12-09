@@ -7,14 +7,14 @@ document.addEventListener('DOMContentLoaded', function () {
 	const tagButtons = document.querySelectorAll('.tag-btn');
 	let currentTag = 'all';
 
-    // Check for initially active tag
-    const activeBtn = document.querySelector('.tag-btn.active');
-    if (activeBtn) {
-        currentTag = activeBtn.getAttribute('data-tag');
-    }
+	// Check for initially active tag
+	const activeBtn = document.querySelector('.tag-btn.active');
+	if (activeBtn) {
+		currentTag = activeBtn.getAttribute('data-tag');
+	}
 
-    // Initial filter
-    filterArticles();
+	// Initial filter
+	filterArticles();
 
 	function filterArticles() {
 		const query = searchInput.value.toLowerCase();
@@ -60,11 +60,22 @@ document.addEventListener('DOMContentLoaded', function () {
 
 	if (showMoreBtn && tagAccordion) {
 		showMoreBtn.addEventListener('click', function () {
-			tagAccordion.classList.toggle('open');
 			if (tagAccordion.classList.contains('open')) {
-				showMoreBtn.textContent = '閉じる';
+				// Closing: Set explicitly to scrollHeight first to enable transition
+				tagAccordion.style.maxHeight = tagAccordion.scrollHeight + 'px';
+				// Force reflow
+				tagAccordion.offsetHeight;
+
+				requestAnimationFrame(() => {
+					tagAccordion.classList.remove('open');
+					tagAccordion.style.maxHeight = null;
+					showMoreBtn.textContent = 'もっと見る';
+				});
 			} else {
-				showMoreBtn.textContent = 'もっと見る';
+				// Opening
+				tagAccordion.classList.add('open');
+				tagAccordion.style.maxHeight = tagAccordion.scrollHeight + 'px';
+				showMoreBtn.textContent = '閉じる';
 			}
 		});
 	}
