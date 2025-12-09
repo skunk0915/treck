@@ -95,7 +95,8 @@ nav a {
 }
 .post-content table {
   display: block;
-  width: 100%;
+  width: fit-content;
+  max-width: 100%;
   overflow: auto;
   margin: 1rem 0;
   background: white;
