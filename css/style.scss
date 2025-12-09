@@ -906,7 +906,7 @@ html {
         align-items: center;
 
         &::before {
-            content: '竕｡';
+            content: '';
             margin-right: 10px;
             font-size: 1.4rem;
             color: var(--primary-color);
@@ -932,13 +932,13 @@ html {
 
                 &:hover {
                     color: var(--primary-color);
-                    border-bottom-color: var(--primary-color);
+                    // border-bottom-color: var(--primary-color);
                 }
             }
 
             ul {
                 margin-top: 0.5rem;
-                margin-left: 1rem;
+                // margin-left: 1rem;
                 padding-left: 1rem;
                 border-left: 2px solid #ddd;
 
@@ -953,7 +953,7 @@ html {
 
                         &:hover {
                             color: var(--primary-color);
-                            text-decoration: underline;
+                            // text-decoration: underline;
                         }
 
                         &::before {
