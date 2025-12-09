@@ -3,6 +3,7 @@ session_start();
 require 'Parsedown.php';
 require_once __DIR__ . '/lib/DBTagManager.php';
 require_once __DIR__ . '/lib/ArticleMetaManager.php';
+require_once __DIR__ . '/lib/AccessLogManager.php';
 
 // Configuration
 $articleDir = __DIR__ . '/article';
@@ -12,6 +13,15 @@ $siteName = "先生、それ、重くないですか？"; // Site Name Variable
 
 $tagManager = new DBTagManager();
 $articleMetaManager = new ArticleMetaManager($metaFile);
+$accessLogManager = new AccessLogManager();
+
+// User UUID for PWA logic
+if (!isset($_COOKIE['sensei_omoi_uuid'])) {
+    $userUuid = bin2hex(random_bytes(16));
+    setcookie('sensei_omoi_uuid', $userUuid, time() + 60 * 60 * 24 * 365, '/');
+} else {
+    $userUuid = $_COOKIE['sensei_omoi_uuid'];
+}
 
 // Initialize variables to prevent warnings
 $pageTitle = '';
@@ -20,6 +30,7 @@ $pageCanonical = '';
 $extraScripts = '';
 $article = null;
 $relatedByTag = [];
+$showPwaPrompt = false;
 
 
 // Calculate Base URL dynamically to support subdirectories
@@ -219,6 +230,24 @@ if ($scriptDir !== '/' && strpos($path, $scriptDir) === 0) {
 
 $path = trim($path, '/');
 error_log("Debug Path: [" . $path . "]");
+
+// PWA Logic: Log Access & Check
+$currentUrl = $baseUrl . ($path ? '/' . $path : '');
+$ua = $_SERVER['HTTP_USER_AGENT'] ?? '';
+$ip = $_SERVER['REMOTE_ADDR'] ?? '';
+
+// Only log actual page views (exclude API/assets if any, though rewrites usually handle this)
+// For now, index.php handles pages, so we log.
+// Verify it's not a resource file request that arguably shouldn't count (e.g. if rewrites are loose)
+if (!preg_match('/\.(css|js|png|jpg|jpeg|gif|ico|map)$/', $path)) {
+    $accessLogManager->logAccess($userUuid);
+    $accessCount = $accessLogManager->getAccessCount($userUuid);
+    
+    // Trigger on exactly 5th view
+    if ($accessCount === 5) {
+        $showPwaPrompt = true;
+    }
+}
 
 // If path starts with 'index.php/', redirect to canonical URL
 if (strpos($path, 'index.php/') === 0) {
@@ -519,4 +548,9 @@ include 'views/parts/header.php';
     var siteBaseUrl = "<?php echo $baseUrl; ?>";
     var relatedArticlesData = <?php echo json_encode($relatedByTag); ?>;
 </script>
+<?php 
+if ($showPwaPrompt) {
+    include 'views/parts/pwa_prompt.php';
+}
+?>
 <?php include 'views/parts/footer.php'; ?>
