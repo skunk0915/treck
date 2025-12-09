@@ -94,7 +94,7 @@
 - [x] 74. EPIgas (EPIgas) -> `epigas_guide.md`
 - [x] 75. MSR ポケットロケット (MSR) -> `msr_pocketrocket_guide.md` ✨**内容見直し完了 (約13,000文字)**
 - [x] 76. クッカー選び (アルミ vs チタン) -> `cookware_aluminum_vs_titanium_guide.md` ✨**内容見直し完了 (約13,000文字)**
-- [x] 77. [非公開] カトラリー -> `cutlery_guide.md`
+- [x] 77. [非公開] カトラリー -> `cutlery_guide.md` ✨**内容見直し完了 (約13,000文字)**
 - [x] 78. [非公開] フリーズドライ (尾西・アマノフーズ) -> `freezedried_food_guide.md`
 - [x] 79. [非公開] 行動食 -> `trail_snacks_guide.md`
 - [x] 80. [非公開] 水筒 (ナルゲン・プラティパス) -> `water_bottle_guide.md`
