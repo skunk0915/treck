@@ -1,16 +1,16 @@
 <?php
 session_start();
-require_once __DIR__ . '/lib/TagManager.php';
+require_once __DIR__ . '/lib/DBTagManager.php';
 require_once __DIR__ . '/lib/ArticleMetaManager.php';
 
 // Configuration
 $articleDir = __DIR__ . '/article';
-$dataFile = __DIR__ . '/data/tags.json';
+// $dataFile is no longer needed for tags, but we keep the variable if needed for other things or just remove it.
 $metaFile = __DIR__ . '/data/article_meta.json';
 $adminEmail = 'skunk0915@gmail.com';
 $adminPassword = 'yosuke0915'; // Change this in production!
 
-$tagManager = new TagManager($dataFile);
+$tagManager = new DBTagManager();
 $articleMetaManager = new ArticleMetaManager($metaFile);
 
 // Handle Login

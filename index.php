@@ -1,16 +1,16 @@
 <?php
 session_start();
 require 'Parsedown.php';
-require_once __DIR__ . '/lib/TagManager.php';
+require_once __DIR__ . '/lib/DBTagManager.php';
 require_once __DIR__ . '/lib/ArticleMetaManager.php';
 
 // Configuration
 $articleDir = __DIR__ . '/article';
-$dataFile = __DIR__ . '/data/tags.json';
+// $dataFile moved to DB
 $metaFile = __DIR__ . '/data/article_meta.json';
 $siteName = "先生、それ、重くないですか？"; // Site Name Variable
 
-$tagManager = new TagManager($dataFile);
+$tagManager = new DBTagManager();
 $articleMetaManager = new ArticleMetaManager($metaFile);
 
 // Initialize variables to prevent warnings
