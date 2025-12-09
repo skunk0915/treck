@@ -1023,6 +1023,7 @@ html {
     }
 
     &-content {
+        box-sizing: border-box;
         position: relative;
         background: #fff;
         width: 90%;

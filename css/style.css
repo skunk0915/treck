@@ -895,6 +895,7 @@ html {
   background: rgba(0, 0, 0, 0.5);
 }
 .toc-modal-content {
+  box-sizing: border-box;
   position: relative;
   background: #fff;
   width: 90%;

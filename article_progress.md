@@ -404,7 +404,7 @@
   - **Solano Down Hoody**: GORE-TEX INFINIUM™、防風都会派
 
 ### ミッドレイヤー・フリース
-- [ ] 183. アークテリクス フリース・ミッドレイヤー完全ガイド【Delta・Kyanite・Covert徹底比較】 → `arcteryx_fleece_midlayer_complete_guide.md`
+- [x] 183. アークテリクス フリース・ミッドレイヤー完全ガイド【Delta・Kyanite・Covert徹底比較】 → `arcteryx_fleece_midlayer_complete_guide.md` ✨**作成完了 (約10,500文字)**
   - **Delta（デルタ）シリーズ**: 軽量速乾フリース、高通気性
     - Delta Jacket/Hoody: 温かく着回し抜群
   - **Kyanite（カイアナイト）シリーズ**: Polartec Power Stretch Pro™、高伸縮・保温
