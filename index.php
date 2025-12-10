@@ -136,7 +136,7 @@ function parseDialogue($content)
 }
 
 // Helper: Get Article Metadata
-function getArticleMetadata($filename)
+function getArticleMetadata($filename, $lite = false)
 {
     global $articleDir, $tagManager, $articleMetaManager;
     $filePath = $articleDir . '/' . $filename;
@@ -155,9 +155,42 @@ function getArticleMetadata($filename)
     preg_match('/!\[.*?\]\((.*?)\)/', $content, $imageMatch);
     $thumbnail = $imageMatch ? $imageMatch[1] : null;
 
-    // Normalize thumbnail path to ensure it starts with / if it's local
-    if ($thumbnail && strpos($thumbnail, 'http') !== 0 && strpos($thumbnail, '/') !== 0) {
-        $thumbnail = '/' . $thumbnail;
+    // Normalize and Valid Check for Thumbnail
+    if ($thumbnail && strpos($thumbnail, 'http') !== 0) {
+        $cleanPath = ltrim($thumbnail, '/');
+        $found = false;
+
+        // Check 1: Is it already pointing to 'img/'?
+        if (strpos($cleanPath, 'img/') === 0) {
+            if (file_exists(__DIR__ . '/' . $cleanPath)) {
+                $thumbnail = '/' . $cleanPath;
+                $found = true;
+            }
+        }
+        
+        // Check 2: Try finding it in 'img/' (if not found yet)
+        if (!$found) {
+            if (file_exists(__DIR__ . '/img/' . $cleanPath)) {
+                $thumbnail = '/img/' . $cleanPath;
+                $found = true;
+            }
+        }
+
+        // Check 3: Is it in root?
+        if (!$found) {
+             if (file_exists(__DIR__ . '/' . $cleanPath)) {
+                 $thumbnail = '/' . $cleanPath;
+                 $found = true;
+             }
+        }
+
+        // Check 4: Hard fallback for specific naming convention (optional but helps)
+        // If file is "foo.jpg" maybe it is "foo_01.jpg"? No, keep it simple.
+        
+        // If not found, set to null
+        if (!$found) {
+            $thumbnail = null;
+        }
     }
 
     // Extract Tags from TagManager
@@ -182,18 +215,29 @@ function getArticleMetadata($filename)
     $plainText = strip_tags($plainText);
     $description = mb_substr(trim($plainText), 0, 160) . '...';
 
-    return [
+    $result = [
         'title' => $title,
         'filename' => $filenameBase,
-
         'thumbnail' => $thumbnail,
         'tags' => $tags,
         'published_at' => $published_at,
         'status' => $status,
         'category' => $category,
-        'description' => $description,
-        'content' => $content
     ];
+
+    if (!$lite) {
+        // Extract Description (first ~160 chars)
+        $plainText = preg_replace('/^#\s+.*\n/', '', $content);
+        $plainText = preg_replace('/(\*\*|__)(.*?)\1/', '$2', $plainText);
+        $plainText = preg_replace('/\[([^\]]+)\]\([^\)]+\)/', '$1', $plainText);
+        $plainText = strip_tags($plainText);
+        $description = mb_substr(trim($plainText), 0, 160) . '...';
+        
+        $result['description'] = $description;
+        $result['content'] = $content;
+    }
+
+    return $result;
 }
 
 // Helper: Check if article is visible
@@ -213,6 +257,22 @@ function isArticleVisible($article)
     }
 
     return true;
+}
+
+// Prepare All Articles Data for Search (Lite version)
+$allFiles = glob($articleDir . '/*.md');
+$allArticles = [];
+foreach ($allFiles as $file) {
+    // True for lite mode
+    $meta = getArticleMetadata(basename($file), true);
+    if ($meta && isArticleVisible($meta)) {
+        $allArticles[] = [
+            'title' => $meta['title'],
+            'filename' => $meta['filename'],
+            'thumbnail' => $meta['thumbnail'],
+            'tags' => $meta['tags']
+        ];
+    }
 }
 
 // Router
@@ -544,10 +604,7 @@ include 'views/parts/header.php';
 </main>
 
 
-<script>
-    var siteBaseUrl = "<?php echo $baseUrl; ?>";
-    var relatedArticlesData = <?php echo json_encode($relatedByTag); ?>;
-</script>
+
 <?php 
 if ($showPwaPrompt) {
     include 'views/parts/pwa_prompt.php';
