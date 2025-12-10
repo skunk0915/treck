@@ -24,6 +24,7 @@
                 <div class="menu-search-container">
                      <input type="text" id="menu-search-input" placeholder="記事を検索..." class="menu-search-input">
                 </div>
+                <div id="menu-search-results" class="menu-list" style="display:none; margin-bottom: 2rem;"></div>
                 <div id="menu-related-section" class="menu-section" style="display:none;">
                     <h3>関連記事</h3>
                     <div id="menu-related-list" class="menu-list"></div>

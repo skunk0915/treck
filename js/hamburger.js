@@ -4,8 +4,12 @@ document.addEventListener('DOMContentLoaded', function () {
     const closeBtn = document.getElementById('menu-close-btn');
     const overlay = document.querySelector('.menu-modal-overlay');
     const searchInput = document.getElementById('menu-search-input');
-    const relatedListEl = document.getElementById('menu-related-list');
+    const searchResultsEl = document.getElementById('menu-search-results');
+
+    // Sections
+    const relatedListEl = document.getElementById('menu-related-list'); // This might need to be cleared or used as container
     const relatedSection = document.getElementById('menu-related-section');
+    const allSection = document.getElementById('menu-all-section');
     const allListEl = document.getElementById('menu-all-list');
     const tagsToggle = document.getElementById('menu-tags-toggle');
     const tagsListEl = document.getElementById('menu-tags-list');
@@ -16,10 +20,14 @@ document.addEventListener('DOMContentLoaded', function () {
     function openMenu() {
         menuModal.classList.add('visible');
         document.body.style.overflow = 'hidden';
-        renderAllArticles(); // Initial render
+
+        // Render All Articles (Randomized) only if empty (one time)
+        if (allListEl.children.length === 0) {
+            renderAllRandom();
+        }
+
         renderTags();
-        // Check for related articles logic is mostly static, but data is dynamic
-        renderRelated();
+        renderRelated(); // Renders grouped by tag
         searchInput.focus();
     }
 
@@ -32,7 +40,7 @@ document.addEventListener('DOMContentLoaded', function () {
     closeBtn.addEventListener('click', closeMenu);
     overlay.addEventListener('click', closeMenu);
 
-    // Render Function Helper
+    // Helper: Create Article Card
     function createCard(article) {
         const div = document.createElement('div');
         div.className = 'menu-article-card';
@@ -81,68 +89,102 @@ document.addEventListener('DOMContentLoaded', function () {
         return div;
     }
 
-    // Render Related Logic
+    // 1. Render Related Articles (Grouped by Tag)
     function renderRelated() {
-        relatedListEl.innerHTML = '';
+        relatedListEl.innerHTML = ''; // Clear container
         if (typeof relatedArticlesData !== 'undefined' && Object.keys(relatedArticlesData).length > 0) {
             let hasRelated = false;
-            // Flatten related articles or show by tag? 
-            // Requirement: "Show related article list"
-            // Let's flatten to avoid dupes/complexity in small list
-            const seen = new Set();
 
+            // Iterate object keys (tags)
             for (const [tag, articles] of Object.entries(relatedArticlesData)) {
-                articles.forEach(art => {
-                    if (!seen.has(art.filename)) {
-                        seen.add(art.filename);
-                        relatedListEl.appendChild(createCard(art));
-                        hasRelated = true;
-                    }
-                });
+                if (articles && articles.length > 0) {
+                    hasRelated = true;
+
+                    // Create Sub-section for Tag
+                    const tagContainer = document.createElement('div');
+                    tagContainer.className = 'menu-related-group';
+
+                    const tagHeader = document.createElement('h4');
+                    tagHeader.textContent = tag;
+                    tagHeader.style.fontSize = '0.95rem';
+                    tagHeader.style.marginBottom = '8px';
+                    tagHeader.style.color = '#555';
+                    tagContainer.appendChild(tagHeader);
+
+                    // List container (horizontal scroll)
+                    const listRow = document.createElement('div');
+                    listRow.className = 'menu-list'; // Re-use horizontal scroll style
+
+                    articles.forEach(art => {
+                        listRow.appendChild(createCard(art));
+                    });
+
+                    tagContainer.appendChild(listRow);
+                    relatedListEl.appendChild(tagContainer);
+                }
             }
 
-            if (hasRelated) {
-                relatedSection.style.display = 'block';
-            } else {
-                relatedSection.style.display = 'none';
-            }
+            relatedSection.style.display = hasRelated ? 'block' : 'none';
         } else {
             relatedSection.style.display = 'none';
         }
     }
 
-    // Render All/Search Logic
-    let isRandomized = false;
-    let randomizedArticles = [];
-
-    function renderAllArticles(filterText = '') {
+    // 2. Render All Articles (Randomized) - for the "All Articles" section
+    function renderAllRandom() {
         const sourceData = (typeof allArticlesData !== 'undefined') ? allArticlesData : [];
-        if (sourceData.length === 0) {
-            console.warn('No articles data found.');
-            return;
-        }
+        if (sourceData.length === 0) return;
 
+        allListEl.innerHTML = '';
+        // Shuffle
+        const randomized = [...sourceData].sort(() => 0.5 - Math.random());
+
+        randomized.forEach(article => {
+            allListEl.appendChild(createCard(article));
+        });
+    }
+
+    // 3. Search Logic
+    function handleSearch(filterText) {
         const lowerFilter = filterText.toLowerCase().trim();
 
         if (!lowerFilter) {
-            // If no filter, show randomized logic
-            if (!isRandomized || randomizedArticles.length === 0) {
-                randomizedArticles = [...sourceData].sort(() => 0.5 - Math.random());
-                isRandomized = true;
+            // Empty Search: Hide ID search results, Show default sections
+            searchResultsEl.style.display = 'none';
+            searchResultsEl.innerHTML = '';
+
+            // Show others
+            if (relatedSection.children.length > 0 && relatedListEl.innerHTML !== '') {
+                // Re-check display based on content (simple toggle depends on valid data)
+                // We rely on renderRelated() setting display block/none. 
+                // Here we just unhide the section element itself if it has content
+                if (relatedListEl.children.length > 0) relatedSection.style.display = 'block';
             }
+            allSection.style.display = 'block';
+            return;
         }
 
-        allListEl.innerHTML = '';
+        // Active Search: Show Results ID, Hide others? 
+        // Usually search takes over, or pushes down?
+        // Let's keep it simple: Show search results at top. Hide other sections to avoid clutter?
+        // "menu-search-inputのすぐ下に専用記事リストで表示して" -> Display dedicated list.
+        // If I hide others, it focuses user. Let's hide others for clarity.
 
-        const targetList = lowerFilter ? sourceData : randomizedArticles;
+        // Active Search: Show Results ID
+        // User Request: Keep related and all sections visible.
+
+        searchResultsEl.style.display = 'flex'; // It is .menu-list (flex)
+        searchResultsEl.innerHTML = '';
+
+        const sourceData = (typeof allArticlesData !== 'undefined') ? allArticlesData : [];
         let count = 0;
 
-        targetList.forEach(article => {
+        sourceData.forEach(article => {
             const titleMatch = article.title.toLowerCase().includes(lowerFilter);
             const tagsMatch = article.tags && article.tags.some(t => t.toLowerCase().includes(lowerFilter));
 
-            if (!lowerFilter || titleMatch || tagsMatch) {
-                allListEl.appendChild(createCard(article));
+            if (titleMatch || tagsMatch) {
+                searchResultsEl.appendChild(createCard(article));
                 count++;
             }
         });
@@ -152,12 +194,19 @@ document.addEventListener('DOMContentLoaded', function () {
             emptyMsg.textContent = '記事が見つかりませんでした。';
             emptyMsg.style.padding = '10px';
             emptyMsg.style.color = '#888';
-            allListEl.appendChild(emptyMsg);
+            searchResultsEl.appendChild(emptyMsg); // Flex container handles div okay? 
+            // .menu-list is display:flex; flex-direction:row; 
+            // Text div might look weird. Let's wrap or styling?
+            // Actually .menu-list expects cards. 
+            // If message, maybe override style?
+            searchResultsEl.style.display = 'block'; // Block for message
+        } else {
+            searchResultsEl.style.display = 'flex'; // Back to flex for cards
         }
     }
 
     searchInput.addEventListener('input', (e) => {
-        renderAllArticles(e.target.value);
+        handleSearch(e.target.value);
     });
 
     // Tags Logic
