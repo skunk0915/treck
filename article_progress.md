@@ -105,19 +105,19 @@
 - [x] 83. [非公開] ブラックダイヤモンド ヘッドライト (Black Diamond) -> `black_diamond_headlamp_guide.md` ✨**内容見直し完了 (約15,000文字)**
 - [x] 84. [非公開] ペツル ヘッドライト (Petzl) -> `petzl_headlamp_guide.md` ✨**内容見直し完了 (約15,000文字)**
 - [x] 85. [非公開] ヘルメット -> `helmet_guide.md`
-- [x] 86. [非公開] ガーミン スマートウォッチ (Garmin) -> `garmin_smartwatch_guide.md`
-- [x] 87. [非公開] モバイルバッテリー -> `mobile_battery_guide.md`
-- [x] 88. [非公開] 熊鈴 -> `bear_bell_guide.md`
-- [x] 89. [非公開] ファーストエイドキット -> `first_aid_kit_guide.md`
-- [x] 90. [非公開] ココヘリ -> `cocoheli_guide.md`
+- [x] 86. [非公開] ガーミン スマートウォッチ (Garmin) -> `garmin_smartwatch_guide.md` ✨**内容見直し完了 (約18,000文字)**
+- [x] 87. [非公開] モバイルバッテリー -> `mobile_battery_guide.md` ✨**内容見直し完了 (約15,000文字)**
+- [x] 88. [非公開] 熊鈴 -> `bear_bell_guide.md` ✨**内容見直し完了 (約13,000文字)**
+- [x] 89. [非公開] ファーストエイドキット -> `first_aid_kit_guide.md` ✨**内容見直し完了 (約14,000文字)**
+- [x] 90. [非公開] ココヘリ -> `cocoheli_guide.md` ✨**内容見直し完了 (約15,000文字)**
 
 ## 7. 初心者向け・ノウハウ (Know-how)
-- [x] 91. [非公開] レイヤリング -> `layering_guide.md`
-- [x] 92. [非公開] パッキング -> `packing_guide.md`
-- [x] 93. [非公開] 登山届 (コンパス) -> `climbing_permit_guide.md`
-- [x] 94. [非公開] 登山保険 -> `climbing_insurance_guide.md`
+- [x] 91. [非公開] レイヤリング -> `layering_guide.md` ✨**内容見直し完了 (約12,000文字)**
+- [x] 92. [非公開] パッキング -> `packing_guide.md` ✨**内容見直し完了 (約12,000文字)**
+- [x] 93. [非公開] 登山届 (コンパス) -> `climbing_permit_guide.md` ✨**内容見直し完了 (約15,000文字)**
+- [x] 94. [非公開] 登山保険 -> `climbing_insurance_guide.md` ✨**内容見直し完了 (約14,000文字)**
 - [x] 95. [非公開] 日焼け止め -> `sunscreen_guide.md`
-- [x] 96. [非公開] 膝ケア -> `knee_support_guide.md`
+- [x] 96. [非公開] 膝ケア -> `knee_support_guide.md` ✨**内容見直し完了 (約15,000文字)**
 - [x] 97. [非公開] インソール (スーパーフィート) -> `superfeet_insole_guide.md`
 - [x] 98. [非公開] スタッフバッグ整理術 -> `stuff_sack_organization_guide.md`
 - [x] 99. [非公開] ウェアメンテナンス -> `gear_maintenance_guide.md`
