@@ -1162,6 +1162,9 @@ html {
   background: #ccc;
   border-radius: 3px;
 }
+.menu-list#menu-related-list {
+  display: block;
+}
 
 .menu-article-card {
   display: flex;

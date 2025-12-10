@@ -1331,7 +1331,12 @@ html {
         background: #ccc;
         border-radius: 3px;
     }
+
+    &#menu-related-list {
+        display: block;
+    }
 }
+
 
 .menu-article-card {
     display: flex;
