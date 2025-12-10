@@ -96,14 +96,14 @@
 - [x] 76. クッカー選び (アルミ vs チタン) -> `cookware_aluminum_vs_titanium_guide.md` ✨**内容見直し完了 (約13,000文字)**
 - [x] 77. [非公開] カトラリー -> `cutlery_guide.md` ✨**内容見直し完了 (約13,000文字)**
 - [x] 78. [非公開] フリーズドライ (尾西・アマノフーズ) -> `freezedried_food_guide.md`
-- [x] 79. [非公開] 行動食 -> `trail_snacks_guide.md`
+- [x] 79. [非公開] 行動食 -> `trail_snacks_guide.md` ✨**内容見直し完了 (約15,000文字)**
 - [x] 80. [非公開] 水筒 (ナルゲン・プラティパス) -> `water_bottle_guide.md`
 
 ## 6. 小物・安全装備 (Accessories & Safety)
-- [x] 81. [非公開] ブラックダイヤモンド ポール (Black Diamond) -> `black_diamond_trekking_poles_guide.md`
-- [x] 82. [非公開] レキ ポール (Leki) -> `leki_trekking_poles_guide.md`
-- [x] 83. [非公開] ブラックダイヤモンド ヘッドライト (Black Diamond) -> `black_diamond_headlamp_guide.md`
-- [x] 84. [非公開] ペツル ヘッドライト (Petzl) -> `petzl_headlamp_guide.md`
+- [x] 81. [非公開] ブラックダイヤモンド ポール (Black Diamond) -> `black_diamond_trekking_poles_guide.md` ✨**内容見直し完了 (約18,000文字)**
+- [x] 82. [非公開] レキ ポール (Leki) -> `leki_trekking_poles_guide.md` ✨**内容見直し完了 (約14,000文字)**
+- [x] 83. [非公開] ブラックダイヤモンド ヘッドライト (Black Diamond) -> `black_diamond_headlamp_guide.md` ✨**内容見直し完了 (約15,000文字)**
+- [x] 84. [非公開] ペツル ヘッドライト (Petzl) -> `petzl_headlamp_guide.md` ✨**内容見直し完了 (約15,000文字)**
 - [x] 85. [非公開] ヘルメット -> `helmet_guide.md`
 - [x] 86. [非公開] ガーミン スマートウォッチ (Garmin) -> `garmin_smartwatch_guide.md`
 - [x] 87. [非公開] モバイルバッテリー -> `mobile_battery_guide.md`

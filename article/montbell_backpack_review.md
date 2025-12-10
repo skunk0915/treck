@@ -1,7 +1,6 @@
 # コスパ最強説は本当？モンベルのリュックをプロが本音でレビューしてみた
 Tags: Backpack
-
-> **Image Prompt:** モンベル (Montbell) のロゴと、日本の美しいアルプスの山並み。実用的で信頼感のある雰囲気。
+![モンベル (Montbell) のロゴと、日本の美しいアルプスの山並み。実用的で信頼感のある雰囲気。](img/montbell_backpack_review_01.jpg)
 
 ## 導入
 
