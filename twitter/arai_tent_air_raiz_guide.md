@@ -125,6 +125,10 @@ https://sensei-omoi.flow-t.net/arai_tent_air_raiz_guide#section-1
 エアライズとトレックライズ
 どっち買う？
 
+【結論】
+登山ならエアライズ
+快適性ならトレックライズ
+
 【エアライズ】
 ・居住性:普通
 ・入口:狭め
@@ -137,8 +141,6 @@ https://sensei-omoi.flow-t.net/arai_tent_air_raiz_guide#section-1
 ・重量:やや重い
 ・用途:キャンプ寄り
 
-登山ならエアライズ
-快適性ならトレックライズ
 
 → 全シリーズの詳細比較とおすすめ
 https://sensei-omoi.flow-t.net/arai_tent_air_raiz_guide#section-0

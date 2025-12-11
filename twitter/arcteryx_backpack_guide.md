@@ -111,6 +111,8 @@ https://sensei-omoi.flow-t.net/arcteryx_backpack_guide#section-0
 アークテリクスのリュック
 どれ買う？
 
+結論：初めてならAeriosが無難
+
 【Bora AR】
 ・容量:63L
 ・用途:長期縦走
@@ -126,7 +128,6 @@ https://sensei-omoi.flow-t.net/arcteryx_backpack_guide#section-0
 ・用途:日帰り登山
 ・特徴:シンプル・軽量
 
-初めてならAeriosが無難
 
 → 全モデルの詳細比較とスペック表
 https://sensei-omoi.flow-t.net/arcteryx_backpack_guide#section-1
@@ -151,7 +152,7 @@ https://sensei-omoi.flow-t.net/arcteryx_backpack_guide#section-1
 もったいない気もする
 
 → タウンユース向けモデルとスタイリング例
-https://sensei-omoi.flow-t.net/arcteryx_backpack_guide#section-2
+https://sensei-omoi.flow-t.net/arcteryx_backpack_guide#section-22
 
 > **Image Prompt:** アークテリクスのリュックを街で背負っている様子。カジュアルな服装に合わせている。背景はカフェや都市の街並み。「アウトドア×タウンユース」のコンセプト。
 
