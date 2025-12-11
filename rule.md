@@ -3,6 +3,10 @@
 ## 基本方針
 
 article_policy_sheet.md、character_sheet.mdに基づきarticle_progress.mdの記事を作成して。進捗もarticle_progress.mdで管理。
+記事作成時はarticle_policy_sheet.mdに基づき、記事を作成する。
+twitterコンテンツ作成時はrule_twitter.mdに基づき、指定された記事を、twitter配信に適した形でtwitterディレクトリに同名ファイルでコンテンツを作成する。
+instagramコンテンツ作成時はrule_instagram.mdに基づき、指定された記事を、instagramリールコンテンツに適した形でinstagramディレクトリに同名ファイルでコンテンツを作成する。
+youtubeコンテンツ作成時はrule_youtube.mdに基づき、指定された記事を、youtube台本に適した形でyoutubeディレクトリに同名ファイル（CSV形式）でコンテンツを作成する。
 
 ## 記事作成フロー
 

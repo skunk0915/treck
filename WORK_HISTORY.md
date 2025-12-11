@@ -210,3 +210,139 @@
 - 弱点を正直に記載（泥詰まり、ソール減り、価格、幅広甲高の足には不向き）し、信頼性を向上
 - 購入前チェックリスト、試着ガイド、正規代理店情報を提供し実用性を向上
 - サマリファイルにより、今後の記事更新時にも参照可能な詳細リサーチデータを確保
+
+---
+
+## 2025-12-11: ノースフェイス パンツ・ショーツ完全ガイド記事作成
+
+### 作業内容
+1. **既存記事フォーマット確認**
+   - `/article/tnf_tops_complete_guide.md` と `/summary/tnf_tops_complete_guide.md` を参照
+   - 対話形式（JKと先生）のフォーマットを確認
+
+2. **Deep Research実施**: 以下のトピックについてWeb検索とWebFetchを実施
+   - アルパインライトパンツの特徴・評価（ストレッチ性、立体裁断、撥水性）
+   - バーブパンツのレビュー・比較（ニット級の快適さ、ベンチレーション）
+   - マグマパンツの登山評判（軽量性、夏山特化、黒ロゴ）
+   - トレッキングパンツの種類と選び方（シルエット、素材、季節別）
+   - ショーツのおすすめモデル（フレキシブル、バーブショーツ）
+   - APEX素材の特徴（ナイロン90-92%、ポリウレタン8-10%）
+   - 各モデルの違い（アルパインライト vs バーブ vs マグマ）
+   - パンツとショーツの季節別使い分け
+   - WebFetch: Goldwin公式、YAMA HACK記事から詳細情報を抽出
+
+3. **サマリファイル作成**: `/summary/tnf_pants_complete_guide.md` を作成
+   - 12セクション、約280行の詳細サマリ
+   - 主要3モデル（アルパインライト、バーブ、マグマ）の徹底比較表
+   - APEX素材の技術解説、季節別使い分け、ショーツラインナップ、選び方ガイド
+   - 全ての引用元URLをWeb検索APIで取得したURLをそのまま採用（捏造なし）
+
+4. **記事ファイル作成**: `/article/tnf_pants_complete_guide.md` を作成
+   - 約520行、約13,000文字の詳細記事
+   - 対話形式（JKと先生）で初心者にも分かりやすく解説
+   - 主要セクション: 導入、APEX素材解説、アルパインライト、バーブ、マグマ、夏向けモデル（バーブライト・ドーロライト）、ショーツ特集、選び方Q&A、まとめ
+   - 全ての参考情報にWeb検索APIで取得したURLを記載（捏造なし）
+
+### 調査した主要情報
+- **アルパインライトパンツ**:
+  - 細身テーパードシルエット、類似パンツ100点に対して120点のストレッチ性
+  - APEX Aerobic Light素材（ナイロン90%、ポリウレタン10%）
+  - 股下ガゼット、ハーネス対応、フロントポケット内メッシュベンチレーション
+  - 価格¥18,700、3-5年寿命（ポリウレタン加水分解）
+
+- **バーブパンツ**:
+  - ゆったりストレートシルエット、ニット級の快適さ
+  - 太もも横ジッパー式ベンチレーション、裾ドローコード
+  - 裾幅20cm（アルパインライトは18cm）
+  - 価格¥17,600、オールラウンド用途
+
+- **マグマパンツ**:
+  - 最軽量・最薄手、夏山特化モデル
+  - ストレートライン（膝の切り替えなし）
+  - 黒ロゴでタウンユース向け、耐久性高い
+  - 価格¥15,000前後、3シーズン対応
+
+- **その他モデル**:
+  - バーブライト（夏向け薄手）、ドーロライト（SOLOTEX素材）
+  - マウンテンカラー（カラバリ豊富）、ドーロウォーム（裏フリース）
+
+- **ショーツ**:
+  - フレキシブルショーツ（7インチ/11インチ、¥6,000-7,000）
+  - バーブショーツ（APEX素材）
+  - サイズ小さめ注意
+
+- **APEX素材**:
+  - ノースフェイス独自開発ソフトシェル
+  - ナイロン90-92%、ポリウレタン8-10%
+  - 4Wayストレッチ、撥水性（20洗80点）、防風性、適度な保温性
+  - 3シーズン対応、寿命3-5年
+
+### 編集ファイル
+- ✅ 新規作成: `/Users/mizy/Dropbox/treck/summary/tnf_pants_complete_guide.md`
+- ✅ 新規作成: `/Users/mizy/Dropbox/treck/article/tnf_pants_complete_guide.md`
+- ✅ 更新: `/Users/mizy/Dropbox/treck/work_history.md`
+
+### エラー・修正履歴
+- エラーなし、スムーズに完了
+
+### 成果
+- ノースフェイスのパンツ・ショーツに関する包括的なガイド記事を作成
+- アルパインライト、バーブ、マグマの主要3モデルを徹底比較
+- APEX素材の技術的な解説を追加し、3-5年寿命という重要情報も明記
+- 初心者向けに「最初の1本は何を買えばいい？」「冬山には？」等のQ&Aを充実
+- 対話形式により、専門用語も分かりやすく解説
+- 選び方の指針（シルエット別、季節別、用途別）を明確化
+- 全ての引用元URLをWeb検索APIから取得し、捏造なしを徹底
+- サマリファイル（280行）と記事ファイル（520行、約13,000文字）の両方を作成し、今後の更新にも対応可能
+
+
+## 2025-12-11: 10記事のTwitterコンテンツ作成
+
+### 作業内容
+1. **対象記事の確認**: 以下10記事を読み込み
+   - big_agnes_tent_guide.md
+   - black_diamond_backpack_guide.md
+   - black_diamond_headlamp_guide.md
+   - black_diamond_trekking_poles_guide.md
+   - boxer_pants_guide.md
+   - camera_guide.md
+   - caravan_shoes_guide.md
+   - climbing_insurance_guide.md
+   - climbing_permit_guide.md
+   - cocoheli_guide.md
+
+2. **Twitterコンテンツ作成**: 各記事について5〜8個の独立した投稿を作成
+   - rule_twitter.mdのガイドラインに従って作成
+   - 各投稿100〜140文字に収める
+   - 具体的な数字・比較を入れる
+   - 記事URLへの誘導を追加（section番号付き）
+   - 画像生成プロンプトを追加
+   - JK的なツッコミ視点を入れる
+
+### 作成ファイル
+- ✅ 新規作成: /Users/mizy/Dropbox/treck/twitter/big_agnes_tent_guide.md（7投稿）
+- ✅ 新規作成: /Users/mizy/Dropbox/treck/twitter/black_diamond_backpack_guide.md（8投稿）
+- ✅ 新規作成: /Users/mizy/Dropbox/treck/twitter/black_diamond_headlamp_guide.md（7投稿）
+- ✅ 新規作成: /Users/mizy/Dropbox/treck/twitter/black_diamond_trekking_poles_guide.md（8投稿）
+- ✅ 新規作成: /Users/mizy/Dropbox/treck/twitter/boxer_pants_guide.md（6投稿）
+- ✅ 新規作成: /Users/mizy/Dropbox/treck/twitter/camera_guide.md（5投稿）
+- ✅ 新規作成: /Users/mizy/Dropbox/treck/twitter/caravan_shoes_guide.md（8投稿）
+- ✅ 新規作成: /Users/mizy/Dropbox/treck/twitter/climbing_insurance_guide.md（8投稿）
+- ✅ 新規作成: /Users/mizy/Dropbox/treck/twitter/climbing_permit_guide.md（7投稿）
+- ✅ 新規作成: /Users/mizy/Dropbox/treck/twitter/cocoheli_guide.md（8投稿）
+
+### 投稿の特徴
+- 各投稿は単体で完結する1話完結形式
+- 具体的なスペック・価格・数字を明記
+- 「高すぎん？」「結局どれよ」などのJK的ツッコミ
+- 記事へのセクション別誘導で詳細情報へ導線
+- 画像生成プロンプトで視覚的な補強
+
+### エラー・修正履歴
+- エラーなし、スムーズに完了
+
+### 成果
+- 10記事×平均7投稿=約70個のTwitter投稿コンテンツを作成
+- 各投稿はルールに従い、独立して機能する内容に
+- 記事本体への誘導も適切に設置
+
