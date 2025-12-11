@@ -107,11 +107,11 @@ https://sensei-omoi.flow-t.net/layering_guide#section-8
 登山の鉄則は「汗をかく前に脱ぐ」。
 歩き始めは「ちょっと寒い」くらいが丁度いいんです。
 
-汗で服が濡れたら、乾くまで体力奪われ続けるからね。
+汗で服が濡れたら、乾くまで体力奪われ続ける。
 面倒くさがらずにこまめに脱ぎ着するのが、バテないコツ。
 
 → 脱ぎ着のベストタイミングと判断基準
-https://sensei-omoi.flow-t.net/layering_guide#section-10
+https://sensei-omoi.flow-t.net/layering_guide#section-22
 
 > **Image Prompt:** 登山道の途中でフリースを脱いでバックパックにしまおうとしている登山者。額にはうっすら汗。背景は日差しが差し込む明るい森。
 
@@ -128,7 +128,7 @@ https://sensei-omoi.flow-t.net/layering_guide#section-10
 ユニクロから変えるだけで「登山ってこんな快適だったの！？」ってなるよ。
 
 → ジオラインのモデル別比較と選び方
-https://sensei-omoi.flow-t.net/layering_guide#section-12
+https://sensei-omoi.flow-t.net/layering_guide#section-25
 
 > **Image Prompt:** モンベルのジオラインシリーズ（L.W.、M.W.、EXP.）が3枚並んだフラットレイ。それぞれ異なる厚さが分かる構図。背景はモンベルのロゴ入り紙袋。
 

@@ -4,3 +4,4 @@ trigger: always_on
 
 記事作成時はarticle_policy_sheet.mdに基づき、記事を作成する。
 twitterコンテンツ作成時はrule_twitter.mdに基づき、指定された記事を、twitter配信に適した形でtwitterディレクトリに同名ファイルでコンテンツを作成する。
+instagramコンテンツ作成時はrule_instagram.mdに基づき、指定された記事を、instagramリールコンテンツに適した形でinstagramディレクトリに同名ファイルでコンテンツを作成する。

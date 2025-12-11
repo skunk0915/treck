@@ -30,7 +30,7 @@
                     <div id="menu-related-list" class="menu-list"></div>
                 </div>
                 <div id="menu-all-section" class="menu-section">
-                     <h3>すべての記事</h3>
+                     <h3>こんな記事もあります</h3>
                      <div id="menu-all-list" class="menu-list"></div>
                 </div>
                 <div id="menu-tags-section" class="menu-section menu-tags-section">

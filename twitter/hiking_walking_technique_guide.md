@@ -37,7 +37,7 @@ https://sensei-omoi.flow-t.net/hiking_walking_technique_guide#section-3
 小股の方が結果的に早く、楽に着く
 
 → 理想的な歩幅とペースの目安
-https://sensei-omoi.flow-t.net/hiking_walking_technique_guide#section-4
+https://sensei-omoi.flow-t.net/hiking_walking_technique_guide#section-8
 
 > **Image Prompt:** 左右比較の構図。左側：大股で歩いて疲れた表情の登山者。右側：小股でリラックスして歩く登山者。同じ山道を歩いているが表情が対照的。
 
@@ -55,7 +55,7 @@ https://sensei-omoi.flow-t.net/hiking_walking_technique_guide#section-4
 無理に直さなくてOK
 
 → 急登でも疲れない登り方のコツ
-https://sensei-omoi.flow-t.net/hiking_walking_technique_guide#section-5
+https://sensei-omoi.flow-t.net/hiking_walking_technique_guide#section-9
 
 > **Image Prompt:** 急な登り坂をジグザグに登る登山者を上から見た構図。登山道にジグザグの足跡が見える。背景は緑の森と青空。
 
@@ -72,7 +72,7 @@ https://sensei-omoi.flow-t.net/hiking_walking_technique_guide#section-5
 慎重な「忍者歩き」で膝を守ろう
 
 → 膝への負担を減らす下り方テクニック
-https://sensei-omoi.flow-t.net/hiking_walking_technique_guide#section-6
+https://sensei-omoi.flow-t.net/hiking_walking_technique_guide#section-12
 
 > **Image Prompt:** 下り坂を慎重に歩く登山者の横顔。膝を軽く曲げてクッションのように使っている。足元には石がゴロゴロ。集中した表情。
 
@@ -90,7 +90,7 @@ https://sensei-omoi.flow-t.net/hiking_walking_technique_guide#section-6
 早めのケアでバテ知らずに
 
 → 行動食の選び方と水分量の目安
-https://sensei-omoi.flow-t.net/hiking_walking_technique_guide#section-9
+https://sensei-omoi.flow-t.net/hiking_walking_technique_guide#section-30
 
 > **Image Prompt:** 山道のベンチで休憩する登山者。水筒から水を飲み、横には行動食（ナッツ、羊羹、ゼリー）が並んでいる。リラックスした表情。背景は木漏れ日。
 
@@ -108,7 +108,7 @@ https://sensei-omoi.flow-t.net/hiking_walking_technique_guide#section-9
 膝への負担が劇的に減る最強の相棒
 
 → トレッキングポールの正しい使い方と長さ調整
-https://sensei-omoi.flow-t.net/hiking_walking_technique_guide#section-11
+https://sensei-omoi.flow-t.net/hiking_walking_technique_guide#section-21
 
 > **Image Prompt:** トレッキングポールを正しく持って山道を歩く登山者の全身像。ポールの角度は約90度。背景は紅葉の山道。動きのあるダイナミックな構図。
 
