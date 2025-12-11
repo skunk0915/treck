@@ -19,8 +19,10 @@
 
 まず10本買っとけば間違いない
 
-詳しくは→ [記事リンク]
-#ソリッドステーク #スノーピーク
+→ サイズ別の使い分けと最初に揃えるセット例
+https://sensei-omoi.flow-t.net/snowpeak_peg_hammer_complete_guide#section-4
+
+> **Image Prompt:** ソリッドステーク30cmを手に持っている登山者の手元クローズアップ。銀色に輝く鍛造ペグ。背景にはテントが張られたキャンプ場。
 
 ---
 
@@ -35,7 +37,10 @@
 
 50cmは1本540gでマジ重いから注意な
 
-#ソリステ #スノーピーク
+→ 各サイズの詳細スペックと用途別おすすめ
+https://sensei-omoi.flow-t.net/snowpeak_peg_hammer_complete_guide#section-5
+
+> **Image Prompt:** ソリッドステーク4サイズ（20cm、30cm、40cm、50cm）を長さ順に並べたフラットレイ。各ペグの横にサイズ表記。木目調の背景。
 
 ---
 
@@ -53,7 +58,10 @@ Pro.SとPro.C、どっちがいい？
 結論：最初はPro.Sで十分
 こだわりたくなったらPro.Cに昇格
 
-#ペグハンマー #スノーピーク
+→ 打ち心地の違いと実際のレビュー
+https://sensei-omoi.flow-t.net/snowpeak_peg_hammer_complete_guide#section-10
+
+> **Image Prompt:** ペグハンマーPro.S（銀色ヘッド）とPro.C（銅色ヘッド）を並べた比較写真。両方のハンマーが斜めに交差している構図。黒背景でプロダクト感。
 
 ---
 
@@ -69,7 +77,10 @@ Pro.SとPro.C、どっちがいい？
 これ知らなくて捨てた人いたら
 ドンマイとしか言えない
 
-#ソリッドステーク #ソリステ
+→ 曲がったペグの直し方とメンテナンス方法
+https://sensei-omoi.flow-t.net/snowpeak_peg_hammer_complete_guide#section-14
+
+> **Image Prompt:** コンクリートブロックの上に曲がったソリステを置き、ハンマーで叩いて直そうとしている手元のクローズアップ。ビフォーアフター感。
 
 ---
 
@@ -86,7 +97,10 @@ Pro.SとPro.C、どっちがいい？
 
 安心を買うと思えば高くない
 
-#ソリステ #ペグ選び
+→ 付属ペグからソリステに変えるべき理由
+https://sensei-omoi.flow-t.net/snowpeak_peg_hammer_complete_guide#section-3
+
+> **Image Prompt:** 左右比較の構図。左側：曲がったアルミ付属ペグ（×マーク）。右側：石混じりの地面にしっかり刺さったソリステ（○マーク）。対比が明確。
 
 ---
 
@@ -106,4 +120,8 @@ Pro.SとPro.C、どっちがいい？
 
 高いのは「初期投資」だけ
 
-#ソリッドステーク #ペグハンマー
+→ 初期費用の目安と長期コスト比較
+https://sensei-omoi.flow-t.net/snowpeak_peg_hammer_complete_guide#section-16
+
+> **Image Prompt:** 10年使い込まれたソリステのクローズアップ。傷や使用感があるが曲がっていない。「10年現役」のテキストオーバーレイ。ヴィンテージ感のある雰囲気。
+
