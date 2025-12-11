@@ -1276,4 +1276,103 @@ html {
 .menu-tag-link:hover {
   border-color: var(--primary-color);
   color: var(--primary-color);
+}
+
+/* ----------------------------------------------------
+   Desktop Sidebar TOC Layout
+---------------------------------------------------- */
+.toc-sidebar {
+  display: none;
+  /* Hidden by default (mobile) */
+}
+
+@media (min-width: 768px) {
+  /* Hide Mobile FAB */
+  .toc-fab {
+    display: none !important;
+  }
+  /* Flex Layout for Content + Sidebar */
+  .post-body-container {
+    display: flex;
+    gap: 40px;
+    align-items: flex-start;
+    position: relative;
+  }
+  .post-content {
+    width: 70%;
+    /* approx 70% */
+    flex: 1;
+    /* Grow to fill if needed, but width sets basis */
+    min-width: 0;
+  }
+  /* Sidebar Styling */
+  .toc-sidebar {
+    display: block;
+    width: 30%;
+    /* approx 30% */
+    flex-shrink: 0;
+    position: sticky;
+    top: 20px;
+    max-height: calc(100vh - 40px);
+    overflow-y: auto;
+    /* Custom Scrollbar for sidebar */
+  }
+  .toc-sidebar::-webkit-scrollbar {
+    width: 4px;
+  }
+  .toc-sidebar::-webkit-scrollbar-thumb {
+    background: #ccc;
+    border-radius: 2px;
+  }
+  .toc-sidebar-inner {
+    background: #deddd3;
+    padding: 1.5rem;
+    border-radius: 8px;
+  }
+  .toc-sidebar .toc-title {
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px dashed ccc;
+  }
+  .toc-sidebar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .toc-sidebar ul li {
+    margin-bottom: 0.5rem;
+    /* Nested levels */
+  }
+  .toc-sidebar ul li a {
+    text-decoration: none;
+    color: #555;
+    font-size: 0.9rem;
+    display: block;
+    padding: 4px 8px;
+    border-left: 3px solid transparent;
+    transition: all 0.2s;
+    line-height: 1.4;
+  }
+  .toc-sidebar ul li a:hover {
+    color: var(--primary-color);
+  }
+  .toc-sidebar ul li a.active {
+    color: var(--primary-color);
+    font-weight: bold;
+    border-left-color: var(--primary-color);
+  }
+  .toc-sidebar ul li ul {
+    margin-top: 0.5rem;
+    padding-left: 10px;
+  }
+  .toc-sidebar ul li ul li {
+    margin-bottom: 0.3rem;
+  }
+  .toc-sidebar ul li ul li a {
+    font-size: 0.7rem;
+    padding: 2px 8px;
+  }
 }/*# sourceMappingURL=style.css.map */

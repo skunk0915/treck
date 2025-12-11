@@ -3,7 +3,9 @@ document.addEventListener('DOMContentLoaded', function () {
 	const tocContainer = document.querySelector('.toc-container');
 	if (!tocContainer) return;
 
-	// 1. Inline Toggle Logic
+	// ----------------------------------------------------
+	// 1. Inline Toggle Logic (Original)
+	// ----------------------------------------------------
 	const toggleBtn = tocContainer.querySelector('.toc-toggle');
 	const tocList = tocContainer.querySelector('ul');
 
@@ -20,15 +22,15 @@ document.addEventListener('DOMContentLoaded', function () {
 		});
 	}
 
-	// 2. Creating FAB and Modal
-	// Create FAB
+	// ----------------------------------------------------
+	// 2. Mobile: FAB and Modal (Original)
+	// ----------------------------------------------------
 	const fab = document.createElement('button');
 	fab.className = 'toc-fab';
 	fab.textContent = '目次';
 	fab.title = '目次を開く';
 	document.body.appendChild(fab);
 
-	// Create Modal
 	const modal = document.createElement('div');
 	modal.className = 'toc-modal';
 
@@ -38,7 +40,6 @@ document.addEventListener('DOMContentLoaded', function () {
 	const modalContent = document.createElement('div');
 	modalContent.className = 'toc-modal-content';
 
-	// Header for Modal
 	const modalHeader = document.createElement('div');
 	modalHeader.className = 'toc-modal-header';
 
@@ -52,12 +53,10 @@ document.addEventListener('DOMContentLoaded', function () {
 	modalHeader.appendChild(modalTitle);
 	modalHeader.appendChild(closeBtn);
 
-	// Clone TOC list
-	const tocClone = tocList.cloneNode(true);
-	tocClone.style.display = 'block'; // Ensure it's visible in modal even if inline is closed
+	const tocCloneForModal = tocList.cloneNode(true);
+	tocCloneForModal.style.display = 'block';
 
-	// Add click event to anchors in modal to close modal on click
-	const modalLinks = tocClone.querySelectorAll('a');
+	const modalLinks = tocCloneForModal.querySelectorAll('a');
 	modalLinks.forEach(link => {
 		link.addEventListener('click', function () {
 			closeModal();
@@ -65,15 +64,14 @@ document.addEventListener('DOMContentLoaded', function () {
 	});
 
 	modalContent.appendChild(modalHeader);
-	modalContent.appendChild(tocClone);
+	modalContent.appendChild(tocCloneForModal);
 	modal.appendChild(modalOverlay);
 	modal.appendChild(modalContent);
 	document.body.appendChild(modal);
 
-	// 3. Modal Interactions
 	function openModal() {
 		modal.classList.add('visible');
-		document.body.style.overflow = 'hidden'; // Prevent background scrolling
+		document.body.style.overflow = 'hidden';
 	}
 
 	function closeModal() {
@@ -85,5 +83,82 @@ document.addEventListener('DOMContentLoaded', function () {
 	closeBtn.addEventListener('click', closeModal);
 	modalOverlay.addEventListener('click', closeModal);
 
-	// 4. Related Articles FAB - (Removed, moved to Hamburger Menu)
+
+	// ----------------------------------------------------
+	// 3. Desktop: Sidebar TOC (New)
+	// ----------------------------------------------------
+	const sidebarInner = document.querySelector('.toc-sidebar-inner');
+	if (sidebarInner && tocList) {
+		// Create Sidebar Header
+		const sidebarTitle = document.createElement('div');
+		sidebarTitle.className = 'toc-title';
+		sidebarTitle.textContent = '目次';
+		sidebarInner.appendChild(sidebarTitle);
+
+		// Clone TOC
+		const tocCloneForSidebar = tocList.cloneNode(true);
+		tocCloneForSidebar.style.display = 'block';
+		sidebarInner.appendChild(tocCloneForSidebar);
+
+		// Scroll Highlighting
+		const sidebarLinks = tocCloneForSidebar.querySelectorAll('a');
+		const sections = [];
+
+		// Collect all target sections
+		sidebarLinks.forEach(link => {
+			const href = link.getAttribute('href');
+			if (href && href.startsWith('#')) {
+				const targetId = href.substring(1);
+				const targetSection = document.getElementById(targetId);
+				if (targetSection) {
+					sections.push({
+						id: targetId,
+						link: link,
+						element: targetSection
+					});
+				}
+			}
+		});
+
+		// Highlight logic
+		function highlightTOC() {
+			// Trigger highlighting when section is near top (e.g., 100px from top or 20% of viewport)
+			const threshold = 150;
+
+			// Default: clear all
+			sidebarLinks.forEach(link => link.classList.remove('active'));
+
+			let currentSection = null;
+
+			for (const section of sections) {
+				const rect = section.element.getBoundingClientRect();
+
+				// If the section's top is above the threshold (meaning we scrolled past it or are viewing it)
+				// AND it is still somewhat visible or the last one passed
+				// A simple approach: find the last section whose top is <= threshold
+				if (rect.top <= threshold) {
+					currentSection = section;
+				}
+			}
+
+			if (currentSection) {
+				currentSection.link.classList.add('active');
+			}
+		}
+
+		// Throttled scroll listener
+		let isScrolling = false;
+		window.addEventListener('scroll', function () {
+			if (!isScrolling) {
+				window.requestAnimationFrame(function () {
+					highlightTOC();
+					isScrolling = false;
+				});
+				isScrolling = true;
+			}
+		});
+
+		// Initial check
+		highlightTOC();
+	}
 });

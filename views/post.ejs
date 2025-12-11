@@ -11,8 +11,15 @@
         </div>
 
     </header>
-    <div class="post-content">
-        <%- content %>
+    <div class="post-body-container">
+        <main class="post-content">
+            <%- content %>
+        </main>
+        <aside class="toc-sidebar">
+            <div class="toc-sidebar-inner">
+                <!-- TOC will be injected here via JS -->
+            </div>
+        </aside>
     </div>
     
     <% if (related && related.length > 0) { %>

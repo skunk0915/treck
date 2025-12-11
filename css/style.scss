@@ -1459,3 +1459,124 @@ html {
         color: var(--primary-color);
     }
 }
+
+/* ----------------------------------------------------
+   Desktop Sidebar TOC Layout
+---------------------------------------------------- */
+.toc-sidebar {
+    display: none;
+    /* Hidden by default (mobile) */
+}
+
+@media (min-width: 768px) {
+
+    /* Hide Mobile FAB */
+    .toc-fab {
+        display: none !important;
+    }
+
+    /* Flex Layout for Content + Sidebar */
+    .post-body-container {
+        display: flex;
+        gap: 40px;
+        align-items: flex-start;
+        position: relative;
+    }
+
+    .post-content {
+        width: 70%;
+        /* approx 70% */
+        flex: 1;
+        /* Grow to fill if needed, but width sets basis */
+        min-width: 0;
+    }
+
+    /* Sidebar Styling */
+    .toc-sidebar {
+        display: block;
+        width: 30%;
+        /* approx 30% */
+        flex-shrink: 0;
+        position: sticky;
+        top: 20px;
+        max-height: calc(100vh - 40px);
+        overflow-y: auto;
+
+        /* Custom Scrollbar for sidebar */
+        &::-webkit-scrollbar {
+            width: 4px;
+        }
+
+        &::-webkit-scrollbar-thumb {
+            background: #ccc;
+            border-radius: 2px;
+        }
+
+        &-inner {
+            background: #deddd3;
+            padding: 1.5rem;
+            border-radius: 8px;
+            // box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+            // border: 1px solid #eee;
+        }
+
+        .toc-title {
+            font-size: 1.1rem;
+            font-weight: bold;
+            margin-top: 0;
+            margin-bottom: 1rem;
+            // color: var(--primary-color);
+            padding-bottom: 0.5rem;
+            border-bottom: 1px dashed ccc;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+
+            li {
+                margin-bottom: 0.5rem;
+
+                a {
+                    text-decoration: none;
+                    color: #555;
+                    font-size: 0.9rem;
+                    display: block;
+                    padding: 4px 8px;
+                    border-left: 3px solid transparent;
+                    transition: all 0.2s;
+                    line-height: 1.4;
+
+                    &:hover {
+                        color: var(--primary-color);
+                        // background: #c7c6bd;
+                        // border-left-color: #ddd;
+                    }
+
+                    &.active {
+                        color: var(--primary-color);
+                        font-weight: bold;
+                        // background: #fffbf0;
+                        border-left-color: var(--primary-color);
+                    }
+                }
+
+                /* Nested levels */
+                ul {
+                    margin-top: 0.5rem;
+                    padding-left: 10px;
+
+                    li {
+                        margin-bottom: 0.3rem;
+
+                        a {
+                            font-size: 0.7rem;
+                            padding: 2px 8px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

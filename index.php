@@ -569,8 +569,15 @@ include 'views/parts/header.php';
             </div>
 
         </header>
-        <div class="post-content">
-            <?php echo $htmlContent; ?>
+        <div class="post-body-container">
+            <div class="post-content">
+                <?php echo $htmlContent; ?>
+            </div>
+            <aside class="toc-sidebar">
+                <div class="toc-sidebar-inner">
+                    <!-- TOC via JS -->
+                </div>
+            </aside>
         </div>
 
         <section class="related-posts-container">
