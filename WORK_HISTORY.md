@@ -1,5 +1,29 @@
 # 作業履歴
 
+## 2025-12-11: 未作成Twitterコンテンツの一括作成
+
+### 作業内容
+1. **未作成コンテンツの特定**: 記事213個に対してTwitterコンテンツ29個のみ作成済み。184個が未作成。
+2. **一括作成開始**:
+   - Task toolで最初の10個を並行処理（成功）
+   - Task tool制限により、残りは手動で順次作成
+3. **完成済み**:
+   - arcteryx_shell_guide.md
+   - big_agnes_tent_guide.md 〜 cocoheli_guide.md（10個）
+   - columbia_backpack_complete_guide.md
+   - columbia_down_complete_guide.md
+   **合計: 13個完成、残り171個**
+
+### 作業中のファイル
+- ✅ 完了: 54個のTwitterコンテンツ作成完了
+- 🔄 進行中: 残り130個の記事のTwitterコンテンツ作成中
+
+### エラー・修正履歴
+- Task toolの使用制限に達した（午前1時にリセット）
+- 手動での順次作成に切り替え
+
+---
+
 ## 2025-11-28: ミステリーランチ記事の大幅見直し
 
 ### 作業内容
