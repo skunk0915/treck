@@ -846,11 +846,11 @@ html {
 /* TOC Overlay & FAB */
 .toc-fab {
   position: fixed;
-  bottom: 20px;
+  bottom: 80px;
   right: 20px;
   z-index: 1000;
-  width: 60px;
-  height: 60px;
+  width: 45px;
+  height: 45px;
   border-radius: 50%;
   background-color: var(--primary-color);
   color: #fff;
@@ -1374,5 +1374,50 @@ html {
   .toc-sidebar ul li ul li a {
     font-size: 0.7rem;
     padding: 2px 8px;
+  }
+}
+/* ----------------------------------------------------
+   Back to Top Button
+---------------------------------------------------- */
+.back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 50px;
+  height: 50px;
+  background-color: var(--primary-color);
+  /* Green */
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  font-size: 1.2rem;
+  cursor: pointer;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  z-index: 2400;
+  /* Below Hamburger (2500) but above content */
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s, transform 0.3s, visibility 0.3s;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.back-to-top.visible {
+  opacity: 1;
+  visibility: visible;
+}
+.back-to-top:hover {
+  transform: translateY(-5px);
+  background-color: #2e7d32;
+}
+
+/* Adjust position if FAB is present (Mobile) */
+@media (max-width: 767px) {
+  .back-to-top {
+    bottom: 20px;
+    right: 20px;
+    width: 45px;
+    height: 45px;
+    font-size: 1rem;
   }
 }/*# sourceMappingURL=style.css.map */
