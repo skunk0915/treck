@@ -21,13 +21,23 @@ document.addEventListener('DOMContentLoaded', function () {
         menuModal.classList.add('visible');
         document.body.style.overflow = 'hidden';
 
-        // Render All Articles (Randomized) only if empty (one time)
-        if (allListEl.children.length === 0) {
-            renderAllRandom();
+        // Check if data is loaded, if not fetch it
+        if (typeof allArticlesData === 'undefined' || allArticlesData.length === 0) {
+            fetch((typeof siteBaseUrl !== 'undefined' ? siteBaseUrl : '') + '/js/articles.json')
+                .then(response => response.json())
+                .then(data => {
+                    allArticlesData = data;
+                    renderAllRandom();
+                    renderTags();
+                })
+                .catch(err => console.error('Error loading articles:', err));
+        } else {
+            // Already loaded
+            if (allListEl.children.length === 0) renderAllRandom();
+            renderTags();
         }
 
-        renderTags();
-        renderRelated(); // Renders grouped by tag
+        renderRelated(); // Renders grouped by tag (relies on relatedArticlesData injected in page)
         searchInput.focus();
     }
 
@@ -214,6 +224,8 @@ document.addEventListener('DOMContentLoaded', function () {
     function renderTags() {
         if (tagsRendered) return;
         const sourceData = (typeof allArticlesData !== 'undefined') ? allArticlesData : [];
+        if (sourceData.length === 0) return; // Wait for data
+
         const allTags = new Set();
         sourceData.forEach(a => {
             if (a.tags) a.tags.forEach(t => allTags.add(t));

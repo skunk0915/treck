@@ -8,7 +8,6 @@
     <script>
         var siteBaseUrl = "<?php echo $baseUrl; ?>";
         var relatedArticlesData = <?php echo json_encode($relatedByTag ?? []); ?>;
-        var allArticlesData = <?php echo json_encode($allArticles ?? []); ?>;
     </script>
     <script src="<?php echo $baseUrl; ?>/js/common.js" defer></script>
     <script src="<?php echo $baseUrl; ?>/js/toc.js" defer></script>

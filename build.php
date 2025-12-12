@@ -197,6 +197,20 @@ include __DIR__ . '/views/parts/footer.php';
 <?php
 $indexHtml = ob_get_clean();
 file_put_contents(__DIR__ . '/index.html', $indexHtml);
+
+// 4. Generate articles.json for search
+echo "Generating articles.json...\n";
+$jsonArticles = [];
+foreach ($articles as $article) {
+    $jsonArticles[] = [
+        'title' => $article['title'],
+        'filename' => $article['filename'],
+        'thumbnail' => $article['thumbnail'],
+        'tags' => $article['tags']
+    ];
+}
+file_put_contents(__DIR__ . '/js/articles.json', json_encode($jsonArticles));
+
 echo "Build Complete!\n";
 
 
