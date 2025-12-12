@@ -2,7 +2,7 @@
 
 Tags: Rainwear, Guide
 
-![カリマーのレインウェアを着た登山者が雨の稜線を歩く写真。遠景には雲がかかった山々が見える。](/img/karrimor_rainwear_complete_guide_01_ridge_walk.png)
+![カリマーのレインウェアを着た登山者が雨の稜線を歩く写真。遠景には雲がかかった山々が見えるよ。](/img/karrimor_rainwear_complete_guide_01_ridge_walk.png)
 
 ## 導入
 
