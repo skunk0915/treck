@@ -10,9 +10,9 @@
         var relatedArticlesData = <?php echo json_encode($relatedByTag ?? []); ?>;
         var allArticlesData = <?php echo json_encode($allArticles ?? []); ?>;
     </script>
-    <script src="<?php echo $baseUrl; ?>/js/common.js"></script>
-    <script src="<?php echo $baseUrl; ?>/js/toc.js"></script>
-    <script src="<?php echo $baseUrl; ?>/js/hamburger.js"></script>
+    <script src="<?php echo $baseUrl; ?>/js/common.js" defer></script>
+    <script src="<?php echo $baseUrl; ?>/js/toc.js" defer></script>
+    <script src="<?php echo $baseUrl; ?>/js/hamburger.js" defer></script>
     <?php if (isset($extraScripts)) echo $extraScripts; ?>
 </body>
 </html>

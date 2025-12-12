@@ -11,12 +11,12 @@ include 'parts/header.php';
             <header class="post-header">
                 <h1>このサイトについて</h1>
 
-                <img src="img/about-mv.jpg" alt="">
+                <img src="img/about-mv.jpg" alt="" loading="lazy">
             </header>
             <div class="post-content">
                 
                 <div class="chat-row student">
-                    <div class="icon student"><img src="<?php echo $baseUrl; ?>/img/jk.png" alt="JK"></div>
+                    <div class="icon student"><img src="<?php echo $baseUrl; ?>/img/jk.png" alt="JK" loading="lazy"></div>
                     <div class="bubble">
                         <div class="message">
                             <p>ねえ先生、ここってどういうサイトなんですか？<br>
@@ -26,7 +26,7 @@ include 'parts/header.php';
                 </div>
 
                 <div class="chat-row teacher">
-                    <div class="icon teacher"><img src="<?php echo $baseUrl; ?>/img/teacher.png" alt="先生"></div>
+                    <div class="icon teacher"><img src="<?php echo $baseUrl; ?>/img/teacher.png" alt="先生" loading="lazy"></div>
                     <div class="bubble">
                         <div class="message">
                             <p>ここは、<strong>「登山道具選びに迷える子羊たち」を救うための場所</strong>だ。<br>
@@ -37,7 +37,7 @@ include 'parts/header.php';
                 </div>
 
                 <div class="chat-row student">
-                    <div class="icon student"><img src="<?php echo $baseUrl; ?>/img/jk.png" alt="JK"></div>
+                    <div class="icon student"><img src="<?php echo $baseUrl; ?>/img/jk.png" alt="JK" loading="lazy"></div>
                     <div class="bubble">
                         <div class="message">
                             <p>へぇ〜。でも先生の話って、専門用語ばっかりで難しいし、長いんですよね…。<br>
@@ -47,7 +47,7 @@ include 'parts/header.php';
                 </div>
 
                 <div class="chat-row teacher">
-                    <div class="icon teacher"><img src="<?php echo $baseUrl; ?>/img/teacher.png" alt="先生"></div>
+                    <div class="icon teacher"><img src="<?php echo $baseUrl; ?>/img/teacher.png" alt="先生" loading="lazy"></div>
                     <div class="bubble">
                         <div class="message">
                             いやいや、だからこそ、君がいるんじゃないか。<br>
@@ -60,7 +60,7 @@ include 'parts/header.php';
                 <h2>登場人物紹介</h2>
 
                 <div class="chat-row student">
-                    <div class="icon student"><img src="<?php echo $baseUrl; ?>/img/jk.png" alt="JK"></div>
+                    <div class="icon student"><img src="<?php echo $baseUrl; ?>/img/jk.png" alt="JK" loading="lazy"></div>
                     <div class="bubble">
                         <div class="message">
                             <p><strong>JK</strong><br>
@@ -72,7 +72,7 @@ include 'parts/header.php';
                 </div>
 
                 <div class="chat-row teacher">
-                    <div class="icon teacher"><img src="<?php echo $baseUrl; ?>/img/teacher.png" alt="先生"></div>
+                    <div class="icon teacher"><img src="<?php echo $baseUrl; ?>/img/teacher.png" alt="先生" loading="lazy"></div>
                     <div class="bubble">
                         <div class="message">
                             <p><strong>先生</strong><br>
@@ -87,7 +87,7 @@ include 'parts/header.php';
                 <h2>このサイトの使い方</h2>
 
                 <div class="chat-row teacher">
-                    <div class="icon teacher"><img src="<?php echo $baseUrl; ?>/img/teacher.png" alt="先生"></div>
+                    <div class="icon teacher"><img src="<?php echo $baseUrl; ?>/img/teacher.png" alt="先生" loading="lazy"></div>
                     <div class="bubble">
                         <div class="message">
                             <p>記事はすべて、私とJK君の<strong>「対話形式」</strong>で進んでいく。<br>
@@ -97,7 +97,7 @@ include 'parts/header.php';
                 </div>
 
                 <div class="chat-row student">
-                    <div class="icon student"><img src="<?php echo $baseUrl; ?>/img/jk.png" alt="JK"></div>
+                    <div class="icon student"><img src="<?php echo $baseUrl; ?>/img/jk.png" alt="JK" loading="lazy"></div>
                     <div class="bubble">
                         <div class="message">
                             <p>ふむふむ。それなら私でも読めそう！<br>
@@ -107,7 +107,7 @@ include 'parts/header.php';
                 </div>
 
                 <div class="chat-row teacher">
-                    <div class="icon teacher"><img src="<?php echo $baseUrl; ?>/img/teacher.png" alt="先生"></div>
+                    <div class="icon teacher"><img src="<?php echo $baseUrl; ?>/img/teacher.png" alt="先生" loading="lazy"></div>
                     <div class="bubble">
                         <div class="message">
                             <p>せっかちな現代人のために、記事の最後には<strong>「まとめ・比較表」</strong>を用意している。<br>

@@ -84,10 +84,10 @@ function parseDialogue($content)
 
             if (strpos($currentSpeaker, '先生') !== false) {
                 $currentType = 'teacher';
-                $currentIconHtml = '<img src="' . $baseUrl . '/img/teacher.png" alt="先生">';
+                $currentIconHtml = '<img src="' . $baseUrl . '/img/teacher.png" alt="先生" loading="lazy">';
             } elseif (strpos($currentSpeaker, 'JK') !== false || strpos($currentSpeaker, '生徒') !== false) {
                 $currentType = 'student';
-                $currentIconHtml = '<img src="' . $baseUrl . '/img/jk.png" alt="JK">';
+                $currentIconHtml = '<img src="' . $baseUrl . '/img/jk.png" alt="JK" loading="lazy">';
             }
         } elseif ($currentSpeaker) {
             // We are inside a dialogue
@@ -423,7 +423,7 @@ if ($path === '' || $isTagPage) {
     echo '<div id="noResults" style="display: none; text-align: center; margin-top: 2rem;">該当する記事は見つかりませんでした。</div>';
     echo '</main>';
 
-    $extraScripts = '<script src="' . $baseUrl . '/js/home.js"></script>';
+    $extraScripts = '<script src="' . $baseUrl . '/js/home.js" defer></script>';
     include 'views/parts/footer.php';
     die();
 }
