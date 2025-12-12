@@ -2,7 +2,7 @@
 
 Tags: Cookware, Guide
 
-![モンベルのアルパインクッカーとチタンボール・ディッシュセットが山の風景の中に並べられている写真。](/img/montbell_cookware_complete_guide_01.jpg)
+![モンベルのアルパインクッカーとチタンボール・ディッシュセットが山の風景の中に並べられている写真です。](/img/montbell_cookware_complete_guide_01.jpg)
 
 ## 導入
 

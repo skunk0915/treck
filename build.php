@@ -18,7 +18,13 @@ $articleMetaManager = new ArticleMetaManager($metaFile);
 $tagsJsonFile = __DIR__ . '/data/tags.json';
 $articleTagsMap = [];
 if (file_exists($tagsJsonFile)) {
-    $articleTagsMap = json_decode(file_get_contents($tagsJsonFile), true);
+    $content = file_get_contents($tagsJsonFile);
+    $articleTagsMap = json_decode($content, true);
+    echo "DEBUG: tags.json Path: " . realpath($tagsJsonFile) . "\n";
+    echo "DEBUG: tags.json Size: " . strlen($content) . "\n";
+    echo "DEBUG: tags.json MD5:  " . md5($content) . "\n";
+    echo "DEBUG: Map Count: " . count($articleTagsMap) . "\n";
+    echo "DEBUG: JSON Last Error: " . json_last_error_msg() . "\n";
 } else {
     echo "WARNING: data/tags.json not found. Tags will be empty. Run dump_tags.php via browser first.\n";
 }
@@ -272,6 +278,24 @@ function getArticleMetadataBuild($filename, $articleDir, $articleMetaManager, $a
     
     // Parse Tags from JSON
     $tags = $articleTagsMap[$filename] ?? [];
+    if (strpos($filename, 'montbell_fleece') !== false) {
+        echo "DEBUG: Filename [$filename]\n";
+        echo "DEBUG: Map Entry Exists? " . (isset($articleTagsMap[$filename]) ? "YES" : "NO") . "\n";
+        echo "DEBUG: Tags Count: " . count($tags) . "\n";
+        if (isset($articleTagsMap[$filename])) {
+             print_r($articleTagsMap[$filename]);
+        } else {
+             echo "DEBUG: Map Keys Sample:\n";
+             $keys = array_keys($articleTagsMap);
+             print_r(array_slice($keys, 0, 5));
+             // Check fuzzy
+             foreach ($keys as $k) {
+                 if (strpos($k, 'montbell_fleece') !== false) {
+                     echo "DEBUG: Found close match key: [$k]\n";
+                 }
+             }
+        }
+    }
     
     $meta = $articleMetaManager->getMeta($filename);
     $published_at = $meta['published_at'];
