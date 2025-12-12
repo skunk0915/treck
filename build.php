@@ -13,6 +13,16 @@ $siteName = "先生、それ、重くないですか？";
 $baseUrl = ''; // Root-relative
 
 $articleMetaManager = new ArticleMetaManager($metaFile);
+$articleMetaManager = new ArticleMetaManager($metaFile);
+// $tagManager = new DBTagManager(); // CLI mismatch
+$tagsJsonFile = __DIR__ . '/data/tags.json';
+$articleTagsMap = [];
+if (file_exists($tagsJsonFile)) {
+    $articleTagsMap = json_decode(file_get_contents($tagsJsonFile), true);
+} else {
+    echo "WARNING: data/tags.json not found. Tags will be empty. Run dump_tags.php via browser first.\n";
+}
+
 $renderer = new Renderer($baseUrl);
 
 echo "Starting build process (File-based Mode)...\n";
@@ -40,7 +50,7 @@ $allTagsCounter = [];
 
 foreach ($files as $file) {
     $filename = basename($file);
-    $meta = getArticleMetadataBuild($filename, $articleDir, $articleMetaManager);
+    $meta = getArticleMetadataBuild($filename, $articleDir, $articleMetaManager, $articleTagsMap);
     
     if ($meta && isArticleVisibleBuild($meta)) {
         $articles[] = $meta;
@@ -239,7 +249,7 @@ function isArticleVisibleBuild($article) {
     return true;
 }
 
-function getArticleMetadataBuild($filename, $articleDir, $articleMetaManager) {
+function getArticleMetadataBuild($filename, $articleDir, $articleMetaManager, $articleTagsMap) {
     $filePath = $articleDir . '/' . $filename;
     if (!file_exists($filePath)) return null;
     $content = file_get_contents($filePath);
@@ -260,8 +270,8 @@ function getArticleMetadataBuild($filename, $articleDir, $articleMetaManager) {
          }
     }
     
-    // Parse Tags from Content
-    $tags = getTagsFromContent($content);
+    // Parse Tags from JSON
+    $tags = $articleTagsMap[$filename] ?? [];
     
     $meta = $articleMetaManager->getMeta($filename);
     $published_at = $meta['published_at'];

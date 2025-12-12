@@ -131,12 +131,47 @@ if (!isset($_SESSION['admin_logged_in'])) {
 $message = '';
 $messageType = 'success';
 
+function regenerateTagsJson() {
+    // Re-use logic from dump_tags.php or just call via HTTP?
+    // Since admin.php runs on server, we can includes/require logic or duplicate it.
+    // Duplicating small logic is safer than HTTP call loops or require issues with headers.
+    
+    $outputFile = __DIR__ . '/data/tags.json';
+    try {
+        $pdo = \DB::getInstance()->getConnection();
+        $stmt = $pdo->query("
+            SELECT at.article_filename, t.name 
+            FROM article_tags at
+            JOIN tags t ON at.tag_id = t.id
+        ");
+        
+        $mapping = [];
+        while ($row = $stmt->fetch(PDO::FETCH_ASSOC)) {
+            $filename = $row['article_filename'];
+            $tag = $row['name'];
+            if (!isset($mapping[$filename])) {
+                $mapping[$filename] = [];
+            }
+            $mapping[$filename][] = $tag;
+        }
+        
+        if (!is_dir(dirname($outputFile))) {
+            mkdir(dirname($outputFile), 0755, true);
+        }
+        
+        file_put_contents($outputFile, json_encode($mapping, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+    } catch (Exception $e) {
+        // Log error silently or handle
+    }
+}
+
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     if (isset($_POST['action'])) {
         if ($_POST['action'] === 'update_tags') {
             $filename = $_POST['filename'];
             $tags = explode(',', $_POST['tags']);
             $tagManager->setTags($filename, $tags);
+            regenerateTagsJson();
 
             header('Content-Type: application/json');
             echo json_encode(['status' => 'success', 'message' => 'タグを更新しました']);
@@ -146,6 +181,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $newTag = trim($_POST['new_tag']);
             if ($oldTag && $newTag) {
                 $count = $tagManager->renameTag($oldTag, $newTag);
+                regenerateTagsJson();
                 $message = "タグ「{$oldTag}」を「{$newTag}」に変更しました。（{$count}件の記事を更新）";
             }
         } elseif ($_POST['action'] === 'merge_tags') {
@@ -154,6 +190,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             if ($sourceTag && $targetTag && $sourceTag !== $targetTag) {
                 $isDelete = ($targetTag === '(削除)');
                 $count = $tagManager->mergeTags($sourceTag, $targetTag, $isDelete);
+                regenerateTagsJson();
 
                 if ($isDelete) {
                     $message = "タグ「{$sourceTag}」を削除しました。（{$count}件の記事から削除）";

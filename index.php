@@ -25,7 +25,7 @@ $baseUrl = "$protocol://$host$scriptDir";
 $renderer = new Renderer($baseUrl);
 
 // helper function
-function getArticleMetadata($filename, $articleDir, $articleMetaManager) {
+function getArticleMetadata($filename, $articleDir, $articleMetaManager, $tagManager) {
     $filePath = $articleDir . '/' . $filename;
     if (!file_exists($filePath)) return null;
     $content = file_get_contents($filePath);
@@ -47,11 +47,8 @@ function getArticleMetadata($filename, $articleDir, $articleMetaManager) {
         }
     }
     
-    // Parse tags from content
-    $tags = [];
-    if (preg_match('/^Tags:\s*(.*)/mi', $content, $matches)) {
-        $tags = array_map('trim', explode(',', $matches[1]));
-    }
+    // Parse tags from DB
+    $tags = $tagManager->getTags($filename);
     
     $meta = $articleMetaManager->getMeta($filename);
     
@@ -94,7 +91,7 @@ if (preg_match('#^/tag/([^/?]+)#', $path, $matches)) {
     $articles = [];
     foreach ($filenames as $f) {
         if (substr($f, -3) !== '.md') $f .= '.md';
-        $meta = getArticleMetadata($f, $articleDir, $articleMetaManager);
+        $meta = getArticleMetadata($f, $articleDir, $articleMetaManager, $tagManager);
         if ($meta && ($meta['status'] !== 'private' || (isset($meta['published_at']) && strtotime($meta['published_at']) > time()))) {
              // In build.php private check was: if status == private return false.
              // Here we just skip.
@@ -159,7 +156,7 @@ if (preg_match('#^/tag/([^/?]+)#', $path, $matches)) {
     
     $filename = $slug . '.md';
     if (file_exists($articleDir . '/' . $filename)) {
-        $meta = getArticleMetadata($filename, $articleDir, $articleMetaManager);
+        $meta = getArticleMetadata($filename, $articleDir, $articleMetaManager, $tagManager);
         if ($meta && $meta['status'] !== 'private') {
             $pageTitle = $meta['title'] . ' - ' . $siteName;
             $pageDescription = $meta['description'];
