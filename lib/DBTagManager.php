@@ -177,4 +177,14 @@ class DBTagManager {
             throw $e;
         }
     }
+    public function getArticlesByTag($tagName) {
+        $stmt = $this->pdo->prepare("
+            SELECT at.article_filename 
+            FROM article_tags at
+            JOIN tags t ON at.tag_id = t.id
+            WHERE t.name = ?
+        ");
+        $stmt->execute([$tagName]);
+        return $stmt->fetchAll(PDO::FETCH_COLUMN);
+    }
 }

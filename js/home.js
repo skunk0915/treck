@@ -2,6 +2,13 @@ document.addEventListener('DOMContentLoaded', function () {
 	console.log('home.js loaded');
 	const searchInput = document.getElementById('searchInput');
 	const articleGrid = document.getElementById('articleGrid');
+
+	// Safety check for articleGrid
+	if (!articleGrid) {
+		// PWA logic moved to pwa.js, nothing else to do here if grid is missing
+		return;
+	}
+
 	const articles = articleGrid.querySelectorAll('.article-card');
 	const noResults = document.getElementById('noResults');
 	const tagButtons = document.querySelectorAll('.tag-btn');
@@ -17,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	filterArticles();
 
 	function filterArticles() {
-		const query = searchInput.value.toLowerCase();
+		const query = searchInput ? searchInput.value.toLowerCase() : '';
 		let visibleCount = 0;
 
 		articles.forEach(article => {
@@ -34,10 +41,12 @@ document.addEventListener('DOMContentLoaded', function () {
 			}
 		});
 
-		if (visibleCount === 0) {
-			noResults.style.display = 'block';
-		} else {
-			noResults.style.display = 'none';
+		if (noResults) {
+			if (visibleCount === 0) {
+				noResults.style.display = 'block';
+			} else {
+				noResults.style.display = 'none';
+			}
 		}
 	}
 
