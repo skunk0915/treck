@@ -136,6 +136,10 @@
         "インナー",
         "ミレー"
     ],
+    "tnf_tops_complete_guide.md": [
+        "インナー",
+        "ノースフェイス"
+    ],
     "karrimor_ridge_guide.md": [
         "カリマー",
         "バックパック"
@@ -309,6 +313,45 @@
         "トレッキングポール",
         "ブラックダイヤモンド"
     ],
+    "tnf_hardshell_complete_guide.md": [
+        "ノースフェイス",
+        "上着"
+    ],
+    "tnf_softshell_windshell_complete_guide.md": [
+        "ノースフェイス",
+        "上着"
+    ],
+    "tnf_gear_accessories_complete_guide.md": [
+        "ノースフェイス"
+    ],
+    "tnf_fleece_complete_guide.md": [
+        "ノースフェイス",
+        "上着"
+    ],
+    "tnf_backpack_complete_guide.md": [
+        "ノースフェイス"
+    ],
+    "tnf_down_insulated_complete_guide.md": [
+        "ノースフェイス",
+        "上着",
+        "防寒"
+    ],
+    "tnf_down_guide.md": [
+        "ノースフェイス",
+        "上着",
+        "防寒"
+    ],
+    "tnf_shoes_complete_guide.md": [
+        "ノースフェイス",
+        "靴"
+    ],
+    "tnf_pants_complete_guide.md": [
+        "ノースフェイス"
+    ],
+    "north_face_backpack_guide.md": [
+        "ノースフェイス",
+        "バックパック"
+    ],
     "packing_guide.md": [
         "パッキング"
     ],
@@ -332,9 +375,6 @@
         "バックパック"
     ],
     "mystery_ranch_backpack_guide.md": [
-        "バックパック"
-    ],
-    "north_face_backpack_guide.md": [
         "バックパック"
     ],
     "osprey_backpack_comfort.md": [
@@ -568,9 +608,6 @@
         "登山初心者講座"
     ],
     "nanga_sleeping_bag_guide.md": [
-        "寝袋"
-    ],
-    "tnf_down_guide.md": [
         "寝袋"
     ],
     "western_mountaineering_sleeping_bag_guide.md": [
