@@ -10,9 +10,9 @@ require_once __DIR__ . '/lib/Renderer.php';
 $articleDir = __DIR__ . '/article';
 $metaFile = __DIR__ . '/data/article_meta.json';
 $siteName = "先生、それ、重くないですか？";
-$baseUrl = ''; // Root-relative
+$baseUrl = ''; // Root-relative for production
+$outputDir = __DIR__ . '/static'; // Output directory
 
-$articleMetaManager = new ArticleMetaManager($metaFile);
 $articleMetaManager = new ArticleMetaManager($metaFile);
 // $tagManager = new DBTagManager(); // CLI mismatch
 $tagsJsonFile = __DIR__ . '/data/tags.json';
@@ -32,13 +32,54 @@ if (file_exists($tagsJsonFile)) {
 $renderer = new Renderer($baseUrl);
 
 echo "Starting build process (File-based Mode)...\n";
+echo "Output Directory: " . $outputDir . "\n";
+
+ensureDir($outputDir);
+
+// --- Asset Copying ---
+echo "Copying assets...\n";
+copyDir(__DIR__ . '/js', $outputDir . '/js');
+copyDir(__DIR__ . '/css', $outputDir . '/css');
+copyDir(__DIR__ . '/img', $outputDir . '/img');
+copyDir(__DIR__ . '/public', $outputDir . '/public'); // Copy public if it exists (e.g. for ads.txt, robots.txt)
+if (file_exists(__DIR__ . '/sw.js')) copyFile(__DIR__ . '/sw.js', $outputDir . '/sw.js');
+if (file_exists(__DIR__ . '/manifest.json')) copyFile(__DIR__ . '/manifest.json', $outputDir . '/manifest.json');
+// ---------------------
 
 function ensureDir($path)
 {
     if (!is_dir($path)) {
-        mkdir($path, 0755, true);
+        if (!mkdir($path, 0755, true)) {
+            die("Failed to create directory: $path");
+        }
     }
 }
+
+function copyFile($src, $dest)
+{
+    if (file_exists($src)) {
+        if (!file_exists(dirname($dest))) ensureDir(dirname($dest));
+        copy($src, $dest);
+    }
+}
+
+function copyDir($src, $dest)
+{
+    if (!is_dir($src)) return;
+    ensureDir($dest);
+    $dir = opendir($src);
+    while (false !== ($file = readdir($dir))) {
+        if (($file != '.') && ($file != '..')) {
+            if (is_dir($src . '/' . $file)) {
+                copyDir($src . '/' . $file, $dest . '/' . $file);
+            } else {
+                copy($src . '/' . $file, $dest . '/' . $file);
+            }
+        }
+    }
+    closedir($dir);
+}
+
 
 // Helper to get tags from content
 function getTagsFromContent($content)
@@ -83,8 +124,8 @@ foreach ($articles as $article) {
     echo "Building article: " . $article['title'] . "\n";
 
     $slug = $article['filename'];
-    $outDir = __DIR__ . '/' . $slug;
-    ensureDir($outDir);
+    $articleOutputDir = $outputDir . '/' . $slug; // Output to static/slug
+    ensureDir($articleOutputDir);
 
     // Render Content
     $htmlContent = $renderer->render($article['content']);
@@ -156,7 +197,7 @@ foreach ($articles as $article) {
     <?php include __DIR__ . '/views/parts/footer.php'; ?>
 <?php
     $finalHtml = ob_get_clean();
-    atomic_put_contents($outDir . '/index.html', $finalHtml);
+    atomic_put_contents($articleOutputDir . '/index.html', $finalHtml);
 }
 
 // 3. Build Homepage (index.html)
@@ -221,10 +262,10 @@ include __DIR__ . '/views/parts/footer.php';
 ?>
 <?php
 $indexHtml = ob_get_clean();
-// atomic_put_contents(__DIR__ . '/index.html', $indexHtml); 
+// atomic_put_contents($outputDir . '/index.html', $indexHtml); 
 // Note: Since homepage is randomized, atomic write might not help much if content changes every time,
 // but it's still good practice.
-atomic_put_contents(__DIR__ . '/index.html', $indexHtml);
+atomic_put_contents($outputDir . '/index.html', $indexHtml);
 
 // 4. Generate articles.json for search
 echo "Generating articles.json...\n";
@@ -242,7 +283,9 @@ foreach ($articles as $article) {
         'tags' => $article['tags']
     ];
 }
-atomic_put_contents(__DIR__ . '/js/articles.json', json_encode($jsonArticles));
+// Ensure js dir exists in static
+ensureDir($outputDir . '/js');
+atomic_put_contents($outputDir . '/js/articles.json', json_encode($jsonArticles));
 
 echo "Build Complete!\n";
 
@@ -302,6 +345,9 @@ function getArticleMetadataBuild($filename, $articleDir, $articleMetaManager, $a
     // Normalize Thumbnail
     if ($thumbnail && strpos($thumbnail, 'http') !== 0) {
         $cleanPath = ltrim($thumbnail, '/');
+        // Check local path existence (relative to project root in memory)
+        // Note: Logic here is checking paths relative to project root actually.
+        // Images are copied to static root, so '/img/foo.jpg' is correct for 'static/img/foo.jpg'
         if (file_exists(dirname($articleDir) . '/' . $cleanPath)) {
             $thumbnail = '/' . $cleanPath;
         } elseif (file_exists(dirname($articleDir) . '/img/' . $cleanPath)) {
