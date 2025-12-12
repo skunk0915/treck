@@ -236,6 +236,24 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 echo json_encode(['status' => 'error', 'message' => 'ファイルが見つかりません']);
             }
             exit;
+        } elseif ($_POST['action'] === 'build_site') {
+            // 1. Ensure tags are up to date
+            regenerateTagsJson();
+
+            // 2. Run build.php
+            // Use PHP_BINARY to ensure we use the same PHP executable
+            $cmd = PHP_BINARY . ' ' . __DIR__ . '/build.php 2>&1';
+            $output = [];
+            $returnVar = 0;
+            exec($cmd, $output, $returnVar);
+
+            header('Content-Type: application/json');
+            if ($returnVar === 0) {
+                echo json_encode(['status' => 'success', 'message' => 'サイトを再構築しました。', 'details' => $output]);
+            } else {
+                echo json_encode(['status' => 'error', 'message' => 'ビルドに失敗しました。', 'details' => $output]);
+            }
+            exit;
         }
     }
 }
@@ -568,6 +586,7 @@ foreach ($files as $file) {
             <h1>Treck Admin Panel</h1>
             <div>
                 <span>Logged in as <?php echo htmlspecialchars($adminEmail); ?></span>
+                <button id="rebuild-btn" class="btn btn-warning" style="margin-left: 1rem;">サイト再構築</button>
                 <a href="?logout=1" class="btn btn-danger" style="margin-left: 1rem; text-decoration: none;">Logout</a>
             </div>
         </header>
@@ -796,6 +815,42 @@ foreach ($files as $file) {
         const tableRows = document.querySelectorAll('.article-row');
         const tagCloudItems = document.querySelectorAll('.tag-cloud-item');
         let selectedTags = new Set();
+
+
+        // Build Button Logic
+        const rebuildBtn = document.getElementById('rebuild-btn');
+        if (rebuildBtn) {
+            rebuildBtn.addEventListener('click', () => {
+                if (!confirm('サイトを再構築しますか？時間がかかる場合があります。')) return;
+
+                rebuildBtn.disabled = true;
+                rebuildBtn.textContent = '構築中...';
+
+                const formData = new FormData();
+                formData.append('action', 'build_site');
+
+                fetch('admin.php', {
+                    method: 'POST',
+                    body: formData
+                })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.status === 'success') {
+                        alert(data.message);
+                    } else {
+                        alert('エラー: ' + data.message + '\n' + (data.details ? data.details.join('\n') : ''));
+                    }
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    alert('通信エラーが発生しました');
+                })
+                .finally(() => {
+                    rebuildBtn.disabled = false;
+                    rebuildBtn.textContent = 'サイト再構築';
+                });
+            });
+        }
 
         function applyFilters() {
             const keyword = searchInput.value.toLowerCase();

@@ -1,6 +1,6 @@
 @echo off
 echo Starting SSG Build...
-php build.php
+php build_local.php
 echo.
 echo Build finished.
 pause

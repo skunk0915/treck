@@ -464,9 +464,6 @@
         "モンベル",
         "寝袋"
     ],
-    "montbell_cookware_complete_guide.md": [
-        "モンベル"
-    ],
     "montbell_down_complete_guide.md": [
         "モンベル"
     ],
@@ -489,6 +486,11 @@
     "montbell_rainwear_complete_guide.md": [
         "モンベル",
         "レインウェア"
+    ],
+    "montbell_cookware_complete_guide.md": [
+        "モンベル",
+        "器具",
+        "料理"
     ],
     "teton_bros_tsurugi_guide.md": [
         "レインウェア"
