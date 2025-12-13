@@ -131,11 +131,8 @@ if (!isset($_SESSION['admin_logged_in'])) {
 $message = '';
 $messageType = 'success';
 
-function regenerateTagsJson() {
-    // Re-use logic from dump_tags.php or just call via HTTP?
-    // Since admin.php runs on server, we can includes/require logic or duplicate it.
-    // Duplicating small logic is safer than HTTP call loops or require issues with headers.
-    
+function regenerateTagsJson()
+{
     $outputFile = __DIR__ . '/data/tags.json';
     try {
         $pdo = \DB::getInstance()->getConnection();
@@ -144,7 +141,7 @@ function regenerateTagsJson() {
             FROM article_tags at
             JOIN tags t ON at.tag_id = t.id
         ");
-        
+
         $mapping = [];
         while ($row = $stmt->fetch(PDO::FETCH_ASSOC)) {
             $filename = $row['article_filename'];
@@ -154,14 +151,62 @@ function regenerateTagsJson() {
             }
             $mapping[$filename][] = $tag;
         }
-        
+
         if (!is_dir(dirname($outputFile))) {
-            mkdir(dirname($outputFile), 0755, true);
+            if (!mkdir(dirname($outputFile), 0755, true)) {
+                throw new Exception("Failed to create directory: " . dirname($outputFile));
+            }
         }
-        
-        file_put_contents($outputFile, json_encode($mapping, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+
+        $json = json_encode($mapping, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
+        if ($json === false) {
+            throw new Exception("JSON encoding failed: " . json_last_error_msg());
+        }
+
+        if (file_put_contents($outputFile, $json) === false) {
+            throw new Exception("Failed to write to file: $outputFile");
+        }
+
+        return ['status' => true, 'count' => count($mapping)];
     } catch (Exception $e) {
-        // Log error silently or handle
+        return ['status' => false, 'message' => $e->getMessage()];
+    }
+}
+
+
+
+function runSiteBuild()
+{
+    $logFile = __DIR__ . '/build_debug.log';
+    $timestamp = date('Y-m-d H:i:s');
+
+    // 1. Ensure tags are up to date
+    $regenResult = regenerateTagsJson();
+    if (!$regenResult['status']) {
+        file_put_contents($logFile, "[$timestamp] JSON Regen Failed: " . $regenResult['message'] . "\n", FILE_APPEND);
+        return ['status' => false, 'message' => 'JSON更新に失敗: ' . $regenResult['message']];
+    }
+
+    // 2. Run build.php
+    $phpBinary = PHP_BINARY;
+    if (empty($phpBinary)) {
+        $phpBinary = 'php';
+    }
+    $cmd = $phpBinary . ' ' . __DIR__ . '/build.php 2>&1';
+
+    file_put_contents($logFile, "[$timestamp] Executing: $cmd (PHP_BINARY: " . var_export(PHP_BINARY, true) . ")\n", FILE_APPEND);
+
+    $output = [];
+    $returnVar = 0;
+    exec($cmd, $output, $returnVar);
+
+    $outputStr = implode("\n", $output);
+    file_put_contents($logFile, "[$timestamp] Return Var: $returnVar\nOutput:\n$outputStr\n--------------------------------\n", FILE_APPEND);
+
+    if ($returnVar === 0) {
+        return ['status' => true, 'message' => 'サイト再構築完了', 'details' => $output];
+    } else {
+        return ['status' => false, 'message' => 'ビルド失敗', 'details' => $output];
     }
 }
 
@@ -171,18 +216,30 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $filename = $_POST['filename'];
             $tags = explode(',', $_POST['tags']);
             $tagManager->setTags($filename, $tags);
-            regenerateTagsJson();
+
+            // Auto Build (includes JSON regen)
+            $buildResult = runSiteBuild();
 
             header('Content-Type: application/json');
-            echo json_encode(['status' => 'success', 'message' => 'タグを更新しました']);
+            if ($buildResult['status']) {
+                echo json_encode(['status' => 'success', 'message' => 'タグ更新＆' . $buildResult['message']]);
+            } else {
+                echo json_encode(['status' => 'warning', 'message' => 'タグは保存されましたが、' . $buildResult['message']]);
+            }
             exit;
         } elseif ($_POST['action'] === 'rename_tag') {
             $oldTag = trim($_POST['old_tag']);
             $newTag = trim($_POST['new_tag']);
             if ($oldTag && $newTag) {
                 $count = $tagManager->renameTag($oldTag, $newTag);
-                regenerateTagsJson();
+                $buildResult = runSiteBuild();
                 $message = "タグ「{$oldTag}」を「{$newTag}」に変更しました。（{$count}件の記事を更新）";
+                if ($buildResult['status']) {
+                    $message .= " | " . $buildResult['message'];
+                } else {
+                    $message .= " | " . $buildResult['message'];
+                    $messageType = 'warning';
+                }
             }
         } elseif ($_POST['action'] === 'merge_tags') {
             $sourceTag = trim($_POST['source_tag']);
@@ -190,12 +247,20 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             if ($sourceTag && $targetTag && $sourceTag !== $targetTag) {
                 $isDelete = ($targetTag === '(削除)');
                 $count = $tagManager->mergeTags($sourceTag, $targetTag, $isDelete);
-                regenerateTagsJson();
+
 
                 if ($isDelete) {
                     $message = "タグ「{$sourceTag}」を削除しました。（{$count}件の記事から削除）";
                 } else {
                     $message = "タグ「{$sourceTag}」を「{$targetTag}」に統合しました。（{$count}件の記事を更新）";
+                }
+
+                $buildResult = runSiteBuild();
+                if ($buildResult['status']) {
+                    $message .= " | " . $buildResult['message'];
+                } else {
+                    $message .= " | " . $buildResult['message'];
+                    $messageType = 'warning';
                 }
             }
         } elseif ($_POST['action'] === 'update_meta') {
@@ -237,21 +302,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             }
             exit;
         } elseif ($_POST['action'] === 'build_site') {
-            // 1. Ensure tags are up to date
-            regenerateTagsJson();
-
-            // 2. Run build.php
-            // Use PHP_BINARY to ensure we use the same PHP executable
-            $cmd = PHP_BINARY . ' ' . __DIR__ . '/build.php 2>&1';
-            $output = [];
-            $returnVar = 0;
-            exec($cmd, $output, $returnVar);
-
+            $buildResult = runSiteBuild();
             header('Content-Type: application/json');
-            if ($returnVar === 0) {
-                echo json_encode(['status' => 'success', 'message' => 'サイトを再構築しました。', 'details' => $output]);
+            if ($buildResult['status']) {
+                echo json_encode(['status' => 'success', 'message' => $buildResult['message'], 'details' => $buildResult['details']]);
             } else {
-                echo json_encode(['status' => 'error', 'message' => 'ビルドに失敗しました。', 'details' => $output]);
+                echo json_encode(['status' => 'error', 'message' => $buildResult['message'], 'details' => $buildResult['details']]);
             }
             exit;
         }
@@ -830,25 +886,25 @@ foreach ($files as $file) {
                 formData.append('action', 'build_site');
 
                 fetch('admin.php', {
-                    method: 'POST',
-                    body: formData
-                })
-                .then(response => response.json())
-                .then(data => {
-                    if (data.status === 'success') {
-                        alert(data.message);
-                    } else {
-                        alert('エラー: ' + data.message + '\n' + (data.details ? data.details.join('\n') : ''));
-                    }
-                })
-                .catch(error => {
-                    console.error('Error:', error);
-                    alert('通信エラーが発生しました');
-                })
-                .finally(() => {
-                    rebuildBtn.disabled = false;
-                    rebuildBtn.textContent = 'サイト再構築';
-                });
+                        method: 'POST',
+                        body: formData
+                    })
+                    .then(response => response.json())
+                    .then(data => {
+                        if (data.status === 'success') {
+                            alert(data.message);
+                        } else {
+                            alert('エラー: ' + data.message + '\n' + (data.details ? data.details.join('\n') : ''));
+                        }
+                    })
+                    .catch(error => {
+                        console.error('Error:', error);
+                        alert('通信エラーが発生しました');
+                    })
+                    .finally(() => {
+                        rebuildBtn.disabled = false;
+                        rebuildBtn.textContent = 'サイト再構築';
+                    });
             });
         }
 

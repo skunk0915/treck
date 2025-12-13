@@ -258,6 +258,7 @@ include __DIR__ . '/views/parts/header.php';
 </main>
 <?php
 $extraScripts = '<script src="' . $baseUrl . '/js/home.js" defer></script><script src="' . $baseUrl . '/js/pwa.js" defer></script>';
+echo "<!-- Build Time: " . date('Y-m-d H:i:s') . " -->";
 include __DIR__ . '/views/parts/footer.php';
 ?>
 <?php
@@ -285,7 +286,10 @@ foreach ($articles as $article) {
 }
 // Ensure js dir exists in static
 ensureDir($outputDir . '/js');
-atomic_put_contents($outputDir . '/js/articles.json', json_encode($jsonArticles));
+atomic_put_contents($outputDir . '/js/articles.json', json_encode($jsonArticles, JSON_UNESCAPED_UNICODE));
+
+// ALSO update the source js/articles.json for dynamic site (admin/index.php view)
+atomic_put_contents(__DIR__ . '/js/articles.json', json_encode($jsonArticles, JSON_UNESCAPED_UNICODE));
 
 echo "Build Complete!\n";
 

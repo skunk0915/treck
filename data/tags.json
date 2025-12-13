@@ -43,7 +43,8 @@
         "アークテリクス"
     ],
     "arcteryx_fleece_midlayer_complete_guide.md": [
-        "アークテリクス"
+        "アークテリクス",
+        "上着"
     ],
     "arm_cover_guide.md": [
         "アクセサリー"
@@ -113,6 +114,10 @@
     "mammut_accessories_complete_guide.md": [
         "アクセサリー",
         "マムート"
+    ],
+    "altra_shoes_guide.md": [
+        "アルトラ",
+        "靴"
     ],
     "cwx_tights_guide.md": [
         "インナー"
@@ -649,9 +654,6 @@
     ],
     "petzl_headlamp_guide.md": [
         "電装"
-    ],
-    "altra_shoes_guide.md": [
-        "靴"
     ],
     "approach_shoes_guide.md": [
         "靴"

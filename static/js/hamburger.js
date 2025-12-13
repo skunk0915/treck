@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         // Check if data is loaded, if not fetch it
         if (typeof allArticlesData === 'undefined' || allArticlesData.length === 0) {
-            fetch((typeof siteBaseUrl !== 'undefined' ? siteBaseUrl : '') + '/js/articles.json')
+            fetch((typeof siteBaseUrl !== 'undefined' ? siteBaseUrl : '') + '/js/articles.json?v=' + new Date().getTime())
                 .then(response => response.json())
                 .then(data => {
                     allArticlesData = data;

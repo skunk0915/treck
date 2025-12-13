@@ -218,7 +218,18 @@ if ($path === '/' || $path === '') {
     // Or render home.
     // Given the task is SSG, dynamic home is less critical.
     // But if index.html is missing, better to show something.
-    echo "Dynamic Home Fallback Placeholder";
+    // Serve static/index.html if exists
+    $staticHome = __DIR__ . '/static/index.html';
+    if (file_exists($staticHome)) {
+        // Prevent Caching
+        header("Cache-Control: no-store, no-cache, must-revalidate, max-age=0");
+        header("Cache-Control: post-check=0, pre-check=0", false);
+        header("Pragma: no-cache");
+
+        readfile($staticHome);
+        exit;
+    }
+    echo "Dynamic Home Fallback Placeholder (static/index.html not found)";
 } else {
     http_response_code(404);
     echo "<!DOCTYPE html><html><head><title>404 Not Found</title></head><body><h1>404 Not Found</h1><p>The requested page could not be found.</p><a href='/'>Go Home</a></body></html>";

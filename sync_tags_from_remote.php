@@ -1,7 +1,7 @@
 <?php
 // sync_tags_from_remote.php
 
-$remoteUrl = 'https://sensei-omoi.flow-t.net/data/tags.json';
+$remoteUrl = 'https://sensei-omoi.flow-t.net/data/tags.json?v=' . time();
 $localPath = __DIR__ . '/data/tags.json';
 
 echo "Syncing tags from $remoteUrl ...\n";
@@ -31,4 +31,7 @@ if (isset($data[$checkKey])) {
 
 $bytes = file_put_contents($localPath, $json);
 echo "Saved $bytes bytes to $localPath\n";
+$decoded = json_decode($json, true);
+echo "DEBUG DATA CHECK: Count " . count($decoded) . "\n";
+echo "DEBUG SAMPLE: " . substr($json, 0, 100) . "...\n";
 echo "Sync Complete.\n";
