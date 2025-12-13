@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>rule_youtube - 先生、それ、重くないですか？</title>
+            <meta name="description" content="...">
+                <link rel="canonical" href="/rule_youtube">
+        <link rel="stylesheet" href="/css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-L5QV4WDDL0"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-L5QV4WDDL0');
+    </script>
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#008000">
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('/sw.js')
+                    .then(registration => {
+                        console.log('SW registered: ', registration);
+                    })
+                    .catch(registrationError => {
+                        console.log('SW registration failed: ', registrationError);
+                    });
+            });
+        }
+    </script>
+</head>
+
+<body>    <header>
+        <div class="container">
+            <a href="/" class="logo">
+                <img src="/img/logo.png" alt="先生、それ、重くないですか？">
+            </a>
+            <nav class="desktop-nav">
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/about">About</a></li>
+                </ul>
+            </nav>
+            <button id="hamburger-btn" class="hamburger-btn" aria-label="Menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+        
+        <!-- Menu Modal -->
+        <div id="menu-modal" class="menu-modal">
+            <div class="menu-modal-overlay"></div>
+            <div class="menu-modal-content">
+                <button id="menu-close-btn" class="menu-close-btn">&times;</button>
+                <div class="menu-search-container">
+                     <input type="text" id="menu-search-input" placeholder="記事を検索..." class="menu-search-input">
+                </div>
+                <div id="menu-search-results" class="menu-list" style="display:none; margin-bottom: 2rem;"></div>
+                <div id="menu-related-section" class="menu-section" style="display:none;">
+                    <h3>関連記事</h3>
+                    <div id="menu-related-list" class="menu-list"></div>
+                </div>
+                <div id="menu-all-section" class="menu-section">
+                     <h3>こんな記事もあります</h3>
+                     <div id="menu-all-list" class="menu-list"></div>
+                </div>
+                <div id="menu-tags-section" class="menu-section menu-tags-section">
+                    <button id="menu-tags-toggle" class="menu-tags-toggle">タグ一覧 <span>+</span></button>
+                    <div id="menu-tags-list" class="menu-tags-list" style="display:none;"></div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <main class="container">
+        <article class="post">
+            <header class="post-header">
+                <h1>rule_youtube</h1>
+                <div class="post-meta">
+                    <span class="tags-label">Tags:
+                                            </span>
+                </div>
+            </header>
+            <div class="post-body-container">
+                <div class="post-content">
+                                    </div>
+                <aside class="toc-sidebar">
+                    <div class="toc-sidebar-inner"></div>
+                </aside>
+            </div>
+            <section class="related-posts-container">
+                            </section>
+        </article>
+    </main>
+        <footer>
+        <div class="container">
+            <p>&copy; 2025 先生、それ、重くないですか？ All rights reserved.</p>
+        </div>
+    </footer>
+    <button id="backToTop" class="back-to-top" aria-label="ページトップへ戻る">▲</button>
+    
+    <script>
+        var siteBaseUrl = "";
+        var relatedArticlesData = [];
+    </script>
+    <script src="/js/common.js" defer></script>
+    <script src="/js/toc.js" defer></script>
+    <script src="/js/hamburger.js" defer></script>
+    <script src="/js/pwa.js" defer></script></body>
+</html>
