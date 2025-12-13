@@ -385,11 +385,69 @@ function getArticleMetadataBuild($filename, $articleDir, $articleMetaManager, $a
     $published_at = $meta['published_at'];
     $status = $meta['status'];
 
-    $plainText = preg_replace('/^#\s+.*\n/', '', $content);
-    $plainText = preg_replace('/(\*\*|__)(.*?)\1/', '$2', $plainText);
-    $plainText = preg_replace('/\[([^\]]+)\]\([^\)]+\)/', '$1', $plainText);
-    $plainText = strip_tags($plainText);
-    $description = mb_substr(trim($plainText), 0, 160) . '...';
+    // --- Improved Meta Description Extraction ---
+    $descriptionSource = '';
+
+    // 1. Try to find a dedicated "Introduction" section
+    // Look for content between "## 導入" (or similar) and the next header or horizontal rule
+    $introPatterns = [
+        '/^##\s+導入\s*$(.*?)(?=^#{2,}|\n---)/ms',
+        '/^##\s+Introduction\s*$(.*?)(?=^#{2,}|\n---)/ms',
+        '/^##\s+はじめに\s*$(.*?)(?=^#{2,}|\n---)/ms'
+    ];
+
+    foreach ($introPatterns as $pattern) {
+        if (preg_match($pattern, $content, $matches)) {
+            $matchedText = trim($matches[1]);
+            if (!empty($matchedText)) {
+                $descriptionSource = $matchedText;
+                break;
+            }
+        }
+    }
+
+    // 2. Fallback: Use the beginning of the content if no intro section found
+    if (empty($descriptionSource)) {
+        $descriptionSource = $content;
+        // Remove H1 title
+        $descriptionSource = preg_replace('/^#\s+.*$/m', '', $descriptionSource);
+    }
+
+    // --- Cleanup & Sanitization ---
+
+    // Remove "Tags:" line
+    $descriptionSource = preg_replace('/^Tags:.*$/mi', '', $descriptionSource);
+
+    // Remove Images completely (including alt text)
+    $descriptionSource = preg_replace('/!\[.*?\]\(.*?\)/s', '', $descriptionSource);
+    // Remove Image Prompts (specific to this project's format)
+    $descriptionSource = preg_replace('/>\s*Image Prompt:.*$/m', '', $descriptionSource);
+
+    // Remove HTML Citation blocks <details>...</details> (to avoid "出典 http..." in description)
+    $descriptionSource = preg_replace('/<details>.*?<\/details>/s', '', $descriptionSource);
+
+    // Remove Markdown Headers (## ...)
+    $descriptionSource = preg_replace('/^#+\s+.*$/m', '', $descriptionSource);
+
+    // Remove Horizontal Rules
+    $descriptionSource = preg_replace('/^---+$/m', '', $descriptionSource);
+
+    // Remove Links [text](url) -> text
+    $descriptionSource = preg_replace('/\[([^\]]+)\]\([^\)]+\)/', '$1', $descriptionSource);
+
+    // Remove Bold/Italic (**text**, __text__)
+    $descriptionSource = preg_replace('/(\*\*|__)(.*?)\1/', '$2', $descriptionSource);
+
+    // Strip remaining HTML tags
+    $descriptionSource = strip_tags($descriptionSource);
+
+    // Normalize whitespace (replace newlines with spaces, collapse multiple spaces)
+    $descriptionSource = str_replace(["\r", "\n"], ' ', $descriptionSource);
+    $descriptionSource = preg_replace('/\s+/', ' ', $descriptionSource);
+    $descriptionSource = trim($descriptionSource);
+
+    // Truncate to 160 characters
+    $description = mb_substr($descriptionSource, 0, 160) . (mb_strlen($descriptionSource) > 160 ? '...' : '');
 
     return [
         'title' => $title,
