@@ -10,6 +10,11 @@ document.addEventListener('DOMContentLoaded', function () {
 	const tocList = tocContainer.querySelector('ul');
 
 	if (toggleBtn && tocList) {
+		// Initialize as closed
+		tocContainer.classList.add('closed');
+		toggleBtn.textContent = '[+]';
+		tocList.style.display = 'none';
+
 		toggleBtn.addEventListener('click', function () {
 			tocContainer.classList.toggle('closed');
 			if (tocContainer.classList.contains('closed')) {
