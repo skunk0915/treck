@@ -1590,4 +1590,33 @@ html {
   }
 }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.css.map *//* Sort Tabs */
+.sort-tabs {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 1.5rem;
+}
+
+.sort-btn {
+    background: #fff;
+    border: 1px solid #ddd;
+    padding: 8px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 0.95rem;
+    color: #555;
+    transition: all 0.2s;
+    font-weight: bold;
+}
+
+.sort-btn:hover {
+    background: #f0f0f0;
+    border-color: #ccc;
+}
+
+.sort-btn.active {
+    background: var(--primary-color);
+    color: #fff;
+    border-color: var(--primary-color);
+}

@@ -214,8 +214,14 @@ include __DIR__ . '/views/parts/head.php';
 include __DIR__ . '/views/parts/header.php';
 ?>
 <main class="container">
-    <div class="filter-section">
+    <div class="filter-section article-filter">
         <input type="text" id="searchInput" placeholder="キーワードで検索..." class="search-input">
+
+        <div class="sort-tabs">
+            <button class="sort-btn active" data-sort="random">ランダム</button>
+            <button class="sort-btn" data-sort="newest">新着順</button>
+        </div>
+
         <div class="tag-accordion-container">
             <div class="tag-filter tag-accordion" id="tagFilter">
                 <button class="tag-btn active" data-tag="all">All</button>
@@ -230,8 +236,9 @@ include __DIR__ . '/views/parts/header.php';
     <div class="article-grid" id="articleGrid">
         <?php foreach ($articles as $article):
             $thumbnailUrl = $article['thumbnail'] ? ((strpos($article['thumbnail'], 'http') === 0 ? '' : $baseUrl) . htmlspecialchars($article['thumbnail'])) : '';
+            $publishedAt = $article['published_at'] ?? ''; // Ensure date is available
         ?>
-            <article class="article-card" data-tags="<?php echo htmlspecialchars(json_encode($article['tags'])); ?>" data-title="<?php echo htmlspecialchars($article['title']); ?>">
+            <article class="article-card" data-tags="<?php echo htmlspecialchars(json_encode($article['tags'])); ?>" data-title="<?php echo htmlspecialchars($article['title']); ?>" data-date="<?php echo htmlspecialchars($publishedAt); ?>">
                 <a href="<?php echo $baseUrl; ?>/<?php echo htmlspecialchars($article['filename']); ?>" class="card-link-image">
                     <div class="card-image">
                         <?php if ($thumbnailUrl): ?>

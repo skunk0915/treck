@@ -14,23 +14,56 @@ document.addEventListener('DOMContentLoaded', function () {
 	const tagButtons = document.querySelectorAll('.tag-btn');
 	let currentTag = 'all';
 
-	// Shuffle articles on page load
-	function shuffleArticles() {
+	// Sort articles
+	function sortArticles(order) {
 		const articlesArray = Array.from(articles);
-		const shuffled = articlesArray.sort(() => 0.5 - Math.random());
+		let sorted;
 
-		// Clear and re-append in shuffled order
+		if (order === 'random') {
+			sorted = articlesArray.sort(() => 0.5 - Math.random());
+		} else if (order === 'newest') {
+			sorted = articlesArray.sort((a, b) => {
+				const dateA = new Date(a.getAttribute('data-date') || 0);
+				const dateB = new Date(b.getAttribute('data-date') || 0);
+				return dateB - dateA;
+			});
+		}
+
+		// Clear and re-append in sorted order
 		articleGrid.innerHTML = '';
-		shuffled.forEach(article => {
+		sorted.forEach(article => {
 			articleGrid.appendChild(article);
 		});
 
-		// Update articles NodeList after shuffle
-		articles = articleGrid.querySelectorAll('.article-card');
+		// Update articles NodeList after sort/shuffle to keep track of valid DOM elements
+		// although the elements themselves are the same, order logic relies on array.
+		// Re-querying is not strictly necessary if we rely on articlesArray for filtering, 
+		// but existing filter logic uses `articles` NodeList (or we can update it).
+		// Let's keep `articles` consistent with the DOM order or just use the filtered list.
+		// Actually, standard practice: filter uses `articles` (all cards). Order doesn't change `articles` content, just DOM position.
+		// So `articles` variable (NodeList) might be stale in terms of order, but it still contains all elements.
+		// Filter logic iterates `articles` and toggles display. That works regardless of valid DOM order.
+
+		// However, if we want filter results to appear sorted, we need to ensure filter logic respects the new DOM order?
+		// Actually, CSS order is what matters. Since we appended them in order, it's fine.
 	}
 
-	// Shuffle first
-	shuffleArticles();
+	// Sort Tabs
+	const sortButtons = document.querySelectorAll('.sort-btn');
+	sortButtons.forEach(btn => {
+		btn.addEventListener('click', function () {
+			sortButtons.forEach(b => b.classList.remove('active'));
+			this.classList.add('active');
+			const sortType = this.getAttribute('data-sort');
+			sortArticles(sortType);
+
+			// Re-apply filter if needed (to maintain search/tag state)
+			filterArticles();
+		});
+	});
+
+	// Initial Sort (Random by default)
+	sortArticles('random');
 
 	// Check for initially active tag
 	const activeBtn = document.querySelector('.tag-btn.active');
