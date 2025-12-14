@@ -9,10 +9,28 @@ document.addEventListener('DOMContentLoaded', function () {
 		return;
 	}
 
-	const articles = articleGrid.querySelectorAll('.article-card');
+	let articles = articleGrid.querySelectorAll('.article-card');
 	const noResults = document.getElementById('noResults');
 	const tagButtons = document.querySelectorAll('.tag-btn');
 	let currentTag = 'all';
+
+	// Shuffle articles on page load
+	function shuffleArticles() {
+		const articlesArray = Array.from(articles);
+		const shuffled = articlesArray.sort(() => 0.5 - Math.random());
+
+		// Clear and re-append in shuffled order
+		articleGrid.innerHTML = '';
+		shuffled.forEach(article => {
+			articleGrid.appendChild(article);
+		});
+
+		// Update articles NodeList after shuffle
+		articles = articleGrid.querySelectorAll('.article-card');
+	}
+
+	// Shuffle first
+	shuffleArticles();
 
 	// Check for initially active tag
 	const activeBtn = document.querySelector('.tag-btn.active');

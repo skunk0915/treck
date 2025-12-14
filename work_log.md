@@ -180,3 +180,46 @@ shuffled.forEach(art => {
 **結果:**
 - 関連記事セクションも、ハンバーガーメニューを開くたびに各タグごとの記事がシャッフルされる
 - 静的HTMLでありながら、クライアントサイドJavaScriptで動的なユーザー体験を提供
+
+---
+
+### 追加機能: トップページ記事一覧のシャッフル
+
+**要件:**
+- トップページ（`index.html`）の記事一覧にもページロード時のシャッフル機能を適用したい
+
+**修正内容:**
+
+`home.js`に`shuffleArticles()`関数を追加（17-30行目）:
+```javascript
+// Shuffle articles on page load
+function shuffleArticles() {
+    const articlesArray = Array.from(articles);
+    const shuffled = articlesArray.sort(() => 0.5 - Math.random());
+
+    // Clear and re-append in shuffled order
+    articleGrid.innerHTML = '';
+    shuffled.forEach(article => {
+        articleGrid.appendChild(article);
+    });
+
+    // Update articles NodeList after shuffle
+    articles = articleGrid.querySelectorAll('.article-card');
+}
+
+// Shuffle first
+shuffleArticles();
+```
+
+**重要な変更点:**
+- `articles`を`const`から`let`に変更（シャッフル後に再取得するため）
+- シャッフル後、タグフィルタリングの前に実行
+
+**編集したファイル:**
+- `/Users/mizy/Dropbox/treck/js/home.js`
+- `/Users/mizy/Dropbox/treck/static/js/home.js`
+
+**結果:**
+- トップページをリロードするたびに記事一覧がシャッフルされる
+- 検索・タグフィルタリング機能は維持される
+- 静的HTML + クライアントサイドJavaScriptのハイブリッド構成で、サーバー負荷を抑えつつ動的なユーザー体験を実現
