@@ -1,0 +1,246 @@
+:root {
+	--primary-color: #2c3e50;
+	--accent-color: #e74c3c;
+	--bg-color: #f9f9f9;
+	--text-color: #333;
+	--chat-bg-teacher: #e8f4f8;
+	--chat-bg-student: #fff0f5;
+	--container-width: 800px;
+}
+
+body {
+	font-family: 'Noto Sans JP', sans-serif;
+	line-height: 1.6;
+	color: var(--text-color);
+	background-color: var(--bg-color);
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	max-width: var(--container-width);
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+/* Header */
+header {
+	background-color: #fff;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+	padding: 1rem 0;
+	margin-bottom: 2rem;
+}
+
+header .container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.logo {
+	font-size: 1.5rem;
+	font-weight: bold;
+	color: var(--primary-color);
+	text-decoration: none;
+}
+
+nav ul {
+	list-style: none;
+	display: flex;
+	gap: 20px;
+	padding: 0;
+}
+
+nav a {
+	text-decoration: none;
+	color: var(--text-color);
+	font-weight: bold;
+}
+
+/* Post */
+.post {
+	background: #fff;
+	padding: 2rem;
+	border-radius: 8px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+	margin-bottom: 2rem;
+}
+
+.post-header h1 {
+	margin-top: 0;
+	font-size: 2rem;
+	color: var(--primary-color);
+	margin-bottom: 0.5rem;
+}
+
+.post-meta {
+	margin-bottom: 1.5rem;
+	color: #777;
+	font-size: 0.9rem;
+}
+
+.category-label {
+	background: var(--primary-color);
+	color: #fff;
+	padding: 2px 8px;
+	border-radius: 4px;
+	margin-right: 10px;
+}
+
+.post-hero-placeholder {
+	background: #eee;
+	padding: 2rem;
+	text-align: center;
+	color: #666;
+	margin-bottom: 2rem;
+	border-radius: 4px;
+}
+
+/* Chat UI */
+.chat-row {
+	display: flex;
+	margin-bottom: 1.5rem;
+	align-items: flex-start;
+}
+
+.icon {
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	background-color: #ddd;
+	flex-shrink: 0;
+	margin-right: 15px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-weight: bold;
+	font-size: 0.8rem;
+	color: #fff;
+}
+
+.icon.teacher {
+	background-color: #3498db;
+}
+
+.icon.student {
+	background-color: #e91e63;
+}
+
+.bubble {
+	background: #fff;
+	padding: 1rem;
+	border-radius: 12px;
+	position: relative;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+	flex-grow: 1;
+}
+
+.chat-row.teacher .bubble {
+	background-color: var(--chat-bg-teacher);
+	border-top-left-radius: 0;
+}
+
+.chat-row.student .bubble {
+	background-color: var(--chat-bg-student);
+	border-top-left-radius: 0;
+}
+
+/* Markdown Content */
+.post-content h2 {
+	border-bottom: 2px solid var(--primary-color);
+	padding-bottom: 0.5rem;
+	margin-top: 2rem;
+}
+
+.post-content h3 {
+	margin-top: 1.5rem;
+	color: var(--primary-color);
+}
+
+.post-content table {
+	width: 100%;
+	border-collapse: collapse;
+	margin: 1rem 0;
+}
+
+.post-content th,
+.post-content td {
+	border: 1px solid #ddd;
+	padding: 0.5rem;
+}
+
+.post-content th {
+	background-color: #f2f2f2;
+}
+
+.post-content blockquote {
+	border-left: 4px solid var(--accent-color);
+	margin: 0;
+	padding-left: 1rem;
+	color: #555;
+	background: #fff8f8;
+	padding: 1rem;
+}
+
+/* Index List */
+.category-section {
+	margin-bottom: 3rem;
+}
+
+.category-section h2 {
+	border-bottom: 2px solid #ddd;
+	padding-bottom: 0.5rem;
+	color: var(--primary-color);
+}
+
+.article-list {
+	list-style: none;
+	padding: 0;
+}
+
+.article-list li {
+	margin-bottom: 1rem;
+	background: #fff;
+	padding: 1rem;
+	border-radius: 4px;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.article-list a {
+	text-decoration: none;
+	color: var(--primary-color);
+	font-weight: bold;
+	font-size: 1.2rem;
+	display: block;
+	margin-bottom: 0.5rem;
+}
+
+.article-list .meta {
+	font-size: 0.85rem;
+	color: #777;
+}
+
+/* Related Posts */
+.related-posts {
+	margin-top: 3rem;
+	padding-top: 1rem;
+	border-top: 1px solid #ddd;
+}
+
+.related-list {
+	list-style: none;
+	padding: 0;
+}
+
+.related-list li {
+	margin-bottom: 0.5rem;
+}
+
+.related-list a {
+	color: var(--primary-color);
+	text-decoration: none;
+}
+
+.related-list a:hover {
+	text-decoration: underline;
+}

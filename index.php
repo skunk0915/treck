@@ -24,7 +24,23 @@ $baseUrl = "$protocol://$host$scriptDir";
 
 $renderer = new Renderer($baseUrl);
 
-// helper function
+// helper functions
+function getRelatedArticles($currentArticle, $allArticles)
+{
+    $related = [];
+    foreach ($currentArticle['tags'] as $tag) {
+        $related[$tag] = [];
+        foreach ($allArticles as $a) {
+            if ($a['filename'] === $currentArticle['filename']) continue;
+            if (in_array($tag, $a['tags'])) {
+                $related[$tag][] = $a;
+            }
+        }
+        $related[$tag] = array_slice($related[$tag], 0, 5);
+    }
+    return $related;
+}
+
 function getArticleMetadata($filename, $articleDir, $articleMetaManager, $tagManager)
 {
     $filePath = $articleDir . '/' . $filename;
@@ -170,6 +186,19 @@ if (preg_match('#^/tag/([^/?]+)#', $path, $matches)) {
 
             $htmlContent = $renderer->render($meta['content']);
 
+            // Get all articles for related posts
+            $files = glob($articleDir . '/*.md');
+            $allArticles = [];
+            foreach ($files as $file) {
+                $f = basename($file);
+                $articleMeta = getArticleMetadata($f, $articleDir, $articleMetaManager, $tagManager);
+                if ($articleMeta && $articleMeta['status'] !== 'private') {
+                    if ($articleMeta['published_at'] && strtotime($articleMeta['published_at']) > time()) continue;
+                    $allArticles[] = $articleMeta;
+                }
+            }
+            $relatedByTag = getRelatedArticles($meta, $allArticles);
+
             // View
             ob_start();
             include __DIR__ . '/views/parts/head.php';
@@ -198,7 +227,33 @@ if (preg_match('#^/tag/([^/?]+)#', $path, $matches)) {
                             <div class="toc-sidebar-inner"></div>
                         </aside>
                     </div>
-                    <!-- Related section omitted for fallback simplicity, or TODO: implement -->
+                    <section class="related-posts-container">
+                        <?php foreach ($relatedByTag as $tag => $posts): ?>
+                            <?php if (!empty($posts)): ?>
+                                <div class="related-tag-section">
+                                    <h3><?php echo htmlspecialchars($tag); ?>に関連する記事</h3>
+                                    <div class="related-list">
+                                        <?php foreach ($posts as $post): ?>
+                                            <div class="related-card">
+                                                <a href="<?php echo $baseUrl; ?>/<?php echo htmlspecialchars($post['filename']); ?>" class="related-card-link">
+                                                    <div class="related-card-image">
+                                                        <?php if ($post['thumbnail']): ?>
+                                                            <img src="<?php echo (strpos($post['thumbnail'], 'http') === 0 ? '' : $baseUrl) . htmlspecialchars($post['thumbnail']); ?>" alt="<?php echo htmlspecialchars($post['title']); ?>" loading="lazy">
+                                                        <?php else: ?>
+                                                            <div class="no-image">No Image</div>
+                                                        <?php endif; ?>
+                                                    </div>
+                                                    <div class="related-card-content">
+                                                        <h4 class="related-card-title"><?php echo htmlspecialchars($post['title']); ?></h4>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        <?php endforeach; ?>
+                                    </div>
+                                </div>
+                            <?php endif; ?>
+                        <?php endforeach; ?>
+                    </section>
                 </article>
             </main>
 <?php

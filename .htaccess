@@ -1,7 +1,20 @@
 RewriteEngine On
+
+# タグページは動的処理（index.phpへ）
+RewriteRule ^tag/(.+)$ index.php [QSA,L]
+
+# aboutページは動的処理
+RewriteRule ^about/?$ index.php [QSA,L]
+
+# ルート（/）はstatic/index.htmlへ
+RewriteRule ^$ /static/index.html [L]
+
+# 静的記事ページへのリダイレクト
+# /arcteryx_backpack_guide を /static/arcteryx_backpack_guide/ にマップ
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)$ index.php [QSA,L]
+RewriteCond %{DOCUMENT_ROOT}/static/$1/index.html -f
+RewriteRule ^([^/?\.]+)$ /static/$1/ [L]
 
 # Enable Browser Caching
 <IfModule mod_expires.c>
