@@ -148,3 +148,35 @@ RewriteRule ^([^/?\.]+)$ /static/$1/ [L]
 - 記事は`/static/`配下で整理されつつ、URLはルート直下に見える
 - 静的HTMLのみを表示し、存在しない場合は404エラー
 - 編集が意図通り反映されない場合の原因追求が容易
+
+---
+
+### 追加機能: 関連記事リストのシャッフル
+
+**要件:**
+- `id="menu-related-section"`の関連記事リストにも、メニューを開くたびにシャッフル機能を適用したい
+
+**修正内容:**
+
+`renderRelated()`関数内で、各タグの記事配列をシャッフルするコードを追加（120-121行目）:
+```javascript
+// Shuffle articles for this tag
+const shuffled = [...articles].sort(() => 0.5 - Math.random());
+```
+
+そして、元の`articles`配列ではなく`shuffled`配列を使って記事カードを生成（138行目）:
+```javascript
+shuffled.forEach(art => {
+    const card = createCard(art);
+    console.log('[renderRelated] Created card for:', art.title);
+    listRow.appendChild(card);
+});
+```
+
+**編集したファイル:**
+- `/Users/mizy/Dropbox/treck/js/hamburger.js`
+- `/Users/mizy/Dropbox/treck/static/js/hamburger.js`
+
+**結果:**
+- 関連記事セクションも、ハンバーガーメニューを開くたびに各タグごとの記事がシャッフルされる
+- 静的HTMLでありながら、クライアントサイドJavaScriptで動的なユーザー体験を提供

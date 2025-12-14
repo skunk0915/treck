@@ -117,6 +117,9 @@ document.addEventListener('DOMContentLoaded', function () {
                 if (articles && articles.length > 0) {
                     hasRelated = true;
 
+                    // Shuffle articles for this tag
+                    const shuffled = [...articles].sort(() => 0.5 - Math.random());
+
                     // Create Sub-section for Tag
                     const tagContainer = document.createElement('div');
                     tagContainer.className = 'menu-related-group';
@@ -132,7 +135,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     const listRow = document.createElement('div');
                     listRow.className = 'menu-list'; // Re-use horizontal scroll style
 
-                    articles.forEach(art => {
+                    shuffled.forEach(art => {
                         const card = createCard(art);
                         console.log('[renderRelated] Created card for:', art.title);
                         listRow.appendChild(card);
