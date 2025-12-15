@@ -22,20 +22,8 @@ document.addEventListener('DOMContentLoaded', function () {
         document.body.style.overflow = 'hidden';
 
         // Check if data is loaded, if not fetch it
-        if (typeof allArticlesData === 'undefined' || allArticlesData.length === 0) {
-            fetch((typeof siteBaseUrl !== 'undefined' ? siteBaseUrl : '') + '/js/articles.json?v=' + new Date().getTime())
-                .then(response => response.json())
-                .then(data => {
-                    allArticlesData = data;
-                    renderAllRandom();
-                    renderTags();
-                })
-                .catch(err => console.error('Error loading articles:', err));
-        } else {
-            // Already loaded
-            if (allListEl.children.length === 0) renderAllRandom();
-            renderTags();
-        }
+        checkAndRenderAll(); // Ensures data is loaded and rendered if not yet.
+
 
         renderRelated(); // Renders grouped by tag (relies on relatedArticlesData injected in page)
         searchInput.focus();
@@ -157,19 +145,80 @@ document.addEventListener('DOMContentLoaded', function () {
         console.log('[renderRelated] Finished');
     }
 
-    // 2. Render All Articles (Randomized) - for the "All Articles" section
-    function renderAllRandom() {
-        const sourceData = (typeof allArticlesData !== 'undefined') ? allArticlesData : [];
+    // 2. Render Random Articles Helper
+    function renderRandomList(targetId, allData, excludeSet) {
+        const targetEl = document.getElementById(targetId);
+        if (!targetEl) return;
+
+        const sourceData = (typeof allData !== 'undefined') ? allData : [];
         if (sourceData.length === 0) return;
 
-        allListEl.innerHTML = '';
+        targetEl.innerHTML = '';
+
+        // Filter out excluded (related) articles
+        const filtered = sourceData.filter(a => !excludeSet.has(a.filename));
+
         // Shuffle
-        const randomized = [...sourceData].sort(() => 0.5 - Math.random());
+        const randomized = [...filtered].sort(() => 0.5 - Math.random());
+
+        // Limit to reasonable number if needed (e.g. 10? or all?)
+        // User didn't specify limit, but "More Articles" usually implies a selection.
+        // Let's show all randomized for now as per original code.
 
         randomized.forEach(article => {
-            allListEl.appendChild(createCard(article));
+            targetEl.appendChild(createCard(article));
         });
     }
+
+    // Main Render Function for "All Articles" (Menu & Main Body)
+    function renderAllSections() {
+        if (typeof allArticlesData === 'undefined' || allArticlesData.length === 0) return;
+
+        // Build Exclude Set from Related Articles
+        const excludeSet = new Set();
+        if (typeof relatedArticlesData !== 'undefined') {
+            for (const [tag, articles] of Object.entries(relatedArticlesData)) {
+                if (articles) {
+                    articles.forEach(a => excludeSet.add(a.filename));
+                }
+            }
+        }
+
+        // Add current page filename to exclude set (if we can identify it)
+        // Usually current page is not in related list of itself, but let's be safe.
+        const currentPath = window.location.pathname;
+        const currentFilename = currentPath.split('/').pop().replace('.html', '');
+        if (currentFilename) excludeSet.add(currentFilename);
+
+        console.log('[renderAllSections] Exclude Set size:', excludeSet.size);
+
+        // Render to Modal Container
+        renderRandomList('menu-all-list', allArticlesData, excludeSet);
+
+        // Render to Main Body Container
+        renderRandomList('main-all-list', allArticlesData, excludeSet);
+    }
+
+    // Call renderAllSections when data is ready
+    function checkAndRenderAll() {
+        if (typeof allArticlesData !== 'undefined' && allArticlesData.length > 0) {
+            renderAllSections();
+            renderTags();
+        } else {
+            // Try fetching if not already
+            fetch((typeof siteBaseUrl !== 'undefined' ? siteBaseUrl : '') + '/js/articles.json?v=' + new Date().getTime())
+                .then(response => response.json())
+                .then(data => {
+                    allArticlesData = data;
+                    renderAllSections();
+                    renderTags();
+                })
+                .catch(err => console.error('Error loading articles:', err));
+        }
+    }
+
+    // Initial Load
+    checkAndRenderAll();
 
     // 3. Search Logic
     function handleSearch(filterText) {
