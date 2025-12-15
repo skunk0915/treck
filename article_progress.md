@@ -439,7 +439,7 @@
   - **Bora AR（ボラAR）**: 廃盤人気モデル、大型登山・雪山、Bora AR 50/63
 
 ### ベースレイヤー
-- [ ] 185. アークテリクス ベースレイヤー完全ガイド【Rho・Satoro・Phase徹底比較】 → `arcteryx_baselayer_complete_guide.md`
+- [x] 185. アークテリクス ベースレイヤー完全ガイド【Rho・Satoro・Phase徹底比較】 → `arcteryx_baselayer_complete_guide.md` ✨**作成完了 (約14,000文字)**
   - **Rho（ロー）シリーズ**: 熱効率良好、湿気排出、合成繊維
   - **Satoro（サトロ）シリーズ**: メリノウール、自然吸湿・防臭
   - **Phase（フェイズ）シリーズ**: 高負荷アクティビティ向け、超速乾
