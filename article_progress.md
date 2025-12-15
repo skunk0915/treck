@@ -471,7 +471,7 @@
     - Alpha FL Glove: GORE-TEX + PrimaLoft、防水透湿、登攀向け
 
 ### 帽子・ビーニー・キャップ
-- [ ] 188. アークテリクス 帽子・ビーニー・キャップ完全ガイド【Elaho・Grotto・Bird全モデル徹底解説】 → `arcteryx_headwear_complete_guide.md`
+- [x] 188. アークテリクス 帽子・ビーニー・キャップ完全ガイド【Elaho・Grotto・Bird全モデル徹底解説】 → `arcteryx_headwear_complete_guide.md`
   - **Elaho（イラオ）シリーズ**:
     - Elaho Cap: 軽量ハイキングキャップ、UPF 50+、ポリエステル平織、ストレッチ・通気性
   - **Grotto（グロット）シリーズ**: ビーニー（トーク）
