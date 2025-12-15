@@ -445,7 +445,7 @@
   - **Phase（フェイズ）シリーズ**: 高負荷アクティビティ向け、超速乾
 
 ### パンツ・ボトムス
-- [ ] 186. アークテリクス パンツ完全ガイド【Beta・Gamma・Lefroy徹底比較】 → `arcteryx_pants_complete_guide.md`
+- [x] 186. アークテリクス パンツ完全ガイド【Beta・Gamma・Lefroy徹底比較】 → `arcteryx_pants_complete_guide.md`
   - **Beta（ベータ）シリーズ**: GORE-TEX 3L、完全防水・防風・透湿、悪天候登山・スキー
     - Beta LT/AR/SV Pant: 耐久性・重量で細分化
     - C-KNITバッカー、PFASフリーGORE-TEX ePE、80デニールリサイクルナイロン
@@ -458,7 +458,7 @@
     - Aequora AirPerm™素材、トリムフィット、タウンユース兼用
 
 ### グローブ・手袋
-- [ ] 187. アークテリクス グローブ完全ガイド【Venta・Rivet・Alpha徹底比較】 → `arcteryx_gloves_complete_guide.md`
+- [x] 187. アークテリクス グローブ完全ガイド【Venta・Rivet・Alpha徹底比較】 → `arcteryx_gloves_complete_guide.md` ✨**作成完了**
   - **Venta（ベンタ）シリーズ**: GORE-TEX INFINIUM™、軽量防風透湿、XCスキー・トレラン・冬ハイキング
     - Venta AR Glove: 厚手起毛、高防水
     - フリース内側、TPU補強、タッチスクリーン対応
