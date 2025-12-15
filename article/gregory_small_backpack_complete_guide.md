@@ -59,7 +59,7 @@ Tags: Backpack, Guide
 
 **先生**: 簡単に言うと、「体の動きに合わせてリュックも動く」システムだ。
 
-**参考情報**: 「体の動きに合わせて柔軟に伸縮し、優れたフィット感と安定性を提供します。激しい動きでも体に追従し、重い荷物も軽く感じさせる」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc_amtodKHWP8uTEMaAtV8B4iY_knxIldVCoTdIzCPtO6zCkSwncKZ3lJbSlV0DTf5erHkdFlpoRx6xBijWcgLRweIQv8bCyQFTKKFfUiOeZWT0O71IkpJEwpW`</details>
+> **参考情報**: 「体の動きに合わせて柔軟に伸縮し、優れたフィット感と安定性を提供します。激しい動きでも体に追従し、重い荷物も軽く感じさせる」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc_amtodKHWP8uTEMaAtV8B4iY_knxIldVCoTdIzCPtO6zCkSwncKZ3lJbSlV0DTf5erHkdFlpoRx6xBijWcgLRweIQv8bCyQFTKKFfUiOeZWT0O71IkpJEwpW`</details>
 
 **JK**: え、リュックが動くんですか？
 
@@ -69,7 +69,7 @@ Tags: Backpack, Guide
 
 **先生**: それがBioSyncだと起きにくい。まるで「リュックを着ている」ような感覚になる。
 
-**参考情報**: 「グレゴリーのバックパックは「着るバックパック」と称されるほどフィット感に優れており」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVi8waGVsJIAht0kFFMevTdgA683GjCpUNt4CBCBub0OrFBEJjlBqfZdbT7LzkheqMmDkjAR4I60yV3Yp96ZZdgnxnCPOZgHIMDXCa4JjCd-JmpXFzoOGNeDQQ0jpqwsG_DrSWuhKI-A==`</details>
+> **参考情報**: 「グレゴリーのバックパックは「着るバックパック」と称されるほどフィット感に優れており」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVi8waGVsJIAht0kFFMevTdgA683GjCpUNt4CBCBub0OrFBEJjlBqfZdbT7LzkheqMmDkjAR4I60yV3Yp96ZZdgnxnCPOZgHIMDXCa4JjCd-JmpXFzoOGNeDQQ0jpqwsG_DrSWuhKI-A==`</details>
 
 **JK**: へぇ〜！トレイルランニングする人とか良さそう！
 
@@ -86,7 +86,7 @@ Tags: Backpack, Guide
 - **素材**: 210Dハニカムクリプトリップナイロン、420D高密度ナイロン
 - **価格帯**: 約26,000円前後
 
-**参考情報**: 「背面長を調整できるため、さまざまな体型にフィットさせることができます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpKcUtU--ZDOHwYXb1ecOE7dPq7WR2TK1bjcs5K4JFKNpXNCCbnAATJ3JDRVEHtHjA7z0_OaQpjTis8Q20nsq4e20VeChCrw_WNjqd2kCMzcGjxX-lauFrdGl3PaL1XKKETptZlbVNITXmclTTBsvRGuVoTohJ6jsJ2v5cyQ==`</details>
+> **参考情報**: 「背面長を調整できるため、さまざまな体型にフィットさせることができます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpKcUtU--ZDOHwYXb1ecOE7dPq7WR2TK1bjcs5K4JFKNpXNCCbnAATJ3JDRVEHtHjA7z0_OaQpjTis8Q20nsq4e20VeChCrw_WNjqd2kCMzcGjxX-lauFrdGl3PaL1XKKETptZlbVNITXmclTTBsvRGuVoTohJ6jsJ2v5cyQ==`</details>
 
 **JK**: おっ、背面長が調整できるんですね！身長低い私でも大丈夫ってこと？
 
@@ -96,7 +96,7 @@ Tags: Backpack, Guide
 
 **先生**: マヤは容量20L、25L、40Lなどのバリエーションがある。
 
-**参考情報**: 「女性の骨格に合わせたヒップベルトやショルダーハーネスが特徴で、身体にフィットするBioSyncサスペンションシステムが採用されており、動きに合わせて柔軟に追従することで快適な背負い心地を実現します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6O56IyIVAtwA301zeDlHc77LZ3YGQZcxCElh40SDKeppUp78ow50DcpBYOxyzeiB2ZXKzCsYsDdLrREuJ2v3QUiWfc7LAoZ2Gg3DkQDb9Nuc0Xg==`</details>
+> **参考情報**: 「女性の骨格に合わせたヒップベルトやショルダーハーネスが特徴で、身体にフィットするBioSyncサスペンションシステムが採用されており、動きに合わせて柔軟に追従することで快適な背負い心地を実現します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6O56IyIVAtwA301zeDlHc77LZ3YGQZcxCElh40SDKeppUp78ow50DcpBYOxyzeiB2ZXKzCsYsDdLrREuJ2v3QUiWfc7LAoZ2Gg3DkQDb9Nuc0Xg==`</details>
 
 #### 主なスペック（マヤ25）
 - **容量**: 25L
@@ -135,7 +135,7 @@ Tags: Backpack, Guide
 
 **先生**: そうだ。ナノは14L、16L、18L、20L、24L、28Lとサイズ展開が豊富で、一番軽いナノ16は約360〜408gしかない。
 
-**参考情報**: 「グレゴリー ナノ 16は、日帰り登山に適した軽量でコンパクトなバックパックです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6Zf08nxjr5Iy3HQkKt9Lu2-iDIwhWXiS8WF92pGnBt2WFIQSc4qZLrBsEuyt8GK4sW1QMBdp-4Sx_uvNpRt11k9AzSYKp6kuEcR1wy5JRhyrmNKoXMPyspBwOrGaOjPpEFhYA0zdhaw3zCAJjcLEfhjyu80klzHuO6YUrRRtXwj-0DQ==`</details>
+> **参考情報**: 「グレゴリー ナノ 16は、日帰り登山に適した軽量でコンパクトなバックパックです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6Zf08nxjr5Iy3HQkKt9Lu2-iDIwhWXiS8WF92pGnBt2WFIQSc4qZLrBsEuyt8GK4sW1QMBdp-4Sx_uvNpRt11k9AzSYKp6kuEcR1wy5JRhyrmNKoXMPyspBwOrGaOjPpEFhYA0zdhaw3zCAJjcLEfhjyu80klzHuO6YUrRRtXwj-0DQ==`</details>
 
 **JK**: 360g！？ペットボトル1本分以下じゃないですか！
 
@@ -153,7 +153,7 @@ Tags: Backpack, Guide
 - **素材**: 210D High Density 40%リサイクルナイロン、450D 100%リサイクルポリエステル
 - **価格**: 12,100円（税込）
 
-**参考情報**: 「Body made with 210D High Density 40% Recycled Nylon and 450D 100% recycled Polyester, with C0 DWR treatment」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkiMI-D0Zc_llHMOi0eAr4Slx7XHFJmshECysYZs7mASjv9QZO8Y5q_qTDh2YdyOXdVitZKw35vKnX3FyQwyrWMkg9Aug6leC5wNrucOQ5bBoWrnErUMRBIqH-yi5XUyzA1t64muWNGrPvhciOTeVzOmZpqF7C6vU=`</details>
+> **参考情報**: 「Body made with 210D High Density 40% Recycled Nylon and 450D 100% recycled Polyester, with C0 DWR treatment」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkiMI-D0Zc_llHMOi0eAr4Slx7XHFJmshECysYZs7mASjv9QZO8Y5q_qTDh2YdyOXdVitZKw35vKnX3FyQwyrWMkg9Aug6leC5wNrucOQ5bBoWrnErUMRBIqH-yi5XUyzA1t64muWNGrPvhciOTeVzOmZpqF7C6vU=`</details>
 
 **JK**: え、リサイクル素材なんですか！？環境に優しい！
 
@@ -165,13 +165,13 @@ Tags: Backpack, Guide
 
 ### ナノの評価
 
-**参考情報**: 「It is highly recommended for day hiking and even as a perfect 'Disney World daypack' due to its versatile storage and comfortable straps」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ-xusvnQJKQCNlXfcEBbWWlwjh7RtoegMGr0vKNhh0_dBhsavvJXBhoRpuhrEg5zjrv1pTnqXUJdq6xlpwtf0yPYgpzB_TL2C6yv8_KszZn9Qm9X3YFPTrdruTH6aZi8U7XlzvDIFL0FKV6A=`</details>
+> **参考情報**: 「It is highly recommended for day hiking and even as a perfect 'Disney World daypack' due to its versatile storage and comfortable straps」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ-xusvnQJKQCNlXfcEBbWWlwjh7RtoegMGr0vKNhh0_dBhsavvJXBhoRpuhrEg5zjrv1pTnqXUJdq6xlpwtf0yPYgpzB_TL2C6yv8_KszZn9Qm9X3YFPTrdruTH6aZi8U7XlzvDIFL0FKV6A=`</details>
 
 **JK**: ディズニーワールドのデイパック！？
 
 **先生**: アメリカのレビューだが、テーマパークのような「荷物は少ないけど一日中歩く」シーンでも快適という評価だな。登山だけでなく、旅行や日常使いにも向いている。
 
-**参考情報**: 「The Nano 20 is praised for its versatility, comfort, and ability to handle a surprising amount of gear」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzG8JCMFlyEaOsc-xMaTuGE-KvwqxsdH-Lc00oDyPizR9npWScQ-uSnKq8bd7jLr2Br2MRZWVrmDo5mrZFgbMRPK03rbJXFPbdiQbozVUsTz_sn9it5Ow74lVPfYxuPXxKeRNNC6z0X1TB5Lle`</details>
+> **参考情報**: 「The Nano 20 is praised for its versatility, comfort, and ability to handle a surprising amount of gear」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzG8JCMFlyEaOsc-xMaTuGE-KvwqxsdH-Lc00oDyPizR9npWScQ-uSnKq8bd7jLr2Br2MRZWVrmDo5mrZFgbMRPK03rbJXFPbdiQbozVUsTz_sn9it5Ow74lVPfYxuPXxKeRNNC6z0X1TB5Lle`</details>
 
 **JK**: なんか万能感ありますね！
 
@@ -183,7 +183,7 @@ Tags: Backpack, Guide
 
 **先生**: 鋭いな。いくつか挙げよう。
 
-**参考情報**: 「some users found the drawcord main closure less convenient than a zipper」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmz6XhjIkfv0qM-ZBHrxPKMj-x6625xCHzB1D00UdDq6jHPx_LMoAPcPLK27ITXhH53PEALq9YDiznLjV0Rr3fsIuiTjKaORefQn-hqbLbqoG9xkncNXknH-kG49-kHDeD9IgMfrMquYeKdQ==`</details>
+> **参考情報**: 「some users found the drawcord main closure less convenient than a zipper」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmz6XhjIkfv0qM-ZBHrxPKMj-x6625xCHzB1D00UdDq6jHPx_LMoAPcPLK27ITXhH53PEALq9YDiznLjV0Rr3fsIuiTjKaORefQn-hqbLbqoG9xkncNXknH-kG49-kHDeD9IgMfrMquYeKdQ==`</details>
 
 #### 注意点
 - ナノ16は巾着式の開口部で、ジッパーより不便という声がある
@@ -218,7 +218,7 @@ Tags: Backpack, Guide
 
 **先生**: 「蒸気を逃がす」という意味のネーミングだ。背中の蒸れを徹底的に軽減する設計になっている。
 
-**参考情報**: 「VaporSpanベンチレーテッドバックパネル：湿気を逃がすメッシュと合金製のフレームで構成されており、背中の通気性を確保し、快適さを保ちます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5eWRXQLPQpSU3oy0YtOZKw18bSkilRRafe-13w4to-dfUfb4ihD69_DxRm32mvdf_IJEMH8lfBgUJkWepeIBA0L7YVUC5IAg2MTDVndb7BpQVjh6rHhg0keCqkGQfI6yhLNoghbi2By1WkxLLAr3VoWfNhJQRhISkR0w=`</details>
+> **参考情報**: 「VaporSpanベンチレーテッドバックパネル：湿気を逃がすメッシュと合金製のフレームで構成されており、背中の通気性を確保し、快適さを保ちます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5eWRXQLPQpSU3oy0YtOZKw18bSkilRRafe-13w4to-dfUfb4ihD69_DxRm32mvdf_IJEMH8lfBgUJkWepeIBA0L7YVUC5IAg2MTDVndb7BpQVjh6rHhg0keCqkGQfI6yhLNoghbi2By1WkxLLAr3VoWfNhJQRhISkR0w=`</details>
 
 **JK**: 合金製のフレーム！？リュックに金属が入ってるんですか？
 
@@ -239,13 +239,13 @@ Tags: Backpack, Guide
 - **素材**: 210Dハニカムクリプトリップナイロン、420D高密度ナイロン
 - **価格**: 24,200円（税込）
 
-**参考情報**: 「Citro 24L: 米国での参考価格は$119.95～$149.95、日本での参考価格は24,200円（税込）」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRXYmB3ZpDamxp_uYZDGzWLTkhF8xe9-6JF2S4wQ4X7xNRzw12VVd3IrO2yA0GXWDuyEcbACGteQvUBG8uec8XkNc55w9Y_yBPN0eY7xNePFLimJZ3NJhCFLYRUSPqgAkcuswcdpmKeVC4mMRZag==`</details>
+> **参考情報**: 「Citro 24L: 米国での参考価格は$119.95～$149.95、日本での参考価格は24,200円（税込）」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRXYmB3ZpDamxp_uYZDGzWLTkhF8xe9-6JF2S4wQ4X7xNRzw12VVd3IrO2yA0GXWDuyEcbACGteQvUBG8uec8XkNc55w9Y_yBPN0eY7xNePFLimJZ3NJhCFLYRUSPqgAkcuswcdpmKeVC4mMRZag==`</details>
 
 ### 女性版・ジュノー24
 
 **先生**: 女性向けのジュノー24も見ておこう。
 
-**参考情報**: 「ジュノーは女性の体型に合わせてショルダーハーネス、ヒップベルトの形状、背面長が調整されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVi8waGVsJIAht0kFFMevTdgA683GjCpUNt4CBCBub0OrFBEJjlBqfZdbT7LzkheqMmDkjAR4I60yV3Yp96ZZdgnxnCPOZgHIMDXCa4JjCd-JmpXFzoOGNeDQQ0jpqwsG_DrSWuhKI-A==`</details>
+> **参考情報**: 「ジュノーは女性の体型に合わせてショルダーハーネス、ヒップベルトの形状、背面長が調整されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVi8waGVsJIAht0kFFMevTdgA683GjCpUNt4CBCBub0OrFBEJjlBqfZdbT7LzkheqMmDkjAR4I60yV3Yp96ZZdgnxnCPOZgHIMDXCa4JjCd-JmpXFzoOGNeDQQ0jpqwsG_DrSWuhKI-A==`</details>
 
 #### 主なスペック（ジュノー24）
 - **容量**: 24L
@@ -253,7 +253,7 @@ Tags: Backpack, Guide
 - **最大積載重量**: 約9kg
 - **価格**: 19,800〜24,200円（税込）
 
-**参考情報**: 「Juno 24L: 米国での参考価格は$149.95～$179.95（H2Oモデル）、日本での参考価格は19,800円～24,200円（税込）」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvI49sFbmmMkCWvwDv1KHma79EvucaG1wyvfObkAtbuSG1L7o4y7JNBSeC7truMLFjym7FTsKLkGa20D3TEQ1M8WvzxvoIqLywO91IeaJe5ZQ3vfxLFF89ecI=`</details>
+> **参考情報**: 「Juno 24L: 米国での参考価格は$149.95～$179.95（H2Oモデル）、日本での参考価格は19,800円～24,200円（税込）」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvI49sFbmmMkCWvwDv1KHma79EvucaG1wyvfObkAtbuSG1L7o4y7JNBSeC7truMLFjym7FTsKLkGa20D3TEQ1M8WvzxvoIqLywO91IeaJe5ZQ3vfxLFF89ecI=`</details>
 
 **JK**: H2Oモデルって何ですか？水で動くんですか？
 
@@ -265,7 +265,7 @@ Tags: Backpack, Guide
 
 ### 便利な機能たち
 
-**参考情報**: 「QuickStowサングラスシステム：ショルダーストラップにサングラスを安全かつ傷つけずに収納できるシステムが搭載されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5eWRXQLPQpSU3oy0YtOZKw18bSkilRRafe-13w4to-dfUfb4ihD69_DxRm32mvdf_IJEMH8lfBgUJkWepeIBA0L7YVUC5IAg2MTDVndb7BpQVjh6rHhg0keCqkGQfI6yhLNoghbi2By1WkxLLAr3VoWfNhJQRhISkR0w=`</details>
+> **参考情報**: 「QuickStowサングラスシステム：ショルダーストラップにサングラスを安全かつ傷つけずに収納できるシステムが搭載されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5eWRXQLPQpSU3oy0YtOZKw18bSkilRRafe-13w4to-dfUfb4ihD69_DxRm32mvdf_IJEMH8lfBgUJkWepeIBA0L7YVUC5IAg2MTDVndb7BpQVjh6rHhg0keCqkGQfI6yhLNoghbi2By1WkxLLAr3VoWfNhJQRhISkR0w=`</details>
 
 **JK**: サングラス収納！地味に嬉しい！いつもどこに入れたか忘れるんですよ。
 
@@ -281,7 +281,7 @@ Tags: Backpack, Guide
 
 ### シトロ/ジュノーの評価
 
-**参考情報**: 「These are highly recommended as hydration packs, featuring simple yet strong frames that effectively transfer weight to the hips for comfortable carrying」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEL3bgb-291eD11EMmFC-JPo2ke4nxyG7jdLJhvMw6U9kD3u4EvIZqMdjnfN5tk5toNU-ZKfdR5nz-b39lpjzJYWi_ahqMIoP7LdxaUwGpYWbO7eJeqOtyNu_fTzYlpStajiK6SAMLzy7QBqbuqY4A2ya0R`</details>
+> **参考情報**: 「These are highly recommended as hydration packs, featuring simple yet strong frames that effectively transfer weight to the hips for comfortable carrying」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEL3bgb-291eD11EMmFC-JPo2ke4nxyG7jdLJhvMw6U9kD3u4EvIZqMdjnfN5tk5toNU-ZKfdR5nz-b39lpjzJYWi_ahqMIoP7LdxaUwGpYWbO7eJeqOtyNu_fTzYlpStajiK6SAMLzy7QBqbuqY4A2ya0R`</details>
 
 **先生**: 海外のレビューでも「シンプルだが頑丈なフレームで、荷重を効果的にヒップに移動させる」と評価が高い。
 
@@ -289,7 +289,7 @@ Tags: Backpack, Guide
 
 **先生**: ただし、注意点もある。
 
-**参考情報**: 「背面長が固定式であるため、購入前に試着して体型に合うか確認することが推奨されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVi8waGVsJIAht0kFFMevTdgA683GjCpUNt4CBCBub0OrFBEJjlBqfZdbT7LzkheqMmDkjAR4I60yV3Yp96ZZdgnxnCPOZgHIMDXCa4JjCd-JmpXFzoOGNeDQQ0jpqwsG_DrSWuhKI-A==`</details>
+> **参考情報**: 「背面長が固定式であるため、購入前に試着して体型に合うか確認することが推奨されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVi8waGVsJIAht0kFFMevTdgA683GjCpUNt4CBCBub0OrFBEJjlBqfZdbT7LzkheqMmDkjAR4I60yV3Yp96ZZdgnxnCPOZgHIMDXCa4JjCd-JmpXFzoOGNeDQQ0jpqwsG_DrSWuhKI-A==`</details>
 
 #### 注意点
 - 背面長が固定式なので、試着が必須
@@ -314,7 +314,7 @@ Tags: Backpack, Guide
 
 **先生**: よく覚えていたな。イナーシャはシトロの別ラインのようなもので、女性版は**スウィフト**という名前だ。
 
-**参考情報**: 「イナーシャの女性版は「スウィフト（Swift）」シリーズです」「スウィフトは、女性の骨格に合わせてショルダーハーネスの形状や幅が専用設計されており、より快適な背負い心地を実現しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNoQWT7eLV2OKcboD5QeFQGREUqImZmWTfhULmD8ck6mf2rjd3YHdcz7JXAl8lnJioC6_yPHWUPBZt1UbyxqFUOXoWdKsCRRnPyZ5zfxrmm-1uKJEMLOe2C4lhNr0m_OPi1QBCgVXZMc85`</details>
+> **参考情報**: 「イナーシャの女性版は「スウィフト（Swift）」シリーズです」「スウィフトは、女性の骨格に合わせてショルダーハーネスの形状や幅が専用設計されており、より快適な背負い心地を実現しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNoQWT7eLV2OKcboD5QeFQGREUqImZmWTfhULmD8ck6mf2rjd3YHdcz7JXAl8lnJioC6_yPHWUPBZt1UbyxqFUOXoWdKsCRRnPyZ5zfxrmm-1uKJEMLOe2C4lhNr0m_OPi1QBCgVXZMc85`</details>
 
 **JK**: 「シトロ⇔ジュノー」と「イナーシャ⇔スウィフト」があるってこと？
 

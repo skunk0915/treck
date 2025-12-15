@@ -33,7 +33,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: 初心者は標高300m〜700m程度の低山から始めるのが鉄則だ。歩行時間2〜4時間、距離5〜8km、標高差300m前後を目安にするといい。
 
-**参考情報**: 「初心者には標高低めの山やロープウェイがある山がおすすめです。高尾山の1号路は舗装路が中心でケーブルカーも使えます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXp5oNF8ACf-XYlZS_OBzlgJIdHgtHVdOqUuXgA_fZsq0tG1EstWUYU_5LR2ilmDcvyxxvWI8L8wjBecMzzErE7Sp7V8GhE3WlGscGjDBqhcjfk-DLSR2VCmfDDJ-oM4RqhfYw_CEYKHJaGsTYt197xVCwHjGjI8zEdOUa`</details>
+> **参考情報**: 「初心者には標高低めの山やロープウェイがある山がおすすめです。高尾山の1号路は舗装路が中心でケーブルカーも使えます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXp5oNF8ACf-XYlZS_OBzlgJIdHgtHVdOqUuXgA_fZsq0tG1EstWUYU_5LR2ilmDcvyxxvWI8L8wjBecMzzErE7Sp7V8GhE3WlGscGjDBqhcjfk-DLSR2VCmfDDJ-oM4RqhfYw_CEYKHJaGsTYt197xVCwHjGjI8zEdOUa`</details>
 
 > **Image Prompt:** 高尾山の1号路を歩く登山者たち。舗装された広い道で、茶屋や休憩所が点在している。木立の間から木漏れ日が差し込む爽やかな雰囲気。
 
@@ -58,7 +58,7 @@ Tags: Hiking, Beginner, Guide
 | 弘法山 | 235m | 約5km、アップダウン少、桜の名所 |
 | 御岳山 | 929m | ケーブルカー有、宿坊も体験可能 |
 
-**参考情報**: 「高尾山は都心からアクセスしやすく、標高599mと高すぎません。ケーブルカーやリフトも利用可能で、整備された登山道が複数あります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-0Ofxfk8kFFF_BeU8TnX8OixG9zwGivMpxUuC5FWorAdcK9BXssu1jtUIOdIwy4BhefwR8WVtrmLdyTG1nQ55CZ_vM3e2mz9enObSkI4ucr4o`</details>
+> **参考情報**: 「高尾山は都心からアクセスしやすく、標高599mと高すぎません。ケーブルカーやリフトも利用可能で、整備された登山道が複数あります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-0Ofxfk8kFFF_BeU8TnX8OixG9zwGivMpxUuC5FWorAdcK9BXssu1jtUIOdIwy4BhefwR8WVtrmLdyTG1nQ55CZ_vM3e2mz9enObSkI4ucr4o`</details>
 
 ### 一人で行くべき？誰かと行くべき？
 
@@ -70,7 +70,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: 実際、そういう層が多いのは事実だ。だが、ガイドがいれば体力に合わせたペース配分をしてくれるし、質問もできる。一人で迷って遭難するよりよほどいい。
 
-**参考情報**: 「初めての方に限らず、登山経験者と一緒に行くか、初心者向けツアーに参加するのが安心です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTYrm77Ih-PgA8BArqbd8SVXdlG_xhIYNxeKrEdmOLqPIkY_iDjjDzm3kUBphv564PflrMMe56ytwoiTWrzLC2NLX3K8HmzU0H-6ZSSFmsNtoyYQ==`</details>
+> **参考情報**: 「初めての方に限らず、登山経験者と一緒に行くか、初心者向けツアーに参加するのが安心です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTYrm77Ih-PgA8BArqbd8SVXdlG_xhIYNxeKrEdmOLqPIkY_iDjjDzm3kUBphv564PflrMMe56ytwoiTWrzLC2NLX3K8HmzU0H-6ZSSFmsNtoyYQ==`</details>
 
 ---
 
@@ -100,7 +100,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: 普段の靴より0.5〜1cm大きいものを選ぶ。特に下りは足が前にずれるから、つま先に余裕がないと爪が当たって痛い思いをするぞ。
 
-**参考情報**: 「登山靴は足にフィットし、グリップ力があり、足首をサポートする防水性の登山靴を選びましょう。初心者には軽登山靴（トレッキングブーツ）が適しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1xqhP8UBdRk6LsmqgF-8WSUAdxLPcSOdLFpaXFUWNSisWvRu4TdBAypDLFaiq4eL4gkgBAqp3KrMYci4-5njnDh-SiWXsoduysE7IdGonGpBE0GLifYqqhmkGEmE=`</details>
+> **参考情報**: 「登山靴は足にフィットし、グリップ力があり、足首をサポートする防水性の登山靴を選びましょう。初心者には軽登山靴（トレッキングブーツ）が適しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1xqhP8UBdRk6LsmqgF-8WSUAdxLPcSOdLFpaXFUWNSisWvRu4TdBAypDLFaiq4eL4gkgBAqp3KrMYci4-5njnDh-SiWXsoduysE7IdGonGpBE0GLifYqqhmkGEmE=`</details>
 
 #### 主なスペック
 - 足首をホールドするミッドカットタイプ
@@ -134,7 +134,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: 論外だ。蒸れて中がびしょびしょになる。登山用のレインウェアは防水性と透湿性を両立している。ゴアテックス素材のものが定番だな。
 
-**参考情報**: 「山の天気は変わりやすく、急な雨や寒さから身を守るために必須です。防水性、透湿性、軽量性、収納性に優れたセパレートタイプが推奨されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPaPHeC-IOlmdizHZBMZ_IZ8TxUpIqdqkyh2xGJKBmdep1-RA9g_Y2OhtA3XHYi5vxeuhia1VR41iObq8CTV9XQRXxNr_-bbmlJ8MxLEpbxn-WaRipb4je`</details>
+> **参考情報**: 「山の天気は変わりやすく、急な雨や寒さから身を守るために必須です。防水性、透湿性、軽量性、収納性に優れたセパレートタイプが推奨されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPaPHeC-IOlmdizHZBMZ_IZ8TxUpIqdqkyh2xGJKBmdep1-RA9g_Y2OhtA3XHYi5vxeuhia1VR41iObq8CTV9XQRXxNr_-bbmlJ8MxLEpbxn-WaRipb4je`</details>
 
 #### 主なスペック
 - 上下セパレートタイプ
@@ -159,7 +159,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: 日帰り登山なら20〜30リットルが目安だ。大は小を兼ねるといって大きすぎるものを選ぶと、荷物が中で動いてバランスを崩しやすい。
 
-**参考情報**: 「日帰り登山であれば20～30リットル程度の容量が目安です。チェストストラップやウエストベルトで重心を安定させられるものが良いでしょう」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnqo8BY7t-hYZFplwNyWQ22_0iSUMfDFHh1Kno5_oJLNKdbfETVBxvh8FRHRxDRq5ZnAA4XdpZwWYJWi2C6PBPZuPhAc2_zBNaAwePS0dnVBA7VsjdQ8kLzVpeYRA=`</details>
+> **参考情報**: 「日帰り登山であれば20～30リットル程度の容量が目安です。チェストストラップやウエストベルトで重心を安定させられるものが良いでしょう」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnqo8BY7t-hYZFplwNyWQ22_0iSUMfDFHh1Kno5_oJLNKdbfETVBxvh8FRHRxDRq5ZnAA4XdpZwWYJWi2C6PBPZuPhAc2_zBNaAwePS0dnVBA7VsjdQ8kLzVpeYRA=`</details>
 
 #### 主なスペック
 - 容量20〜30リットル
@@ -193,7 +193,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: 登山で最も気をつけるべきリスクの一つだからな。服はポリエステルなど化学繊維製の速乾素材を選ぶこと。ユニクロならエアリズムやドライEXがいい。
 
-**参考情報**: 「綿素材は汗で濡れると乾きにくく体を冷やす原因になるため避け、ポリエステルなどの化学繊維製のものを選びましょう」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3N--bysRQoxp3_HGjBgVAd3BQ_hzVKuNq7Oi5ve0YVH_ydscr3W4Xvm9a3QMOQY0SjQ3k8MKlkWrTEVU6BCSCqUvBO1bP1RTyRdxZL6WGIVLlTprr-o-zyPfithyfxBKgtObEwdklKhgkA4A=`</details>
+> **参考情報**: 「綿素材は汗で濡れると乾きにくく体を冷やす原因になるため避け、ポリエステルなどの化学繊維製のものを選びましょう」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3N--bysRQoxp3_HGjBgVAd3BQ_hzVKuNq7Oi5ve0YVH_ydscr3W4Xvm9a3QMOQY0SjQ3k8MKlkWrTEVU6BCSCqUvBO1bP1RTyRdxZL6WGIVLlTprr-o-zyPfithyfxBKgtObEwdklKhgkA4A=`</details>
 
 > **Image Prompt:** 登山者の女性が、速乾性インナーの上にシャツ、その上にフリース、さらにレインウェアを重ね着している様子をレイヤーごとに分解したイラスト。
 
@@ -243,7 +243,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: 日帰りでも道に迷ったり、体調不良で遅れたりする可能性はある。山は日が暮れると真っ暗だ。スマホのライトは電池を消耗するからダメだぞ。
 
-**参考情報**: 「ヘッドライトは山中で暗くなった際に道が見えなくなるため、必ず持参しましょう」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLnteXIkQNt9YvkvtSJAykk4sObqXTQeYG9BEruDLaEXZ51SE0Rx582RrY6se5AHHTM9eCO2mj6HLcDq-4AN_wKL0ZSfPcPCAeA_5AXWVyeanQ2FE_xMXU`</details>
+> **参考情報**: 「ヘッドライトは山中で暗くなった際に道が見えなくなるため、必ず持参しましょう」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLnteXIkQNt9YvkvtSJAykk4sObqXTQeYG9BEruDLaEXZ51SE0Rx582RrY6se5AHHTM9eCO2mj6HLcDq-4AN_wKL0ZSfPcPCAeA_5AXWVyeanQ2FE_xMXU`</details>
 
 ### あると便利な持ち物
 
@@ -251,7 +251,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: トレッキングポールは膝の負担を減らしてくれる。特に下りで効果的だ。
 
-**参考情報**: 「トレッキングポールは体重を分散させ、疲労軽減やバランス維持に役立ちます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXLyvQp7Qb7UNgwyj8PqgenATjNJa-y5qdSVNBkWpJJ2p14MbFtnF496RIN3vE_s810SsMoUyvWtyCqM0grb25jmAgH-sa1Hu3XyQ48o_k_5xMSIXMCVz5YlPpahvrXXVed5xY6AVIllEAij1bbQ==`</details>
+> **参考情報**: 「トレッキングポールは体重を分散させ、疲労軽減やバランス維持に役立ちます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXLyvQp7Qb7UNgwyj8PqgenATjNJa-y5qdSVNBkWpJJ2p14MbFtnF496RIN3vE_s810SsMoUyvWtyCqM0grb25jmAgH-sa1Hu3XyQ48o_k_5xMSIXMCVz5YlPpahvrXXVed5xY6AVIllEAij1bbQ==`</details>
 
 ---
 
@@ -269,9 +269,9 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: 今はスマホで簡単に出せる。コンパスやYAMAPというアプリを使えば、計画を作成してそのまま提出できる。下山したら通知も送れる。
 
-**参考情報**: 「コンパスはパソコンやスマートフォンから登山計画の作成・提出が可能です。作成した計画は、家族や友人、山岳団体と共有でき、全国の山域に対応しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVis5QFmciDy4G1e43CUWzEu9t3v0XpIIyDlgeneZQaYp6CxicDlYF65sk1T6oRIX5G50wt8xkpxqZO8D-yV9AhYtwDzXmUhSkvPTUmHa71bUv9YzFRRoU7Hs=`</details>
+> **参考情報**: 「コンパスはパソコンやスマートフォンから登山計画の作成・提出が可能です。作成した計画は、家族や友人、山岳団体と共有でき、全国の山域に対応しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVis5QFmciDy4G1e43CUWzEu9t3v0XpIIyDlgeneZQaYp6CxicDlYF65sk1T6oRIX5G50wt8xkpxqZO8D-yV9AhYtwDzXmUhSkvPTUmHa71bUv9YzFRRoU7Hs=`</details>
 
-**参考情報**: 「YAMAPアプリでコースタイムを自動計算するなど、無理のない登山計画を簡単に作成できます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSwKfAS-O0qEee46tD3zgjuuNuYac8_RB8OMLaZwbC60H5ddUnEQJ_X52QNHS-ubeqiQZdJkg6L-28vI0qh_5kSLypizrtcjFmS4jTqDGqc-fqmlEmDN0AYP8W`</details>
+> **参考情報**: 「YAMAPアプリでコースタイムを自動計算するなど、無理のない登山計画を簡単に作成できます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSwKfAS-O0qEee46tD3zgjuuNuYac8_RB8OMLaZwbC60H5ddUnEQJ_X52QNHS-ubeqiQZdJkg6L-28vI0qh_5kSLypizrtcjFmS4jTqDGqc-fqmlEmDN0AYP8W`</details>
 
 ### 登山届に書く内容
 
@@ -303,7 +303,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: スクワットだ。太もも、ふくらはぎ、お尻といった下半身の筋肉を鍛えられる。
 
-**参考情報**: 「スクワットは下半身全体を効率的に鍛える基本のトレーニングです。慣れてきたら5kg程度の荷物を背負うと体幹も同時に鍛えられます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZgiRfrA5T0eCVQM8udiEjv2yREpy9ZkZa6tUjqgYqyk9fWfnDgBOyghYfpMWORn3e-hMxpzh4tyI-N_BWOGaDOTLKhD4TNyYdYls36IaFBZOZkAY9eq2Aa3DjXJY=`</details>
+> **参考情報**: 「スクワットは下半身全体を効率的に鍛える基本のトレーニングです。慣れてきたら5kg程度の荷物を背負うと体幹も同時に鍛えられます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZgiRfrA5T0eCVQM8udiEjv2yREpy9ZkZa6tUjqgYqyk9fWfnDgBOyghYfpMWORn3e-hMxpzh4tyI-N_BWOGaDOTLKhD4TNyYdYls36IaFBZOZkAY9eq2Aa3DjXJY=`</details>
 
 **JK**: 毎日やらないとダメですか？
 
@@ -315,7 +315,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: 準備運動はしておいたほうがいい。筋肉や関節を温めておくとケガ防止になる。
 
-**参考情報**: 「登山前の準備運動は、ケガや疲労の予防に不可欠です。登山は足場が悪く、筋肉や関節に大きな負担がかかるため、運動開始前に体を温めておくことが重要です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIoa0BviGfmYgPKV-gNwhplXJGgGICVKNoB21bXDaKsrlTmmhpHywdrSIeSakyKg1L7_vs8xfvGiIuAkRLt5r6CuwHFScbNQkkZgP-UyX2ZDNBqFOnTJLQaZFNrduvjVHwsP5XQPM3hLBDVbBy4HA6y8HdnlUDm0NVA9l51v0D`</details>
+> **参考情報**: 「登山前の準備運動は、ケガや疲労の予防に不可欠です。登山は足場が悪く、筋肉や関節に大きな負担がかかるため、運動開始前に体を温めておくことが重要です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIoa0BviGfmYgPKV-gNwhplXJGgGICVKNoB21bXDaKsrlTmmhpHywdrSIeSakyKg1L7_vs8xfvGiIuAkRLt5r6CuwHFScbNQkkZgP-UyX2ZDNBqFOnTJLQaZFNrduvjVHwsP5XQPM3hLBDVbBy4HA6y8HdnlUDm0NVA9l51v0D`</details>
 
 **JK**: ラジオ体操とかでいいんですか？
 
@@ -343,7 +343,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: 基本的にはな。ただ、すれ違いが多い場所では軽く会釈する程度でいい。
 
-**参考情報**: 「登山道ですれ違う際は、基本的に『登りの人が優先』です。登りの人は体力を消耗しており、一度立ち止まると再スタートがきついためです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdeKxdYwnagknQ_e_TMb3QPTiIQsIBj_XTMfCf2mGXzHBMTs0KklSSgzg7j7D7gLGWB7BlLRcI2H5JkxZ2jhD4jb9MwbT3Op35JD8-RfsCvFLrv_4G_I3X9BMeib0NhSJD_nrZUbDuclEgepz8_aD2sw==`</details>
+> **参考情報**: 「登山道ですれ違う際は、基本的に『登りの人が優先』です。登りの人は体力を消耗しており、一度立ち止まると再スタートがきついためです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdeKxdYwnagknQ_e_TMb3QPTiIQsIBj_XTMfCf2mGXzHBMTs0KklSSgzg7j7D7gLGWB7BlLRcI2H5JkxZ2jhD4jb9MwbT3Op35JD8-RfsCvFLrv_4G_I3X9BMeib0NhSJD_nrZUbDuclEgepz8_aD2sw==`</details>
 
 ### 登り優先
 
@@ -381,7 +381,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: これは本当に多い。「暑そうだから」とTシャツ一枚で来て、汗でびしょびしょになって、風に吹かれて震え上がるパターンだ。
 
-**参考情報**: 「綿100％の衣類は汗で濡れると乾きにくく、汗冷えの原因となります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuIPAsASqM9zPDBgNhGQsdOx4R-tDFg3-rDoKjTaRFWeHD11layciZLVxfvqZvz53sK5__D93SInLz_IMA_GQ-dJRNsV5aihgm-GDVkbIOOLyQJLGORAigUxu93bvhkymdwysOwY73lA==`</details>
+> **参考情報**: 「綿100％の衣類は汗で濡れると乾きにくく、汗冷えの原因となります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuIPAsASqM9zPDBgNhGQsdOx4R-tDFg3-rDoKjTaRFWeHD11layciZLVxfvqZvz53sK5__D93SInLz_IMA_GQ-dJRNsV5aihgm-GDVkbIOOLyQJLGORAigUxu93bvhkymdwysOwY73lA==`</details>
 
 ### スニーカーで登山
 
@@ -401,7 +401,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: SNSで見た絶景を求めて、いきなり難易度の高い山に挑むケースも後を絶たない。
 
-**参考情報**: 「初心者だけで登山をするのは避けるべきで、経験者と登るか、ツアーに参加することが勧められます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRKa5B_NG32LMXer6AOa6pKdbeh6DsMaCj6IJbO4qScQ1r4RU9eSebMrqFKXMVGynJz9tZq1FCw-goktjzNxTEgG3KUeHnIGlTnz18fWjXip5Y4SPvqceFAupTuuYp6UQWIZgGrNmKckT7B0ptl9Yc4UeCetlqTGp5FmCCf9R-zfHVfc3aQpeS`</details>
+> **参考情報**: 「初心者だけで登山をするのは避けるべきで、経験者と登るか、ツアーに参加することが勧められます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRKa5B_NG32LMXer6AOa6pKdbeh6DsMaCj6IJbO4qScQ1r4RU9eSebMrqFKXMVGynJz9tZq1FCw-goktjzNxTEgG3KUeHnIGlTnz18fWjXip5Y4SPvqceFAupTuuYp6UQWIZgGrNmKckT7B0ptl9Yc4UeCetlqTGp5FmCCf9R-zfHVfc3aQpeS`</details>
 
 **JK**: インスタ映えとか考えちゃうんですよね…。
 
@@ -415,7 +415,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: その油断が一番危ない。低山でも遭難者は出ている。
 
-**参考情報**: 「低い山だからといって油断は禁物です。どんな山にも危険は潜んでおり、天候の急変、滑りやすい地形、道迷い、野生動物との遭遇などのリスクがあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAe18Vs9ihmQjKzkx6HkuKUI1C7XHXSrB9w5_kr4HiCTqwIiQnwTH2bXUHyWPJ4_KzGjQKoMm5kW2WNpkHDm673EMo4XdEXRCu-lHjUYFWmtoX8FZxJILEw8Um2afhZD4gr84b5hT-tDAmZRT1RyLh1A4GBDKSgnBzJ6Jbo67h4PfN0WRV4nfntHP4-rw1oSYXVhLjDW7bYQEG4Rb_WHVXsRc4DoQ3k9JQhDL7FHxkmDq6Cl5eszGuLYtwNYBMf2hvKuug0icr0OGx3UEfwiaErtRO5VQgD4dIwg63j9GgG13vtr0UvDwm74BSdcE7nBgSK6mmA0SU2hxu6_J07royg5HsMRp_25E85AaDcogJLQFO37CT642zTbWPmfDtKQ==`</details>
+> **参考情報**: 「低い山だからといって油断は禁物です。どんな山にも危険は潜んでおり、天候の急変、滑りやすい地形、道迷い、野生動物との遭遇などのリスクがあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAe18Vs9ihmQjKzkx6HkuKUI1C7XHXSrB9w5_kr4HiCTqwIiQnwTH2bXUHyWPJ4_KzGjQKoMm5kW2WNpkHDm673EMo4XdEXRCu-lHjUYFWmtoX8FZxJILEw8Um2afhZD4gr84b5hT-tDAmZRT1RyLh1A4GBDKSgnBzJ6Jbo67h4PfN0WRV4nfntHP4-rw1oSYXVhLjDW7bYQEG4Rb_WHVXsRc4DoQ3k9JQhDL7FHxkmDq6Cl5eszGuLYtwNYBMf2hvKuug0icr0OGx3UEfwiaErtRO5VQgD4dIwg63j9GgG13vtr0UvDwm74BSdcE7nBgSK6mmA0SU2hxu6_J07royg5HsMRp_25E85AaDcogJLQFO37CT642zTbWPmfDtKQ==`</details>
 
 **JK**: え、高尾山で遭難する人いるんですか？
 
@@ -437,7 +437,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: まずは近くの低山から始めてみろ。三種の神器を揃えて、登山届を出して、天気を確認して、無理のない計画を立てる。それだけで君も立派な登山者の一歩を踏み出せる。
 
-**参考情報**: 「登山は、自然の中で歩くことの楽しさや、山頂からの雄大な景色、達成感、下山後の温泉など、多くの魅力があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOw-bt09dYpZczRVtf_4yMavuKvkK7nWsyvKscQHeNTDPUrISiP1LuLh2z9esKH-P6DgqQiap5Z37xw4lE-vndPTLcXBzL4lafUydjP25OPT46yI2Pk-6Wn-9-NQGyf60j2suGW8_6kfkVYCQbYd_7mrX7Dw==`</details>
+> **参考情報**: 「登山は、自然の中で歩くことの楽しさや、山頂からの雄大な景色、達成感、下山後の温泉など、多くの魅力があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOw-bt09dYpZczRVtf_4yMavuKvkK7nWsyvKscQHeNTDPUrISiP1LuLh2z9esKH-P6DgqQiap5Z37xw4lE-vndPTLcXBzL4lafUydjP25OPT46yI2Pk-6Wn-9-NQGyf60j2suGW8_6kfkVYCQbYd_7mrX7Dw==`</details>
 
 ### 初心者がまずやるべきことチェックリスト
 

@@ -70,7 +70,7 @@ Tags: Cookware, Guide
 
 **先生**: アルミの最大の特徴は「熱伝導率の高さ」だ。フライパンやクッカーに火をかけると、底面から側面まで均一に熱が広がる。
 
-**参考情報**: 「アルミ製は熱伝導率が良く、お湯が早く沸き、炊飯にも適しています。アルマイト加工が施されており、耐摩耗性もあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMgjWrphVrHROLzsTjOje3s9KQS3C0jRnSfC2fSaPIQwmADYnJKCKpFSzNfCtFvObVjZ0jyzn6RTYecYOjtUrrrNjYVDmpBPTLY54flwPC6BQMMmfS8cSgbphdc72CWJAOYA==`</details>
+> **参考情報**: 「アルミ製は熱伝導率が良く、お湯が早く沸き、炊飯にも適しています。アルマイト加工が施されており、耐摩耗性もあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMgjWrphVrHROLzsTjOje3s9KQS3C0jRnSfC2fSaPIQwmADYnJKCKpFSzNfCtFvObVjZ0jyzn6RTYecYOjtUrrrNjYVDmpBPTLY54flwPC6BQMMmfS8cSgbphdc72CWJAOYA==`</details>
 
 **JK**: それって料理に何か関係あるんですか？
 
@@ -100,7 +100,7 @@ Tags: Cookware, Guide
 
 **先生**: 90gだけ見ると大したことないように思えるだろう。だが登山では「塵も積もれば」なんだ。クッカーで90g、カトラリーで30g、ガス缶で50g…と軽量化を積み重ねていくと、最終的に1kg以上の差になることもある。
 
-**参考情報**: 「チタン製は非常に軽量で耐久性が高いのが特徴です。登山やウルトラライト志向のキャンパーに適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM-qz0qDd8K6XPQ8K5VZjO4l0EjoyRldg8tdsh8WAUCDmJnx7Jho5GUeF0vK-cTF_4HgPtcTl1dQPgX27Ky5-gt4mi0B1o8A48OOYlDn9TYmwjx6Bv8oRaf0YW_Y8rDBkcBRypC0GV`</details>
+> **参考情報**: 「チタン製は非常に軽量で耐久性が高いのが特徴です。登山やウルトラライト志向のキャンパーに適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM-qz0qDd8K6XPQ8K5VZjO4l0EjoyRldg8tdsh8WAUCDmJnx7Jho5GUeF0vK-cTF_4HgPtcTl1dQPgX27Ky5-gt4mi0B1o8A48OOYlDn9TYmwjx6Bv8oRaf0YW_Y8rDBkcBRypC0GV`</details>
 
 **JK**: なるほど…。でもチタンって高いイメージがあるんですけど。
 
@@ -154,7 +154,7 @@ Tags: Cookware, Guide
 
 **先生**: 大小2つのクッカー（LとS）と、それぞれに蓋がついている。この蓋がフライパンや皿としても使えるから、これ一つあれば煮る・焼く・茹でる・炊く、ほとんどの調理がこなせる。
 
-**参考情報**: 「大小2つの深型クッカーと、それぞれに蓋となる浅型クッカー（フライパンや皿としても使用可能）が含まれており、多様な料理に対応できます。これらすべてがコンパクトにスタッキングできるため、持ち運びに便利です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjYuzsD58UkvZ_h0n39uao6adbDuyh5bW7RIGOEDLAKRR_ivvR_QJrLIspvo8OIIpaFVRo3JElKsWvREsyix8WefBKnnHO6-Wkm5H9-Vwrgldvc188KzxEcBjBKNo=`</details>
+> **参考情報**: 「大小2つの深型クッカーと、それぞれに蓋となる浅型クッカー（フライパンや皿としても使用可能）が含まれており、多様な料理に対応できます。これらすべてがコンパクトにスタッキングできるため、持ち運びに便利です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjYuzsD58UkvZ_h0n39uao6adbDuyh5bW7RIGOEDLAKRR_ivvR_QJrLIspvo8OIIpaFVRo3JElKsWvREsyix8WefBKnnHO6-Wkm5H9-Vwrgldvc188KzxEcBjBKNo=`</details>
 
 **JK**: えっ、それ便利そう！ でも全部合わせるとめっちゃ重くないですか？
 
@@ -170,7 +170,7 @@ Tags: Cookware, Guide
 
 **先生**: 正直に言うと、蓋の取っ手がちょっとぐらつくことがある。使っているうちに緩んでくるんだ。ネジを締め直せば問題ないが、初めて使う人は「あれ？」と思うかもしれない。
 
-**参考情報**: 「浅型クッカーの取っ手は『がたつく』という口コミがあり、徐々に緩む可能性があるとの指摘もあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjYuzsD58UkvZ_h0n39uao6adbDuyh5bW7RIGOEDLAKRR_ivvR_QJrLIspvo8OIIpaFVRo3JElKsWvREsyix8WefBKnnHO6-Wkm5H9-Vwrgldvc188KzxEcBjBKNo=`</details>
+> **参考情報**: 「浅型クッカーの取っ手は『がたつく』という口コミがあり、徐々に緩む可能性があるとの指摘もあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjYuzsD58UkvZ_h0n39uao6adbDuyh5bW7RIGOEDLAKRR_ivvR_QJrLIspvo8OIIpaFVRo3JElKsWvREsyix8WefBKnnHO6-Wkm5H9-Vwrgldvc188KzxEcBjBKNo=`</details>
 
 **JK**: それ結構気になりますね…。他には？
 
@@ -231,7 +231,7 @@ Tags: Cookware, Guide
 
 **先生**: そうだ。だから登山で「お湯沸かし専用」として使うならチタン一択。キャンプで「ご飯も炊きたい」ならアルミだ。
 
-**参考情報**: 「軽量性や究極の耐久性を求めるならチタン製がおすすめです。荷物の重量を少しでも減らしたい登山やウルトラライト志向のキャンプに適しており、主に湯沸かし用途で活躍します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFr2nQjbFF9qM937RHTtDAgdA7aNPnkh6XpUUZK-9CxPC4uASMLyiOwuo52iIwXrEuennrDrk1Z0Frik0Xd1mEEvmYAWNG7CIZSTdc32abQGzzEbrjBBJseeW4Ulh0ChOoJ0Rc=`</details>
+> **参考情報**: 「軽量性や究極の耐久性を求めるならチタン製がおすすめです。荷物の重量を少しでも減らしたい登山やウルトラライト志向のキャンプに適しており、主に湯沸かし用途で活躍します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFr2nQjbFF9qM937RHTtDAgdA7aNPnkh6XpUUZK-9CxPC4uASMLyiOwuo52iIwXrEuennrDrk1Z0Frik0Xd1mEEvmYAWNG7CIZSTdc32abQGzzEbrjBBJseeW4Ulh0ChOoJ0Rc=`</details>
 
 **JK**: じゃあ私みたいに「登山も始めたいけどキャンプもしたい」って人はどうすれば…
 
@@ -276,7 +276,7 @@ Tags: Cookware, Guide
 
 **先生**: 「野営」から来ている名前だな。このクッカーの特徴は、内面にフッ素樹脂加工が施されていること。テフロン加工と同じだ。
 
-**参考情報**: 「フッ素樹脂加工（テフロン加工）により、調理中の焦げ付きを防ぎ、後片付けが非常に簡単になります。軽い汚れであればキッチンペーパーで拭き取るだけで済むため、洗い場の少ないアウトドアでの使用に適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4vyNMs9hdqcsIsxbXqwY1AfwI24YjoEENx8spJiR2LV6hKH96Q8aG99FjTzd1AL5GC43Hk6rv3XMhDKdnDWIAeXrkcRQg4KhG4pEZ45cQBe9V4BzpzDMqn1GN_2__16JeIg==`</details>
+> **参考情報**: 「フッ素樹脂加工（テフロン加工）により、調理中の焦げ付きを防ぎ、後片付けが非常に簡単になります。軽い汚れであればキッチンペーパーで拭き取るだけで済むため、洗い場の少ないアウトドアでの使用に適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4vyNMs9hdqcsIsxbXqwY1AfwI24YjoEENx8spJiR2LV6hKH96Q8aG99FjTzd1AL5GC43Hk6rv3XMhDKdnDWIAeXrkcRQg4KhG4pEZ45cQBe9V4BzpzDMqn1GN_2__16JeIg==`</details>
 
 **JK**: おおお！ じゃあ炒め物しても焦げないってことですか！？
 
@@ -342,7 +342,7 @@ Tags: Cookware, Guide
 
 **先生**: そうだ。複数のビリーポット（鍋）、フライパン、メッシュバスケット、着脱式ハンドルがセットになっている。これ一つあればキャンプの料理は大体こなせる。
 
-**参考情報**: 「オールインワンセット：フライパン、鍋（ビリーポット）、ザル（メッシュバスケット）がセットになっており、これ一つで多様な調理が可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyBWYGiAw-Ezn1F75OU6d3W-y0OZs00WUnm53hJ-3vLbrF12jXlhMd_6MFH3IZoPr8Z3iyh6H3xM_aEmLJk2sPihxlJUZBxruEATpNCbe1799gTeI38nN7gOxhIzVLUHvYu79zwbnm4ZJ3Wxs=`</details>
+> **参考情報**: 「オールインワンセット：フライパン、鍋（ビリーポット）、ザル（メッシュバスケット）がセットになっており、これ一つで多様な調理が可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyBWYGiAw-Ezn1F75OU6d3W-y0OZs00WUnm53hJ-3vLbrF12jXlhMd_6MFH3IZoPr8Z3iyh6H3xM_aEmLJk2sPihxlJUZBxruEATpNCbe1799gTeI38nN7gOxhIzVLUHvYu79zwbnm4ZJ3Wxs=`</details>
 
 **JK**: メッシュバスケットって何に使うんですか？
 
@@ -422,7 +422,7 @@ Tags: Cookware, Guide
 
 **JK**: へぇ〜！ じゃあ家で下ごしらえして、そのままキャンプに持っていけるってこと？
 
-**参考情報**: 「自宅での料理の下準備を済ませてからキャンプ場へ持ち運び、野外で火にかけるだけで調理を完了できるため、キャンプでの調理時間を短縮し、より手軽に美味しい食事を楽しめます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaFu9tSJTY3l_me2xCrGni0hg-ZZaeBNtFr174GrAseZOZVkzcmIRm7GdVG9NZVy_DpAxgwD2uPbV-oVK3U0P_sA5MzykFtU2ratrDlx0Gj5CScHqtVpaXRDiSkQ2hG-KwfBA=`</details>
+> **参考情報**: 「自宅での料理の下準備を済ませてからキャンプ場へ持ち運び、野外で火にかけるだけで調理を完了できるため、キャンプでの調理時間を短縮し、より手軽に美味しい食事を楽しめます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaFu9tSJTY3l_me2xCrGni0hg-ZZaeBNtFr174GrAseZOZVkzcmIRm7GdVG9NZVy_DpAxgwD2uPbV-oVK3U0P_sA5MzykFtU2ratrDlx0Gj5CScHqtVpaXRDiSkQ2hG-KwfBA=`</details>
 
 **先生**: そういうことだ。カレーを家で煮込んで、キャンプ場では温めるだけ。調理時間を大幅に短縮できる。
 
@@ -492,7 +492,7 @@ Tags: Cookware, Guide
 
 **先生**: 一概にそうとは言えない。シングルは確かに軽いが、熱が伝わりやすいから熱い飲み物を入れると持てなくなることがある。あと結露しやすい。
 
-**参考情報**: 「二重構造になっており、間に空気の層があるため、保温・保冷機能に優れています。熱い飲み物を入れてもマグ自体が熱くなりにくく、冷たい飲み物を入れても結露しにくいのが特徴です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG02xvPtSJFptBGB6ytr24tMFp-UaJso2W2ykiX0alARMLH3Sw2wHlUzIJM_JKkzR7zkZf47lVCw74cA2WdW4uBv5ktra1-kUH9sMM2sse4Yr-JL596aLaNHiA=`</details>
+> **参考情報**: 「二重構造になっており、間に空気の層があるため、保温・保冷機能に優れています。熱い飲み物を入れてもマグ自体が熱くなりにくく、冷たい飲み物を入れても結露しにくいのが特徴です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG02xvPtSJFptBGB6ytr24tMFp-UaJso2W2ykiX0alARMLH3Sw2wHlUzIJM_JKkzR7zkZf47lVCw74cA2WdW4uBv5ktra1-kUH9sMM2sse4Yr-JL596aLaNHiA=`</details>
 
 **JK**: あー、冷たいビール入れたら外がびちゃびちゃになるってこと？
 
@@ -556,7 +556,7 @@ Tags: Cookware, Guide
 
 **先生**: 鋳鉄製品を使い始める前に油を塗って焼き付ける「慣らし作業」のことだ。これをしないと錆びたり、焦げ付きやすくなる。
 
-**参考情報**: 「シリコン耐熱塗装が施されているため、一般的なダッチオーブンのように使い始めのシーズニング（慣らし作業）が不要で、洗剤で洗うことも可能です。ダッチオーブン初心者でも手軽に扱えます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7hzy9xs9OVha_j_envYVTcy3gHb2h1DEnT6V9Reyc1zJ05yi2IPAJE00nOGNopiwsG5UtWjAoPHTbpOLwZaB7dwrc8hIzC3OY7zt4cu0nV7PzP_NbZo8VXju0Qw==`</details>
+> **参考情報**: 「シリコン耐熱塗装が施されているため、一般的なダッチオーブンのように使い始めのシーズニング（慣らし作業）が不要で、洗剤で洗うことも可能です。ダッチオーブン初心者でも手軽に扱えます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7hzy9xs9OVha_j_envYVTcy3gHb2h1DEnT6V9Reyc1zJ05yi2IPAJE00nOGNopiwsG5UtWjAoPHTbpOLwZaB7dwrc8hIzC3OY7zt4cu0nV7PzP_NbZo8VXju0Qw==`</details>
 
 **JK**: え、コロダッチはそれ要らないんですか！？ めっちゃ楽じゃないですか！
 
@@ -612,7 +612,7 @@ Tags: Cookware, Guide
 
 **先生**: そうだ。プロのバリスタが使う器具からインスピレーションを得て作られている。最大の特徴はグースネック状の細い注ぎ口。
 
-**参考情報**: 「ドリップコーヒーなどに最適な細口のグースネック状の注ぎ口が特徴で、湯量を精密にコントロールできます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQhwFRNbY22WqfChIx361zHaqBPiwhB0V1fr6nMEUZJ0LveHc1ij-l-7I6c94rzU6WWwCu1QvtIJN5GliH0pQtJfc9BqAcK4_GQO9bNcx7ksYi7BnlC47ySofg738k9QsCRVY3S7o3oKIBcqN1MnQc0-JSRFenY0A=`</details>
+> **参考情報**: 「ドリップコーヒーなどに最適な細口のグースネック状の注ぎ口が特徴で、湯量を精密にコントロールできます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQhwFRNbY22WqfChIx361zHaqBPiwhB0V1fr6nMEUZJ0LveHc1ij-l-7I6c94rzU6WWwCu1QvtIJN5GliH0pQtJfc9BqAcK4_GQO9bNcx7ksYi7BnlC47ySofg738k9QsCRVY3S7o3oKIBcqN1MnQc0-JSRFenY0A=`</details>
 
 **JK**: 湯量をコントロール…？ そんなに違うものなんですか？
 

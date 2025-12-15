@@ -25,7 +25,7 @@ Tags: Know-how, Guide
 
 **先生**: まあ、そう思う気持ちはわかる。でもな、登山計画書は「登山届」とも呼ばれる、登る山・日時・メンバー・ルートなどを事前にまとめたものだ。
 
-**参考情報**: 「登山計画書とは何か 登山計画書は、登る山、日時、メンバー、ルートなどを事前にまとめたものです。登山届とも呼ばれます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn8hN6VV8fQukBemColsJC_GkUZkSz-2H8axnqH-nTJ45ENHry5nRI4tkgXF81FZJfqlZ8t5Wwrp7Jq3vHP3_rB3HiUTV1_RWQFFl8V36dPtjeFSHPiEzfFWEsPA==`</details>
+> **参考情報**: 「登山計画書とは何か 登山計画書は、登る山、日時、メンバー、ルートなどを事前にまとめたものです。登山届とも呼ばれます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn8hN6VV8fQukBemColsJC_GkUZkSz-2H8axnqH-nTJ45ENHry5nRI4tkgXF81FZJfqlZ8t5Wwrp7Jq3vHP3_rB3HiUTV1_RWQFFl8V36dPtjeFSHPiEzfFWEsPA==`</details>
 
 **JK**: でも、それって誰が見るんですか？
 
@@ -35,7 +35,7 @@ Tags: Know-how, Guide
 
 **先生**: 実はな、2014年の調査では山岳遭難事故2,172件のうち、登山計画書が提出されていたのはわずか371件。**8割以上が未提出**だったんだ。そして遭難者ほど計画書を出していない傾向がある。
 
-**参考情報**: 「2014年の警察庁の調査では、山岳遭難事故2,172件のうち、登山計画書が提出されていたのは371件にとどまり、8割以上が未提出でした。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFugHQrn75RmTsBTx2t4M7dKUg_CO_jvtrZrJmwPkYqvRWSoEzCD1euJ1DlYmIfLYScvGShanIsIhDu2NagwIWtE9VurR_3bzRF6SjDS0Q23eC_SS4a0vu52jBTg1ZOw5-qcKUa0qRhjL0S7V-gfDuhJWU=`</details>
+> **参考情報**: 「2014年の警察庁の調査では、山岳遭難事故2,172件のうち、登山計画書が提出されていたのは371件にとどまり、8割以上が未提出でした。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFugHQrn75RmTsBTx2t4M7dKUg_CO_jvtrZrJmwPkYqvRWSoEzCD1euJ1DlYmIfLYScvGShanIsIhDu2NagwIWtE9VurR_3bzRF6SjDS0Q23eC_SS4a0vu52jBTg1ZOw5-qcKUa0qRhjL0S7V-gfDuhJWU=`</details>
 
 **JK**: うわ、そんなに多いんですか…
 
@@ -59,7 +59,7 @@ Tags: Know-how, Guide
 - 緊急連絡先（家族など）
 - 保険加入の有無（山岳保険、ココヘリ、jROなど）
 
-**参考情報**: 「参加者情報 登山者全員分の氏名、年齢、住所、性別、電話番号、緊急連絡先、保険加入の有無などを記載します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOlHNiLQmTccLk1b6S03fITRdxnRUDO5yUdN2995eiDr2sY605ZV8zRpi6o3lcaxTe5nrql_Woqx-q1l99RGXnZaTK-kdamxda_8sRy1eK2pWm0QDmMhTOw1GHtJ5FsFOZwUEjA9sFCYhalQiN5fjCF2NR-iZd4IPyzQ==`</details>
+> **参考情報**: 「参加者情報 登山者全員分の氏名、年齢、住所、性別、電話番号、緊急連絡先、保険加入の有無などを記載します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOlHNiLQmTccLk1b6S03fITRdxnRUDO5yUdN2995eiDr2sY605ZV8zRpi6o3lcaxTe5nrql_Woqx-q1l99RGXnZaTK-kdamxda_8sRy1eK2pWm0QDmMhTOw1GHtJ5FsFOZwUEjA9sFCYhalQiN5fjCF2NR-iZd4IPyzQ==`</details>
 
 **JK**: 住所まで？そこまで必要ですか？
 
@@ -75,7 +75,7 @@ Tags: Know-how, Guide
 - 下山予定日時
 - 各ポイントの出発・到着予定時刻
 
-**参考情報**: 「行動予定 登山ルート（登山口、目的の山、通過する山、下山口）、登山期間、入山予定日時、宿泊地、下山予定日時、出発・到着予定時刻、おおよその所要時間など、詳細を記入します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHeuoUp2leWRCGC3-TnposMSarfEjt_iprADsbcwWgr2a21qk1mqz9puZICbFYVUZNoKJW4sslbKcBQmYmu_kBtrcLeOridPNt02I9IjzS5aKeng==`</details>
+> **参考情報**: 「行動予定 登山ルート（登山口、目的の山、通過する山、下山口）、登山期間、入山予定日時、宿泊地、下山予定日時、出発・到着予定時刻、おおよその所要時間など、詳細を記入します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHeuoUp2leWRCGC3-TnposMSarfEjt_iprADsbcwWgr2a21qk1mqz9puZICbFYVUZNoKJW4sslbKcBQmYmu_kBtrcLeOridPNt02I9IjzS5aKeng==`</details>
 
 **JK**: えー、そんな細かく書くんですか？当日どうなるかわからないのに…
 
@@ -85,7 +85,7 @@ Tags: Know-how, Guide
 
 **先生**: ここも重要だ。悪天候や体調不良のときに、計画通りに進めなくなったらどうするか。その**エスケープルート**を事前に決めておく。
 
-**参考情報**: 「エスケープルートとは、天候の急変、体調不良、怪我、予定よりペースが上がらないなどのトラブルが発生し、計画通りに登山を続けられなくなった場合に、安全に下山または避難するための予備ルートのことです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcblscxt77JMRHbq92qs8a9Xz9qyk6A-GXzBBOUlcN6aYXpRyCKhtUgyMplwKceN6zEu7US8BXE6LEhmujr6pnJMTAC7-UmBoH9XdBpYQrUTCrzhXtsDmeLcXkTi9KPa2M`</details>
+> **参考情報**: 「エスケープルートとは、天候の急変、体調不良、怪我、予定よりペースが上がらないなどのトラブルが発生し、計画通りに登山を続けられなくなった場合に、安全に下山または避難するための予備ルートのことです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcblscxt77JMRHbq92qs8a9Xz9qyk6A-GXzBBOUlcN6aYXpRyCKhtUgyMplwKceN6zEu7US8BXE6LEhmujr6pnJMTAC7-UmBoH9XdBpYQrUTCrzhXtsDmeLcXkTi9KPa2M`</details>
 
 **JK**: エスケープルート…なんかかっこいいけど、具体的には？
 
@@ -99,7 +99,7 @@ Tags: Know-how, Guide
 - 食料・行動食の数量
 - 予備食・非常食
 
-**参考情報**: 「装備と食料 持参する装備品（テント、コンロなど）、食料や行動食の数量を書き込みます。予備食や非常食についても考慮し、具体的に記載することが重要です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEBYDxWIC0m9KTj3uql2jO0JeGc8_o2Ws6ZzQq4k5HjgcJmo79GVxg33KmaWQfKrOjkJrWIsCi61jXjFA1YsFe27mlpyZSR-2r3ECAGH8S-jVUuoL9VDxY6H7JUKoBxjZAlMP4HbUF0sHEUUKKwImpiVc=`</details>
+> **参考情報**: 「装備と食料 持参する装備品（テント、コンロなど）、食料や行動食の数量を書き込みます。予備食や非常食についても考慮し、具体的に記載することが重要です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEBYDxWIC0m9KTj3uql2jO0JeGc8_o2Ws6ZzQq4k5HjgcJmo79GVxg33KmaWQfKrOjkJrWIsCi61jXjFA1YsFe27mlpyZSR-2r3ECAGH8S-jVUuoL9VDxY6H7JUKoBxjZAlMP4HbUF0sHEUUKKwImpiVc=`</details>
 
 **JK**: これも救助に関係あるんですか？
 
@@ -119,7 +119,7 @@ Tags: Know-how, Guide
 
 **先生**: まずは自分の体力や経験に合った山を選ぶことだ。初心者なら**標高1,000〜1,200m程度、標高差500〜600m程度**の山がおすすめだな。
 
-**参考情報**: 「まずは、自分の体力や経験に合った山を選びましょう。初心者には、標高1,000〜1,200mほどで登山道が整備されており、標高差500〜600m程度の山がおすすめです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfdGH5QgWSl0x9VBObUoxk0Rg1NSxT3fDvJ2PAVzoRGG65EAspantrSBoiTnlgmKIGMV_cx2Z_3yMcNr5UgiFhrIqIj8dIGYiPWT5eL-R5fJdqFVPxCRGPbwnk02AiLFpexKc=`</details>
+> **参考情報**: 「まずは、自分の体力や経験に合った山を選びましょう。初心者には、標高1,000〜1,200mほどで登山道が整備されており、標高差500〜600m程度の山がおすすめです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfdGH5QgWSl0x9VBObUoxk0Rg1NSxT3fDvJ2PAVzoRGG65EAspantrSBoiTnlgmKIGMV_cx2Z_3yMcNr5UgiFhrIqIj8dIGYiPWT5eL-R5fJdqFVPxCRGPbwnk02AiLFpexKc=`</details>
 
 **JK**: 標高差って何ですか？
 
@@ -133,7 +133,7 @@ Tags: Know-how, Guide
 - ガイドブック
 - ウェブサイト、ブログ、SNS
 
-**参考情報**: 「『山と高原地図』は、登山者向けの定番地図で、日本百名山を含む全国の主要な山岳エリアを網羅しています。この地図の最大の特長は『コースタイム』が記載されている点です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEsdmLa32gx3fx86npb8D05959xoLXoH3BgCpUFS1-bKeZbaota2tvzHhgXRXyVbrkB0flVyyN34sF0J_aIIIIYNQfSoWF0zKvMCSYDlBs9KlzGFgaDeFya4Mk0y97aYVVJGp25wSFtoKeBL4vwIKrQcPA1_FmLw==`</details>
+> **参考情報**: 「『山と高原地図』は、登山者向けの定番地図で、日本百名山を含む全国の主要な山岳エリアを網羅しています。この地図の最大の特長は『コースタイム』が記載されている点です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEsdmLa32gx3fx86npb8D05959xoLXoH3BgCpUFS1-bKeZbaota2tvzHhgXRXyVbrkB0flVyyN34sF0J_aIIIIYNQfSoWF0zKvMCSYDlBs9KlzGFgaDeFya4Mk0y97aYVVJGp25wSFtoKeBL4vwIKrQcPA1_FmLw==`</details>
 
 **JK**: 山と高原地図ってよく聞きます！
 
@@ -151,7 +151,7 @@ Tags: Know-how, Guide
 - **午後3時までには山小屋または下山口に到着**
 - **休憩時間を計算に入れる**（50分歩いたら10分休憩など）
 
-**参考情報**: 「日帰り登山の場合、行動時間は目安として8時間以内とし、午後3時までには下山を完了できるよう計画を立てることが推奨されます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-d4GDQgtCxtOd00o6T9zM41PJK68rkobWr0MT5gzsIY_eNJuR3ZVjstCtVKfCMPAnCtYSNLKl0qPuxcJysACeWUpN6RYb51eEMSvtlLvVdmMdphn_1-i-vjDFZx0=`</details>
+> **参考情報**: 「日帰り登山の場合、行動時間は目安として8時間以内とし、午後3時までには下山を完了できるよう計画を立てることが推奨されます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-d4GDQgtCxtOd00o6T9zM41PJK68rkobWr0MT5gzsIY_eNJuR3ZVjstCtVKfCMPAnCtYSNLKl0qPuxcJysACeWUpN6RYb51eEMSvtlLvVdmMdphn_1-i-vjDFZx0=`</details>
 
 **JK**: 午後3時までって、けっこう早くないですか？
 
@@ -165,7 +165,7 @@ Tags: Know-how, Guide
 
 > **登りの累積標高(100m)＋下りの累積標高(200m)＋水平距離(km) ÷ 4 ＝ おおよそのコースタイム（時間）**
 
-**参考情報**: 「登りの累積標高(100m単位)＋下りの累積標高(200m単位)＋水平距離(km単位) } ÷ 4 の計算式で、おおよその標準コースタイムを算出できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq55XoFwNKAJD6DMsXLXj83hjURjgs2O70DtOJPR44Hohk1gXJcWUMAnQ1qJJEQOBvnv0cMg85I-e1uT5jzmJCOVc01MjosZlnDiy6uwpp8CCcEOBVb6Dz8Go=`</details>
+> **参考情報**: 「登りの累積標高(100m単位)＋下りの累積標高(200m単位)＋水平距離(km単位) } ÷ 4 の計算式で、おおよその標準コースタイムを算出できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq55XoFwNKAJD6DMsXLXj83hjURjgs2O70DtOJPR44Hohk1gXJcWUMAnQ1qJJEQOBvnv0cMg85I-e1uT5jzmJCOVc01MjosZlnDiy6uwpp8CCcEOBVb6Dz8Go=`</details>
 
 **JK**: 呪文ですか？
 
@@ -182,7 +182,7 @@ Tags: Know-how, Guide
 
 **先生**: 最近は**「コース定数」**という指標もよく使われる。歩行時間、総距離、累積標高差から算出される「体力的難易度」を示す数値だ。
 
-**参考情報**: 「『コース定数』は、歩行時間、総距離、累積標高差の3つの要素から算出される体力的難易度を示す数値で、自身の体力レベルに合ったコースを選ぶ目安になります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVoyq76MmDUkAzAafsCDX_r2iM_Ttcn-05Ib3qHp7LHQk5_fv0_jAM7jaKsT52I_9Mq2ojB4E54xj3Zz-2tY3A3Vhb3Oynxb2oknMmiP9nqk6-GWX_rKykToxf5nWCWpOndKQ7bCCTWDp0vCDWJeD0qXNd`</details>
+> **参考情報**: 「『コース定数』は、歩行時間、総距離、累積標高差の3つの要素から算出される体力的難易度を示す数値で、自身の体力レベルに合ったコースを選ぶ目安になります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVoyq76MmDUkAzAafsCDX_r2iM_Ttcn-05Ib3qHp7LHQk5_fv0_jAM7jaKsT52I_9Mq2ojB4E54xj3Zz-2tY3A3Vhb3Oynxb2oknMmiP9nqk6-GWX_rKykToxf5nWCWpOndKQ7bCCTWDp0vCDWJeD0qXNd`</details>
 
 | コース定数 | 難易度 |
 |-----------|--------|
@@ -223,7 +223,7 @@ Tags: Know-how, Guide
 
 **先生**: 無料で使える定番サイトだ。山頂の気象条件から**「登山指数（A, B, C）」**を表示してくれる。Aなら登山に適した天候、Cなら避けた方がいい。
 
-**参考情報**: 「『てんきとくらす』は多くの登山者に利用されている無料の天気予報サイトです。山頂や山麓の気象条件から登山の快適さを『登山指数（A, B, C）』で表示します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAepUlaEvbPHaM465qsA1LtsUNEI6DTm5jSubu-khDHtm6Nv1usc0O_-8e9UmxsrskiJMYUN0jn3yTZPt78n6JdqNlqb8SugRMGBJiruQ47nwiB6k=`</details>
+> **参考情報**: 「『てんきとくらす』は多くの登山者に利用されている無料の天気予報サイトです。山頂や山麓の気象条件から登山の快適さを『登山指数（A, B, C）』で表示します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAepUlaEvbPHaM465qsA1LtsUNEI6DTm5jSubu-khDHtm6Nv1usc0O_-8e9UmxsrskiJMYUN0jn3yTZPt78n6JdqNlqb8SugRMGBJiruQ47nwiB6k=`</details>
 
 **JK**: 視覚的でわかりやすいですね！
 
@@ -233,7 +233,7 @@ Tags: Know-how, Guide
 
 **先生**: 山岳専門の気象予報士が予報を作っている有料サービスだ。稜線の風や雷の状況など、より詳細な情報が得られる。
 
-**参考情報**: 「ヤマテンは山岳専門の気象予報士が予報を作成しており、有料サービスですが、その精度には定評があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWk0GalCPcRooza61_CxYjgBVr7jqTRWkckPo8-aPGZUDJy4Xz7FYhg_3_He-71cuw7dYHhlKFWfySbaXIiykWfzlOFofOldgwV9T3kG9jk-1-FUNo1w==`</details>
+> **参考情報**: 「ヤマテンは山岳専門の気象予報士が予報を作成しており、有料サービスですが、その精度には定評があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWk0GalCPcRooza61_CxYjgBVr7jqTRWkckPo8-aPGZUDJy4Xz7FYhg_3_He-71cuw7dYHhlKFWfySbaXIiykWfzlOFofOldgwV9T3kG9jk-1-FUNo1w==`</details>
 
 ---
 
@@ -251,7 +251,7 @@ Tags: Know-how, Guide
 
 **先生**: 登りと下りで**同じ道を使う**のが往復型だ。
 
-**参考情報**: 「往復型（ピストンルート） 登り下りで同じコースを歩く最もシンプルな形式。初心者におすすめで、道迷いの心配が少ないですが、景色は単調になりがちです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsoiJcnUaKEjsZRczPDRv1nDmdBYaI0QzkLFZuib97OQm0tvd_m2V_2e5cv2Hv04-FEWjHzhi9j0o2RVTGKGn3KN1dKIaWUPE7Khy5Ujx-PVS2dMlQbfsSy7o=`</details>
+> **参考情報**: 「往復型（ピストンルート） 登り下りで同じコースを歩く最もシンプルな形式。初心者におすすめで、道迷いの心配が少ないですが、景色は単調になりがちです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsoiJcnUaKEjsZRczPDRv1nDmdBYaI0QzkLFZuib97OQm0tvd_m2V_2e5cv2Hv04-FEWjHzhi9j0o2RVTGKGn3KN1dKIaWUPE7Khy5Ujx-PVS2dMlQbfsSy7o=`</details>
 
 #### 主なスペック
 - 難易度: ★☆☆（低）
@@ -291,7 +291,7 @@ Tags: Know-how, Guide
 
 **先生**: 稜線で結ばれた**複数の山を連続で歩く**のが縦走だ。数日かかることが多く、山小屋泊やテント泊が前提になる。
 
-**参考情報**: 「縦走型 稜線で結ばれた複数のピークを連続して歩く形式。数日を要し、山小屋泊やテント泊が前提となります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfiOfAN53BiUnWE9NMBhrH1uCNsH4igNU3yyFlyD9xOe6CBXQNg_3kxUayszvvnefdY-wU2y2wpHka0PxRvx0N_x1LSLFYIMKsaliWmlfKUSh-8QNnX6Z3DOC_o4gYK_jHHoV4lcQKT37XuccG`</details>
+> **参考情報**: 「縦走型 稜線で結ばれた複数のピークを連続して歩く形式。数日を要し、山小屋泊やテント泊が前提となります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfiOfAN53BiUnWE9NMBhrH1uCNsH4igNU3yyFlyD9xOe6CBXQNg_3kxUayszvvnefdY-wU2y2wpHka0PxRvx0N_x1LSLFYIMKsaliWmlfKUSh-8QNnX6Z3DOC_o4gYK_jHHoV4lcQKT37XuccG`</details>
 
 **JK**: これは上級者向けですね…
 
@@ -313,7 +313,7 @@ Tags: Know-how, Guide
 
 **先生**: 「**山のグレーディング**」という基準がある。これは**体力レベル**と**技術的難易度**の2軸でルートを評価したものだ。
 
-**参考情報**: 「『山のグレーディング』は、山岳遭難事故防止を目的に、登山ルートの難易度を客観的に評価した指標です。これは主に体力レベル（体力度）と技術的難易度の2つの軸で評価されます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAI3uKuaDNTq39CZWPm6WAwZGkqdKmfccj0dZfJX1rtWfo-xZ-5y43jqFEAz7E5nBJ6UO8h7KhowNp5LcAyfhc7YB4p0VSUJ0hzKJ-ErNmMKU1vxnPiczLn88pOaw7DydlXg_Oxo-9`</details>
+> **参考情報**: 「『山のグレーディング』は、山岳遭難事故防止を目的に、登山ルートの難易度を客観的に評価した指標です。これは主に体力レベル（体力度）と技術的難易度の2つの軸で評価されます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAI3uKuaDNTq39CZWPm6WAwZGkqdKmfccj0dZfJX1rtWfo-xZ-5y43jqFEAz7E5nBJ6UO8h7KhowNp5LcAyfhc7YB4p0VSUJ0hzKJ-ErNmMKU1vxnPiczLn88pOaw7DydlXg_Oxo-9`</details>
 
 ### 体力レベル（1〜10段階）
 
@@ -324,7 +324,7 @@ Tags: Know-how, Guide
 | 5〜6 | 8時間程度 | 1.1倍程度 |
 | 7以上 | 10時間以上 | コースタイム通り |
 
-**参考情報**: 「体力レベル1は1日の最大行動時間が4時間程度で、コースタイムの1.3倍程度のペースで歩く日帰り登山に適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtgCogrVJVEP_jA_ebOCL1SKEooD03JcKpxmZ53wYWoH_Ip4-PW5vsaZfYAWWFcrydIbdd9USJqtaPkdQUPKZTmD6h3mx4BLFah-Kn8KrxetFu6q_LbCaQor8l1wIIqkylD24=`</details>
+> **参考情報**: 「体力レベル1は1日の最大行動時間が4時間程度で、コースタイムの1.3倍程度のペースで歩く日帰り登山に適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtgCogrVJVEP_jA_ebOCL1SKEooD03JcKpxmZ53wYWoH_Ip4-PW5vsaZfYAWWFcrydIbdd9USJqtaPkdQUPKZTmD6h3mx4BLFah-Kn8KrxetFu6q_LbCaQor8l1wIIqkylD24=`</details>
 
 ### 技術的難易度（A〜E）
 
@@ -363,7 +363,7 @@ Tags: Know-how, Guide
 
 **先生**: 今は**オンライン提出が主流**だな。最も推奨されるのは「**コンパス**」だ。
 
-**参考情報**: 「コンパスは公益社団法人日本山岳ガイド協会が運営する無料で利用できるオンライン登山届システムです。登山計画書の作成から提出、家族や警察との共有、下山通知など、安全な登山をサポートする様々な機能を提供しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP4VcjgSHc4am8yIkifPoM0Io3PF6ib6fygwxnL5QxIAfXzM_ytLyjHkC9qrTGXJxU7_MlzRYdssIGRmey4qMbfVPIO4-woyHYYyLyOkLPga8X_re6Sok4Vow=`</details>
+> **参考情報**: 「コンパスは公益社団法人日本山岳ガイド協会が運営する無料で利用できるオンライン登山届システムです。登山計画書の作成から提出、家族や警察との共有、下山通知など、安全な登山をサポートする様々な機能を提供しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP4VcjgSHc4am8yIkifPoM0Io3PF6ib6fygwxnL5QxIAfXzM_ytLyjHkC9qrTGXJxU7_MlzRYdssIGRmey4qMbfVPIO4-woyHYYyLyOkLPga8X_re6Sok4Vow=`</details>
 
 ### コンパスの便利な機能
 
@@ -376,7 +376,7 @@ Tags: Know-how, Guide
 - **緊急時のアラート**: 下山予定時刻を過ぎると家族にアラートが送られる
 - **オフライン地図**: 電波がなくても現在地がわかる
 
-**参考情報**: 「コンパスでの登山計画書の作成には複数の方法があります。フォーム入力、地図からの作成、過去の計画の複製、GPXファイルの読み込みが可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_tJjUqZ8dhkKsBAYcJda_dpcDN_0gVP-ojCWD1vTSDIYhmdV8yDsC3YeeHcOXtl69xN0GEGwU5hZ_UeKPbOeZNAs-LRYvFuc9rkYkhpNykw208_T9nhdv0liNWswdIw==`</details>
+> **参考情報**: 「コンパスでの登山計画書の作成には複数の方法があります。フォーム入力、地図からの作成、過去の計画の複製、GPXファイルの読み込みが可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_tJjUqZ8dhkKsBAYcJda_dpcDN_0gVP-ojCWD1vTSDIYhmdV8yDsC3YeeHcOXtl69xN0GEGwU5hZ_UeKPbOeZNAs-LRYvFuc9rkYkhpNykw208_T9nhdv0liNWswdIw==`</details>
 
 **JK**: 家族に通知が行くの、安心ですね！
 
@@ -402,13 +402,13 @@ Tags: Know-how, Guide
 | 岐阜県 | 北アルプス地区・活火山地区 |
 | 石川県 | 白山の活火山地区 |
 
-**参考情報**: 「群馬県は谷川岳周辺、新潟県は新潟焼山など、長野県は122の指定登山道、山梨県は富士山、八ヶ岳、南アルプスの一部（冬季など）で提出が義務付けられています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz9IaX3MiI3QsYYNs8kN0JC22rhssE2jaRr1KlvaBA3La8d2N6KCJWdwtPdTC01rv8ZDC5v-vKujJOXPiBQBUFVw8z3zChjaZL6HgImF4jLfd3ZVV0dfWKGMjISsES4E63YqSUGkiR47xyWZyIaQ==`</details>
+> **参考情報**: 「群馬県は谷川岳周辺、新潟県は新潟焼山など、長野県は122の指定登山道、山梨県は富士山、八ヶ岳、南アルプスの一部（冬季など）で提出が義務付けられています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz9IaX3MiI3QsYYNs8kN0JC22rhssE2jaRr1KlvaBA3La8d2N6KCJWdwtPdTC01rv8ZDC5v-vKujJOXPiBQBUFVw8z3zChjaZL6HgImF4jLfd3ZVV0dfWKGMjISsES4E63YqSUGkiR47xyWZyIaQ==`</details>
 
 **JK**: えっ、罰則もあるんですか？
 
 **先生**: ああ。岐阜県は5万円以下の過料、群馬県谷川岳は3万円以下の罰金だ。実際に2013年、谷川岳で登山届を出さずに登った3人が書類送検された事例もある。
 
-**参考情報**: 「岐阜県では5万円以下の過料、群馬県谷川岳では3万円以下の罰金が規定されています。実際に、2013年には谷川岳で登山計画書を提出せずに登山した男性3人が、条例違反で書類送検された事例もあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_o8F2Jb4EyicXMP3HeDTcrp_3okNGagvuVIF1mnra3mS_CHAb-ATuMJbX_KOAvNbrXshEv2oJvbhEwLhUU66LSqGJ0u_DTwjSKnTwmmzVvc5r5rD0j_0BV9tPZwcOkBXjTkjBARZdOi0P5g==`</details>
+> **参考情報**: 「岐阜県では5万円以下の過料、群馬県谷川岳では3万円以下の罰金が規定されています。実際に、2013年には谷川岳で登山計画書を提出せずに登山した男性3人が、条例違反で書類送検された事例もあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_o8F2Jb4EyicXMP3HeDTcrp_3okNGagvuVIF1mnra3mS_CHAb-ATuMJbX_KOAvNbrXshEv2oJvbhEwLhUU66LSqGJ0u_DTwjSKnTwmmzVvc5r5rD0j_0BV9tPZwcOkBXjTkjBARZdOi0P5g==`</details>
 
 **JK**: ひえっ…！知らなかったでは済まないですね…
 
@@ -416,7 +416,7 @@ Tags: Know-how, Guide
 
 **先生**: 2014年の御嶽山噴火では、多くの登山者が登山届を出していなかったため、行方不明者の把握が困難を極めた。あれをきっかけに義務化が進んだんだ。
 
-**参考情報**: 「2014年の御嶽山噴火では、多くの登山者が登山計画書を未提出であったため、行方不明者の把握が困難になったことが教訓となり、長野県などで提出義務化の動きが広がりました。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7VUDkNbck_PjL0TojLXXgUayLsQJO4ANfRsSOaNI006YsCpPM8Tmodzo7ViUxkJRMWXfI2AnffkkYyQr28Qogtu9aaqq0V30Po_2SZ_BAfdpU0-EQW6EHozCEssyzkSj4GixITw-SzY-D0NZoru0NC-XNg_xjzV3HTs-Hcw==`</details>
+> **参考情報**: 「2014年の御嶽山噴火では、多くの登山者が登山計画書を未提出であったため、行方不明者の把握が困難になったことが教訓となり、長野県などで提出義務化の動きが広がりました。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7VUDkNbck_PjL0TojLXXgUayLsQJO4ANfRsSOaNI006YsCpPM8Tmodzo7ViUxkJRMWXfI2AnffkkYyQr28Qogtu9aaqq0V30Po_2SZ_BAfdpU0-EQW6EHozCEssyzkSj4GixITw-SzY-D0NZoru0NC-XNg_xjzV3HTs-Hcw==`</details>
 
 **JK**: そうだったんですね…やっぱり出した方がいいですね。
 

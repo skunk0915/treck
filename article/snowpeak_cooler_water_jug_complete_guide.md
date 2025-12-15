@@ -49,7 +49,7 @@ Tags: Camping Gear, Guide
 
 **先生**: 実はこれ、アメリカのグリズリー社とのコラボ製品なんだ。グリズリーはプロのハンターや漁師も愛用するプレミアムクーラーブランドでな。
 
-**参考情報**: 「極厚の断熱層と回転成形による高い強度と保冷力を誇ります。アメリカのグリズリー社とのコラボレーション製品」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6-x5-kSZkNZ5DOr9XMBvWVXzkRSChpSOWAGjOgnfE0z8UGkbZOUjSOr-dNRUPjv5B4W0unmYlRqyEwXKKHb4iNlqf2EX6PDqTFiy1rWAddTYFVedXxz_sAWKPB9Ys7H83r-tJ7quT1w==`</details>
+> **参考情報**: 「極厚の断熱層と回転成形による高い強度と保冷力を誇ります。アメリカのグリズリー社とのコラボレーション製品」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6-x5-kSZkNZ5DOr9XMBvWVXzkRSChpSOWAGjOgnfE0z8UGkbZOUjSOr-dNRUPjv5B4W0unmYlRqyEwXKKHb4iNlqf2EX6PDqTFiy1rWAddTYFVedXxz_sAWKPB9Ys7H83r-tJ7quT1w==`</details>
 
 **JK**: グリズリーって…クマですか？
 
@@ -67,7 +67,7 @@ Tags: Camping Gear, Guide
 
 **先生**: 検証データによると、8時間経過後も約69.5%の氷が残っている。真夏のキャンプでも2〜3日間は氷を保持できると評価されているんだ。
 
-**参考情報**: 「8時間経過後も約69.5%の氷が残る検証結果があり、真夏のキャンプでも2〜3日間は氷を保持できると評価されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8etRMazx0a-CbZZNNfScwAB7vr9akVNSUDWt041fVtlSDJEu7ZLOrEUyX6_-TtaHboXvmNUBGo9GwKiVOvF53PPJDiBISmRLhoG4-NW0W3HnTuchfM1BDMzTLo6Hc`</details>
+> **参考情報**: 「8時間経過後も約69.5%の氷が残る検証結果があり、真夏のキャンプでも2〜3日間は氷を保持できると評価されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8etRMazx0a-CbZZNNfScwAB7vr9akVNSUDWt041fVtlSDJEu7ZLOrEUyX6_-TtaHboXvmNUBGo9GwKiVOvF53PPJDiBISmRLhoG4-NW0W3HnTuchfM1BDMzTLo6Hc`</details>
 
 **JK**: 2〜3日!? 普通のクーラーボックスって1日も持たないイメージあるのに…。
 
@@ -82,7 +82,7 @@ Tags: Camping Gear, Guide
 - **価格**: 76,560円（税込）
 - **収納目安**: 350ml缶約56本、2Lペットボトル約6本
 
-**参考情報**: 「350ml缶を約56本、2Lペットボトルを約6本収納可能です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6-x5-kSZkNZ5DOr9XMBvWVXzkRSChpSOWAGjOgnfE0z8UGkbZOUjSOr-dNRUPjv5B4W0unmYlRqyEwXKKHb4iNlqf2EX6PDqTFiy1rWAddTYFVedXxz_sAWKPB9Ys7H83r-tJ7quT1w==`</details>
+> **参考情報**: 「350ml缶を約56本、2Lペットボトルを約6本収納可能です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6-x5-kSZkNZ5DOr9XMBvWVXzkRSChpSOWAGjOgnfE0z8UGkbZOUjSOr-dNRUPjv5B4W0unmYlRqyEwXKKHb4iNlqf2EX6PDqTFiy1rWAddTYFVedXxz_sAWKPB9Ys7H83r-tJ7quT1w==`</details>
 
 **JK**: ちょっと待ってください。7万6千円!? クーラーボックスにそんなにお金出すんですか!?
 
@@ -92,7 +92,7 @@ Tags: Camping Gear, Guide
 
 **先生**: そこは正直デメリットだな。空の状態で11kg、食材と氷を入れたら20kg近くになることもある。
 
-**参考情報**: 「空の状態でも11kgと非常に重く、食材や飲み物を入れるとさらに重くなるため、持ち運びには労力がかかります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnn9rFR6KTxZE7B7-EEQJ-hB_ktcyUVeKfJxnkvWq0Ev5HVGbfX-GlTTpC8FS_H97xiSOJ5hgGkOpz2-O-q7ib1JqVW9c2foHG3JWrSygUE7LKLEgBRu4nqUQejmRA`</details>
+> **参考情報**: 「空の状態でも11kgと非常に重く、食材や飲み物を入れるとさらに重くなるため、持ち運びには労力がかかります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnn9rFR6KTxZE7B7-EEQJ-hB_ktcyUVeKfJxnkvWq0Ev5HVGbfX-GlTTpC8FS_H97xiSOJ5hgGkOpz2-O-q7ib1JqVW9c2foHG3JWrSygUE7LKLEgBRu4nqUQejmRA`</details>
 
 **JK**: それ、私一人じゃ絶対無理じゃないですか！
 
@@ -131,7 +131,7 @@ Tags: Camping Gear, Guide
 
 **先生**: スノーピークのソフトクーラーは、実はシアトルスポーツという老舗ブランドのOEM製品なんだ。ソフトクーラーのパイオニアと言われているメーカーだから品質は折り紙付きだ。
 
-**参考情報**: 「シアトルスポーツのOEM製品であり、高い信頼性を持っています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcLjVhnmJDXQXN4qan4AmPIeWbJJMxWUiU-MR_G2G43ePRMAmudZNklPSZjIIfgYMqOflslMfP363KpUc3WnSqpNdhYUJ_aHbS33r0OeXgX3NYamXfd4CHdtiPiA==`</details>
+> **参考情報**: 「シアトルスポーツのOEM製品であり、高い信頼性を持っています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcLjVhnmJDXQXN4qan4AmPIeWbJJMxWUiU-MR_G2G43ePRMAmudZNklPSZjIIfgYMqOflslMfP363KpUc3WnSqpNdhYUJ_aHbS33r0OeXgX3NYamXfd4CHdtiPiA==`</details>
 
 **JK**: OEM？なんですかそれ？
 
@@ -162,13 +162,13 @@ Tags: Camping Gear, Guide
 
 **先生**: そうだ。しかも使わないときは折りたたんで半分以下の厚さになる。車載スペースを有効に使いたい人には大きなメリットだ。
 
-**参考情報**: 「軽量なアルミコーティングエアシェル内層材を断熱材に使用し、内部の冷気を保ちつつ熱を外部に跳ね返す構造です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr11qBZ1wL5asD45XEI7460HjNoLopI7HSSiy8yAL5HV84EPNRX-wh1X-toYLjpDfeE9Ay8rxuPe1lRWXgGI69AGl9effwLZ_oAkSqVCspA2QuB2EjZp7EoZFvjek2ef2NjW6wyXQ=`</details>
+> **参考情報**: 「軽量なアルミコーティングエアシェル内層材を断熱材に使用し、内部の冷気を保ちつつ熱を外部に跳ね返す構造です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr11qBZ1wL5asD45XEI7460HjNoLopI7HSSiy8yAL5HV84EPNRX-wh1X-toYLjpDfeE9Ay8rxuPe1lRWXgGI69AGl9effwLZ_oAkSqVCspA2QuB2EjZp7EoZFvjek2ef2NjW6wyXQ=`</details>
 
 **JK**: でも保冷力はハードクーラーに負けるんですよね？
 
 **先生**: 正直なところ、負ける。だが検証では氷が約2.5日間持ったというデータもある。春・秋・冬のキャンプならメインクーラーとして十分使えるし、夏でも日帰りや1泊なら問題ない。
 
-**参考情報**: 「The 38L model has shown ice retention of approximately 2.5 days」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOkIIfN1ECk0dWS5m_xIfviCGUCqWeTgtu-zx2d2zGfxEThFikRb4r_J4RpvPxhCHC8nirPXU7NXgdMGOaRLGUQvXq5zRlld3XBCgFcw5D_KOi7DZdjqSgKolWszPBp8apVRPJaIaq8LpXag==`</details>
+> **参考情報**: 「The 38L model has shown ice retention of approximately 2.5 days」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOkIIfN1ECk0dWS5m_xIfviCGUCqWeTgtu-zx2d2zGfxEThFikRb4r_J4RpvPxhCHC8nirPXU7NXgdMGOaRLGUQvXq5zRlld3XBCgFcw5D_KOi7DZdjqSgKolWszPBp8apVRPJaIaq8LpXag==`</details>
 
 ### ソフトクーラー18（デュオ・デイキャンプ向け）
 
@@ -196,7 +196,7 @@ Tags: Camping Gear, Guide
 - **重量**: 0.68kg
 - **価格**: 10,230円（税込）
 
-**参考情報**: 「In testing, the Snow Peak Soft Cooler 11 performed well, maintaining water at 35.0°F (1.67°C) after 24 hours」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKkqxC7wBsbpWVLv0HTnxP5ykzwZJy4FwIsW8nmdmC0OCzs8bUp8NeGaGEsmFM4u_iE0GtewV1qfNwrO3eqolIGvU0Fu-OvHrUBzAxbY1SzPDTMqSABam5B6_ErrbGkT9xv8wrvLMERWc3zspscPTslzv3mw==`</details>
+> **参考情報**: 「In testing, the Snow Peak Soft Cooler 11 performed well, maintaining water at 35.0°F (1.67°C) after 24 hours」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKkqxC7wBsbpWVLv0HTnxP5ykzwZJy4FwIsW8nmdmC0OCzs8bUp8NeGaGEsmFM4u_iE0GtewV1qfNwrO3eqolIGvU0Fu-OvHrUBzAxbY1SzPDTMqSABam5B6_ErrbGkT9xv8wrvLMERWc3zspscPTslzv3mw==`</details>
 
 **JK**: へー、24時間後でも1.67℃をキープしてるんですね。意外とやるじゃん！
 
@@ -206,7 +206,7 @@ Tags: Camping Gear, Guide
 
 **先生**: もちろんある。正直に言うぞ。
 
-**参考情報**: 「極端な高温下や2泊以上の長期キャンプでは、ハードクーラーの方が安心感があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr11qBZ1wL5asD45XEI7460HjNoLopI7HSSiy8yAL5HV84EPNRX-wh1X-toYLjpDfeE9Ay8rxuPe1lRWXgGI69AGl9effwLZ_oAkSqVCspA2QuB2EjZp7EoZFvjek2ef2NjW6wyXQ=`</details>
+> **参考情報**: 「極端な高温下や2泊以上の長期キャンプでは、ハードクーラーの方が安心感があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr11qBZ1wL5asD45XEI7460HjNoLopI7HSSiy8yAL5HV84EPNRX-wh1X-toYLjpDfeE9Ay8rxuPe1lRWXgGI69AGl9effwLZ_oAkSqVCspA2QuB2EjZp7EoZFvjek2ef2NjW6wyXQ=`</details>
 
 #### 注意点
 
@@ -244,7 +244,7 @@ Tags: Camping Gear, Guide
 
 **先生**: その通りだ。62Lの中に19Lのインナーを入れることで、より保冷力を高められる。例えば肉など絶対に傷ませたくない食材だけインナーに入れて、飲み物は外側に入れるという使い分けができる。
 
-**参考情報**: 「遮熱シートと20mmの断熱材を備え、1泊2日のキャンプでも氷が残るほどの高い保冷力を発揮します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb1wei_8ts_0uNAqkEeuM85hgflD95geVaD3N4qxw-gAt9QB8tPB5rJVbhx_Y9YAIcaJOqXD5lWgBTAohyoMWEFabn_p0aydkWSmeQUoua_WgtUpu1UtoHkwyjloUadQ0=`</details>
+> **参考情報**: 「遮熱シートと20mmの断熱材を備え、1泊2日のキャンプでも氷が残るほどの高い保冷力を発揮します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb1wei_8ts_0uNAqkEeuM85hgflD95geVaD3N4qxw-gAt9QB8tPB5rJVbhx_Y9YAIcaJOqXD5lWgBTAohyoMWEFabn_p0aydkWSmeQUoua_WgtUpu1UtoHkwyjloUadQ0=`</details>
 
 #### 主なスペック
 
@@ -266,7 +266,7 @@ Tags: Camping Gear, Guide
 
 > **Image Prompt:** ステンレスの缶クーラーに350ml缶ビールをセットして持っている様子。キャンプチェアに座ってリラックスしている。
 
-**参考情報**: 「ステンレス製で、指紋が目立ちにくいヘアライン加工が施されています。真空二重構造により、缶飲料の冷たさを長時間キープする優れた保冷性を持っています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv1p0cX5JqtPLFCF0YB0_QBELLblJ4AYUSpFdsI6LdWy1OsYl7kfh8nGods8zVyJRXhIoQcAf9k450A-1-oII_ivMJ7iGk4m2Dg6bSZgYnQ0fJ16zWb70FVUsUHZSIEiiyPq8=`</details>
+> **参考情報**: 「ステンレス製で、指紋が目立ちにくいヘアライン加工が施されています。真空二重構造により、缶飲料の冷たさを長時間キープする優れた保冷性を持っています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv1p0cX5JqtPLFCF0YB0_QBELLblJ4AYUSpFdsI6LdWy1OsYl7kfh8nGods8zVyJRXhIoQcAf9k450A-1-oII_ivMJ7iGk4m2Dg6bSZgYnQ0fJ16zWb70FVUsUHZSIEiiyPq8=`</details>
 
 ### 缶クーラー350
 
@@ -283,7 +283,7 @@ Tags: Camping Gear, Guide
 
 **先生**: 基本は入れるだけだが、コツがある。缶を奥まで差し込んでから約30度回転させると、内底の3つの突起に引っかかってしっかり固定される。
 
-**参考情報**: 「缶を奥まで入れた後、約30度ひねることで固定力が向上します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv1p0cX5JqtPLFCF0YB0_QBELLblJ4AYUSpFdsI6LdWy1OsYl7kfh8nGods8zVyJRXhIoQcAf9k450A-1-oII_ivMJ7iGk4m2Dg6bSZgYnQ0fJ16zWb70FVUsUHZSIEiiyPq8=`</details>
+> **参考情報**: 「缶を奥まで入れた後、約30度ひねることで固定力が向上します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv1p0cX5JqtPLFCF0YB0_QBELLblJ4AYUSpFdsI6LdWy1OsYl7kfh8nGods8zVyJRXhIoQcAf9k450A-1-oII_ivMJ7iGk4m2Dg6bSZgYnQ0fJ16zWb70FVUsUHZSIEiiyPq8=`</details>
 
 **JK**: なるほど、カチッとハマるんですね。でもどのくらい冷たさ持つんですか？
 
@@ -315,7 +315,7 @@ Tags: Camping Gear, Guide
 
 **先生**: ふむ、デザイン性は抜群だな。実はイタリア製のオリーブオイルタンクを原型にしたデザインなんだ。
 
-**参考情報**: 「イタリア製のオリーブオイルタンクを原型とするステンレス製の本体と天然木のスタンドが特徴です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGavPOM19NGQSKeePerYyLFQ4zqopgopsGJR0rXkhE1I3-R7NmiOizJM2zy3DuyBvRlq5NzOmTG6qcGvmocIuJE_lPzu_luONo9HsRkLaBcGIYWv6trP6sh4fF4kZK7RRY=`</details>
+> **参考情報**: 「イタリア製のオリーブオイルタンクを原型とするステンレス製の本体と天然木のスタンドが特徴です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGavPOM19NGQSKeePerYyLFQ4zqopgopsGJR0rXkhE1I3-R7NmiOizJM2zy3DuyBvRlq5NzOmTG6qcGvmocIuJE_lPzu_luONo9HsRkLaBcGIYWv6trP6sh4fF4kZK7RRY=`</details>
 
 > **Image Prompt:** 天然木のスタンドに乗ったステンジャグから水を出して手を洗っている様子。おしゃれなキャンプサイトの雰囲気。
 
@@ -323,7 +323,7 @@ Tags: Camping Gear, Guide
 
 **先生**: スノーピークらしいこだわりだな。ステンレスの光沢と天然木のスタンドの組み合わせは、確かにキャンプサイトの雰囲気を格上げしてくれる。
 
-**参考情報**: 「多くのユーザーから、おしゃれで可愛らしいデザイン、特に牛乳缶を思わせるフォルムが高く評価されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAGWh5umL2nvWklPJyaCfaZcFh4Hn_4QyZUKajdocrc-NPKYZPYkIxmcSAdvOX2dzyyM4tdaa2pOG3vRSJggeumMguKAeQsni-75BsSRNwz5sny1mtUKe_kw3gWnWxIR3Kfbw3LanUfiXj4L8=`</details>
+> **参考情報**: 「多くのユーザーから、おしゃれで可愛らしいデザイン、特に牛乳缶を思わせるフォルムが高く評価されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAGWh5umL2nvWklPJyaCfaZcFh4Hn_4QyZUKajdocrc-NPKYZPYkIxmcSAdvOX2dzyyM4tdaa2pOG3vRSJggeumMguKAeQsni-75BsSRNwz5sny1mtUKe_kw3gWnWxIR3Kfbw3LanUfiXj4L8=`</details>
 
 ### ステンジャグ UG-330
 
@@ -343,13 +343,13 @@ Tags: Camping Gear, Guide
 
 **先生**: 最大のメリットは口径が広いことだ。内部に手を入れて洗えるから衛生的に保てる。
 
-**参考情報**: 「口径が広いため、内部に手を入れて洗いやすく、衛生的に保てる点が大きなメリットとして挙げられています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8X2txUTfV5fCt4isgnypmxVebyDXZ1avrpf6R_IOae5m3j9SeUaZ6ZcY7XwJ9GHHoGJjC1OJVn61QcWI5UesCGD6qKlGj9DJnNg6uRWY2fpmxoSofwLjw1lQ8yGcb5Q60EDs=`</details>
+> **参考情報**: 「口径が広いため、内部に手を入れて洗いやすく、衛生的に保てる点が大きなメリットとして挙げられています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8X2txUTfV5fCt4isgnypmxVebyDXZ1avrpf6R_IOae5m3j9SeUaZ6ZcY7XwJ9GHHoGJjC1OJVn61QcWI5UesCGD6qKlGj9DJnNg6uRWY2fpmxoSofwLjw1lQ8yGcb5Q60EDs=`</details>
 
 **JK**: 洗いやすいのは嬉しい！でも保冷・保温はできないんですよね？
 
 **先生**: そこは注意が必要だ。保温・保冷機能はない。あくまで常温の水を入れる用途だ。
 
-**参考情報**: 「保温・保冷機能はありません。この点は購入を検討する際に注意すべき点として多くのレビューで言及されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8X2txUTfV5fCt4isgnypmxVebyDXZ1avrpf6R_IOae5m3j9SeUaZ6ZcY7XwJ9GHHoGJjC1OJVn61QcWI5UesCGD6qKlGj9DJnNg6uRWY2fpmxoSofwLjw1lQ8yGcb5Q60EDs=`</details>
+> **参考情報**: 「保温・保冷機能はありません。この点は購入を検討する際に注意すべき点として多くのレビューで言及されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8X2txUTfV5fCt4isgnypmxVebyDXZ1avrpf6R_IOae5m3j9SeUaZ6ZcY7XwJ9GHHoGJjC1OJVn61QcWI5UesCGD6qKlGj9DJnNg6uRWY2fpmxoSofwLjw1lQ8yGcb5Q60EDs=`</details>
 
 **JK**: えー、保冷できないの!? じゃあ冷たい水飲みたいときはどうするんですか？
 

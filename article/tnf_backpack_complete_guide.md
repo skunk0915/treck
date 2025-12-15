@@ -56,7 +56,7 @@ Tags: Backpack, Guide
 
 **先生**: まずは登山向けの定番、**テルス**から説明しよう。ノースフェイスのトレッキングパックで最も歴史があり、2022年にリニューアルされて素材と機能がアップデートされた。
 
-**参考情報**: 「テルスは定番のトレッキングパック。2022年からリニューアルし、素材や機能がアップデートされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsKOA_bxNNaOE5jGjVAdVqSI8aCBfMbCIch5xfwDo-lINeg6JtRctr9BevP6_M3PJ6B6e9SssAdA4tw0piLC6eH7vyQfKD6qq2k2taMnH1vGb4Www7rWWJDcmL4Rrh3-GCHKhUidyYA3O-2Z8Is-Dut3vGhg==`</details>
+> **参考情報**: 「テルスは定番のトレッキングパック。2022年からリニューアルし、素材や機能がアップデートされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsKOA_bxNNaOE5jGjVAdVqSI8aCBfMbCIch5xfwDo-lINeg6JtRctr9BevP6_M3PJ6B6e9SssAdA4tw0piLC6eH7vyQfKD6qq2k2taMnH1vGb4Www7rWWJDcmL4Rrh3-GCHKhUidyYA3O-2Z8Is-Dut3vGhg==`</details>
 
 **JK**: リニューアルって、何が変わったんですか？
 
@@ -72,7 +72,7 @@ Tags: Backpack, Guide
 
 **先生**: 日帰りハイキングがメインなら、そうだな。レインウェア、水筒、行動食、お弁当…これくらいなら26Lで十分収まる。
 
-**参考情報**: 「テルス25は26Lと日帰りハイキングに最適。寝袋を持たない山小屋泊や旅行やデイリーユースにも適しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBLlMPAHuxZVzp9n7j8a_yQuTwcU5myviKHTSRH4aCt0mIIFmFYw_WqG6shS7bRd9smcySLeBn74jQ483KNcykotYBLmNE6350gx0xOX5mChwQJGM=`</details>
+> **参考情報**: 「テルス25は26Lと日帰りハイキングに最適。寝袋を持たない山小屋泊や旅行やデイリーユースにも適しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBLlMPAHuxZVzp9n7j8a_yQuTwcU5myviKHTSRH4aCt0mIIFmFYw_WqG6shS7bRd9smcySLeBn74jQ483KNcykotYBLmNE6350gx0xOX5mChwQJGM=`</details>
 
 **JK**: 重さはどれくらいですか？
 
@@ -98,7 +98,7 @@ Tags: Backpack, Guide
 
 **先生**: そうだな。**変にクセがなく、扱いやすい**。日本人の体型に合わせて設計されているのも大きい。
 
-**参考情報**: 「日本人向けに開発されており、肩、腰、背面のフィット感が良いと評価されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsKOA_bxNNaOE5jGjVAdVqSI8aCBfMbCIch5xfwDo-lINeg6JtRctr9BevP6_M3PJ6B6e9SssAdA4tw0piLC6eH7vyQfKD6qq2k2taMnH1vGb4Www7rWWJDcmL4Rrh3-GCHKhUidyYA3O-2Z8Is-Dut3vGhg==`</details>
+> **参考情報**: 「日本人向けに開発されており、肩、腰、背面のフィット感が良いと評価されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsKOA_bxNNaOE5jGjVAdVqSI8aCBfMbCIch5xfwDo-lINeg6JtRctr9BevP6_M3PJ6B6e9SssAdA4tw0piLC6eH7vyQfKD6qq2k2taMnH1vGb4Www7rWWJDcmL4Rrh3-GCHKhUidyYA3O-2Z8Is-Dut3vGhg==`</details>
 
 ### テルスの注目機能
 
@@ -136,7 +136,7 @@ Tags: Backpack, Guide
 
 **先生**: ウラノスはギリシャ神話の天空神だ。名前負けしない性能を持っている。**高温多湿な日本の山岳環境に特化**して開発されたシリーズだ。
 
-**参考情報**: 「高温多湿な日本の山岳環境に特化して開発されたシリーズで、フィット感、機能、軽さ、使い勝手を兼ね備えています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhicbrcK7UHCMnoWfokL966whEW-oaR5Gh3FEG720GbGw0dF4jJcOET7i9vE22J0RZwnzls004AGKdk2Frg0tkXgtfWbE9X2LWv5c34VAq-Dlpg9Lht-HZuX2t7hveL3tllFXPHXL_qw==`</details>
+> **参考情報**: 「高温多湿な日本の山岳環境に特化して開発されたシリーズで、フィット感、機能、軽さ、使い勝手を兼ね備えています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhicbrcK7UHCMnoWfokL966whEW-oaR5Gh3FEG720GbGw0dF4jJcOET7i9vE22J0RZwnzls004AGKdk2Frg0tkXgtfWbE9X2LWv5c34VAq-Dlpg9Lht-HZuX2t7hveL3tllFXPHXL_qw==`</details>
 
 **JK**: 日本特化ってことは、海外ブランドなのに日本向けに作ってるってことですか？
 
@@ -152,13 +152,13 @@ Tags: Backpack, Guide
 
 **先生**: はは、そうではない。メッシュ生地をトランポリンのようにピンと張って、**背中とリュック本体の間に空間を作っている**んだ。この空間に空気が流れることで、非常に高い通気性を実現している。
 
-**参考情報**: 「トランポリン構造を採用。背中とリュックの間に空間を作ることで、優れた通気性を実現しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2ZsFgAjn2DrYkbo40mtrUtCGiSqVb2u6hdc2d-6eSBJQFQJW5lxZjBXVGpx5GDDKbTXa9eRnvtFnLK9Wn-bHsbGdE5hxGjBF2IP443RD6baP08cjwuaK2TAv48AFV75FfuoYy7i-BHRY=`</details>
+> **参考情報**: 「トランポリン構造を採用。背中とリュックの間に空間を作ることで、優れた通気性を実現しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2ZsFgAjn2DrYkbo40mtrUtCGiSqVb2u6hdc2d-6eSBJQFQJW5lxZjBXVGpx5GDDKbTXa9eRnvtFnLK9Wn-bHsbGdE5hxGjBF2IP443RD6baP08cjwuaK2TAv48AFV75FfuoYy7i-BHRY=`</details>
 
 **JK**: あー、なるほど！それで背中が蒸れにくいってことですね！
 
 **先生**: その通り。実際のレビューでも「**背中が蒸れない**」という声がとても多い。
 
-**参考情報**: 「背面メッシュパネルによる背面通気性の高さが評価されており、背中が蒸れないという声が多く聞かれます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZkMVul_UqBv3umarNCw_RCWl_bNXNAV6ODmTm_nzWkcYUq_0b_SfOityygJqimfxOOqYjcxcwZ6b4LK5BBHF2SU_8Ak8ALNovv-9OnhcZj6kVQNCF6EhFM-C-`</details>
+> **参考情報**: 「背面メッシュパネルによる背面通気性の高さが評価されており、背中が蒸れないという声が多く聞かれます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZkMVul_UqBv3umarNCw_RCWl_bNXNAV6ODmTm_nzWkcYUq_0b_SfOityygJqimfxOOqYjcxcwZ6b4LK5BBHF2SU_8Ak8ALNovv-9OnhcZj6kVQNCF6EhFM-C-`</details>
 
 **JK**: 真夏の登山って汗だくになりますもんね…背中ベタベタは本当に不快。
 
@@ -222,7 +222,7 @@ Tags: Backpack, Guide
 | **価格帯** | コスパ良好 | やや高価 |
 | **向いている人** | 初心者、コスパ重視 | 通気性最優先、本格派 |
 
-**参考情報**: 「テルスとウラノスを比較して、ウラノスは通気性やフィット性といった機能が優れているという意見があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2ZsFgAjn2DrYkbo40mtrUtCGiSqVb2u6hdc2d-6eSBJQFQJW5lxZjBXVGpx5GDDKbTXa9eRnvtFnLK9Wn-bHsbGdE5hxGjBF2IP443RD6baP08cjwuaK2TAv48AFV75FfuoYy7i-BHRY=`</details>
+> **参考情報**: 「テルスとウラノスを比較して、ウラノスは通気性やフィット性といった機能が優れているという意見があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2ZsFgAjn2DrYkbo40mtrUtCGiSqVb2u6hdc2d-6eSBJQFQJW5lxZjBXVGpx5GDDKbTXa9eRnvtFnLK9Wn-bHsbGdE5hxGjBF2IP443RD6baP08cjwuaK2TAv48AFV75FfuoYy7i-BHRY=`</details>
 
 **JK**: 私はまだ日帰りがメインだし、あんまり汗っかきでもないから…テルス25でいいかな？
 
@@ -238,7 +238,7 @@ Tags: Backpack, Guide
 
 **先生**: ここからは日常向けのモデルを見ていこう。まずは**ビッグショット**だ。
 
-**参考情報**: 「豊富な機能と収納力を備えた多用途なデイパックです。通勤、通学、旅行、アウトドアなど幅広いシーンでの使用を想定して設計されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBzRdzl1v75kxKgkPfTdpcQvt5o44yiN7iXsT1jHKPUJITX82L4G5pV_r3ognmqBwQaUGvh5EIuCNlWMTX21YgA4Wiw2F0LIQxe1ZD69IHMX8HDvtXaYJE3WtV5f4X0ZERSOHNGMyI_xYSsg==`</details>
+> **参考情報**: 「豊富な機能と収納力を備えた多用途なデイパックです。通勤、通学、旅行、アウトドアなど幅広いシーンでの使用を想定して設計されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBzRdzl1v75kxKgkPfTdpcQvt5o44yiN7iXsT1jHKPUJITX82L4G5pV_r3ognmqBwQaUGvh5EIuCNlWMTX21YgA4Wiw2F0LIQxe1ZD69IHMX8HDvtXaYJE3WtV5f4X0ZERSOHNGMyI_xYSsg==`</details>
 
 **JK**: 名前のインパクトがすごい。「大物」ってことですよね？
 
@@ -256,7 +256,7 @@ Tags: Backpack, Guide
 
 **先生**: そして背負い心地を支えるのが「**FlexVent™サスペンションシステム**」だ。
 
-**参考情報**: 「FlexVent™サスペンションシステムにより、高いサポート力、快適性、通気性を提供します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0z8dQXuZnulG9zFuyfqAijdAcW5gAA_dj0o7y9TDPlp74MiLJ2IFHFEX84WMVZN5_TWPNnedQjulbUmK4JDKTrdECl77tjTkAogQBdIDitslsNki6HZSUlvmFA9CiGLj7Q1ifc3GtSR2qF6b5qt7VpJzrPDzkwBqbU7KaCO4iksQtizmzHaDD9sitfQOHwFmNEb4Kfg==`</details>
+> **参考情報**: 「FlexVent™サスペンションシステムにより、高いサポート力、快適性、通気性を提供します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0z8dQXuZnulG9zFuyfqAijdAcW5gAA_dj0o7y9TDPlp74MiLJ2IFHFEX84WMVZN5_TWPNnedQjulbUmK4JDKTrdECl77tjTkAogQBdIDitslsNki6HZSUlvmFA9CiGLj7Q1ifc3GtSR2qF6b5qt7VpJzrPDzkwBqbU7KaCO4iksQtizmzHaDD9sitfQOHwFmNEb4Kfg==`</details>
 
 **JK**: またカッコいい名前が出てきた…。
 
@@ -309,7 +309,7 @@ Tags: Backpack, Guide
 
 **先生**: 学生に人気があるな。**クラシカルなデザイン**を継承した27Lのデイパックで、カラーバリエーションが豊富だ。
 
-**参考情報**: 「クラシカルなデザインを継承しつつ、素材強度と機能性が充実しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0R3wRSYz038jWZLApRR8Ou1_0kxRbuMQv-Sv3bqDeey3V6dHq_2BNGaPFQ5XBuOtpx4NFnQg-L17mbQMJHAz6pPYUofQMN3qdMCik4_Co_XVh9PjUNT46ElWKZbNVGrcv2r5MUeRwqcUatHle9xuKpCM=`</details>
+> **参考情報**: 「クラシカルなデザインを継承しつつ、素材強度と機能性が充実しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0R3wRSYz038jWZLApRR8Ou1_0kxRbuMQv-Sv3bqDeey3V6dHq_2BNGaPFQ5XBuOtpx4NFnQg-L17mbQMJHAz6pPYUofQMN3qdMCik4_Co_XVh9PjUNT46ElWKZbNVGrcv2r5MUeRwqcUatHle9xuKpCM=`</details>
 
 **JK**: ビッグショットとの違いって何ですか？
 
@@ -357,7 +357,7 @@ Tags: Backpack, Guide
 
 **先生**: 次はビジネスシーン特化の**シャトルデイパック**だ。
 
-**参考情報**: 「通勤やビジネスシーンでの利用に適した高機能なバックパックです。スマートなデザインと高い収納力、耐久性を兼ね備えています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx-E0lVbjQHL5wnwOZETK3rsH6NghqYCSnxaHJaveflVbwmyGUtu6pd-P0DZfsiuxwxK5DbNnhNd-Lb1_4EKu7QFPlrk4XYRAxvqFsS5mqBQxCNLJXhi_SYcup`</details>
+> **参考情報**: 「通勤やビジネスシーンでの利用に適した高機能なバックパックです。スマートなデザインと高い収納力、耐久性を兼ね備えています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx-E0lVbjQHL5wnwOZETK3rsH6NghqYCSnxaHJaveflVbwmyGUtu6pd-P0DZfsiuxwxK5DbNnhNd-Lb1_4EKu7QFPlrk4XYRAxvqFsS5mqBQxCNLJXhi_SYcup`</details>
 
 **JK**: ノースフェイスにスーツ向けのリュックがあるんですか？
 
@@ -421,7 +421,7 @@ Tags: Backpack, Guide
 
 **先生**: 次は**ジェミニ**だ。22Lの軽量デイパックで、日常使いからハイキングまで幅広く対応する。
 
-**参考情報**: 「学校やビジネスなどのデイリーユースから、ハイキングやトレッキングなどのアウトドアフィールドまで、幅広いシーンでの使用を想定して設計されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkgA0V3UYbZ_fh9Vwi0NKgBON1TWcgX__pkwcO4iJPpzC0IaFL36VKwyamzHWzc5o29bRNGp6EsYv1nT2D1RZTbLR0nQxvVUwuNLel3VCnCWrXve6lX9u2vIrqDgkcBZzEClOU1hikfCl67w==`</details>
+> **参考情報**: 「学校やビジネスなどのデイリーユースから、ハイキングやトレッキングなどのアウトドアフィールドまで、幅広いシーンでの使用を想定して設計されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkgA0V3UYbZ_fh9Vwi0NKgBON1TWcgX__pkwcO4iJPpzC0IaFL36VKwyamzHWzc5o29bRNGp6EsYv1nT2D1RZTbLR0nQxvVUwuNLel3VCnCWrXve6lX9u2vIrqDgkcBZzEClOU1hikfCl67w==`</details>
 
 **JK**: 22Lって今まで見てきた中で一番小さいですね。
 
@@ -469,7 +469,7 @@ Tags: Backpack, Guide
 
 **先生**: 最後は**ローマー**だ。ノースフェイスの中でも「**プレミアムアーバンコミューターパック**」と位置づけられている。
 
-**参考情報**: 「プレミアムアーバンコミューターパックと位置づけられており、ビジネスパーソンやデイリーユースでの利便性を追求した機能が豊富です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeM-jLbB4QyTPcTe8_JMWLitsPl_5k00sMfJdo4jWyqRYE2DhvrmT9gTmQLBi5v2OOzrmhtSn2oMeLq3-CJmVvqjgDAbh-eLO6efdmH1d9pnZZayKWTTaThZVlFXRrJpCM`</details>
+> **参考情報**: 「プレミアムアーバンコミューターパックと位置づけられており、ビジネスパーソンやデイリーユースでの利便性を追求した機能が豊富です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeM-jLbB4QyTPcTe8_JMWLitsPl_5k00sMfJdo4jWyqRYE2DhvrmT9gTmQLBi5v2OOzrmhtSn2oMeLq3-CJmVvqjgDAbh-eLO6efdmH1d9pnZZayKWTTaThZVlFXRrJpCM`</details>
 
 **JK**: プレミアム…。お高いんでしょう？
 

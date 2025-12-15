@@ -51,19 +51,19 @@ Tags: Baselayer, Guide
 
 **先生**: 基本は同じだが、構造が全然違う。Phasicは二層構造になっていて、内側と外側で異なる糸の織り方をしている。
 
-**参考情報**: 「Phasic AR fabric, which is 100% polyester and designed to provide insulation, dry quickly, and offer performance stretch」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB4ZvwbhNKPf9a5pEGNMQNxy3Tj-w5Of1753z9VMIapSSSXjx1olIOHDZCH14Fi6FwiGTPHiiaBeSTLJW8NltWr5k3vLdZdAPAKv3qlkKUy0T74nTOAEivNbzQhvL0mxUuUpC5LtivNOWXjEc5__dBcMzyhc9eYGdTu0436-MRm5_q35tTvFAlkIUZmvdrpEDe8TMSMcIKAw==`</details>
+> **参考情報**: 「Phasic AR fabric, which is 100% polyester and designed to provide insulation, dry quickly, and offer performance stretch」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB4ZvwbhNKPf9a5pEGNMQNxy3Tj-w5Of1753z9VMIapSSSXjx1olIOHDZCH14Fi6FwiGTPHiiaBeSTLJW8NltWr5k3vLdZdAPAKv3qlkKUy0T74nTOAEivNbzQhvL0mxUuUpC5LtivNOWXjEc5__dBcMzyhc9eYGdTu0436-MRm5_q35tTvFAlkIUZmvdrpEDe8TMSMcIKAw==`</details>
 
 **JK**: 二層構造？なんかすごそうだけど、何がいいんですか？
 
 **先生**: 汗を素早く肌から離して、外側に拡散させる。そして乾く。この一連の流れがものすごく速いんだ。
 
-**参考情報**: 「Its Phasic fabric has exceptional moisture management properties and dries quickly, often faster than other synthetics and wool alternatives in damp conditions」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLDIWnckHI_14OTn7VJPnKJHc2un66cBuseDILVpcGU6r4SdnQvWKULMXRpO5RHW_MxLjNKk4MQGMyxzzcUptBxJlkFssiMc2jAc2nActJig0gGE8YKznkh-1yWbUW8a4OlE23ffo8q-gbhlem8VDMsxm8eOTUsqZR418dfvmRBMeTSmOi4VknvCLyFLoihfIcp00JtyVP_A==`</details>
+> **参考情報**: 「Its Phasic fabric has exceptional moisture management properties and dries quickly, often faster than other synthetics and wool alternatives in damp conditions」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLDIWnckHI_14OTn7VJPnKJHc2un66cBuseDILVpcGU6r4SdnQvWKULMXRpO5RHW_MxLjNKk4MQGMyxzzcUptBxJlkFssiMc2jAc2nActJig0gGE8YKznkh-1yWbUW8a4OlE23ffo8q-gbhlem8VDMsxm8eOTUsqZR418dfvmRBMeTSmOi4VknvCLyFLoihfIcp00JtyVP_A==`</details>
 
 **JK**: 汗冷えしないってことですね！でも…なんで廃盤になっちゃったんですか？
 
 **先生**: 正直、ファンが多かったから残念がる声は多い。Phase SLは汎用性が高かったし、Phase ARはミッドウェイトの定番だった。
 
-**参考情報**: 「The Phase SV was discontinued prior to 2020, followed by the Phase SL and Phase AR」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv0JvI_T_DDWrERYh3BD6txuqcEhZI7RRiXHMqbVF8C6ACQd1ZGzL4U8_l_IW6Rw0ffzlO01fs-6O_p6vShjia02GTrfZbZfH3z0F4yI81THaAmwCiUWreYTM4-f13YmrR8OcSv5x5WOPL2GRl7Vd0K3pFIRb-_KTpFrWCHWaj7s8zTpmMyNceG3GUGZjLsdLVscSnXZm716S27Yo=`</details>
+> **参考情報**: 「The Phase SV was discontinued prior to 2020, followed by the Phase SL and Phase AR」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv0JvI_T_DDWrERYh3BD6txuqcEhZI7RRiXHMqbVF8C6ACQd1ZGzL4U8_l_IW6Rw0ffzlO01fs-6O_p6vShjia02GTrfZbZfH3z0F4yI81THaAmwCiUWreYTM4-f13YmrR8OcSv5x5WOPL2GRl7Vd0K3pFIRb-_KTpFrWCHWaj7s8zTpmMyNceG3GUGZjLsdLVscSnXZm716S27Yo=`</details>
 
 **JK**: じゃあ今は買えないんですか？
 
@@ -104,13 +104,13 @@ Tags: Baselayer, Guide
 
 **先生**: 笑うな。これは画期的な技術だぞ。ナイロンの芯にメリノウール繊維を巻き付けた構造になっている。
 
-**参考情報**: 「Nucliex™ STR 180 wool yarn, which wraps merino fiber around a nylon core filament. This construction aims to merge merino's comfort and efficiency with nylon's strength and durability.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8qX1q6xa6bM5U9w7NxGqCR8ss8ja44TzNhutidj7H8YeZ0ugJ5aVcA3qAA949kqKVYZxIK8aHo1Q75S6z1S8SuEhrvCinQrM4odOHXG8AP0wzduzDOwJrKYdYrS5OXev_9C2qFqfL3G2poAz1AOgg5LrxvhpEqplnlLDinXrKryqN1Oy-LUduvJOaAQ==`</details>
+> **参考情報**: 「Nucliex™ STR 180 wool yarn, which wraps merino fiber around a nylon core filament. This construction aims to merge merino's comfort and efficiency with nylon's strength and durability.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8qX1q6xa6bM5U9w7NxGqCR8ss8ja44TzNhutidj7H8YeZ0ugJ5aVcA3qAA949kqKVYZxIK8aHo1Q75S6z1S8SuEhrvCinQrM4odOHXG8AP0wzduzDOwJrKYdYrS5OXev_9C2qFqfL3G2poAz1AOgg5LrxvhpEqplnlLDinXrKryqN1Oy-LUduvJOaAQ==`</details>
 
 **JK**: えっと…つまりどういうことですか？
 
 **先生**: メリノウールの弱点は耐久性だ。柔らかいけど、擦れたり洗濯を繰り返すと穴が開きやすい。ナイロンの芯を入れることで、メリノの良さを保ちながら強度を大幅にアップさせたんだ。
 
-**参考情報**: 「The Nucliex™ wool construction makes the yarn 20% stronger in burst tests and 50% more abrasion resistant than conventional merino wool.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8qX1q6xa6bM5U9w7NxGqCR8ss8ja44TzNhutidj7H8YeZ0ugJ5aVcA3qAA949kqKVYZxIK8aHo1Q75S6z1S8SuEhrvCinQrM4odOHXG8AP0wzduzDOwJrKYdYrS5OXev_9C2qFqfL3G2poAz1AOgg5LrxvhpEqplnlLDinXrKryqN1Oy-LUduvJOaAQ==`</details>
+> **参考情報**: 「The Nucliex™ wool construction makes the yarn 20% stronger in burst tests and 50% more abrasion resistant than conventional merino wool.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8qX1q6xa6bM5U9w7NxGqCR8ss8ja44TzNhutidj7H8YeZ0ugJ5aVcA3qAA949kqKVYZxIK8aHo1Q75S6z1S8SuEhrvCinQrM4odOHXG8AP0wzduzDOwJrKYdYrS5OXev_9C2qFqfL3G2poAz1AOgg5LrxvhpEqplnlLDinXrKryqN1Oy-LUduvJOaAQ==`</details>
 
 **JK**: 20%強くて50%擦れに強い！それはすごい！でも、肌触りは変わらないんですか？
 
@@ -128,7 +128,7 @@ Tags: Baselayer, Guide
 
 **先生**: 山小屋泊まりの縦走とかだと、毎日洗濯なんてできないだろう？そういうときにメリノウールは真価を発揮する。
 
-**参考情報**: 「メリノウール特有の柔らかい肌触り、優れた体温調節機能、そして天然の防臭性が特徴です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL3uXJDLxA2tMn-GMTVOqqTTKz7dnGTY5eWc9HcfLv0zybNovd8ogUbUNp01nf8t3SqB-0OfFFndJq5jzAk-jrDzDAgIqO5XI9JfE22HpLUpLcmUZuTVOlOsMRMzPzN_ycUsD6HGZHCx4=`</details>
+> **参考情報**: 「メリノウール特有の柔らかい肌触り、優れた体温調節機能、そして天然の防臭性が特徴です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL3uXJDLxA2tMn-GMTVOqqTTKz7dnGTY5eWc9HcfLv0zybNovd8ogUbUNp01nf8t3SqB-0OfFFndJq5jzAk-jrDzDAgIqO5XI9JfE22HpLUpLcmUZuTVOlOsMRMzPzN_ycUsD6HGZHCx4=`</details>
 
 ### Satoroのモデル展開
 
@@ -150,7 +150,7 @@ Tags: Baselayer, Guide
 
 **先生**: Responsible Wool Standard。人道的に飼育された羊から取れた毛だという証明だ。ムレシング（羊の皮膚を切り取る処置）をしていない羊限定。
 
-**参考情報**: 「The merino wool used is Responsible Wool Standard (RWS) certified, ensuring it's sourced from humanely raised, non-mulesed sheep.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXJecPmOcwnN1ovfW7F2t5M29jJ1s3gYZ5g2VdgRsNKWn1wRneIEq28rBJZUn6PvQ5HJ0kymZ-3Ed0kgVrWVqkz_dOb2XT6eTrb_xE9dfZtmez6R-rZlsq4ebNlofth4UBmmhxKy-FpCiyE8NIdBlH5mWDd5IB0WWjGZdHPU4fy1NtgSVOxJHwQE5k75HFyWwANyqckM_JeZM3`</details>
+> **参考情報**: 「The merino wool used is Responsible Wool Standard (RWS) certified, ensuring it's sourced from humanely raised, non-mulesed sheep.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXJecPmOcwnN1ovfW7F2t5M29jJ1s3gYZ5g2VdgRsNKWn1wRneIEq28rBJZUn6PvQ5HJ0kymZ-3Ed0kgVrWVqkz_dOb2XT6eTrb_xE9dfZtmez6R-rZlsq4ebNlofth4UBmmhxKy-FpCiyE8NIdBlH5mWDd5IB0WWjGZdHPU4fy1NtgSVOxJHwQE5k75HFyWwANyqckM_JeZM3`</details>
 
 **JK**: へー、そういうの気にする人も増えてますもんね。
 
@@ -190,7 +190,7 @@ Tags: Baselayer, Guide
 
 **先生**: Rhoの最大の特徴は「Torrent™（トレント）」というフリース素材を使っていること。裏が起毛していて、とにかく暖かい。
 
-**参考情報**: 「Torrent™マイクロフリース素材は起毛仕上げで、熱効率に優れ、暖かく心地よい肌触りを提供します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGf_TSfTR-YZx75bgaYIBW-fNtAbFlDLSboCqIHYPNKa5qHM1YYGWwUkDA4IGCqRaWx1ybZbCGJXzZKAY6Pqr1n0Dhgk2M4woPmut1g0OQOpX_3EPCIj9GRR0aGJQBERjcHHno=`</details>
+> **参考情報**: 「Torrent™マイクロフリース素材は起毛仕上げで、熱効率に優れ、暖かく心地よい肌触りを提供します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGf_TSfTR-YZx75bgaYIBW-fNtAbFlDLSboCqIHYPNKa5qHM1YYGWwUkDA4IGCqRaWx1ybZbCGJXzZKAY6Pqr1n0Dhgk2M4woPmut1g0OQOpX_3EPCIj9GRR0aGJQBERjcHHno=`</details>
 
 **JK**: フリースって、あのモコモコしたやつですか？分厚くなりません？
 
@@ -213,7 +213,7 @@ Tags: Baselayer, Guide
 
 **先生**: Rho Hybridは面白いモデルだ。メインはPhasic™ II（ポリエステル）だが、脇下などの汗をかきやすい部分にメリノウールを配置している。
 
-**参考情報**: 「The Rho Hybrid series offers a different approach, combining Arc'teryx's proprietary Phasic™ AR II polyester fabric with merino wool panels strategically placed in areas like the underarms.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENnIJLc5jr36NV2Wp5MpNocGxE2FXYzrqvipHPyeARYz9fKgFOWRkMs6Pxe3ZKNo6geuru8X94TLHhLMjFlk_hw5grCyXH1_KVoFMZpk0MfsKe94VZym6_Rx-7wsu_f9fSgSVvaJxRkqlpnznCuvhnR_owfR4Mjpkf2FsWY4ve31qleg==`</details>
+> **参考情報**: 「The Rho Hybrid series offers a different approach, combining Arc'teryx's proprietary Phasic™ AR II polyester fabric with merino wool panels strategically placed in areas like the underarms.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENnIJLc5jr36NV2Wp5MpNocGxE2FXYzrqvipHPyeARYz9fKgFOWRkMs6Pxe3ZKNo6geuru8X94TLHhLMjFlk_hw5grCyXH1_KVoFMZpk0MfsKe94VZym6_Rx-7wsu_f9fSgSVvaJxRkqlpnznCuvhnR_owfR4Mjpkf2FsWY4ve31qleg==`</details>
 
 **JK**: 適材適所ってやつですね！でも、そこまで細かく考えられてるんだ。
 
@@ -225,7 +225,7 @@ Tags: Baselayer, Guide
 
 **先生**: Rho LT Zip Neckで14,300円くらいだな。
 
-**参考情報**: 「Arc'teryx Rho LT Zip Neck（Torrentフリース素材を使用）の価格は、日本の情報源では14,300円（税込）と記載されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGf_TSfTR-YZx75bgaYIBW-fNtAbFlDLSboCqIHYPNKa5qHM1YYGWwUkDA4IGCqRaWx1ybZbCGJXzZKAY6Pqr1n0Dhgk2M4woPmut1g0OQOpX_3EPCIj9GRR0aGJQBERjcHHno=`</details>
+> **参考情報**: 「Arc'teryx Rho LT Zip Neck（Torrentフリース素材を使用）の価格は、日本の情報源では14,300円（税込）と記載されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGf_TSfTR-YZx75bgaYIBW-fNtAbFlDLSboCqIHYPNKa5qHM1YYGWwUkDA4IGCqRaWx1ybZbCGJXzZKAY6Pqr1n0Dhgk2M4woPmut1g0OQOpX_3EPCIj9GRR0aGJQBERjcHHno=`</details>
 
 **JK**: うーん、やっぱりそこそこしますね…。ユニクロのヒートテック何枚買えるんだろう。
 
@@ -239,7 +239,7 @@ Tags: Baselayer, Guide
 
 **先生**: ただ、Rho LTは「ライト」の名の通り、極寒には向かない場合もある。
 
-**参考情報**: 「Rho LT Zip Neckは、非常に寒い冬季のアクティビティにおいては、用途によっては保温力が不足する可能性があるというレビューもあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXS6WCPzM2dx2iwwj1dV0m26j3L1yoA6lLWayvQ-94zcZI59u-6vfxYCbcXgYCfN3jBDgtSb_GrOpI5ue2meAlhArf08Hso7MiBrLZH9YaUjEIYAOuT33iCNpYYML4I2LLfng=`</details>
+> **参考情報**: 「Rho LT Zip Neckは、非常に寒い冬季のアクティビティにおいては、用途によっては保温力が不足する可能性があるというレビューもあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXS6WCPzM2dx2iwwj1dV0m26j3L1yoA6lLWayvQ-94zcZI59u-6vfxYCbcXgYCfN3jBDgtSb_GrOpI5ue2meAlhArf08Hso7MiBrLZH9YaUjEIYAOuT33iCNpYYML4I2LLfng=`</details>
 
 **JK**: えっ、寒い用なのに寒いんですか？
 
@@ -309,7 +309,7 @@ Tags: Baselayer, Guide
 
 **先生**: アークテリクスはサイズ展開が豊富だから、必ず試着することを勧める。ただ、一つ覚えておくといいのは、アークテリクスのレイヤリングシステムは同じサイズで揃えると上手く重ねられるように設計されている。
 
-**参考情報**: 「If measurements fall between sizes, Arc'teryx suggests choosing a larger size for a looser fit or a smaller size for a tighter fit.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_zweLldkjTU5LUSSDdznINwfBHYjONs7V5J1ueqYxretjY0qvvUY6iZt2xXzK-YdHRO9sASy4jZDY9wwb4GI2lHdYLKQeaqXylkeg2vgcChb9TT_1WPzOZIzzciI0trMm68iUJig1X7zSTF2PesuXF-tixG-9WaPU8Dg=`</details>
+> **参考情報**: 「If measurements fall between sizes, Arc'teryx suggests choosing a larger size for a looser fit or a smaller size for a tighter fit.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_zweLldkjTU5LUSSDdznINwfBHYjONs7V5J1ueqYxretjY0qvvUY6iZt2xXzK-YdHRO9sASy4jZDY9wwb4GI2lHdYLKQeaqXylkeg2vgcChb9TT_1WPzOZIzzciI0trMm68iUJig1X7zSTF2PesuXF-tixG-9WaPU8Dg=`</details>
 
 **JK**: じゃあ、ベースレイヤーがMなら、ミッドレイヤーもMでいけるってことですか？
 

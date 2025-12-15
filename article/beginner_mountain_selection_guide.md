@@ -53,7 +53,7 @@ Tags: Know-how, Guide
 
 **先生**: 初心者ほど、そう思いがちだ。だが実際に山を歩いてみると、想像以上に疲れる。特に下山時は膝にくるぞ。
 
-**参考情報**: 「登山初心者の場合、休憩時間を含めずに合計4時間前後のコースタイムの山を選ぶのがおすすめです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV5oxH6moQwfYHzeM_ySq2d-iSYRScCM4UYJwhPP_rZyuce8qsbU3lqMSdakJYpmvBND_ynVkiQQGe6dQKBVczzkKa654ke4TzkoGQ9MsrgDiF-TOveIO0ZLP3ucI6s_lgOCqjONGrhtjrA51jf7U0Cgnu`</details>
+> **参考情報**: 「登山初心者の場合、休憩時間を含めずに合計4時間前後のコースタイムの山を選ぶのがおすすめです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV5oxH6moQwfYHzeM_ySq2d-iSYRScCM4UYJwhPP_rZyuce8qsbU3lqMSdakJYpmvBND_ynVkiQQGe6dQKBVczzkKa654ke4TzkoGQ9MsrgDiF-TOveIO0ZLP3ucI6s_lgOCqjONGrhtjrA51jf7U0Cgnu`</details>
 
 **JK**: あ、でもガイドブックに書いてあるコースタイムって、休憩時間は含まれてるんですか？
 
@@ -81,7 +81,7 @@ Tags: Know-how, Guide
 
 **先生**: そうだな。目安としては、1時間あたり300m程度の登りが、初心者が無理なく登れるペースだ。下りは1時間あたり400m程度。つまり標高差600mなら、登りに2時間、下りに1時間半くらいかかる計算になる。
 
-**参考情報**: 「登山口から山頂までの標高差が600m前後の山が、初心者にとって無理なく楽しめる目安」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN_RYOLs6gpWRVWGe4ydJmJ9HKwe_lS-BI8HyScOiefe4RpeAfValIvo72rpAsocz7Ye0sRttKUfTkz8GGGMVXiigMAvF6ljSSE8t2gzekC7m0EntpaiHyN7Zwsgk_1iwRRw==`</details>
+> **参考情報**: 「登山口から山頂までの標高差が600m前後の山が、初心者にとって無理なく楽しめる目安」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN_RYOLs6gpWRVWGe4ydJmJ9HKwe_lS-BI8HyScOiefe4RpeAfValIvo72rpAsocz7Ye0sRttKUfTkz8GGGMVXiigMAvF6ljSSE8t2gzekC7m0EntpaiHyN7Zwsgk_1iwRRw==`</details>
 
 **JK**: なるほど、そう言われると具体的ですね。でも山の標高だけ見てればいいんですよね？　例えば標高500mの山なら余裕ってことで。
 
@@ -117,7 +117,7 @@ Tags: Know-how, Guide
 
 **先生**: それから、コースの種類も重要だ。登り下りで同じ道を歩く「**往復型（ピストン）**」は、天候悪化や体調不良の際に引き返しやすく、初心者におすすめのコース形式だ。
 
-**参考情報**: 「登り下りで同じ道を歩く『往復型（ピストン）』は、天候悪化や体調不良の際に引き返しやすく、初心者におすすめのコース形式」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEojOcNT09ab9acWLpedtR-gnHrP-9xcAxprCTqsRbTHjkU8vV5SBdk8T0ZSbwdXAqREhinaqOMYT_88pHAcybKQPWE5kntf8IEq3klvH2Bfx5Nbax5qvYv-5wi`</details>
+> **参考情報**: 「登り下りで同じ道を歩く『往復型（ピストン）』は、天候悪化や体調不良の際に引き返しやすく、初心者におすすめのコース形式」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEojOcNT09ab9acWLpedtR-gnHrP-9xcAxprCTqsRbTHjkU8vV5SBdk8T0ZSbwdXAqREhinaqOMYT_88pHAcybKQPWE5kntf8IEq3klvH2Bfx5Nbax5qvYv-5wi`</details>
 
 **JK**: ピストン…？　なんか名前がカッコいいですね。
 
@@ -142,7 +142,7 @@ Tags: Know-how, Guide
 
 **先生**: そうだ。登山ブームで経験不足の登山者による遭難事故が増加したことを受けて、自分の力量に合った山を選べるように作られた。
 
-**参考情報**: 「長野県が2014年に初めて『信州 山のグレーディング』を公表しました。これは登山ブームにより経験不足の登山者や体力を過信した中高年による遭難事故が増加したことを受け導入されました」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE03vEvDfFGkuCwb1oC7tgHQ1SJfhC6DVKrA440FTjWtdSZo8UgZEIAIlpfb5x4uxmClx6EVe8xO6jmyayCGKYm2f7yzhARG4ChRkvUVDQiFT0aaNpWIBrfRzPVPQzYSnmGD_9qwcXYb98CYyYvWi3wnWBRY98icFOoaMN4c7AIAeFRaN0VH3AgKj_M3tmVP9BA1yIn3vvrlN6mfJz2tBnBQvAZ4-7VGYPcMA==`</details>
+> **参考情報**: 「長野県が2014年に初めて『信州 山のグレーディング』を公表しました。これは登山ブームにより経験不足の登山者や体力を過信した中高年による遭難事故が増加したことを受け導入されました」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE03vEvDfFGkuCwb1oC7tgHQ1SJfhC6DVKrA440FTjWtdSZo8UgZEIAIlpfb5x4uxmClx6EVe8xO6jmyayCGKYm2f7yzhARG4ChRkvUVDQiFT0aaNpWIBrfRzPVPQzYSnmGD_9qwcXYb98CYyYvWi3wnWBRY98icFOoaMN4c7AIAeFRaN0VH3AgKj_M3tmVP9BA1yIn3vvrlN6mfJz2tBnBQvAZ4-7VGYPcMA==`</details>
 
 **JK**: で、どうやって見るんですか？
 
@@ -175,7 +175,7 @@ Tags: Know-how, Guide
 
 **先生**: そういうことだ。ちなみに高尾山の表参道ルートは体力度2、技術的難易度Aと評価されている。
 
-**参考情報**: 「体力度1～3、技術的難易度A～Bに該当する山が初心者向けとされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6yOCgA32re_Ytm2JN5m3nZdLR3tcZmnnpFCQJR00J2vdRspnGzPAsxc2Z2DyvgtbBppvTypXqi0HkHYDIBLHehypIxBV1NW5lWR6-9MTYCa1gcOlKmSi8VT9xYfkUaX14DBkOhnL3`</details>
+> **参考情報**: 「体力度1～3、技術的難易度A～Bに該当する山が初心者向けとされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6yOCgA32re_Ytm2JN5m3nZdLR3tcZmnnpFCQJR00J2vdRspnGzPAsxc2Z2DyvgtbBppvTypXqi0HkHYDIBLHehypIxBV1NW5lWR6-9MTYCa1gcOlKmSi8VT9xYfkUaX14DBkOhnL3`</details>
 
 **JK**: へぇ、高尾山って初心者レベルなんですね。安心しました。
 
@@ -219,7 +219,7 @@ Tags: Know-how, Guide
 
 **先生**: ケーブルカーやリフトも利用でき、複数の登山コースがある。1号路（表参道コース）は舗装されていてスニーカーでも歩けるし、途中に飲食店や見どころも充実している。
 
-**参考情報**: 「高尾山は標高599.3mで世界一登山客が多い山としても知られています。都心からのアクセスが良く、初心者や家族連れでも気軽に楽しめる」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2q0oTy5H7-BjLtAmpL0RSJUAdDJzUTwTwvSgZJRTFBSU4yY-h3m8nSfaYvGq-ZC6FNTasdTrSzWzIyGUMbEc6vEAcqs28gi9vUOmRCbtdiqOAyisvKzMKeYEm3kvuMch3bt3GGo3RF1l7WIwkBq_i`</details>
+> **参考情報**: 「高尾山は標高599.3mで世界一登山客が多い山としても知られています。都心からのアクセスが良く、初心者や家族連れでも気軽に楽しめる」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2q0oTy5H7-BjLtAmpL0RSJUAdDJzUTwTwvSgZJRTFBSU4yY-h3m8nSfaYvGq-ZC6FNTasdTrSzWzIyGUMbEc6vEAcqs28gi9vUOmRCbtdiqOAyisvKzMKeYEm3kvuMch3bt3GGo3RF1l7WIwkBq_i`</details>
 
 **JK**: え、山なのにスニーカーでいいんですか？
 
@@ -243,7 +243,7 @@ Tags: Know-how, Guide
 
 **先生**: 標高877m（女体山）と871m（男体山）の双耳峰だ。ケーブルカーやロープウェイも利用できるから、体力に不安があっても安心だ。
 
-**参考情報**: 「筑波山は日本百名山の中で最も標高が低いことから、初心者でも登りやすい山として人気です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMdNSrM4J4NvK5ukCfLw2RJdxxVHDvWzvLPFUhzOXN_IC60pp_x9N0vJImhBr00vPtThEVNF2bjFxPregYUxxvqUImxtsBuUD4tEjl4IM76YvJz6Y2rDIIHPRhT3Y1G3TmkHZsK1GObXRVlv6qO4v0nD1XvMATlSY=`</details>
+> **参考情報**: 「筑波山は日本百名山の中で最も標高が低いことから、初心者でも登りやすい山として人気です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMdNSrM4J4NvK5ukCfLw2RJdxxVHDvWzvLPFUhzOXN_IC60pp_x9N0vJImhBr00vPtThEVNF2bjFxPregYUxxvqUImxtsBuUD4tEjl4IM76YvJz6Y2rDIIHPRhT3Y1G3TmkHZsK1GObXRVlv6qO4v0nD1XvMATlSY=`</details>
 
 **JK**: 百名山を登れたら、ちょっと自慢できそう。
 
@@ -267,7 +267,7 @@ Tags: Know-how, Guide
 
 **先生**: 山頂には武蔵御嶽神社があって、パワースポットとしても人気がある。ケーブルカーで山頂近くまで行けるから、初心者でも気軽に楽しめる。
 
-**参考情報**: 「ケーブルカーを利用すれば手軽にアクセスでき、武蔵御嶽神社やロックガーデンなど見どころが豊富で、初心者から家族連れまで楽しめます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPS9N-tCe5F8rF0mOKxzR8C9kjcPWHYeNkD_MOPfdtrk76_heDVV5yuziT8GFdo7FqNN2FJgyYaZIx_1oSuUSZc_-vOXPPnj6YNzVZb2gv-eGUK5zzqbRgQ-PTwmjN-LWJy6gzGtP5tw==`</details>
+> **参考情報**: 「ケーブルカーを利用すれば手軽にアクセスでき、武蔵御嶽神社やロックガーデンなど見どころが豊富で、初心者から家族連れまで楽しめます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPS9N-tCe5F8rF0mOKxzR8C9kjcPWHYeNkD_MOPfdtrk76_heDVV5yuziT8GFdo7FqNN2FJgyYaZIx_1oSuUSZc_-vOXPPnj6YNzVZb2gv-eGUK5zzqbRgQ-PTwmjN-LWJy6gzGtP5tw==`</details>
 
 **JK**: ロックガーデンって何ですか？
 
@@ -283,7 +283,7 @@ Tags: Know-how, Guide
 
 **先生**: 高さだけ見るとそうだが、ケーブルカーを使えば標高差は600m程度まで軽減される。阿夫利神社という歴史ある神社もあり、登山と観光を兼ねて楽しめる。
 
-**参考情報**: 「大山は神奈川県に位置する標高1252mの山で、ケーブルカーを利用すれば初心者でも山頂を目指しやすい」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHryD1eJQB08qTba4D7hPV9Ct3o97sHundgig6OZhwvPB0wemxdqgk8itRzukO--6HPyTZ0HT9bQPWM0Km3oXjolKNJO1HygI35FQlcyvxe0blT7t8=`</details>
+> **参考情報**: 「大山は神奈川県に位置する標高1252mの山で、ケーブルカーを利用すれば初心者でも山頂を目指しやすい」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHryD1eJQB08qTba4D7hPV9Ct3o97sHundgig6OZhwvPB0wemxdqgk8itRzukO--6HPyTZ0HT9bQPWM0Km3oXjolKNJO1HygI35FQlcyvxe0blT7t8=`</details>
 
 **JK**: ケーブルカー様々ですね。
 
@@ -309,7 +309,7 @@ Tags: Know-how, Guide
 
 **先生**: 最大の特徴は「**登山指数**」だ。降水量、風速、雲量などを総合的に考慮して、登山に適した快適度をA、B、Cの3段階で示してくれる。
 
-**参考情報**: 「『てんきとくらす』の最大の特徴は、降水量、風速、雲量などを総合的に考慮し、登山に適した快適度をA、B、Cの3段階で示す『登山指数』です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdEaxximJ6SWBuHSsS8hj0JJCfil4SLRwo2HPxMw_2SX3m6jN4syBQv633IUaIT21YOeFoUtM2m383cw7ZZEEJFiOyRvAGf6eRJci1miHNQj3vy0HCRbZxdl_F7StQuwNKBEY6Efo=`</details>
+> **参考情報**: 「『てんきとくらす』の最大の特徴は、降水量、風速、雲量などを総合的に考慮し、登山に適した快適度をA、B、Cの3段階で示す『登山指数』です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdEaxximJ6SWBuHSsS8hj0JJCfil4SLRwo2HPxMw_2SX3m6jN4syBQv633IUaIT21YOeFoUtM2m383cw7ZZEEJFiOyRvAGf6eRJci1miHNQj3vy0HCRbZxdl_F7StQuwNKBEY6Efo=`</details>
 
 #### 登山指数の見方
 
@@ -331,7 +331,7 @@ Tags: Know-how, Guide
 
 **先生**: 事前に地図をダウンロードしておけば、**電波の届かない山中でも現在地を確認できる**。GPSは衛星を使うから、スマホの電波がなくても動くんだ。
 
-**参考情報**: 「事前に地図をダウンロードしておけば、電波の届かない山中でも現在地確認やルート表示が可能です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtXcugSclY2kYDtPf978Z67wFiZzoPKGoeEWnY_yfTk9SG3jWBojWxlaL-0rcDcu2v_8fvfUik_S1talexmnybK2rc3f5QVX69CgokUnnkDYtAK0Hec36Lbh3tG1p8LSw=`</details>
+> **参考情報**: 「事前に地図をダウンロードしておけば、電波の届かない山中でも現在地確認やルート表示が可能です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtXcugSclY2kYDtPf978Z67wFiZzoPKGoeEWnY_yfTk9SG3jWBojWxlaL-0rcDcu2v_8fvfUik_S1talexmnybK2rc3f5QVX69CgokUnnkDYtAK0Hec36Lbh3tG1p8LSw=`</details>
 
 **JK**: 電波なくても使えるんですか！　それはすごい。山の中って圏外になること多いですもんね。
 
@@ -357,7 +357,7 @@ Tags: Know-how, Guide
 
 **先生**: 秋は紅葉が美しく、空気が澄んで眺望がいい。虫も減ってくる。
 
-**参考情報**: 「秋は日没の時間が急激に早まるため、『つるべ落とし』と呼ばれる秋の日は行動時間に注意が必要」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzZcy40v4EoXigg6iSkbTgK63gj0sKhtmVdcEexRauFPIi8XvCyKf3AJwsUbCovxel7KQnm892TSTU4NCxH1IHjwPqNRzhWFNqznINtiVg94CM`</details>
+> **参考情報**: 「秋は日没の時間が急激に早まるため、『つるべ落とし』と呼ばれる秋の日は行動時間に注意が必要」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzZcy40v4EoXigg6iSkbTgK63gj0sKhtmVdcEexRauFPIi8XvCyKf3AJwsUbCovxel7KQnm892TSTU4NCxH1IHjwPqNRzhWFNqznINtiVg94CM`</details>
 
 **JK**: いいことづくめじゃないですか。
 
@@ -379,7 +379,7 @@ Tags: Know-how, Guide
 
 **先生**: 綿は汗を吸うと乾きにくく、体温が奪われて低体温症の原因になる。吸汗速乾性のある化繊やメリノウールを選ぶことだ。
 
-**参考情報**: 「綿素材の衣類は汗で濡れると乾きにくく、体温低下の原因となります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFp_h0y9sbQRb83NFogPNB8FEobmK4kF7g4IU6eIvjn0HgDjLdPC8eobtGMQfH3LCr-F6WcyBdJ92CCReCvVHOGU1HBMWr8c6H6RSjDPijG5Ijb6KZPm_famTkEDPzuhVq-WoR-XeoRoDQ=`</details>
+> **参考情報**: 「綿素材の衣類は汗で濡れると乾きにくく、体温低下の原因となります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFp_h0y9sbQRb83NFogPNB8FEobmK4kF7g4IU6eIvjn0HgDjLdPC8eobtGMQfH3LCr-F6WcyBdJ92CCReCvVHOGU1HBMWr8c6H6RSjDPijG5Ijb6KZPm_famTkEDPzuhVq-WoR-XeoRoDQ=`</details>
 
 **JK**: うわ、そうなんですね。登山用の服って高いイメージあるんですけど…。
 
@@ -397,7 +397,7 @@ Tags: Know-how, Guide
 
 **先生**: そして**道迷い**。実は低い山でも発生する最も多い遭難原因の一つだ。
 
-**参考情報**: 「道迷いは低い山でも発生する最も多い遭難原因の一つです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ7JPcUyMUUqe-jzboU8xsnhBpPQvwl-t8Xna_aqoeIk7ZeLTkRFjQxjIf_XnZfrgyFrXKPb3AEy7s7tuoKNXDP97JUrMzG2nYSC8Zwqs0iuJfvwOAVrdIAl7hTNKzATYFroBe8YReB0lcOCr-G0TezCnHrO6M7C2FY715UwM4UYdxxUxvU2W-2HM6D9AABZjo_ZQszWcHB3PzklW30XU01P2OM_Cmqy7oBH2gwn93CGxvU8diHRpUcRsOzAm_YjzCzgEqRHRFqVr0AYAoagDS_tkZyfaJCKT0IaYFVYuYb1sQh7R8brTLtorWXowEEWDiCj2VV6L8lCCCQE2Khy_8f1OV4LHlKOMUo0e-fHjch97kK_5_fdr-OVfFLh0=`</details>
+> **参考情報**: 「道迷いは低い山でも発生する最も多い遭難原因の一つです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ7JPcUyMUUqe-jzboU8xsnhBpPQvwl-t8Xna_aqoeIk7ZeLTkRFjQxjIf_XnZfrgyFrXKPb3AEy7s7tuoKNXDP97JUrMzG2nYSC8Zwqs0iuJfvwOAVrdIAl7hTNKzATYFroBe8YReB0lcOCr-G0TezCnHrO6M7C2FY715UwM4UYdxxUxvU2W-2HM6D9AABZjo_ZQszWcHB3PzklW30XU01P2OM_Cmqy7oBH2gwn93CGxvU8diHRpUcRsOzAm_YjzCzgEqRHRFqVr0AYAoagDS_tkZyfaJCKT0IaYFVYuYb1sQh7R8brTLtorWXowEEWDiCj2VV6L8lCCCQE2Khy_8f1OV4LHlKOMUo0e-fHjch97kK_5_fdr-OVfFLh0=`</details>
 
 **JK**: 高尾山みたいな人が多い山でも迷うんですか？
 

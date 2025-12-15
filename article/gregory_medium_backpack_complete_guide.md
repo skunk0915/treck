@@ -31,7 +31,7 @@ Tags: Backpack, Guide
 
 **先生**: そうだ。「**通気性重視のズール/ジェイド系**」と「**コスパ重視のスタウト/アンバー系**」だ。それぞれ男性用と女性用がペアになっている。
 
-**参考情報**: 「グレゴリー ズールシリーズの最大の特徴は、独自の背面システム「フリーフロート・テクノロジー (FREE FLOAT TECHNOLOGY)」またはテンションメッシュパネルによる優れた通気性とフィット感です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLPucddA4FgPgiioAtYFV4bTEATKSNIeImDMaGVUZhTbg-JYVgK5z1UrGpN46zZMHrjkkwNcKznymdNVD3-52GyTvpCEwlxKlgm2H0L1pLagqGY2qGL3TUwqCgCC_CK3BmXs3_eGl_5Gzv1LxR`</details>
+> **参考情報**: 「グレゴリー ズールシリーズの最大の特徴は、独自の背面システム「フリーフロート・テクノロジー (FREE FLOAT TECHNOLOGY)」またはテンションメッシュパネルによる優れた通気性とフィット感です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLPucddA4FgPgiioAtYFV4bTEATKSNIeImDMaGVUZhTbg-JYVgK5z1UrGpN46zZMHrjkkwNcKznymdNVD3-52GyTvpCEwlxKlgm2H0L1pLagqGY2qGL3TUwqCgCC_CK3BmXs3_eGl_5Gzv1LxR`</details>
 
 **JK**: なるほど…。ジェイドってズールの女性版ってことですか？
 
@@ -66,13 +66,13 @@ Tags: Backpack, Guide
 
 **先生**: ズール/ジェイドはまさにその問題を解決するために設計されている。背面に**テンションメッシュパネル**という構造があって、リュックと背中の間に空間を作り出す。だから蒸れにくいんだ。
 
-**参考情報**: 「このシステムにより、バックパックと背中の間に空間が生まれ、密着による蒸れを軽減しつつ、体の動きに追従して旋回するヒップベルトなどによって高いフィット感と快適な背負い心地を実現しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUAUjvjKPA6dhM8M-9nnFYfRhDRBC0OkKvdF5ucaSPWSEYvMs9xtRmKzW0csmaBFo4kpAOWVZJoDVT0ubZlc-NPZnpdc6woAHFV2FKRT3zyVF8`</details>
+> **参考情報**: 「このシステムにより、バックパックと背中の間に空間が生まれ、密着による蒸れを軽減しつつ、体の動きに追従して旋回するヒップベルトなどによって高いフィット感と快適な背負い心地を実現しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUAUjvjKPA6dhM8M-9nnFYfRhDRBC0OkKvdF5ucaSPWSEYvMs9xtRmKzW0csmaBFo4kpAOWVZJoDVT0ubZlc-NPZnpdc6woAHFV2FKRT3zyVF8`</details>
 
 **JK**: え、背中とリュックの間に隙間があるってことですか？なんかフワフワしそう…。
 
 **先生**: いや、それがうまくできているんだ。**FreeFloatサスペンション**という仕組みで、隙間があっても荷重はしっかり分散される。むしろ「**着るバックパック**」と言われるほどフィット感がいい。
 
-**参考情報**: 「背負い心地は「まるで"着るバックパック"」と評されることもあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUA54p4qdWvrteqnJklf3S4DS2syax64kVbofYLmEEQpFlywP_J1GYzdUlIB5Hei0EE0DGTsHHTbob59pKfkGxLTUbIc1Gr4RGCHFqWRbTdon3Xc6b8tbgc42YxJM7d8w=`</details>
+> **参考情報**: 「背負い心地は「まるで"着るバックパック"」と評されることもあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUA54p4qdWvrteqnJklf3S4DS2syax64kVbofYLmEEQpFlywP_J1GYzdUlIB5Hei0EE0DGTsHHTbob59pKfkGxLTUbIc1Gr4RGCHFqWRbTdon3Xc6b8tbgc42YxJM7d8w=`</details>
 
 **JK**: へえ〜、「着る」ってなんかオシャレっぽい響き！でもやっぱりお値段が気になる…。
 
@@ -101,13 +101,13 @@ Tags: Backpack, Guide
 
 **先生**: そうだ。女性の体型に合わせてサイズダウンしているからな。実は単純に小さくしているだけじゃない。**ショルダーハーネスの胸の湾曲**や**ヒップベルトの角度**も女性向けに最適化されている。
 
-**参考情報**: 「女性専用設計：ショルダーハーネスの形状やカーブ、ヒップベルトの角度が女性の体型に合わせて最適化されており、快適なフィット感を提供します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd3-3kqp4fYp3AM8fYVPInOCF_Pz9BL804-iZYkrkE93bfy1OU21cZ_TCf0kI4JFGd9Vrs8YmEfY15KdJv50eCfez08P3tynP6BgEqn3_W00ZJxIdjQJgGYhV7M220`</details>
+> **参考情報**: 「女性専用設計：ショルダーハーネスの形状やカーブ、ヒップベルトの角度が女性の体型に合わせて最適化されており、快適なフィット感を提供します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd3-3kqp4fYp3AM8fYVPInOCF_Pz9BL804-iZYkrkE93bfy1OU21cZ_TCf0kI4JFGd9Vrs8YmEfY15KdJv50eCfez08P3tynP6BgEqn3_W00ZJxIdjQJgGYhV7M220`</details>
 
 **JK**: おお、ちゃんと考えられてるんですね！ちなみにトルソーって何ですか？
 
 **先生**: 背面長のことだ。首の付け根から腰骨までの長さだな。ジェイドは**14〜19インチ（35.6〜48.3cm）**のトルソーに対応している。ズールは**16〜21インチ（40.6〜53.3cm）**だ。
 
-**参考情報**: 「男性用パック（Zulu）は16〜21インチ（40.6〜53.3cm）のトルソーにフィットするように作られているのに対し、女性用パック（Jade）は14〜19インチ（35.6〜48.3cm）のトルソーにフィットするように作られています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkbrhvAZ5RxVqn50jK652amuN61Izdrock33awFS0OF0m6Yk5Faq1dyCiGSIxvRmYrFG7a2TI85m0U1PYFBpB0Yk9jqVGzzC0nviXsVrFR4qQR-5AFYdKu7jgubvThfFmEQ8UDzyw_zEwVc9H6PU3gpxCSadtdJ5YblAO2z5WdL6Ok5lwffOg=`</details>
+> **参考情報**: 「男性用パック（Zulu）は16〜21インチ（40.6〜53.3cm）のトルソーにフィットするように作られているのに対し、女性用パック（Jade）は14〜19インチ（35.6〜48.3cm）のトルソーにフィットするように作られています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkbrhvAZ5RxVqn50jK652amuN61Izdrock33awFS0OF0m6Yk5Faq1dyCiGSIxvRmYrFG7a2TI85m0U1PYFBpB0Yk9jqVGzzC0nviXsVrFR4qQR-5AFYdKu7jgubvThfFmEQ8UDzyw_zEwVc9H6PU3gpxCSadtdJ5YblAO2z5WdL6Ok5lwffOg=`</details>
 
 **JK**: 背面長って自分で測れるんですか？
 
@@ -138,7 +138,7 @@ Tags: Backpack, Guide
 - **価格がやや高め**: スタウト/アンバーより5,000〜10,000円ほど高い
 - **ヒップベルトポケットがやや小さい**: 大きめのスマホは入らないことも
 
-**参考情報**: 「ヒップベルトのポケットが小さいと感じる利用者もいるようです。また、レインカバーが付属しない点も挙げられています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXiPH-CaAucc3iwS2WwzHFR3W3ZO4AzRiaJI6VgHCLfeRSnSMgTL8bqAI3BVXCznu6O3HmSa0AwoRBloYOmbX7TOmVWedv0UiE_sWArxvbCNrRZFrJ4HffNA3KGJHCFNo-wgQwhunfutni_XlhIou1-YVviHdTrgINuvWBmk6AYLLc6WnqOHtzQ2P28LfiFpekS0tsvimIl6I=`</details>
+> **参考情報**: 「ヒップベルトのポケットが小さいと感じる利用者もいるようです。また、レインカバーが付属しない点も挙げられています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXiPH-CaAucc3iwS2WwzHFR3W3ZO4AzRiaJI6VgHCLfeRSnSMgTL8bqAI3BVXCznu6O3HmSa0AwoRBloYOmbX7TOmVWedv0UiE_sWArxvbCNrRZFrJ4HffNA3KGJHCFNo-wgQwhunfutni_XlhIou1-YVviHdTrgINuvWBmk6AYLLc6WnqOHtzQ2P28LfiFpekS0tsvimIl6I=`</details>
 
 **JK**: うわ、レインカバー別売りなんですか？それちょっと痛いかも…。
 
@@ -162,7 +162,7 @@ Tags: Backpack, Guide
 
 **先生**: ははは。「いいとこ取り」モデルと言われているだけあって、必要な機能はしっかり揃っている。
 
-**参考情報**: 「スタウトはコストパフォーマンスに優れる「いいとこ取り」モデルとして位置づけられています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzcH4vvUjEBqYah_SxCHbP9tAOvcnS1HyjjRtYo5uyOIUn4KtTOk3awDc6nSde1vKh9Tn1gfZRj0orPON0JwDoxwsd2n-7D2Sjd6YE9AqiQp5358uCGOGWSi3oB3Mpwckk_YyDCkdo5Vlw3BqvGgU6nRjv`</details>
+> **参考情報**: 「スタウトはコストパフォーマンスに優れる「いいとこ取り」モデルとして位置づけられています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzcH4vvUjEBqYah_SxCHbP9tAOvcnS1HyjjRtYo5uyOIUn4KtTOk3awDc6nSde1vKh9Tn1gfZRj0orPON0JwDoxwsd2n-7D2Sjd6YE9AqiQp5358uCGOGWSi3oB3Mpwckk_YyDCkdo5Vlw3BqvGgU6nRjv`</details>
 
 **JK**: じゃあ、ズールとどこが違うんですか？
 
@@ -172,7 +172,7 @@ Tags: Backpack, Guide
 
 **先生**: 完全に悪いわけではない。スタウトも新しいモデルはメッシュ素材を使っていて通気性を確保している。ただ、ズールほどの「背中との隙間」はない。
 
-**参考情報**: 「新しいモデルでは背面もメッシュ生地で通気性を確保しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiJq3xajC29Fono7d5asX2ZrWfl-pphr_iMhJcnCFghTWx6nlmVx8E5b672-pZIicQFA8g32eQUyKdnYfdmUBtd5JuAPL_sq8lgVXKmGvOrI_EYm-bUGvSzzcECZftcp0=`</details>
+> **参考情報**: 「新しいモデルでは背面もメッシュ生地で通気性を確保しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiJq3xajC29Fono7d5asX2ZrWfl-pphr_iMhJcnCFghTWx6nlmVx8E5b672-pZIicQFA8g32eQUyKdnYfdmUBtd5JuAPL_sq8lgVXKmGvOrI_EYm-bUGvSzzcECZftcp0=`</details>
 
 ### スタウト（男性用）のスペック
 
@@ -182,7 +182,7 @@ Tags: Backpack, Guide
 | スタウト45 | 45L | 約1.34kg | 20.4kg | 1〜2泊小屋泊・テント泊 |
 | スタウト60 | 60L | 約1.61kg | 22.7kg | 2〜3泊テント泊 |
 
-**参考情報**: 「スタウト45: 容量45リットル、重量1.34 kg、最大積載重量20.4 kg」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHjOYos7n2tLMtmnhNBmA30tq-s3fFZEq_KuQebRVDxoqZSduOpH34EJQaib-lDssYJQoul29RhhMnNqPvl5962sOM9r4_ZF6U56V5hYIy7Wby3jVtg06-Buhb9vsOMWjun8az2A==`</details>
+> **参考情報**: 「スタウト45: 容量45リットル、重量1.34 kg、最大積載重量20.4 kg」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHjOYos7n2tLMtmnhNBmA30tq-s3fFZEq_KuQebRVDxoqZSduOpH34EJQaib-lDssYJQoul29RhhMnNqPvl5962sOM9r4_ZF6U56V5hYIy7Wby3jVtg06-Buhb9vsOMWjun8az2A==`</details>
 
 ### アンバー（女性用）のスペック
 
@@ -193,13 +193,13 @@ Tags: Backpack, Guide
 | アンバー54 | 54L | 約1.50kg | 22.7kg | 2〜3泊テント泊 |
 | アンバー65 | 65-68L | 約1.70kg | 22.7kg | 長期縦走 |
 
-**参考情報**: 「Gregory Amber (アンバー) backpacks are the women's specific version of the Gregory Stout backpack series」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpG0z7SOzStBkiMZ1N2mB8JxmQhdsQMCbdRn71ZHGv3Vw1eRp1JwisomjxP1lJL_bnMrm7i0198VeJutCFmgK7GZhl4R9GYw-BU2pNioPsbMpeaDMYSPzFtdpEOGR7nPPigXvyvEUt9FfSckBzTVGB5N2YCg==`</details>
+> **参考情報**: 「Gregory Amber (アンバー) backpacks are the women's specific version of the Gregory Stout backpack series」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpG0z7SOzStBkiMZ1N2mB8JxmQhdsQMCbdRn71ZHGv3Vw1eRp1JwisomjxP1lJL_bnMrm7i0198VeJutCFmgK7GZhl4R9GYw-BU2pNioPsbMpeaDMYSPzFtdpEOGR7nPPigXvyvEUt9FfSckBzTVGB5N2YCg==`</details>
 
 **JK**: あれ、ズールより軽いですね！
 
 **先生**: そこがスタウトの強みの一つだ。**軽量ながら耐久性も確保**している。210Dナイロン、420Dナイロン、840Dバリスティックポリエステルを効率的に使い分けているんだ。
 
-**参考情報**: 「210Dナイロン、420Dナイロン、840Dバリスティックポリエステルといった異なる素材を効率的に使用することで、軽量ながらも耐久性を確保しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2tHCdUj8TpDwKwypawJaIp3lPXDYLff_ZPQTdLD-6LNo-9sTf4LSTjmwgyS7fmN2f9EJ2u-P_Jv0Wj7Dh8h6goEDzKa4CASq4StCXb-TNb1Pe27VjN0A4VGQAGL-c5yCFMdWQm8U=`</details>
+> **参考情報**: 「210Dナイロン、420Dナイロン、840Dバリスティックポリエステルといった異なる素材を効率的に使用することで、軽量ながらも耐久性を確保しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2tHCdUj8TpDwKwypawJaIp3lPXDYLff_ZPQTdLD-6LNo-9sTf4LSTjmwgyS7fmN2f9EJ2u-P_Jv0Wj7Dh8h6goEDzKa4CASq4StCXb-TNb1Pe27VjN0A4VGQAGL-c5yCFMdWQm8U=`</details>
 
 ### スタウト/アンバーの最大のメリット：レインカバー付属
 
@@ -207,7 +207,7 @@ Tags: Backpack, Guide
 
 **先生**: その通り。スタウト/アンバーは**レインカバーが標準装備**だ。急な雨でもすぐに対応できる。
 
-**参考情報**: 「レインカバーが標準で付属しており、急な天候変化にも対応できます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKhEzGbOrsVBuSMJEE7NbxQLGFSjfBU7R8CgU4Zea5dGQT75IfW6XahpzxuhVlgT3V9ar7lveoeE51rnwRvFSHWMoiUdcNbJwCzi0fPoRYl_pY6kU=`</details>
+> **参考情報**: 「レインカバーが標準で付属しており、急な天候変化にも対応できます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKhEzGbOrsVBuSMJEE7NbxQLGFSjfBU7R8CgU4Zea5dGQT75IfW6XahpzxuhVlgT3V9ar7lveoeE51rnwRvFSHWMoiUdcNbJwCzi0fPoRYl_pY6kU=`</details>
 
 **JK**: ズールだとレインカバー別で買うと…全部合わせるとけっこうな金額になりますよね。
 
@@ -232,7 +232,7 @@ Tags: Backpack, Guide
 5. **大型ヒップベルトポケット**: スマホもラクラク収納
 6. **ハイドレーションスリーブ**: 水筒をチューブで飲める
 
-**参考情報**: 「安定した荷重管理とねじれの柔軟性を実現するウィッシュボーン合金フレーム」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHwFDyMJWBJZd-gvEu0g7BeYlqtensvxUKD17ogAD0w7vHsMcRko1LADbGBx43uKnFtGHrqvCWXFFEd2CSVtgzDr-_KgD4_wPHO2o1CZb3xXv88zHZRt3487MS6fw9wPaGO3bECw==`</details>
+> **参考情報**: 「安定した荷重管理とねじれの柔軟性を実現するウィッシュボーン合金フレーム」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHwFDyMJWBJZd-gvEu0g7BeYlqtensvxUKD17ogAD0w7vHsMcRko1LADbGBx43uKnFtGHrqvCWXFFEd2CSVtgzDr-_KgD4_wPHO2o1CZb3xXv88zHZRt3487MS6fw9wPaGO3bECw==`</details>
 
 ### ユーザーからの評価
 
@@ -244,7 +244,7 @@ Tags: Backpack, Guide
 
 **先生**: 特別なギミックはないけど、バックパックに必要な機能がしっかり揃っていて、「素直に使える」という評価だ。
 
-**参考情報**: 「「ザ・バックパック」と称されるように、特別なギミックはないものの、バックパックに求められる機能がグレゴリー品質で揃っており、「素直な使い方ができる」という意見もあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF4-OU1ItBPGxFbViNZJ1NPXbb9utZnrMEQiLTSi6NaqTAHKQO-cu7ERiWEfnHTt6ZMsg6Jq5-NQO2WJU-zGBSEAGijE-BEGsbb8pkbk6FXl53Fs0tYY3WusXw8OSV8hQi74Hj_bEGA1z9M60qk0Dk4P3t`</details>
+> **参考情報**: 「「ザ・バックパック」と称されるように、特別なギミックはないものの、バックパックに求められる機能がグレゴリー品質で揃っており、「素直な使い方ができる」という意見もあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF4-OU1ItBPGxFbViNZJ1NPXbb9utZnrMEQiLTSi6NaqTAHKQO-cu7ERiWEfnHTt6ZMsg6Jq5-NQO2WJU-zGBSEAGijE-BEGsbb8pkbk6FXl53Fs0tYY3WusXw8OSV8hQi74Hj_bEGA1z9M60qk0Dk4P3t`</details>
 
 **JK**: なんか安心しますね。変にこだわりすぎてない感じが初心者にはいいかも。
 
@@ -261,7 +261,7 @@ Tags: Backpack, Guide
 
 **先生**: そこは正直な評価だ。ただ、35Lクラスであれば、ズールとスタウトの差はそこまで大きく感じないという声もある。
 
-**参考情報**: 「35Lクラスであれば、フィッティング性においてズールとの大きな違いは感じにくいという意見もあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYJ3qrkDaVzVLxQ1rP0YJI2-sejqNble8A6vHvuvewxd8YatF18GoUB4FIQME1BSme8mUVgyzI942Q13dON9t1uhoogRNty-N65vhtKgKZS5DI1KQJ8jEPuG_mN_2yI0dPyg==`</details>
+> **参考情報**: 「35Lクラスであれば、フィッティング性においてズールとの大きな違いは感じにくいという意見もあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYJ3qrkDaVzVLxQ1rP0YJI2-sejqNble8A6vHvuvewxd8YatF18GoUB4FIQME1BSme8mUVgyzI942Q13dON9t1uhoogRNty-N65vhtKgKZS5DI1KQJ8jEPuG_mN_2yI0dPyg==`</details>
 
 #### こんな人におすすめ
 
@@ -289,7 +289,7 @@ Tags: Backpack, Guide
 | **価格帯** | やや高め | **お手頃** |
 | **主なターゲット** | 通気性・フィット重視 | コスパ・汎用性重視 |
 
-**参考情報**: 「ズールは、背面長やショルダーストラップの調整機能が細かく、ユーザーの体型に合わせて高いフィット感を実現できます。スタウトと比較して、より優れたフィッティング性を持つとされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_CUx7FYCFZa2TxsCtjzGa64aa-YXa4UyZsvxhxsXYMbNIJ-Gq_Q5wfSW8hdJX7Adq_xQK4MBNyGQcAKERWvq8h6Tjp20jJ0llx1BRRO3q0bz8LkNmxbgtVCQ2`</details>
+> **参考情報**: 「ズールは、背面長やショルダーストラップの調整機能が細かく、ユーザーの体型に合わせて高いフィット感を実現できます。スタウトと比較して、より優れたフィッティング性を持つとされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_CUx7FYCFZa2TxsCtjzGa64aa-YXa4UyZsvxhxsXYMbNIJ-Gq_Q5wfSW8hdJX7Adq_xQK4MBNyGQcAKERWvq8h6Tjp20jJ0llx1BRRO3q0bz8LkNmxbgtVCQ2`</details>
 
 ### こんなあなたにはズール/ジェイド
 
@@ -362,7 +362,7 @@ Tags: Backpack, Guide
 | スタウト/アンバー 44-45L | 約27,000〜33,000円 |
 | スタウト/アンバー 54-60L | 約30,000〜38,000円 |
 
-**参考情報**: 「メーカー希望小売価格は33,000円（税込）で、一部店舗では30,800円（税込）やセール価格として18,173円（税込）などの販売実績があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF4-OU1ItBPGxFbViNZJ1NPXbb9utZnrMEQiLTSi6NaqTAHKQO-cu7ERiWEfnHTt6ZMsg6Jq5-NQO2WJU-zGBSEAGijE-BEGsbb8pkbk6FXl53Fs0tYY3WusXw8OSV8hQi74Hj_bEGA1z9M60qk0Dk4P3t`</details>
+> **参考情報**: 「メーカー希望小売価格は33,000円（税込）で、一部店舗では30,800円（税込）やセール価格として18,173円（税込）などの販売実績があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF4-OU1ItBPGxFbViNZJ1NPXbb9utZnrMEQiLTSi6NaqTAHKQO-cu7ERiWEfnHTt6ZMsg6Jq5-NQO2WJU-zGBSEAGijE-BEGsbb8pkbk6FXl53Fs0tYY3WusXw8OSV8hQi74Hj_bEGA1z9M60qk0Dk4P3t`</details>
 
 **JK**: スタウトの方が5,000円くらい安いんですね。レインカバーもついてくるし、コスパいい！
 

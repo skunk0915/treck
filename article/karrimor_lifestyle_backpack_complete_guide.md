@@ -27,7 +27,7 @@ Tags: Backpack, Guide
 
 **先生**: いい質問だ。カリマーは「Carry More（もっと運べる）」というブランド名の語源が示すように、もともと「荷物を運ぶ」ことに特化したメーカーなんだ。1946年にイギリスでサイクルバッグメーカーとして創業して以来、荷物を快適に運ぶための技術を磨き続けてきた。
 
-**参考情報**: 「カリマーは1946年にイギリスでサイクルバッグメーカーとして創業し、「carry more（もっと運べる）」をブランド名の語源とする、荷物を運ぶバッグやリュックにこだわりのあるメーカーです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5KylqADblSbHgLp-gtT5Ou-REnQa5vf9cHXYi8P-DtWdcm-wrhvNC2dg0Y1MCXfU0NFfvcJdH7_YXrMq0jmzysYSXXIFCkQESkiFSXfR_flyj6Xq7JDKM4gZlKFfFuXE=`</details>
+> **参考情報**: 「カリマーは1946年にイギリスでサイクルバッグメーカーとして創業し、「carry more（もっと運べる）」をブランド名の語源とする、荷物を運ぶバッグやリュックにこだわりのあるメーカーです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5KylqADblSbHgLp-gtT5Ou-REnQa5vf9cHXYi8P-DtWdcm-wrhvNC2dg0Y1MCXfU0NFfvcJdH7_YXrMq0jmzysYSXXIFCkQESkiFSXfR_flyj6Xq7JDKM4gZlKFfFuXE=`</details>
 
 **JK**: へー、最初は自転車用のバッグだったんですね。
 
@@ -61,7 +61,7 @@ Tags: Backpack, Guide
 
 **先生**: まずはtributeシリーズだ。これはアウトドアで培われた機能性を、日常のライフスタイルに合わせて再構築したモデルだな。
 
-**参考情報**: 「アウトドアで培われた機能性を日常のライフスタイルに合わせて再構築したモデル」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmskh1uIu5hR2iVoFD_KRH2ISCWU5qoeB-6CK5u0dDX_CUJlf9U9BCJioP46SkuXi4e_hAzhPebWDeUjcx_veddZcIkLkqVZrAsCtg2BgaZdDO4-U5kPqqXkuo7oZJATM_eGrYZq8Q2w==`</details>
+> **参考情報**: 「アウトドアで培われた機能性を日常のライフスタイルに合わせて再構築したモデル」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmskh1uIu5hR2iVoFD_KRH2ISCWU5qoeB-6CK5u0dDX_CUJlf9U9BCJioP46SkuXi4e_hAzhPebWDeUjcx_veddZcIkLkqVZrAsCtg2BgaZdDO4-U5kPqqXkuo7oZJATM_eGrYZq8Q2w==`</details>
 
 **JK**: 「再構築」って、具体的にはどういうこと？
 
@@ -91,7 +91,7 @@ Tags: Backpack, Guide
 
 **先生**: 15インチまでのノートPCに対応している。さらに起毛素材を使ったグラスポケットもあって、サングラスや眼鏡を傷つけずに収納できるんだ。
 
-**参考情報**: 「PC対応（～15インチ）、ボックス型デザイン、ワンドポケット、フロントジッパーポケット、グラスポケット（起毛素材）」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-SQ5RJuWuXFYRYf2ojc1v7BPTD7k2NHzXHPU5cnOulj9XSmSw_HtRyT0FjtmWRBrc5eFr8-AeKPdCB6X7H3AOSoSCB1FNPRuLk6R_2hHVljB5y1pJPcvTsSgJ6fQsSchdHczIiHWrzGeXO5hQqHif`</details>
+> **参考情報**: 「PC対応（～15インチ）、ボックス型デザイン、ワンドポケット、フロントジッパーポケット、グラスポケット（起毛素材）」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-SQ5RJuWuXFYRYf2ojc1v7BPTD7k2NHzXHPU5cnOulj9XSmSw_HtRyT0FjtmWRBrc5eFr8-AeKPdCB6X7H3AOSoSCB1FNPRuLk6R_2hHVljB5y1pJPcvTsSgJ6fQsSchdHczIiHWrzGeXO5hQqHif`</details>
 
 **JK**: グラスポケットってちょっとおしゃれ！
 
@@ -128,7 +128,7 @@ Tags: Backpack, Guide
 
 **先生**: そしてtribute 25の最大の特徴は、**独立したノートPC専用ファスナーポケット**だ。背面から直接アクセスできるから、リュックを下ろさなくてもPCを素早く取り出せる。
 
-**参考情報**: 「独立したノートPC専用ファスナーポケット、ワンドポケット、サイドジッパーポケット、フロントオーガナイザーポケット」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENjDXS3wKW6vZXl1yaCZZvCnKJGxINVm9Bf_yq3QQNPYNYI14MU1zenmMRolu7_BFGyUHM_-phS2Kpo47oJG4yAUl4N6v2x3yPsD-8BAQCaP8Ck3yRhMPl3EemK_6VrsjxHPuhYhrW4bOS-975U_hCPnU1xxKX3yBhgA==`</details>
+> **参考情報**: 「独立したノートPC専用ファスナーポケット、ワンドポケット、サイドジッパーポケット、フロントオーガナイザーポケット」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENjDXS3wKW6vZXl1yaCZZvCnKJGxINVm9Bf_yq3QQNPYNYI14MU1zenmMRolu7_BFGyUHM_-phS2Kpo47oJG4yAUl4N6v2x3yPsD-8BAQCaP8Ck3yRhMPl3EemK_6VrsjxHPuhYhrW4bOS-975U_hCPnU1xxKX3yBhgA==`</details>
 
 **JK**: それ便利ですね！電車の中でPC出したい時とかいちいち全部開けなくていいってこと？
 
@@ -149,7 +149,7 @@ Tags: Backpack, Guide
 - 自立しにくいという声がある
 - サイドポケットに水筒を入れると落下するリスク
 
-**参考情報**: 「自立しない点や、サイドポケットに水筒などを入れた際の落下リスクが指摘されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtL8fJ4oOuHWGe6bUmuPLMtKQk6yyfO9Kwx68u0Hn7JijF3u5kRUxsh3lboVYQ-Ca9Nj5eZ8RDV8Jb3Qnv1XSjzU_oVpbAMsDu05Z86dIyBULmoHDeftQVFjuGNoes5FWp_AKe9hFUY4uvIBUIdfrjcw==`</details>
+> **参考情報**: 「自立しない点や、サイドポケットに水筒などを入れた際の落下リスクが指摘されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtL8fJ4oOuHWGe6bUmuPLMtKQk6yyfO9Kwx68u0Hn7JijF3u5kRUxsh3lboVYQ-Ca9Nj5eZ8RDV8Jb3Qnv1XSjzU_oVpbAMsDu05Z86dIyBULmoHDeftQVFjuGNoes5FWp_AKe9hFUY4uvIBUIdfrjcw==`</details>
 
 **JK**: え、自立しないんですか？それちょっと不便じゃないですか？
 
@@ -179,7 +179,7 @@ Tags: Backpack, Guide
 
 **先生**: サイズをギリギリに設計しているんだ。さらに**レインカバーが付属**しているのも嬉しい点だな。急な雨でも中の荷物を守れる。
 
-**参考情報**: 「機内持ち込み可能サイズ、ロッカブルジッパー、PC用コンパートメント（15インチまで）、レインカバー付属、収納可能なウエストベルト」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVbkLI06QutYXvp8CY1UBgYqbCMwp2JF-xeMZL-EXja9-Cbda2y0OVbrsQtQtt1UyCQzkgOq_Tf4kN4EWX5oYFO-UdGCqyhK9Co8daMyMCl94ziOF-wC3nR_i6CB_37WX5ZoI=`</details>
+> **参考情報**: 「機内持ち込み可能サイズ、ロッカブルジッパー、PC用コンパートメント（15インチまで）、レインカバー付属、収納可能なウエストベルト」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVbkLI06QutYXvp8CY1UBgYqbCMwp2JF-xeMZL-EXja9-Cbda2y0OVbrsQtQtt1UyCQzkgOq_Tf4kN4EWX5oYFO-UdGCqyhK9Co8daMyMCl94ziOF-wC3nR_i6CB_37WX5ZoI=`</details>
 
 **JK**: ロッカブルジッパーって何ですか？
 
@@ -189,7 +189,7 @@ Tags: Backpack, Guide
 
 **先生**: 確かに軽くはない。だが実際に背負ってみると、登山リュックの技術で荷重が分散されるから、数字ほど重く感じないという声も多いんだ。
 
-**参考情報**: 「しっかりした作りのため、やや重量があると感じるユーザーもいますが、背負った際にはあまり重さを感じないという意見もあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETISXrAvrxTMLZx0LVFtxrA7NfjQNG8CAJ--goNWXVdKM_yirFEfQHeyBPcXLK0271CEECy4x38rovthUt7ZWtXTNwUOzV3KepJ-NQO-Mrnq0oN4e8F1U9Y03ULPZ-WmUZhZI=`</details>
+> **参考情報**: 「しっかりした作りのため、やや重量があると感じるユーザーもいますが、背負った際にはあまり重さを感じないという意見もあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETISXrAvrxTMLZx0LVFtxrA7NfjQNG8CAJ--goNWXVdKM_yirFEfQHeyBPcXLK0271CEECy4x38rovthUt7ZWtXTNwUOzV3KepJ-NQO-Mrnq0oN4e8F1U9Y03ULPZ-WmUZhZI=`</details>
 
 #### こんな人におすすめ
 
@@ -216,7 +216,7 @@ Tags: Backpack, Guide
 
 **先生**: habitatシリーズは、トラベルカルチャー誌『TRANSIT（トランジット）』との共同開発によって生まれたトラベルコレクションだ。
 
-**参考情報**: 「トラベルカルチャー誌『TRANSIT（トランジット）』との共同開発によって生まれたトラベルコレクションの一つです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYMURvJVsmBUI1cqbwoIAGS6DMh94ET2lRcpAUr5lbRntqVgcaGn4b8KLtlsDoCf7RUG8HwAifj2VRo4sRmkp-Yf4WtqHX2jDjxjkVarsOa9w0KUj6Tape93fcYviYuvi523pE31V0o-AL-lSTlPgZMSWKvJYt030=`</details>
+> **参考情報**: 「トラベルカルチャー誌『TRANSIT（トランジット）』との共同開発によって生まれたトラベルコレクションの一つです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYMURvJVsmBUI1cqbwoIAGS6DMh94ET2lRcpAUr5lbRntqVgcaGn4b8KLtlsDoCf7RUG8HwAifj2VRo4sRmkp-Yf4WtqHX2jDjxjkVarsOa9w0KUj6Tape93fcYviYuvi523pE31V0o-AL-lSTlPgZMSWKvJYt030=`</details>
 
 **JK**: TRANSITって、あの超おしゃれな旅行雑誌ですか？
 
@@ -241,7 +241,7 @@ Tags: Backpack, Guide
 
 **先生**: そうだ。しかも25Lの容量は変わらない。これはsilvaguard+コーティングという特殊な加工を施した軽量素材を使っているからだ。
 
-**参考情報**: 「耐摩耗性に優れた「silvaguard」コーティングを施した330D Carbonate NY（ナイロン100%）素材が採用されており、軽量ながら耐久性、防水性にも優れています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv7nwLr8bwGxAq4vxRoFsfqFugkBxyu71Y8FU1HR0-4yHu5CZ2K-CUwP3kAp0zoCJ9XWGbcwuxkCQKk193wCx4TAhQ-K862o8x_kGqVAfZwM4kL1aBUe6ir4vXUi8NcJfUi1K-Aggz`</details>
+> **参考情報**: 「耐摩耗性に優れた「silvaguard」コーティングを施した330D Carbonate NY（ナイロン100%）素材が採用されており、軽量ながら耐久性、防水性にも優れています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv7nwLr8bwGxAq4vxRoFsfqFugkBxyu71Y8FU1HR0-4yHu5CZ2K-CUwP3kAp0zoCJ9XWGbcwuxkCQKk193wCx4TAhQ-K862o8x_kGqVAfZwM4kL1aBUe6ir4vXUi8NcJfUi1K-Aggz`</details>
 
 **JK**: silvaguardって何ですか？
 
@@ -277,7 +277,7 @@ Tags: Backpack, Guide
 - 重量: 約650g
 - 素材: KS-N330d KODORA CPH（silvaguardコーティング）
 
-**参考情報**: 「トートバッグとリュックサックの2通りの使い方ができる2way仕様です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESyjJsQTujIlUpGf3qYsjcCy2fqrUWGxT4gRjuMdH1ngVkQLXffgZ2Nj86xsUiwQkhJTaTfLVO8y3x4bzb4hISrGiSlWrG3YTlzfvaI7Iff1VmfNWzvj7523P958iJRJhigsH8i__MrnibRs1frA==`</details>
+> **参考情報**: 「トートバッグとリュックサックの2通りの使い方ができる2way仕様です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESyjJsQTujIlUpGf3qYsjcCy2fqrUWGxT4gRjuMdH1ngVkQLXffgZ2Nj86xsUiwQkhJTaTfLVO8y3x4bzb4hISrGiSlWrG3YTlzfvaI7Iff1VmfNWzvj7523P958iJRJhigsH8i__MrnibRs1frA==`</details>
 
 **JK**: ロールトップってことは、荷物の量に合わせて調節できるんですか？
 
@@ -308,7 +308,7 @@ Tags: Backpack, Guide
 
 **先生**: これはメインのリュックではなく、サブバッグとして使うものだ。旅行先での街歩きや、貴重品だけを持ち歩きたい時に便利だな。
 
-**参考情報**: 「クイックベルトによりスムーズな着脱が可能」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHok3k_iAtZzqdUTDLEMyyFddQJGdCC2k1Fs4pGgX1A79RFj1Uj5F1RrvayNJZ7LrqnRTyolWFCSXGBDITrPo_krWWKqDb5ESNSp-4peUtHx5yk_-206S_k02eHM63W54wP6GyxPcVeI4tZTdC4Qg==`</details>
+> **参考情報**: 「クイックベルトによりスムーズな着脱が可能」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHok3k_iAtZzqdUTDLEMyyFddQJGdCC2k1Fs4pGgX1A79RFj1Uj5F1RrvayNJZ7LrqnRTyolWFCSXGBDITrPo_krWWKqDb5ESNSp-4peUtHx5yk_-206S_k02eHM63W54wP6GyxPcVeI4tZTdC4Qg==`</details>
 
 **JK**: セキュリティバッグとしても使えるって書いてありますね。
 
@@ -343,7 +343,7 @@ Tags: Backpack, Guide
 
 **先生**: まず**2層構造（2ルーム）**になっている。前面収納と背面収納が独立していて、荷物の整理がしやすい。前面はフルオープンに大きく開くから、中身が一目でわかる。
 
-**参考情報**: 「登山用リュックサックで培われた技術を活かしたショルダーハーネスは、肩にフィットし、長時間の着用でも快適な背負い心地を実現します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkVQKs7Ce-McOBO6-J8d8a89xxE5RuogzV9fRbLPu2NdfKPx_UfHd0VYXn2_Y5zi0Lw7zYoTaJdxKrUn7zlENSmMUcrOpBmtzZoWOS5eVqdxbnuJmYtRmsIkQowzjxjsPtRCPRDYrBi9-p_zI=`</details>
+> **参考情報**: 「登山用リュックサックで培われた技術を活かしたショルダーハーネスは、肩にフィットし、長時間の着用でも快適な背負い心地を実現します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkVQKs7Ce-McOBO6-J8d8a89xxE5RuogzV9fRbLPu2NdfKPx_UfHd0VYXn2_Y5zi0Lw7zYoTaJdxKrUn7zlENSmMUcrOpBmtzZoWOS5eVqdxbnuJmYtRmsIkQowzjxjsPtRCPRDYrBi9-p_zI=`</details>
 
 **JK**: メッシュポケットとかキーフックとかも付いてるんですね。
 
@@ -404,7 +404,7 @@ Tags: Backpack, Guide
 4. **デザインと汎用性**: アウトドア感が強すぎず、ビジネスにも馴染む
 5. **コスパの良さ**: 他のアウトドアブランドと比較してリーズナブル
 
-**参考情報**: 「ハイスペックな機能と堅牢な作りにもかかわらず、他のアウトドアブランドと比較してリーズナブルな価格設定であるため、コストパフォーマンスが高い」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEf5pYAfPAqun2e3pScmrN8THnkBmynhw02v8umxEqKD7_IThwsn-ioYG2pe9BS4_zwqZ_8TJ7fqNO6Fug5q7jquBpHb7CDjwofu3vBNvcwrhUxq8vC9bPi44w=`</details>
+> **参考情報**: 「ハイスペックな機能と堅牢な作りにもかかわらず、他のアウトドアブランドと比較してリーズナブルな価格設定であるため、コストパフォーマンスが高い」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEf5pYAfPAqun2e3pScmrN8THnkBmynhw02v8umxEqKD7_IThwsn-ioYG2pe9BS4_zwqZ_8TJ7fqNO6Fug5q7jquBpHb7CDjwofu3vBNvcwrhUxq8vC9bPi44w=`</details>
 
 ### デメリット
 

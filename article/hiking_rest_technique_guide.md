@@ -48,7 +48,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: そうだ。歩き始めると、準備段階では気づかなかった問題が出てくることがある。靴紐が緩んでいたり、ザックのフィット感がおかしかったり、服装が暑すぎたり寒すぎたり。
 
-**参考情報**: 「登山開始から30分以内に最初の休憩を取ることが推奨されています。これは、靴ひもの調整、ザックのフィッティング確認、体温調整、水分補給など、体の状態や装備を整えるためです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVUnAe16B6S2j4U5vdSIGo4uC66zHsRGUmUfv-8_panJvB5RpxYkP2e3riM-Y5l6K-Ya3gKbtPVXKlsHcRbLOje6VQlN7xuYiCjeNUFKAmplw1PvrATIoPhWZuPERWijWO1u3B`</details>
+> **参考情報**: 「登山開始から30分以内に最初の休憩を取ることが推奨されています。これは、靴ひもの調整、ザックのフィッティング確認、体温調整、水分補給など、体の状態や装備を整えるためです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVUnAe16B6S2j4U5vdSIGo4uC66zHsRGUmUfv-8_panJvB5RpxYkP2e3riM-Y5l6K-Ya3gKbtPVXKlsHcRbLOje6VQlN7xuYiCjeNUFKAmplw1PvrATIoPhWZuPERWijWO1u3B`</details>
 
 **JK**: 確かに、この前靴擦れで泣きそうになったとき、最初から靴紐が緩かったのかも…
 
@@ -71,7 +71,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: 基本は**1時間歩いたら10〜15分の小休止**だ。これがもっとも効率的なペースと言われている。
 
-**参考情報**: 「1時間歩いたら10〜15分の小休止を取るのが一般的です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGO9irGzcW-ygJt3hbK7vOT03t39KBPI06B2otcjEvyQcDnY4WOBbpFilOXtKYtv9BgCGrvmDezQtNtYtZsoxf3oK8dTZVcyPC1uZhRbUHohRhEqQsFPnHBtQZYd9_6P7wzuEAZYw==`</details>
+> **参考情報**: 「1時間歩いたら10〜15分の小休止を取るのが一般的です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGO9irGzcW-ygJt3hbK7vOT03t39KBPI06B2otcjEvyQcDnY4WOBbpFilOXtKYtv9BgCGrvmDezQtNtYtZsoxf3oK8dTZVcyPC1uZhRbUHohRhEqQsFPnHBtQZYd9_6P7wzuEAZYw==`</details>
 
 **JK**: 10〜15分って短くないですか？もっとガッツリ休みたいんですけど…
 
@@ -81,7 +81,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: 長く休むと、せっかく温まった体が冷えてしまう。すると再出発時に余計なエネルギーを使うし、筋肉も硬くなる。さらに集中力も切れやすくなる。
 
-**参考情報**: 「長すぎる休憩は、温まった体を冷やしてしまい、再出発時のエネルギー消費を増やしたり、集中力を低下させたりする原因になります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtpJ4YpYZ792gyr7bH_pCY9XfNCcqLJSjOVjpHNjUgLN2JjGcLDQlWAZ5uohs0B3PuyJdaeA7udWAvqr_iFWeeijvjC9EYzw8NubqlOpCbC39VpPu1iu16dTZ5Xdj5dgbT34iCGbNX0ix6xr3nHups8CWq-xgm-J0R6kacbfyZ1zqIL88xksdeoft1EEKyygJLyIKNyMFqC-ER5_3kwhxtukSBzw0-nBFZJWdw7hayhlJ06Z4MJ1nxv4kFonGVNGGkhRAZdJFJxTSakNcBWjutUWpNZBsbHQ==`</details>
+> **参考情報**: 「長すぎる休憩は、温まった体を冷やしてしまい、再出発時のエネルギー消費を増やしたり、集中力を低下させたりする原因になります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtpJ4YpYZ792gyr7bH_pCY9XfNCcqLJSjOVjpHNjUgLN2JjGcLDQlWAZ5uohs0B3PuyJdaeA7udWAvqr_iFWeeijvjC9EYzw8NubqlOpCbC39VpPu1iu16dTZ5Xdj5dgbT34iCGbNX0ix6xr3nHups8CWq-xgm-J0R6kacbfyZ1zqIL88xksdeoft1EEKyygJLyIKNyMFqC-ER5_3kwhxtukSBzw0-nBFZJWdw7hayhlJ06Z4MJ1nxv4kFonGVNGGkhRAZdJFJxTSakNcBWjutUWpNZBsbHQ==`</details>
 
 **JK**: うわ、それ心当たりあります…長く休んだ後って、なんか体が重いなって思ってました。
 
@@ -95,7 +95,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: それは**本休憩**だ。2〜3時間ごとに30分程度の長めの休憩を取る。このタイミングでしっかり食事と水分補給をする。
 
-**参考情報**: 「2〜3時間ごとに30分程度の長めの休憩を取り入れると良いでしょう。この時間を利用して、しっかりと食事をとり、水分補給を行うことで、体力を大幅に回復させることができます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGO9irGzcW-ygJt3hbK7vOT03t39KBPI06B2otcjEvyQcDnY4WOBbpFilOXtKYtv9BgCGrvmDezQtNtYtZsoxf3oK8dTZVcyPC1uZhRbUHohRhEqQsFPnHBtQZYd9_6P7wzuEAZYw==`</details>
+> **参考情報**: 「2〜3時間ごとに30分程度の長めの休憩を取り入れると良いでしょう。この時間を利用して、しっかりと食事をとり、水分補給を行うことで、体力を大幅に回復させることができます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGO9irGzcW-ygJt3hbK7vOT03t39KBPI06B2otcjEvyQcDnY4WOBbpFilOXtKYtv9BgCGrvmDezQtNtYtZsoxf3oK8dTZVcyPC1uZhRbUHohRhEqQsFPnHBtQZYd9_6P7wzuEAZYw==`</details>
 
 **JK**: なるほど〜。小休止と本休憩を使い分けるんですね。
 
@@ -117,7 +117,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: 状況による。**短い休憩なら立ったままでも十分**だ。
 
-**参考情報**: 「喉の渇きや空腹を感じていない場合、ザックを背負ったまま2〜3分程度呼吸を整えるだけでも効果的な休憩になります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsH7QQXkrgQkCB6QsZOn_hc_DfpTgz3X_qNh0xTJkSFdWNAZDePybsTP3QvI9LcyqTLA-Bno684XuXKdFaT_eJACzfgYjWTmkldteBVq3T2gOrl_MHrvfVfyMX`</details>
+> **参考情報**: 「喉の渇きや空腹を感じていない場合、ザックを背負ったまま2〜3分程度呼吸を整えるだけでも効果的な休憩になります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsH7QQXkrgQkCB6QsZOn_hc_DfpTgz3X_qNh0xTJkSFdWNAZDePybsTP3QvI9LcyqTLA-Bno684XuXKdFaT_eJACzfgYjWTmkldteBVq3T2gOrl_MHrvfVfyMX`</details>
 
 **JK**: 2〜3分で休憩になるんですか！？
 
@@ -131,7 +131,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: 甘い考えだ。背負ったまま座ると、立ち上がるときに余計な体力を使う。それだけじゃない。腰に負担がかかって、ぎっくり腰や膝の痛みの原因になることもある。
 
-**参考情報**: 「座って休憩する際は、必ずザックを背中から下ろしましょう。背負ったまま座ると、立ち上がる際に余計な体力を使うだけでなく、ぎっくり腰や膝の痛みの原因になる可能性があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErFU_aEjAolUKJqSjcQcUvqHuK9VKA_jWSf9N_kqVjjAtCDSlamWtkE5MhT1hEjyM7zXtB-nz-F6RxfncZs3K_u4VPRrZr-t7eGjAyEkvoCrJ-cURAQzagdP5y`</details>
+> **参考情報**: 「座って休憩する際は、必ずザックを背中から下ろしましょう。背負ったまま座ると、立ち上がる際に余計な体力を使うだけでなく、ぎっくり腰や膝の痛みの原因になる可能性があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErFU_aEjAolUKJqSjcQcUvqHuK9VKA_jWSf9N_kqVjjAtCDSlamWtkE5MhT1hEjyM7zXtB-nz-F6RxfncZs3K_u4VPRrZr-t7eGjAyEkvoCrJ-cURAQzagdP5y`</details>
 
 **JK**: ぎっくり腰！？山の上で！？それは絶対イヤです…
 
@@ -145,7 +145,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: ある。軽量で折りたためるものが多い。100gもないものもあるから、持っていく負担はほとんどない。
 
-**参考情報**: 「軽量の登山用座布団やパッドを使用すると、地面の冷たさや凹凸が気にならず、快適に過ごせます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpXo-bAoD8wHCPkFgbRIz8BFPAouwYHeSq5w3d7lXwgSUT1__nCt25b-bQHqz00sJkchAeVisU5DRz_iTmqC6ud9Tw_VMcaHqTKcAuKEda44FkKyk2Jc2caZTMqQh4XjbjjD_7Uqdb5TH62xc8aw7fY8g90tT5REVl05BSriNeXQ==`</details>
+> **参考情報**: 「軽量の登山用座布団やパッドを使用すると、地面の冷たさや凹凸が気にならず、快適に過ごせます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpXo-bAoD8wHCPkFgbRIz8BFPAouwYHeSq5w3d7lXwgSUT1__nCt25b-bQHqz00sJkchAeVisU5DRz_iTmqC6ud9Tw_VMcaHqTKcAuKEda44FkKyk2Jc2caZTMqQh4XjbjjD_7Uqdb5TH62xc8aw7fY8g90tT5REVl05BSriNeXQ==`</details>
 
 **JK**: お尻が濡れるのイヤだから、それは欲しいかも。
 
@@ -161,7 +161,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: 実は計算式があるんだ。
 
-**参考情報**: 「脱水量（ml） = 体重（kg） × 行動時間（時間） × 5（ml）」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ20STn-qbVJLlON1SaTEos82hUaxzhZkmJT4_F-OD3IenPUXvY5HSfiWG7UZL-WUb1uq4XIQCeZij_95y0PmPUZI1EOlpVW1_EX-7UnwvaBPFfmr5M0xlsr9tPQIgHUlcGlR06wZf999xzucxbOyZDzjkpRqnnOwvl4g=`</details>
+> **参考情報**: 「脱水量（ml） = 体重（kg） × 行動時間（時間） × 5（ml）」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ20STn-qbVJLlON1SaTEos82hUaxzhZkmJT4_F-OD3IenPUXvY5HSfiWG7UZL-WUb1uq4XIQCeZij_95y0PmPUZI1EOlpVW1_EX-7UnwvaBPFfmr5M0xlsr9tPQIgHUlcGlR06wZf999xzucxbOyZDzjkpRqnnOwvl4g=`</details>
 
 **JK**: 計算式！？数学は苦手なんですけど…
 
@@ -187,7 +187,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: **喉の渇きを感じた時点で、すでに脱水が始まっている**。だから、渇く前に飲むのが正解だ。
 
-**参考情報**: 「喉の渇きを感じた時にはすでに脱水が始まっているため、喉が渇く前に少量ずつが基本です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOlet_Fy_JhbURGBngovcN21y0jD1DeOBoaUJFR6L2IkwinWutt5QOlKG-POtGn20R63quTjWKsWGnuhZsaaHiWS7ZihYyR951RKh7ek_tN9RWkaZfghbm_WGbgas=`</details>
+> **参考情報**: 「喉の渇きを感じた時にはすでに脱水が始まっているため、喉が渇く前に少量ずつが基本です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOlet_Fy_JhbURGBngovcN21y0jD1DeOBoaUJFR6L2IkwinWutt5QOlKG-POtGn20R63quTjWKsWGnuhZsaaHiWS7ZihYyR951RKh7ek_tN9RWkaZfghbm_WGbgas=`</details>
 
 **JK**: マジですか…じゃあどうすればいいんですか？
 
@@ -213,7 +213,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: そうでもない。**原液で大量に飲むと糖分過多**になる可能性がある。水で2〜3倍に薄めるか、水と交互に飲むのがおすすめだ。
 
-**参考情報**: 「スポーツドリンクを原液で大量に飲みすぎると糖分過多になる可能性があるため、水で2〜3倍に薄めるか、水と併用するのがおすすめです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOAumAQYcZqRnP8RSSD0xQNZh-5YgVa93VPgiA0zufvQltZox7JT9E5RpwIp2fulFZIT4m0fkMsMdY3ZO7LdH90JkuahJ7tfa8I1VFbbdJzdRF57zYiz4SlwviLLO6QMO_XX2c1_0UnRc=`</details>
+> **参考情報**: 「スポーツドリンクを原液で大量に飲みすぎると糖分過多になる可能性があるため、水で2〜3倍に薄めるか、水と併用するのがおすすめです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOAumAQYcZqRnP8RSSD0xQNZh-5YgVa93VPgiA0zufvQltZox7JT9E5RpwIp2fulFZIT4m0fkMsMdY3ZO7LdH90JkuahJ7tfa8I1VFbbdJzdRF57zYiz4SlwviLLO6QMO_XX2c1_0UnRc=`</details>
 
 **JK**: えー、薄めるとおいしくないんですよね…
 
@@ -251,7 +251,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: 「シャリバテ」は登山用語で、**糖質不足によるエネルギー切れ**のことだ。「シャリ」はご飯のこと。ハンガーノックとも言う。
 
-**参考情報**: 「シャリバテはご飯（シャリ）が足りなくてバテる、つまり糖質不足によるエネルギー切れを意味する登山用語です。これらの状態に陥ると、筋肉のエネルギー不足で体が動かなくなったり、集中力が落ちて道迷いや転倒のリスクが高まったりします。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8QxJ_pG3eJTpa7DO3ehsflNx49AC5ykGLI4k_5ulyt_T_Fsohue9zgLUUiyb34yOcta4sk0DVghrlAJ43P1pXB-MYnIn9R68K3fyMPxp1WITmEVoXBuDzOe3b2cIHHMyI2MRbSYCv_Y0izUFu1bZOc9fbXjcbNJmvgvc=`</details>
+> **参考情報**: 「シャリバテはご飯（シャリ）が足りなくてバテる、つまり糖質不足によるエネルギー切れを意味する登山用語です。これらの状態に陥ると、筋肉のエネルギー不足で体が動かなくなったり、集中力が落ちて道迷いや転倒のリスクが高まったりします。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8QxJ_pG3eJTpa7DO3ehsflNx49AC5ykGLI4k_5ulyt_T_Fsohue9zgLUUiyb34yOcta4sk0DVghrlAJ43P1pXB-MYnIn9R68K3fyMPxp1WITmEVoXBuDzOe3b2cIHHMyI2MRbSYCv_Y0izUFu1bZOc9fbXjcbNJmvgvc=`</details>
 
 **JK**: それ、どうなるんですか？
 
@@ -269,7 +269,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: おにぎりでもいいが、いくつかポイントがある。まず**高カロリーで軽量**なもの。それから**すぐにエネルギーになるもの**と**持続的にエネルギーを供給するもの**をバランスよく持つこと。
 
-**参考情報**: 「登山中の行動食は、長時間にわたる運動で消費されるエネルギーを効率的に補給するために不可欠です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMC7IhrgXNIFD6Im-Mf_QvsRnUzNOPaCmzgbqc4FrdUNJtIx30rx03XDlLLYMYfyeor4TCwLxoX_BYBmid3f1WKSoEF4VKE6f16VdM1-x62Ac9slai5cFTDL9UUA==`</details>
+> **参考情報**: 「登山中の行動食は、長時間にわたる運動で消費されるエネルギーを効率的に補給するために不可欠です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMC7IhrgXNIFD6Im-Mf_QvsRnUzNOPaCmzgbqc4FrdUNJtIx30rx03XDlLLYMYfyeor4TCwLxoX_BYBmid3f1WKSoEF4VKE6f16VdM1-x62Ac9slai5cFTDL9UUA==`</details>
 
 **JK**: すぐにエネルギーになるものって？
 
@@ -329,7 +329,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: **空腹を感じてからでは遅い**。これは水分補給と同じだ。
 
-**参考情報**: 「空腹を感じてからでは遅いので、登山開始から1時間ごとに少量ずつ、こまめに摂取するのが理想です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMC7IhrgXNIFD6Im-Mf_QvsRnUzNOPaCmzgbqc4FrdUNJtIx30rx03XDlLLYMYfyeor4TCwLxoX_BYBmid3f1WKSoEF4VKE6f16VdM1-x62Ac9slai5cFTDL9UUA==`</details>
+> **参考情報**: 「空腹を感じてからでは遅いので、登山開始から1時間ごとに少量ずつ、こまめに摂取するのが理想です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMC7IhrgXNIFD6Im-Mf_QvsRnUzNOPaCmzgbqc4FrdUNJtIx30rx03XDlLLYMYfyeor4TCwLxoX_BYBmid3f1WKSoEF4VKE6f16VdM1-x62Ac9slai5cFTDL9UUA==`</details>
 
 **JK**: また「遅い」パターンですか…
 
@@ -351,7 +351,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: できれば**ストレッチ**をするといい。筋肉の緊張をほぐして、血流を良くする効果がある。
 
-**参考情報**: 「筋肉の緊張をほぐし、血流を良くすることで、疲労物質の除去を助け、筋肉への酸素供給を回復させ、筋力の低下を防ぎます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ2HulZH1U73PG-c9xSdc107SxD0m5LhIF4WcggrV50lqLvsAZEYEyhKflj704R3Kocxej8fc-YTZ2NVW6-5Yjb0QeuL6FSydCZo8HXgpK0NJion8u4Cy78c3u7hTUlST9uX3donAReJU=`</details>
+> **参考情報**: 「筋肉の緊張をほぐし、血流を良くすることで、疲労物質の除去を助け、筋肉への酸素供給を回復させ、筋力の低下を防ぎます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ2HulZH1U73PG-c9xSdc107SxD0m5LhIF4WcggrV50lqLvsAZEYEyhKflj704R3Kocxej8fc-YTZ2NVW6-5Yjb0QeuL6FSydCZo8HXgpK0NJion8u4Cy78c3u7hTUlST9uX3donAReJU=`</details>
 
 **JK**: ストレッチって、座ってやるやつですか？
 
@@ -369,7 +369,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: ある。まず**自然な呼吸で行う**こと。呼吸を止めると体に力が入ってしまう。
 
-**参考情報**: 「ストレッチを行う際は、自然な呼吸で行い、反動をつけずにゆっくり伸ばし、痛みのない範囲で行うことが重要です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzEMqHiZxrazoS3p9YA0UVYUW_p60_3FnuPXhamrUPHmNh4QB19GBLKtE_FIag47ra512Vx1bla_WWvGPT4K2hOA-wONDZx56KjtJmPYH8Zc5dvwgep8CnEiQ=`</details>
+> **参考情報**: 「ストレッチを行う際は、自然な呼吸で行い、反動をつけずにゆっくり伸ばし、痛みのない範囲で行うことが重要です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzEMqHiZxrazoS3p9YA0UVYUW_p60_3FnuPXhamrUPHmNh4QB19GBLKtE_FIag47ra512Vx1bla_WWvGPT4K2hOA-wONDZx56KjtJmPYH8Zc5dvwgep8CnEiQ=`</details>
 
 **JK**: 呼吸を止めちゃダメ、と。
 
@@ -387,7 +387,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: 気持ちはわかるが、**安全とマナー**を考えて選べ。
 
-**参考情報**: 「休憩場所として絶対に避けなければならないのは、落石の危険がある崖の下、強風時の吹きさらしの場所、足元が不安定で崩れやすい場所、立ち止まってはいけない危険な場所です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7Qu0MOJuQB0UIwZ-3MHszdkqyCQJOFPd6yRE3XmKKWyIBJVSiM5JI8eqdVp8Prl7sHAwDvidJ9CONXGjd-4e5v2L7FnNzE2VlRzJLNBAsMjqGniBMoNjhz99BlJMjeop5oCg=`</details>
+> **参考情報**: 「休憩場所として絶対に避けなければならないのは、落石の危険がある崖の下、強風時の吹きさらしの場所、足元が不安定で崩れやすい場所、立ち止まってはいけない危険な場所です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7Qu0MOJuQB0UIwZ-3MHszdkqyCQJOFPd6yRE3XmKKWyIBJVSiM5JI8eqdVp8Prl7sHAwDvidJ9CONXGjd-4e5v2L7FnNzE2VlRzJLNBAsMjqGniBMoNjhz99BlJMjeop5oCg=`</details>
 
 **JK**: 避けるべき場所ってありますか？
 
@@ -443,7 +443,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: ベンチやテーブルがある場所では、**ザックは地面に置け**。
 
-**参考情報**: 「ベンチやテーブルが設置されている場所で休憩する際、ザックは地面に置き、一人でも多くの人が休憩できるように配慮することがマナーです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6vPcAXcaYnRhL3NJ2IX0n24ZM7-EiskjEHa-KpiD7Sfi4PfEJ3Zi-nW9zLJ0r6neRNFJg0uvK3kDw-jYRhHIquzpLFVOeQUgnPzOHMHbMwTf9_iih_tIW0I0-`</details>
+> **参考情報**: 「ベンチやテーブルが設置されている場所で休憩する際、ザックは地面に置き、一人でも多くの人が休憩できるように配慮することがマナーです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6vPcAXcaYnRhL3NJ2IX0n24ZM7-EiskjEHa-KpiD7Sfi4PfEJ3Zi-nW9zLJ0r6neRNFJg0uvK3kDw-jYRhHIquzpLFVOeQUgnPzOHMHbMwTf9_iih_tIW0I0-`</details>
 
 **JK**: ベンチにザック置いちゃいますよね…
 
@@ -461,7 +461,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: それは**汗冷え**だな。登山中は体が温まって汗をかく。休憩すると体温が下がって、汗が冷えて寒くなる。
 
-**参考情報**: 「休憩時には、歩行中に着用していたウェアの上からすぐに防寒着（保温着）を羽織りましょう。これはベテラン登山者が実践する重要な体調管理のコツです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEaQ-2dmZvpdWEcIFIvxY3VnCQvQ1y74rd90tC8rJ3FKMACoyykWUhpAbmUy151U-RcdvDAqJ4ErCiL22DLnmnn-qBP8BwSckkGh_8R4uPxUCqdTLjrBQzDxH_jR9JdgVhzH7jq3TAyn3us3Kd5XoufjUeCbFIdnYnXd2kVqWPE3Fy5ZGwG_tCD4YWF_5hWHQOq1Dip8Y2ZMc1iEqM0VC-OMb0XlWozhjAcR06M-1vM_gehDwgJAsU8vzpfkq81eZtyUxsoB-JZ-jDMICbsHgsgjCtF0D2R6M=`</details>
+> **参考情報**: 「休憩時には、歩行中に着用していたウェアの上からすぐに防寒着（保温着）を羽織りましょう。これはベテラン登山者が実践する重要な体調管理のコツです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEaQ-2dmZvpdWEcIFIvxY3VnCQvQ1y74rd90tC8rJ3FKMACoyykWUhpAbmUy151U-RcdvDAqJ4ErCiL22DLnmnn-qBP8BwSckkGh_8R4uPxUCqdTLjrBQzDxH_jR9JdgVhzH7jq3TAyn3us3Kd5XoufjUeCbFIdnYnXd2kVqWPE3Fy5ZGwG_tCD4YWF_5hWHQOq1Dip8Y2ZMc1iEqM0VC-OMb0XlWozhjAcR06M-1vM_gehDwgJAsU8vzpfkq81eZtyUxsoB-JZ-jDMICbsHgsgjCtF0D2R6M=`</details>
 
 **JK**: どうすればいいんですか？
 
@@ -479,7 +479,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: ある。まず**インナーの素材**を選べ。
 
-**参考情報**: 「吸水速乾性のインナーとして、汗を素早く吸い上げて乾かすポリエステルやメリノウール素材のベースレイヤーを選び、肌をドライに保ちましょう。綿素材は汗を吸って乾きにくいため、体を冷やす原因となるので避けましょう。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkTlkmnYLYYYrgCK7FWMnUE4XEzQmWTTmb0dsN9c_qxlszrk4M1Gt1fZZx7Tv7pjwgQHH9ipnVou9vE-o9kU5edOeMaV14HF4PWIBgU-xsmBn2dCsr_hFIItGHhRA8SUveF3nSFHTAin_LhzmBKn7PehSYZizNTpoR0FN5`</details>
+> **参考情報**: 「吸水速乾性のインナーとして、汗を素早く吸い上げて乾かすポリエステルやメリノウール素材のベースレイヤーを選び、肌をドライに保ちましょう。綿素材は汗を吸って乾きにくいため、体を冷やす原因となるので避けましょう。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkTlkmnYLYYYrgCK7FWMnUE4XEzQmWTTmb0dsN9c_qxlszrk4M1Gt1fZZx7Tv7pjwgQHH9ipnVou9vE-o9kU5edOeMaV14HF4PWIBgU-xsmBn2dCsr_hFIItGHhRA8SUveF3nSFHTAin_LhzmBKn7PehSYZizNTpoR0FN5`</details>
 
 **JK**: 綿のTシャツはダメなんですか？
 
@@ -523,7 +523,7 @@ Tags: Hiking, Beginner, Guide
 
 **先生**: **精神的なリフレッシュ**も大事だ。景色を眺めたり、写真を撮ったり。山に来た意味を思い出す時間だ。
 
-**参考情報**: 「休憩中に景色を鑑賞したり、写真撮影をしたり、マインドフルネスを実践したりすることで、気分転換になり精神的なリフレッシュにつながります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUVT8xLNBQx5ZbIiHlncAmZY-crgWczIwB9xWaAePFOYqWVFhV8P8sqeUmm0wn0p5CVG5-dO4ovGlngzwp3bobGkO3RDpY8NyMp12E4ztO2EntGGj40KaMO7sWz0KJ04qafn-5`</details>
+> **参考情報**: 「休憩中に景色を鑑賞したり、写真撮影をしたり、マインドフルネスを実践したりすることで、気分転換になり精神的なリフレッシュにつながります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUVT8xLNBQx5ZbIiHlncAmZY-crgWczIwB9xWaAePFOYqWVFhV8P8sqeUmm0wn0p5CVG5-dO4ovGlngzwp3bobGkO3RDpY8NyMp12E4ztO2EntGGj40KaMO7sWz0KJ04qafn-5`</details>
 
 **JK**: 確かに、休憩中は景色見るの好きです。
 

@@ -32,7 +32,7 @@ Tags: Trekking Poles, Guide
 
 **先生**: うむ。だからこそ、グリップの形状やロック機構、衝撃吸収システムなど、ポールに関する技術の蓄積が桁違いなんだ。
 
-**参考情報**: 「ドイツ創業の1948年以来、スキーポールや登山用ポールを専門に製造する老舗ブランドです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXZS99_1FerIo3XR9GYjOmDCGVVf7usXZ99D5c5B-M4V9FXeOxfUqg_yfl0kOUWZVIYRwqTJHbvprLrlXtKrkSrZ-kFel4oobjPH01yMbJHI-tjZW2utOByEScDuM=`</details>
+> **参考情報**: 「ドイツ創業の1948年以来、スキーポールや登山用ポールを専門に製造する老舗ブランドです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXZS99_1FerIo3XR9GYjOmDCGVVf7usXZ99D5c5B-M4V9FXeOxfUqg_yfl0kOUWZVIYRwqTJHbvprLrlXtKrkSrZ-kFel4oobjPH01yMbJHI-tjZW2utOByEScDuM=`</details>
 
 **JK**: へえ〜。でも、ポールなんてどれも同じじゃないんですか？棒でしょ、結局。
 
@@ -54,7 +54,7 @@ Tags: Trekking Poles, Guide
 
 **先生**: 人間工学に基づいて設計されたグリップ、という意味だ。特殊な中空コア技術で軽量化しながら、手のひらを広く支える形状になっている。
 
-**参考情報**: 「エルゴンエア・グリップ：レキのトレッキングポールを象徴するグリップフォルムで、2022年以降拡充されています。人間工学に基づいた最適化されたデザインで、優れた操作性を提供します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq9jf0xtQSiRJJ4oZkkSkE0q3PAdj2vjxXbNfvWPaevi1hM-MCA7u2VRRMnmkT51BS2WRnPQaThLw1ZZDu1srDUukIh4-5nyh-GKsVz0HB0BBUvmehwmcIxXDrzmrEpjBfdZIN`</details>
+> **参考情報**: 「エルゴンエア・グリップ：レキのトレッキングポールを象徴するグリップフォルムで、2022年以降拡充されています。人間工学に基づいた最適化されたデザインで、優れた操作性を提供します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq9jf0xtQSiRJJ4oZkkSkE0q3PAdj2vjxXbNfvWPaevi1hM-MCA7u2VRRMnmkT51BS2WRnPQaThLw1ZZDu1srDUukIh4-5nyh-GKsVz0HB0BBUvmehwmcIxXDrzmrEpjBfdZIN`</details>
 
 **JK**: でも、握りやすいグリップって他のメーカーにもありそうですけど…
 
@@ -70,7 +70,7 @@ Tags: Trekking Poles, Guide
 
 **先生**: そうだ。天然コルクは手に馴染みやすく、汗を吸収するから滑りにくい。EVAはクッション性があって衝撃を吸収する。どちらも一長一短だ。
 
-**参考情報**: 「コルクグリップは天然コルク素材で手に馴染みやすい握り心地。吸湿性があり、汗で滑りにくい。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrZbVkhNyPM-EVIDbjcr4zwIFHuK7RO2tu7bEo90cQ4C9GNs9VdkwWkAcMVII0xIN5eLb51X9iJ6XsgvMaq86cdssGcbLegZzVzm6ejlJ7rAr2aUw=`</details>
+> **参考情報**: 「コルクグリップは天然コルク素材で手に馴染みやすい握り心地。吸湿性があり、汗で滑りにくい。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrZbVkhNyPM-EVIDbjcr4zwIFHuK7RO2tu7bEo90cQ4C9GNs9VdkwWkAcMVII0xIN5eLb51X9iJ6XsgvMaq86cdssGcbLegZzVzm6ejlJ7rAr2aUw=`</details>
 
 **JK**: 汗っかきの私はコルクがいいかも…手汗でグリップ滑るの本当にイヤなんですよね。
 
@@ -84,7 +84,7 @@ Tags: Trekking Poles, Guide
 
 **先生**: その通り。ポールを地面に突いたときの衝撃を**最大40%軽減**するシステムだ。ポールの先端部分に内蔵されていて、手首や肘、肩への負担を和らげる。
 
-**参考情報**: 「DSSは、LEKIの独自衝撃吸収システムであるダイナミック・サスペンションシステムを指します。ポールを地面に突いた際の衝撃を最大40%軽減し、関節、筋肉、靭帯への負担を和らげます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAmOxgr6oTojuJ0JTANLrdgfH1GMithl_dhdHy5ZzPSqCoJcA09VgYse2TbxuQ_HYDD00KTpzQkDNV-IdpqbN_-ObIjD7D23AqHQXIfOGpuqncim0yV14E-5l1RWlv97bGb-aJpradtsZwUP8F-s5ReqzCL1r1qR2uUG1ZQKJxzEmK8nSCWg4=`</details>
+> **参考情報**: 「DSSは、LEKIの独自衝撃吸収システムであるダイナミック・サスペンションシステムを指します。ポールを地面に突いた際の衝撃を最大40%軽減し、関節、筋肉、靭帯への負担を和らげます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAmOxgr6oTojuJ0JTANLrdgfH1GMithl_dhdHy5ZzPSqCoJcA09VgYse2TbxuQ_HYDD00KTpzQkDNV-IdpqbN_-ObIjD7D23AqHQXIfOGpuqncim0yV14E-5l1RWlv97bGb-aJpradtsZwUP8F-s5ReqzCL1r1qR2uUG1ZQKJxzEmK8nSCWg4=`</details>
 
 **JK**: 40%も！？ それってかなり大きくないですか？
 
@@ -108,13 +108,13 @@ Tags: Trekking Poles, Guide
 
 **先生**: 回すタイプはツイストロック式だな。レキのスピードロックは違う。レバーを開閉するだけで長さを固定できる。グローブをしたままでも操作しやすいぞ。
 
-**参考情報**: 「スピードロックシステム：ワンタッチでスピーディに長さを調整できるLEKI独自のロックシステムで、軽量化、コンパクト化が進んでいます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVga2wMGcG4deRt_9SYi2mDq0fL9f6ZyV-UBg58ixpLKkPRhjjIBR7I6XuudBNSR_EVHhubp7vi03azLUkgojOhMGjN5z_G4VahpvSal1j3Dbaoc4mwIJv2KE-TEk=`</details>
+> **参考情報**: 「スピードロックシステム：ワンタッチでスピーディに長さを調整できるLEKI独自のロックシステムで、軽量化、コンパクト化が進んでいます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVga2wMGcG4deRt_9SYi2mDq0fL9f6ZyV-UBg58ixpLKkPRhjjIBR7I6XuudBNSR_EVHhubp7vi03azLUkgojOhMGjN5z_G4VahpvSal1j3Dbaoc4mwIJv2KE-TEk=`</details>
 
 **JK**: グローブしたままでもできるんですか！ 冬山とか便利そう。
 
 **先生**: しかも、スピードロックシステムは進化を続けていてな。最新の**スピードロック・プラス**は、従来より重量が約35%軽く、サイズも27%コンパクトになっている。
 
-**参考情報**: 「スピードロック・プラス：スピードロックシステムを進化させた一体成型タイプで、固定力調整ダイヤルが緩めすぎても本体から脱落しないよう工夫されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOzgP_5kXIzWAoSJZlX75v2AP6vsvf1G5-UBN7h-FCr5BmMWvyyUupPETjrMVLDMue4Iwixt9ca8de2OmFmc9JNjTtTFx9jm9lVm7TPXZeM3Mf0ers1RGJtfwWZmWPP1La8V_WAYPthM-PL6OhGyA=`</details>
+> **参考情報**: 「スピードロック・プラス：スピードロックシステムを進化させた一体成型タイプで、固定力調整ダイヤルが緩めすぎても本体から脱落しないよう工夫されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOzgP_5kXIzWAoSJZlX75v2AP6vsvf1G5-UBN7h-FCr5BmMWvyyUupPETjrMVLDMue4Iwixt9ca8de2OmFmc9JNjTtTFx9jm9lVm7TPXZeM3Mf0ers1RGJtfwWZmWPP1La8V_WAYPthM-PL6OhGyA=`</details>
 
 **JK**: そこまで細かく改良してるんですね…マニアックというか、さすがポール専門メーカー。
 
@@ -138,7 +138,7 @@ Tags: Trekking Poles, Guide
 
 **先生**: 約1万円〜1万4千円程度。レキの中では最もリーズナブルなモデルだ。
 
-**参考情報**: 「ジャーニーライトシリーズは、基本的な機能を備え、コストパフォーマンスに優れたモデルとして紹介されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2nEdtEZ-Obj1DolhNd_r2V0GyHEpAuaJrcqvK8OwS6uDBfB8a96Iv6IfoxTjgIH-vTPzAsc3TWXZfnLJ4TnHnBwJWLQF2KUikgFV_SDNAf4mKqeH7CVu18ajPWvBF289XbjKNMTZSlSNJN4RpfuHnsFeD`</details>
+> **参考情報**: 「ジャーニーライトシリーズは、基本的な機能を備え、コストパフォーマンスに優れたモデルとして紹介されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2nEdtEZ-Obj1DolhNd_r2V0GyHEpAuaJrcqvK8OwS6uDBfB8a96Iv6IfoxTjgIH-vTPzAsc3TWXZfnLJ4TnHnBwJWLQF2KUikgFV_SDNAf4mKqeH7CVu18ajPWvBF289XbjKNMTZSlSNJN4RpfuHnsFeD`</details>
 
 **JK**: 1万円ならお小遣いで買えるかも…！ でも安いとダメだったりしないですか？
 
@@ -194,7 +194,7 @@ Tags: Trekking Poles, Guide
 
 **先生**: よく知っているな。標高8,485mのヒマラヤの峰だ。それだけハードな環境でも使えるという意味が込められている。
 
-**参考情報**: 「マカルーライトAS：LEKIのトレッキング部門を代表するモデルの一つで、エルゴンサーモロンググリップ、アンチショックシステム、スピードロック・プラスシステムを搭載し、機能と品質が継承されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVga2wMGcG4deRt_9SYi2mDq0fL9f6ZyV-UBg58ixpLKkPRhjjIBR7I6XuudBNSR_EVHhubp7vi03azLUkgojOhMGjN5z_G4VahpvSal1j3Dbaoc4mwIJv2KE-TEk=`</details>
+> **参考情報**: 「マカルーライトAS：LEKIのトレッキング部門を代表するモデルの一つで、エルゴンサーモロンググリップ、アンチショックシステム、スピードロック・プラスシステムを搭載し、機能と品質が継承されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVga2wMGcG4deRt_9SYi2mDq0fL9f6ZyV-UBg58ixpLKkPRhjjIBR7I6XuudBNSR_EVHhubp7vi03azLUkgojOhMGjN5z_G4VahpvSal1j3Dbaoc4mwIJv2KE-TEk=`</details>
 
 **JK**: おお…名前からして強そう。何が違うんですか？
 
@@ -231,7 +231,7 @@ Tags: Trekking Poles, Guide
 
 **先生**: うむ。このモデルは約450〜456gで、ペアでペットボトル1本分以下の重さだ。しかも折りたたみ式で、収納時は約40cmまでコンパクトになる。
 
-**参考情報**: 「ブラックシリーズは軽量性とコンパクトさを重視しています。FXの名称が示す通り、三段折りたたみ式（フォールディング）が主流で、非常にコンパクトに収納できるのが大きな利点です（収納時40cm程度）。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdrA6mdSmXwipTVtqbIHXM2MhCG41c4gy6Dba2tMUhTgbB6__otrJ22auiTd1Nx-NL8UJlBj98fc3zO42uCh1cca0PByT6nNLpNXyxRod4qaBLeKRNB69Mfc7hc0ITu9ZJ-BauaIzskVJ5ppb1jILi0fyHr6NaXesVfxBi5fT-ewA=`</details>
+> **参考情報**: 「ブラックシリーズは軽量性とコンパクトさを重視しています。FXの名称が示す通り、三段折りたたみ式（フォールディング）が主流で、非常にコンパクトに収納できるのが大きな利点です（収納時40cm程度）。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdrA6mdSmXwipTVtqbIHXM2MhCG41c4gy6Dba2tMUhTgbB6__otrJ22auiTd1Nx-NL8UJlBj98fc3zO42uCh1cca0PByT6nNLpNXyxRod4qaBLeKRNB69Mfc7hc0ITu9ZJ-BauaIzskVJ5ppb1jILi0fyHr6NaXesVfxBi5fT-ewA=`</details>
 
 **JK**: 40cm！？ それならザックの中に入りますね！
 
@@ -270,7 +270,7 @@ Tags: Trekking Poles, Guide
 
 **先生**: **クレシダ**シリーズがある。手の小さな女性でも握りやすいよう、グリップが細めに設計されている。
 
-**参考情報**: 「クレシダは女性向けモデルで、手の小さな女性でも握りやすい細いグリップが特徴です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2nEdtEZ-Obj1DolhNd_r2V0GyHEpAuaJrcqvK8OwS6uDBfB8a96Iv6IfoxTjgIH-vTPzAsc3TWXZfnLJ4TnHnBwJWLQF2KUikgFV_SDNAf4mKqeH7CVu18ajPWvBF289XbjKNMTZSlSNJN4RpfuHnsFeD`</details>
+> **参考情報**: 「クレシダは女性向けモデルで、手の小さな女性でも握りやすい細いグリップが特徴です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2nEdtEZ-Obj1DolhNd_r2V0GyHEpAuaJrcqvK8OwS6uDBfB8a96Iv6IfoxTjgIH-vTPzAsc3TWXZfnLJ4TnHnBwJWLQF2KUikgFV_SDNAf4mKqeH7CVu18ajPWvBF289XbjKNMTZSlSNJN4RpfuHnsFeD`</details>
 
 **JK**: あ、それ大事ですね！ 男性用のグリップって太くて握りにくいことあるし。
 
@@ -294,7 +294,7 @@ Tags: Trekking Poles, Guide
 
 **先生**: ある。**ウルトラトレイル FX.One スーパーライト**がその代表だ。なんと重量は約274g。ペアでスマホより軽いんだ。
 
-**参考情報**: 「ウルトラトレイル FX One Super lite：LEKI独自のグローブ型ストラップ「トレイルシャークグリップ」を採用した人気モデルです。ポールを握り続けなくても突き出すことができ、ワンタッチで取り外しも可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKAcjgrs9-0hGGC3z3Z7XJZAYeaUT9mX9Et9swBW_v4ZHEWxWCgRMF-TM69jiOaMtoDl2zUarmvEFMGQh4ynfwHdrCG0W75b4kXwxSRO14QBspPiHxOjwQ15-hXlVcEJRGEXdOlcEMl5f-RkdzDoUc97g_2A==`</details>
+> **参考情報**: 「ウルトラトレイル FX One Super lite：LEKI独自のグローブ型ストラップ「トレイルシャークグリップ」を採用した人気モデルです。ポールを握り続けなくても突き出すことができ、ワンタッチで取り外しも可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKAcjgrs9-0hGGC3z3Z7XJZAYeaUT9mX9Et9swBW_v4ZHEWxWCgRMF-TM69jiOaMtoDl2zUarmvEFMGQh4ynfwHdrCG0W75b4kXwxSRO14QBspPiHxOjwQ15-hXlVcEJRGEXdOlcEMl5f-RkdzDoUc97g_2A==`</details>
 
 **JK**: 274g！？ 軽すぎじゃないですか？
 
@@ -337,7 +337,7 @@ Tags: Trekking Poles, Guide
 
 **先生**: アルミのメリットは**強度と粘り**だ。岩場で挟まったり、負荷がかかっても折れにくい。曲がることはあっても、完全に折れることは少ない。
 
-**参考情報**: 「アルミ製ポールは強度が高く、負荷がかかっても折れにくい（曲がることはあっても折れにくい）という特徴があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7lwaSkfvuhEwujlk2j_TOax1ocove6v4j3oas7y3fcqV8vdLL1TrIrfbMJSPnSLW3l0d5x9qCwqv4Un7OwLl594IaOrsT8nJaE14fd0WOCNq_aLdB5MbqsV0SkxbaQ-cjlYJo8v1Xj1mmU-7BgJlBqg==`</details>
+> **参考情報**: 「アルミ製ポールは強度が高く、負荷がかかっても折れにくい（曲がることはあっても折れにくい）という特徴があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7lwaSkfvuhEwujlk2j_TOax1ocove6v4j3oas7y3fcqV8vdLL1TrIrfbMJSPnSLW3l0d5x9qCwqv4Un7OwLl594IaOrsT8nJaE14fd0WOCNq_aLdB5MbqsV0SkxbaQ-cjlYJo8v1Xj1mmU-7BgJlBqg==`</details>
 
 **JK**: 折れないのは安心ですね。
 
@@ -371,7 +371,7 @@ Tags: Trekking Poles, Guide
 
 **先生**: あるんだ。まず、ストラップを**下から上へ手を通す**。そして、手のひらをストラップの上に置いてから、グリップを軽く握る。
 
-**参考情報**: 「まず、トレッキングポールのストラップを下から上へ通し、手のひらをストラップの上に置きます。ストラップを通して、そのままグリップを軽く握ります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkIvaKBGgqyA7mWkKbcjPqwov4fDs25YXhRhkVSOKcRH0-KlBVeBcW3diKwMTclGULv4IYO8OzZQs0lo8mX9qFckjBRdYpO88jBJJdzdhedhGPEdCeGQxymdk=`</details>
+> **参考情報**: 「まず、トレッキングポールのストラップを下から上へ通し、手のひらをストラップの上に置きます。ストラップを通して、そのままグリップを軽く握ります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkIvaKBGgqyA7mWkKbcjPqwov4fDs25YXhRhkVSOKcRH0-KlBVeBcW3diKwMTclGULv4IYO8OzZQs0lo8mX9qFckjBRdYpO88jBJJdzdhedhGPEdCeGQxymdk=`</details>
 
 **JK**: 下から通すんですね。上から通してました…
 
@@ -389,7 +389,7 @@ Tags: Trekking Poles, Guide
 
 **先生**: ダメだ。基本は、**肘の角度が90〜100度**になる長さが目安とされている。地面に突いたとき、腕が直角になるイメージだ。
 
-**参考情報**: 「平地で使用する場合、ポールを地面につけたときに肘の角度が90～100度になるのが適切な長さとされています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkIvaKBGgqyA7mWkKbcjPqwov4fDs25YXhRhkVSOKcRH0-KlBVeBcW3diKwMTclGULv4IYO8OzZQs0lo8mX9qFckjBRdYpO88jBJJdzdhedhGPEdCeGQxymdk=`</details>
+> **参考情報**: 「平地で使用する場合、ポールを地面につけたときに肘の角度が90～100度になるのが適切な長さとされています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkIvaKBGgqyA7mWkKbcjPqwov4fDs25YXhRhkVSOKcRH0-KlBVeBcW3diKwMTclGULv4IYO8OzZQs0lo8mX9qFckjBRdYpO88jBJJdzdhedhGPEdCeGQxymdk=`</details>
 
 **JK**: 登りと下りで変えたほうがいいって聞いたことがあるんですけど…
 
@@ -399,7 +399,7 @@ Tags: Trekking Poles, Guide
 
 **先生**: 正しく使えば、ポールを突くたびに**体重の約20%を足と膝から軽減できる**と言われている。
 
-**参考情報**: 「トレッキングポールは、歩行時の体重の一部を上半身に分散させ、足や膝への負担を軽減する効果があります。平均して、ポールを突くたびに体重の約20%を足と膝から軽減できると言われています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtIolC1meIH5syRXAuvGhQFjC-ZNudokyxj4cSxVv3ZbY5BLFoK_4HYTcRZLKZ0NAxcLBR4PU_KKhmk2QE1mpTatm-C_XDOZspb7VJc59rgqWe_V3ISvH5wvZAxs-vilH-1CB2XpLH12rOZsGKrAUeYuZDoF6XgZPT_sQ0Ltte8q3EcbUbe8wKtfvjg_shw7pFPrfD`</details>
+> **参考情報**: 「トレッキングポールは、歩行時の体重の一部を上半身に分散させ、足や膝への負担を軽減する効果があります。平均して、ポールを突くたびに体重の約20%を足と膝から軽減できると言われています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtIolC1meIH5syRXAuvGhQFjC-ZNudokyxj4cSxVv3ZbY5BLFoK_4HYTcRZLKZ0NAxcLBR4PU_KKhmk2QE1mpTatm-C_XDOZspb7VJc59rgqWe_V3ISvH5wvZAxs-vilH-1CB2XpLH12rOZsGKrAUeYuZDoF6XgZPT_sQ0Ltte8q3EcbUbe8wKtfvjg_shw7pFPrfD`</details>
 
 **JK**: 20%も！？ それって結構大きいですよね。
 
@@ -417,7 +417,7 @@ Tags: Trekking Poles, Guide
 
 **先生**: 使用後は、天候に関わらず早めに分解して、水分や泥を拭き取る。
 
-**参考情報**: 「使用後は、天候に関わらず、なるべく早くポールを一本ずつ分解します。乾いたタオルで、結合部に付いた水分や泥汚れを拭き取ります。特にネジ山部分の水分や汚れを拭き取ることで、アンチショックやロック機能を良好に保てます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUh0OlJUODfngaIYZ1wlZF46TfMXAsvYKSaInRj9xBjdhEmSzjdhejLyofDIbrWKgnDCnYjq4CEgoonp5AeL5xuIBt2IHHfGNSvlxx1Hbl_sXqnBlRXbKeuc7xcMgCxk0y9JTOiCEHOQ4fFGzBlcC5K6K4M_w=`</details>
+> **参考情報**: 「使用後は、天候に関わらず、なるべく早くポールを一本ずつ分解します。乾いたタオルで、結合部に付いた水分や泥汚れを拭き取ります。特にネジ山部分の水分や汚れを拭き取ることで、アンチショックやロック機能を良好に保てます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUh0OlJUODfngaIYZ1wlZF46TfMXAsvYKSaInRj9xBjdhEmSzjdhejLyofDIbrWKgnDCnYjq4CEgoonp5AeL5xuIBt2IHHfGNSvlxx1Hbl_sXqnBlRXbKeuc7xcMgCxk0y9JTOiCEHOQ4fFGzBlcC5K6K4M_w=`</details>
 
 **JK**: え、毎回分解するんですか？ めんどくさい…
 
@@ -431,7 +431,7 @@ Tags: Trekking Poles, Guide
 
 **先生**: ダメだ。シャフトに油分がつくと、ロック機構が滑って固定できなくなる。むしろ危険になるんだ。
 
-**参考情報**: 「シャフトにクリーナーや潤滑油は絶対に使用しないでください。滑ってロックができなくなる原因となります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUh0OlJUODfngaIYZ1wlZF46TfMXAsvYKSaInRj9xBjdhEmSzjdhejLyofDIbrWKgnDCnYjq4CEgoonp5AeL5xuIBt2IHHfGNSvlxx1Hbl_sXqnBlRXbKeuc7xcMgCxk0y9JTOiCEHOQ4fFGzBlcC5K6K4M_w=`</details>
+> **参考情報**: 「シャフトにクリーナーや潤滑油は絶対に使用しないでください。滑ってロックができなくなる原因となります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUh0OlJUODfngaIYZ1wlZF46TfMXAsvYKSaInRj9xBjdhEmSzjdhejLyofDIbrWKgnDCnYjq4CEgoonp5AeL5xuIBt2IHHfGNSvlxx1Hbl_sXqnBlRXbKeuc7xcMgCxk0y9JTOiCEHOQ4fFGzBlcC5K6K4M_w=`</details>
 
 **JK**: そうなんですね…知らなかったら使っちゃいそう。
 
@@ -439,7 +439,7 @@ Tags: Trekking Poles, Guide
 
 **先生**: あと、先端のゴムキャップ（スリップレスラバー）やバスケットは消耗品だ。摩耗したら交換が必要だぞ。
 
-**参考情報**: 「LEKIポールのバスケットは、用途に応じて交換することができます。例えば、雪山ではポールが雪に深く刺さるのを防ぐため、面積の広いスノーバスケットへの交換が推奨されます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9mjDp83n700Lx5SgCS6mhwo8JNccstGw3E1G5ae3BpLjBvJnZwAqpAsc6La2g6Bjup8flplcGsByl7ypclt63tk8_kTg_wIKK2VCLUs7o1QW8S68i1FyeqvEklYQIByzTKxyeZw==`</details>
+> **参考情報**: 「LEKIポールのバスケットは、用途に応じて交換することができます。例えば、雪山ではポールが雪に深く刺さるのを防ぐため、面積の広いスノーバスケットへの交換が推奨されます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9mjDp83n700Lx5SgCS6mhwo8JNccstGw3E1G5ae3BpLjBvJnZwAqpAsc6La2g6Bjup8flplcGsByl7ypclt63tk8_kTg_wIKK2VCLUs7o1QW8S68i1FyeqvEklYQIByzTKxyeZw==`</details>
 
 **JK**: バスケットって何ですか？
 
@@ -473,7 +473,7 @@ Tags: Trekking Poles, Guide
 
 **先生**: 1919年創業の日本の老舗ポールメーカーだ。日本人の体格に合わせた設計が特徴で、メンテナンス性も高い。
 
-**参考情報**: 「シナノは1919年創業の長野県の老舗ポールメーカーで、もともとはスキーストックの生産からスタートしました。日本人の体格や歩行感覚に合わせた設計が大きな特徴です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXZS99_1FerIo3XR9GYjOmDCGVVf7usXZ99D5c5B-M4V9FXeOxfUqg_yfl0kOUWZVIYRwqTJHbvprLrlXtKrkSrZ-kFel4oobjPH01yMbJHI-tjZW2utOByEScDuM=`</details>
+> **参考情報**: 「シナノは1919年創業の長野県の老舗ポールメーカーで、もともとはスキーストックの生産からスタートしました。日本人の体格や歩行感覚に合わせた設計が大きな特徴です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXZS99_1FerIo3XR9GYjOmDCGVVf7usXZ99D5c5B-M4V9FXeOxfUqg_yfl0kOUWZVIYRwqTJHbvprLrlXtKrkSrZ-kFel4oobjPH01yMbJHI-tjZW2utOByEScDuM=`</details>
 
 **JK**: いろいろあるんですね…結局どれがいいんですか？
 
@@ -489,7 +489,7 @@ Tags: Trekking Poles, Guide
 
 ### 良い評価
 
-**参考情報**: 「多くのモデルが軽量で、特にアルミ製であっても「とにかく軽い」と感じるユーザーが多いです。バランスの良さから、実際の重量よりも軽く感じられるという意見もあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaIlAnh6LWTPKR6J7BvgqynvcXcTU9MLYaWe8Jgks4H8xOvInMuCSRu6uLFCiVQbme4o39ytQx-wWLoH3j-PGkOZG6ANmDcwbqEALpez3edtdJMloVcKDESnvJ5Afz4FEEgx45Ri3vvUaUqXSCjvj3`</details>
+> **参考情報**: 「多くのモデルが軽量で、特にアルミ製であっても「とにかく軽い」と感じるユーザーが多いです。バランスの良さから、実際の重量よりも軽く感じられるという意見もあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaIlAnh6LWTPKR6J7BvgqynvcXcTU9MLYaWe8Jgks4H8xOvInMuCSRu6uLFCiVQbme4o39ytQx-wWLoH3j-PGkOZG6ANmDcwbqEALpez3edtdJMloVcKDESnvJ5Afz4FEEgx45Ri3vvUaUqXSCjvj3`</details>
 
 - **軽さ**: アルミ製でも「とにかく軽い」と感じる。バランスが良く、スペック以上に軽く感じる
 - **グリップ**: 長時間使っても手が疲れにくい
@@ -497,14 +497,14 @@ Tags: Trekking Poles, Guide
 - **信頼性**: 70年以上の歴史による安心感
 - **調整のしやすさ**: スピードロックは本当に使いやすい
 
-**参考情報**: 「一度使うと手放せなくなる」「コストパフォーマンスの高いアルミ素材のモデルでも、十分な軽さと使いやすさを実感できる」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ_Fj0cYc8ljU0_2woidtBZF7fnfM00WsMGfPt7cDaNxcZq4Ah8XRs7BemzekBPKCDVha6o3LSYVQmHT0k8yYMNnC9X9RVI_46kHESdXcdfalIouBTuwmgE9XPPFaUgDZMnqg=`</details>
+> **参考情報**: 「一度使うと手放せなくなる」「コストパフォーマンスの高いアルミ素材のモデルでも、十分な軽さと使いやすさを実感できる」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ_Fj0cYc8ljU0_2woidtBZF7fnfM00WsMGfPt7cDaNxcZq4Ah8XRs7BemzekBPKCDVha6o3LSYVQmHT0k8yYMNnC9X9RVI_46kHESdXcdfalIouBTuwmgE9XPPFaUgDZMnqg=`</details>
 
 ### 気になる点
 
 - **価格**: 他ブランドより高い
 - **人気ゆえの被り**: 山で他の登山者とモデルが重複しやすい
 
-**参考情報**: 「他のブランドと比較して、レキのトレッキングポールは高価な傾向にあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExT3yQWcfSEI5hZY8AioRGNL0G-p6CLRZOz4kXJEoO3Lqsx8rmdzW9RQpBhlCoW9UuD-unQHKLCqjZrVXRT4dKOM1pcnos86f9rH9ETEzqIVvSh4qpdJPt79ohGF5J6nicVtwW_9k4x5eIZ_cjnHWaUw==`</details>
+> **参考情報**: 「他のブランドと比較して、レキのトレッキングポールは高価な傾向にあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExT3yQWcfSEI5hZY8AioRGNL0G-p6CLRZOz4kXJEoO3Lqsx8rmdzW9RQpBhlCoW9UuD-unQHKLCqjZrVXRT4dKOM1pcnos86f9rH9ETEzqIVvSh4qpdJPt79ohGF5J6nicVtwW_9k4x5eIZ_cjnHWaUw==`</details>
 
 **JK**: やっぱり高いのがネックですか…
 

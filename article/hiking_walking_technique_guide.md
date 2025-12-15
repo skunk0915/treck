@@ -49,7 +49,7 @@ Tags: Hiking, Guide
 
 **先生**: 響きはともかく、これが登山における最も基本的な歩行技術だ。簡単に言えば、足裏全体を同時に地面に着地させる歩き方のことだ。
 
-**参考情報**: 「靴底（ソール）の凹凸全体を地面に接地させることで、ソールのグリップ力を最大限に引き出し、スリップを防ぎます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_C2_4qt7UtG5pCIOUsa4-D_B4ka-xnnBcIjCE1OJOAGF6Q8WhMFxsa7bVWItNlSS0vas40mM_hw011ffYh6eosE-x4C5M5Xo6Tm199xjl9CqxTDlyJpoXrcG6p3yPPrbHBEn8Y-nEjFYR0T089ijguAg=`</details>
+> **参考情報**: 「靴底（ソール）の凹凸全体を地面に接地させることで、ソールのグリップ力を最大限に引き出し、スリップを防ぎます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_C2_4qt7UtG5pCIOUsa4-D_B4ka-xnnBcIjCE1OJOAGF6Q8WhMFxsa7bVWItNlSS0vas40mM_hw011ffYh6eosE-x4C5M5Xo6Tm199xjl9CqxTDlyJpoXrcG6p3yPPrbHBEn8Y-nEjFYR0T089ijguAg=`</details>
 
 **JK**: かかとからじゃなくて、全体で？ちょっとイメージしにくいです。
 
@@ -71,7 +71,7 @@ Tags: Hiking, Guide
 
 **先生**: その通り。三つ目は**疲労軽減**だ。体重が足裏全体に均等に分散されるから、膝や足首への負担が減る。
 
-**参考情報**: 「体重が足裏全体に均等に分散されるため、特定の部位に負担が集中するのを防ぎ、膝や足首の痛みを軽減し、疲れにくくなります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXnoOU9Qoi1ZXv03KM-yPSZJd-55XbaUYERj4_ahmAdAGbui6vtqVigJ1NcZdT_frqvvQpgEpXmp3Vf3Q6z7n-rUaAs7ILLSCvH0-HhMLgpBxr6lrRnIwI3At9hqmGXgbe7uB5XQ_1Pw0YazhvosGgQ4fS7I7kF6XDtw==`</details>
+> **参考情報**: 「体重が足裏全体に均等に分散されるため、特定の部位に負担が集中するのを防ぎ、膝や足首の痛みを軽減し、疲れにくくなります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXnoOU9Qoi1ZXv03KM-yPSZJd-55XbaUYERj4_ahmAdAGbui6vtqVigJ1NcZdT_frqvvQpgEpXmp3Vf3Q6z7n-rUaAs7ILLSCvH0-HhMLgpBxr6lrRnIwI3At9hqmGXgbe7uB5XQ_1Pw0YazhvosGgQ4fS7I7kF6XDtw==`</details>
 
 **JK**: それ重要です！下山したら膝がガクガクだったんですよ。
 
@@ -103,7 +103,7 @@ Tags: Hiking, Guide
 
 **先生**: 良い質問だ。正しい姿勢は疲労軽減に直結する。基本は上体をまっすぐに起こし、視線を少し前方に向けることだ。
 
-**参考情報**: 「上体をまっすぐに起こし、視線をやや前方に向けましょう。この姿勢は骨格で体を支えるため、無駄な筋肉の力を使いにくく、疲れにくいです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAxuktLvuNxHJYA3W9MJIkRMym5lMc87PtfQ1rKb9xO2HrVqh1GscxQxyahQDprLxjSt-_zMZgPzSIAI68NMTqLuU3u9hxYiH-vIo6ayZLn2sfLja7`</details>
+> **参考情報**: 「上体をまっすぐに起こし、視線をやや前方に向けましょう。この姿勢は骨格で体を支えるため、無駄な筋肉の力を使いにくく、疲れにくいです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAxuktLvuNxHJYA3W9MJIkRMym5lMc87PtfQ1rKb9xO2HrVqh1GscxQxyahQDprLxjSt-_zMZgPzSIAI68NMTqLuU3u9hxYiH-vIo6ayZLn2sfLja7`</details>
 
 **JK**: でも上り坂って、下向いちゃいませんか？足元見なきゃって思って。
 
@@ -119,7 +119,7 @@ Tags: Hiking, Guide
 
 **先生**: 山道で大股は絶対NGだ。歩幅が大きいと太ももに強い負担がかかり、バランスを崩しやすくなる。
 
-**参考情報**: 「歩幅を大きくすると、太ももに強い負担がかかり、バランスを崩したり筋肉疲労や怪我の原因になることがあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6ErPcP0fHBAIwCRlwgCP_mov5DYzhjZYWdlCtgSspYMcS-ydO3MPdA4U3LDA3scwNYIXNYho5t_1Qe3FJoqrzA0Ne21gZIphjAsEo24IUk-A2xWPpyyQajP0ONw==`</details>
+> **参考情報**: 「歩幅を大きくすると、太ももに強い負担がかかり、バランスを崩したり筋肉疲労や怪我の原因になることがあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6ErPcP0fHBAIwCRlwgCP_mov5DYzhjZYWdlCtgSspYMcS-ydO3MPdA4U3LDA3scwNYIXNYho5t_1Qe3FJoqrzA0Ne21gZIphjAsEo24IUk-A2xWPpyyQajP0ONw==`</details>
 
 **JK**: えー、でも大股でサクサク歩いた方が早く着きそうじゃないですか？
 
@@ -149,7 +149,7 @@ Tags: Hiking, Guide
 
 **先生**: まず、さっき教えたフラットフッティングを意識する。つま先だけで登ろうとすると、ふくらはぎに過度な負担がかかって疲労しやすくなる。
 
-**参考情報**: 「つま先だけで登るとふくらはぎに過度な負担がかかり、疲労しやすくなります。また、滑落の危険性も高まります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAxuktLvuNxHJYA3W9MJIkRMym5lMc87PtfQ1rKb9xO2HrVqh1GscxQxyahQDprLxjSt-_zMZgPzSIAI68NMTqLuU3u9hxYiH-vIo6ayZLn2sfLja7`</details>
+> **参考情報**: 「つま先だけで登るとふくらはぎに過度な負担がかかり、疲労しやすくなります。また、滑落の危険性も高まります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAxuktLvuNxHJYA3W9MJIkRMym5lMc87PtfQ1rKb9xO2HrVqh1GscxQxyahQDprLxjSt-_zMZgPzSIAI68NMTqLuU3u9hxYiH-vIo6ayZLn2sfLja7`</details>
 
 **JK**: 私まさにつま先で登ってました！翌日ふくらはぎが筋肉痛になったのはそのせいだったんですね。
 
@@ -185,7 +185,7 @@ Tags: Hiking, Guide
 
 **先生**: 下りでは重力に引っ張られて体が勝手に前に進もうとする。それを太ももの前側の筋肉でブレーキをかけながら歩くから、膝への負担が大きくなる。
 
-**参考情報**: 「下りでは、重力によって体が自然と前進しやすいため、着地のたびに下半身の筋肉でブレーキをかける必要があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyPbQ_vhYACMwfBfSnxIyYyIe3d1sG85CnzebvJbLxx7bFpu9UtT-Fu34dnP--TtPJs3AtOu2fNFXL6puc0rb8G69s3RK9jP9EmvtaRKWt-bBRc6Vk0f8RDNyJ8rhUNMDBBOf19Odq4jLLw68NbCpqElZIvg==`</details>
+> **参考情報**: 「下りでは、重力によって体が自然と前進しやすいため、着地のたびに下半身の筋肉でブレーキをかける必要があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyPbQ_vhYACMwfBfSnxIyYyIe3d1sG85CnzebvJbLxx7bFpu9UtT-Fu34dnP--TtPJs3AtOu2fNFXL6puc0rb8G69s3RK9jP9EmvtaRKWt-bBRc6Vk0f8RDNyJ8rhUNMDBBOf19Odq4jLLw68NbCpqElZIvg==`</details>
 
 ### 膝を守る下りの歩き方
 
@@ -203,7 +203,7 @@ Tags: Hiking, Guide
 
 **先生**: 最も重要なのは、**前側の足に重心を乗せすぎないこと**だ。後ろ足に重心を残しながら、ゆっくりと前足に体重を移していく。
 
-**参考情報**: 「前足に全体重を乗せて着地すると、膝に大きな負担がかかる原因となります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfBDiXbL2k7E5fHVIENMrP3rsiPy56WekLHPl12C9W7XeCG0MzJBFzMdZU-4lD7zrga0VBmX5oCzlpEcmWwEV2KPCFeV7OAcZMQUeO4OGdKkabmlOGM1B3COCFiYutXtR4FzM=`</details>
+> **参考情報**: 「前足に全体重を乗せて着地すると、膝に大きな負担がかかる原因となります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfBDiXbL2k7E5fHVIENMrP3rsiPy56WekLHPl12C9W7XeCG0MzJBFzMdZU-4lD7zrga0VBmX5oCzlpEcmWwEV2KPCFeV7OAcZMQUeO4OGdKkabmlOGM1B3COCFiYutXtR4FzM=`</details>
 
 **JK**: ドスン！って着地しちゃダメってことですね。
 
@@ -247,7 +247,7 @@ Tags: Hiking, Guide
 
 **先生**: さらに科学的に言えば、最高心拍数の75%以下を保って歩くのが理想的だ。
 
-**参考情報**: 「個々の体力に合わせて、最高心拍数の75%以下を保って歩くことが、乳酸の蓄積を防ぎ、疲労を防止するための目安とされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRCrQ2cQLhm8rmIIA6mY1Pg_xtmuNw_VZs2hKnmYbI3RZzJ0f0UyFfwnCjpEoMcklGancABOle7GuzLmazf_uqqFjqu72UeHTxk9jK7SP1-x_831Ytv4WXBv-BcoEEW9izM94TTQ==`</details>
+> **参考情報**: 「個々の体力に合わせて、最高心拍数の75%以下を保って歩くことが、乳酸の蓄積を防ぎ、疲労を防止するための目安とされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRCrQ2cQLhm8rmIIA6mY1Pg_xtmuNw_VZs2hKnmYbI3RZzJ0f0UyFfwnCjpEoMcklGancABOle7GuzLmazf_uqqFjqu72UeHTxk9jK7SP1-x_831Ytv4WXBv-BcoEEW9izM94TTQ==`</details>
 
 **JK**: 心拍数って、どうやって測るんですか？
 
@@ -269,7 +269,7 @@ Tags: Hiking, Guide
 
 **先生**: 多くの人は息を吸うことに意識が向きがちだが、登山では**「吐ききること」**が大事だ。
 
-**参考情報**: 「肺の中の古い空気をしっかり吐き出すことで、新しい空気を多く取り込み、酸素供給の効率を高めることができます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ0Z_wL_Q0ZO4KSNAMZ-ctILClkPgxwgAyqHlFQRUsINrqmiH7HkfhCQ5quGQGNp2N7HV4ouL25KGFAEnE4kph1cXi-A3iUX6NrvZPHzl3Q0o2nmjcbwLBROupZOXOYt1PfVF9aTMLPaa3TEiJ8FOKuvfRAxI=`</details>
+> **参考情報**: 「肺の中の古い空気をしっかり吐き出すことで、新しい空気を多く取り込み、酸素供給の効率を高めることができます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ0Z_wL_Q0ZO4KSNAMZ-ctILClkPgxwgAyqHlFQRUsINrqmiH7HkfhCQ5quGQGNp2N7HV4ouL25KGFAEnE4kph1cXi-A3iUX6NrvZPHzl3Q0o2nmjcbwLBROupZOXOYt1PfVF9aTMLPaa3TEiJ8FOKuvfRAxI=`</details>
 
 **JK**: 吐くこと？吸うことじゃなくて？
 
@@ -305,7 +305,7 @@ Tags: Hiking, Guide
 
 **先生**: ポールがあれば、下半身だけでなく上半身の力も活用できる。登りでは腕の力で足の疲れを分散させ、下りでは衝撃吸収効果で膝痛の予防にもなる。
 
-**参考情報**: 「トレッキングポールは「もう一つの足」として使うイメージで、歩行の安定性を高め、体重の一部を腕に分散させることで、膝や腰への負担を大きく軽減します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH0n2_7nssmxtOn8JSR5vFoz--Op6bpa9r4Xttc9mtmENjCTJxyHwXzvUT4tDrGh2RBUh5HJTW2F5AeSWZLaDe2vEw5mpu55Sc2rysv_8CMgzW-rv-7U78_YIh`</details>
+> **参考情報**: 「トレッキングポールは「もう一つの足」として使うイメージで、歩行の安定性を高め、体重の一部を腕に分散させることで、膝や腰への負担を大きく軽減します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH0n2_7nssmxtOn8JSR5vFoz--Op6bpa9r4Xttc9mtmENjCTJxyHwXzvUT4tDrGh2RBUh5HJTW2F5AeSWZLaDe2vEw5mpu55Sc2rysv_8CMgzW-rv-7U78_YIh`</details>
 
 **JK**: へー、「もう一つの足」ですか。
 
@@ -347,7 +347,7 @@ Tags: Hiking, Guide
 
 **先生**: 経験を積むしかないが、明らかに不安定そうな石は避ける。そして万が一落石を起こしてしまったら、すぐに「**ラック！**」や「**落石！**」と叫んで周囲に注意喚起をすること。
 
-**参考情報**: 「ストック（トレッキングポール）は便利なアイテムですが、石が崩れやすいガレ場で使うと落石の可能性が高まるため注意が必要です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkKnxj6lx5xk7HYR5ctMxjHCTCS-CaRGtKTTUN1J5PCfftQNDXhd60mxWH-jUdM-GSGxz5m6ZsjmEbAarxpGZkZRKX6FI4aH7TJV0WqWhQNay9Au0V9FqWvKV3qZ0GXoxW86U7d80nbw6C9u-1e0jHXohLp75uB4RGfGw=`</details>
+> **参考情報**: 「ストック（トレッキングポール）は便利なアイテムですが、石が崩れやすいガレ場で使うと落石の可能性が高まるため注意が必要です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkKnxj6lx5xk7HYR5ctMxjHCTCS-CaRGtKTTUN1J5PCfftQNDXhd60mxWH-jUdM-GSGxz5m6ZsjmEbAarxpGZkZRKX6FI4aH7TJV0WqWhQNay9Au0V9FqWvKV3qZ0GXoxW86U7d80nbw6C9u-1e0jHXohLp75uB4RGfGw=`</details>
 
 **JK**: ポールも危険なんですか？
 
@@ -357,7 +357,7 @@ Tags: Hiking, Guide
 
 **先生**: 岩場では**三点支持**が基本だ。手足の4点のうち、常に3点が岩を捉えている状態を保つ。
 
-**参考情報**: 「安全な岩場歩行の基本は「三点支持」です。手足の4点のうち常に3点が岩を捉えている状態を保ち、1点だけを動かすようにします」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7zJSpWj4yYRu90OlmwLj67-bpLuAJi5NTH9sS8_gW_BbW7W9reM9S3jVzg34xBC1a2NlEqIgqwxRDlu3W86vWvuxuLOYAGgTEOOrBgH1_nU3Y4JLbFJeg8zaxMRa2ZUrcSoC7QmGz0UIlGvlNrr1GbD8=`</details>
+> **参考情報**: 「安全な岩場歩行の基本は「三点支持」です。手足の4点のうち常に3点が岩を捉えている状態を保ち、1点だけを動かすようにします」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7zJSpWj4yYRu90OlmwLj67-bpLuAJi5NTH9sS8_gW_BbW7W9reM9S3jVzg34xBC1a2NlEqIgqwxRDlu3W86vWvuxuLOYAGgTEOOrBgH1_nU3Y4JLbFJeg8zaxMRa2ZUrcSoC7QmGz0UIlGvlNrr1GbD8=`</details>
 
 **JK**: 一度に動かすのは1点だけってことですね。
 
@@ -381,7 +381,7 @@ Tags: Hiking, Guide
 
 **先生**: 登山開始から20〜30分以内に最初の休憩を取ることをおすすめする。
 
-**参考情報**: 「登山開始から20〜30分以内に最初の休憩を取ることが推奨されます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvgpSN57ZXU57rvpoRhR_WS_-3gRvEuPnfcbsSCYZMyX5beflyvsn05d8ud9NGhMbA1LQJ_QWMVk26iYuaxza3N7zdgU8qa4R9WY7vDslyCnRuvnjsFXyWZcs=`</details>
+> **参考情報**: 「登山開始から20〜30分以内に最初の休憩を取ることが推奨されます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvgpSN57ZXU57rvpoRhR_WS_-3gRvEuPnfcbsSCYZMyX5beflyvsn05d8ud9NGhMbA1LQJ_QWMVk26iYuaxza3N7zdgU8qa4R9WY7vDslyCnRuvnjsFXyWZcs=`</details>
 
 **JK**: そんなに早く？
 
@@ -417,7 +417,7 @@ Tags: Hiking, Guide
 
 **先生**: 喉が渇いたと感じた時には、すでに脱水が始まっている。
 
-**参考情報**: 「喉が渇いたと感じた時には、すでに脱水が始まっています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcvDQvWPaHbpYS9HAfGkwdt0MuOATmF8xnXxS9S-1NSZEIRaE__EsSnOnD4OIv16iDQg1vV1ihHI0vK2bOlvt9iALx1NeWi4tWdfH806FcXt1fKesJMG-wWU9tDX4emAGGPhIUxkJY8g==`</details>
+> **参考情報**: 「喉が渇いたと感じた時には、すでに脱水が始まっています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcvDQvWPaHbpYS9HAfGkwdt0MuOATmF8xnXxS9S-1NSZEIRaE__EsSnOnD4OIv16iDQg1vV1ihHI0vK2bOlvt9iALx1NeWi4tWdfH806FcXt1fKesJMG-wWU9tDX4emAGGPhIUxkJY8g==`</details>
 
 **JK**: マジですか……。
 
@@ -433,7 +433,7 @@ Tags: Hiking, Guide
 
 **先生**: 登山中に手軽にエネルギーを補給するための食料だ。エネルギー切れで動けなくなる「シャリバテ」を防ぐために非常に重要だぞ。
 
-**参考情報**: 「空腹を感じてからでは遅いので、「先回りして補給する」意識が大切です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHds4fIibnqx4e6eJbVPK3vJJ_XLaBKJ2jXOUL_hulDRqcVWmp_cE-bfF9uyEqNBLe489Ul4oaZUzcV2_7MhBnzxLslH-K-tBJ7gnIaYxh6TfGFJx6mfaCJFq4TTpc872BS2C3HLvlKALc=`</details>
+> **参考情報**: 「空腹を感じてからでは遅いので、「先回りして補給する」意識が大切です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHds4fIibnqx4e6eJbVPK3vJJ_XLaBKJ2jXOUL_hulDRqcVWmp_cE-bfF9uyEqNBLe489Ul4oaZUzcV2_7MhBnzxLslH-K-tBJ7gnIaYxh6TfGFJx6mfaCJFq4TTpc872BS2C3HLvlKALc=`</details>
 
 **JK**: お腹が空いてから食べるんじゃダメなんですか？
 
@@ -465,7 +465,7 @@ Tags: Hiking, Guide
 
 **先生**: それだと足が正しい位置に収まらない。足を入れたら、かかとをトントンと地面に合わせてしっかり入れる。そして靴紐は**つま先部分から順に**締め上げていく。
 
-**参考情報**: 「つま先部分から順に、靴紐を締め上げていきます。多くの人が足首から締めてしまいがちですが、つま先から締めることで、靴の中で足がずれにくくなります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE93LVMKHLFxlDprrkVLAmCR4sRDVPa1hxEHAK70Gbux3ymuVL5DkOHb8EkTTsoyoihT6Qm7ygYuRct_6PiPXTZweFPaIz68xwVjGLmsGQaxyLbRHajasGZNuwEjDTvh52_VdqNq5IULtK8G145lv6Ab42UOQUm`</details>
+> **参考情報**: 「つま先部分から順に、靴紐を締め上げていきます。多くの人が足首から締めてしまいがちですが、つま先から締めることで、靴の中で足がずれにくくなります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE93LVMKHLFxlDprrkVLAmCR4sRDVPa1hxEHAK70Gbux3ymuVL5DkOHb8EkTTsoyoihT6Qm7ygYuRct_6PiPXTZweFPaIz68xwVjGLmsGQaxyLbRHajasGZNuwEjDTvh52_VdqNq5IULtK8G145lv6Ab42UOQUm`</details>
 
 **JK**: 足首からじゃなくて、つま先から！
 
@@ -513,7 +513,7 @@ Tags: Hiking, Guide
 
 **先生**: 登山での事故で最も多いのは転倒だ。原因を知っておくことで予防できる。
 
-**参考情報**: 「疲れてくると、足が十分に上がらず、木の根や段差につまずきやすくなります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL2Pv6ylfAU0C1ya2rZBepXl7PuGH2lBqbu2wZFRO5qel7qbIrrE1aHd5Kh5_4BgXC7C38I5mJwGZjgGBEfHhNizK4xLSU_nQgTdagqNyIaaCvo3o0Vm1GJTqWcnALme7SjloQb5Rnqp7kbIRHzw==`</details>
+> **参考情報**: 「疲れてくると、足が十分に上がらず、木の根や段差につまずきやすくなります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL2Pv6ylfAU0C1ya2rZBepXl7PuGH2lBqbu2wZFRO5qel7qbIrrE1aHd5Kh5_4BgXC7C38I5mJwGZjgGBEfHhNizK4xLSU_nQgTdagqNyIaaCvo3o0Vm1GJTqWcnALme7SjloQb5Rnqp7kbIRHzw==`</details>
 
 **JK**: 疲れると足が上がらなくなるんですね。
 

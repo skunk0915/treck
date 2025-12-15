@@ -78,7 +78,7 @@ Tags: Fleece, Guide
 
 **先生**: 秋の日帰り登山や、冬のキャンプ、あとは普段使いだな。私も街着としてJourneyのフリースクルーを愛用しているが、見た目がシンプルで合わせやすいし、暖かい。
 
-**参考情報**: 「Journeyシリーズは、アルピニズム発祥の地イギリスのアウトドアブランドらしく、クライミングや登山でも使える機能性を持ちながらも、クラシックな素材感を生かしたタウンユースに映えるデザインが特徴です。」<details><summary>出典</summary>`https://goout.jp/products/86746/`</details>
+> **参考情報**: 「Journeyシリーズは、アルピニズム発祥の地イギリスのアウトドアブランドらしく、クライミングや登山でも使える機能性を持ちながらも、クラシックな素材感を生かしたタウンユースに映えるデザインが特徴です。」<details><summary>出典</summary>`https://goout.jp/products/86746/`</details>
 
 #### 主なスペック
 - **素材**: POLARTEC® Thermal Pro®（保温性、柔らかな着心地、撥水性、速乾性）
@@ -146,7 +146,7 @@ Tags: Fleece, Guide
 
 **JK**: なるほど…。経験者の言葉は重いですね。
 
-**参考情報**: 「グラフェンは、炭素原子が網目のように六角形に結びついた、原子1個分の厚さのシート状の素材です。非常に薄く、強靭で、世界最速ともいわれる熱伝導性を誇ります。」<details><summary>出典</summary>`https://www.yamahack.com/5155`</details>
+> **参考情報**: 「グラフェンは、炭素原子が網目のように六角形に結びついた、原子1個分の厚さのシート状の素材です。非常に薄く、強靭で、世界最速ともいわれる熱伝導性を誇ります。」<details><summary>出典</summary>`https://www.yamahack.com/5155`</details>
 
 #### 主なスペック
 - **素材**: グラフェン配合フリース生地（蓄熱、保温、軽量、耐久性、通気性、速乾性、静電気抑制、防臭性）
@@ -190,7 +190,7 @@ Tags: Fleece, Guide
 
 **先生**: その通りだ。私も春の北アルプスでTrailフリースを使ったが、軽くて動きやすく、汗をかいてもすぐ乾くから快適だった。
 
-**参考情報**: 「一部の「Trail Fleece JKT」モデル（2019年春夏モデル）では、毛玉になりにくく撥水性も備えた「POLARTEC Classic Micro」が採用されていました。」<details><summary>出典</summary>`https://shopping.yahoo.co.jp/product/j/4550337764169/compare.html`</details>
+> **参考情報**: 「一部の「Trail Fleece JKT」モデル（2019年春夏モデル）では、毛玉になりにくく撥水性も備えた「POLARTEC Classic Micro」が採用されていました。」<details><summary>出典</summary>`https://shopping.yahoo.co.jp/product/j/4550337764169/compare.html`</details>
 
 #### 主なスペック
 - **素材**: マイクロフリース（一部モデルはPOLARTEC Classic Micro）
@@ -254,7 +254,7 @@ Tags: Fleece, Guide
 
 **先生**: 確かに、Octaシリーズは種類が多くて分かりにくい。簡単に言えば、**mountainは通気性重視、thermalとmidlayerは保温性重視**と覚えておけば良い。
 
-**参考情報**: 「Octa®は、穴の空いた中空糸に8本の突起が放射状に配置されたタコ足型断面のポリエステル繊維です。この特殊な形状により、同直径の一般的なポリエステル繊維に比べて約半分の軽さを実現しています。」<details><summary>出典</summary>`https://www.karrimor.jp/journal/detail/article00000065.html`</details>
+> **参考情報**: 「Octa®は、穴の空いた中空糸に8本の突起が放射状に配置されたタコ足型断面のポリエステル繊維です。この特殊な形状により、同直径の一般的なポリエステル繊維に比べて約半分の軽さを実現しています。」<details><summary>出典</summary>`https://www.karrimor.jp/journal/detail/article00000065.html`</details>
 
 #### 主なスペック
 - **素材**: Octa®繊維（タコ足型断面、中空構造、8本の突起）
@@ -302,7 +302,7 @@ Tags: Fleece, Guide
 
 **先生**: 約360gだ。**軽量ながら機能性が非常に高い**モデルだと言える。
 
-**参考情報**: 「ショルダー部分には耐摩耗性を考慮した生地が採用されており、リュックサック着用時の擦れに配慮されています。」<details><summary>出典</summary>`https://www.karrimor.jp/products/detail/2063`</details>
+> **参考情報**: 「ショルダー部分には耐摩耗性を考慮した生地が採用されており、リュックサック着用時の擦れに配慮されています。」<details><summary>出典</summary>`https://www.karrimor.jp/products/detail/2063`</details>
 
 #### 主なスペック
 - **素材**: 本体（Octa®+20Dナイロン）、背面パネル（POLARTEC® POWERGRID™）、切り替え（ポリエステル93%、ポリウレタン7%）
@@ -365,7 +365,7 @@ Tags: Fleece, Guide
 
 **JK**: なるほど、パタゴニアは「おしゃれで環境に優しい」、カリマーは「登山特化で革新的」ってことですね。
 
-**参考情報**: 「パタゴニアはフリースの歴史を築いたブランドの一つとして知られ、「シンチラ」はフリース素材の元祖とされています。」<details><summary>出典</summary>`https://www.e-begin.jp/article/376298/`</details>
+> **参考情報**: 「パタゴニアはフリースの歴史を築いたブランドの一つとして知られ、「シンチラ」はフリース素材の元祖とされています。」<details><summary>出典</summary>`https://www.e-begin.jp/article/376298/`</details>
 
 ### モンベル vs カリマー
 
@@ -383,7 +383,7 @@ Tags: Fleece, Guide
 
 **先生**: 良いまとめだな。でも、最終的には**実際に試着して、自分に合ったものを選ぶ**ことが一番大事だ。
 
-**参考情報**: 「モンベル独自のフリース素材「クリマプラス」は、繊維を起毛させることで空気の層を作り出し、軽量ながら高い保温性を実現しています。」<details><summary>出典</summary>`https://www.montbell.jp/generalpage/disp.php?id=19699`</details>
+> **参考情報**: 「モンベル独自のフリース素材「クリマプラス」は、繊維を起毛させることで空気の層を作り出し、軽量ながら高い保温性を実現しています。」<details><summary>出典</summary>`https://www.montbell.jp/generalpage/disp.php?id=19699`</details>
 
 ---
 
@@ -415,7 +415,7 @@ Tags: Fleece, Guide
 
 **先生**: その通りだ。汚れがひどい箇所には、洗濯前におしゃれ着用洗剤の原液を少量つけると効果的だ。
 
-**参考情報**: 「おしゃれ着用の中性洗剤を使用しましょう。一般的な弱アルカリ性洗剤は洗浄力が強い反面、生地に負担をかけ、フリースの風合いを損ねる可能性があります。」<details><summary>出典</summary>`https://cloaknet.jp/blogs/blog/fleece-washing`</details>
+> **参考情報**: 「おしゃれ着用の中性洗剤を使用しましょう。一般的な弱アルカリ性洗剤は洗浄力が強い反面、生地に負担をかけ、フリースの風合いを損ねる可能性があります。」<details><summary>出典</summary>`https://cloaknet.jp/blogs/blog/fleece-washing`</details>
 
 ### 洗濯方法
 
@@ -435,7 +435,7 @@ Tags: Fleece, Guide
 
 **JK**: 乾燥機ダメなんですね…覚えておきます。
 
-**参考情報**: 「フリースは熱に弱いため、乾燥機にかけると繊維が縮んだり変形したり、静電気が発生しやすくなったり、毛玉ができやすくなったりする恐れがあります。」<details><summary>出典</summary>`https://cloaknet.jp/blogs/blog/fleece-washing`</details>
+> **参考情報**: 「フリースは熱に弱いため、乾燥機にかけると繊維が縮んだり変形したり、静電気が発生しやすくなったり、毛玉ができやすくなったりする恐れがあります。」<details><summary>出典</summary>`https://cloaknet.jp/blogs/blog/fleece-washing`</details>
 
 ### 毛玉対策
 

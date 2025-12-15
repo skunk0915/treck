@@ -25,7 +25,7 @@ Tags: Gloves, Guide
 
 **先生**: ふむ、ミレーはフランス発のブランドで、夏のトレッキングから厳冬期の雪山まで、用途に応じたグローブを幅広く展開しているからな。
 
-**参考情報**: 「Millet (ミレー) offers a variety of gloves for climbing and trekking, designed with different features to suit various conditions from summer to severe winter alpine environments.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQLNG6rNhW7yjgK7xrghSKHjfHBJ4AAiIf5hEQk4zyJqu36LWgbLuumPPpDUkJv8p55llRvlV6wv5U9Lkz071ABPPiVcB6PRLiy6LR8iML5vvyLZgESQ5K3WqFxA==`</details>
+> **参考情報**: 「Millet (ミレー) offers a variety of gloves for climbing and trekking, designed with different features to suit various conditions from summer to severe winter alpine environments.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQLNG6rNhW7yjgK7xrghSKHjfHBJ4AAiIf5hEQk4zyJqu36LWgbLuumPPpDUkJv8p55llRvlV6wv5U9Lkz071ABPPiVcB6PRLiy6LR8iML5vvyLZgESQ5K3WqFxA==`</details>
 
 **JK**: 夏と冬で違うのは分かるんですけど、それにしても多くないですか？
 
@@ -61,13 +61,13 @@ Tags: Gloves, Guide
 
 **先生**: そうだ。このQDトレックグローブは、甲部分にUVカット機能（UPF30）があるから日焼け対策にもなる。さらに吸水速乾性と消臭機能を備えた「ツインコット」素材を使っている。
 
-**参考情報**: 「吸水速乾性、UVカット機能、そして消臭機能を備えたツインコット素材が採用されており」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH26QKpzYRF4d0PXYI6gOmLpasUK7gaek1PEWdEwoXaN2ykBdC0qEWt_ijr0l6NlD0MK26F7EuD30kR6LeVeVwUYd3-fCuMcnlfvZpbHISJxIh-M7t4kO7UV10lSGRlDoma8Y6Rm7V_ffYFJEI=`</details>
+> **参考情報**: 「吸水速乾性、UVカット機能、そして消臭機能を備えたツインコット素材が採用されており」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH26QKpzYRF4d0PXYI6gOmLpasUK7gaek1PEWdEwoXaN2ykBdC0qEWt_ijr0l6NlD0MK26F7EuD30kR6LeVeVwUYd3-fCuMcnlfvZpbHISJxIh-M7t4kO7UV10lSGRlDoma8Y6Rm7V_ffYFJEI=`</details>
 
 **JK**: 消臭機能！地味に嬉しいかも。汗かくとグローブって臭くなりそうだし…
 
 **先生**: ユーザーからも「やわらかくて軽く通気性が良いので夏につけても問題ない」「日焼け対策にもなりそう」「通気性もいいので夏の山登りでも使用している」という声が上がっているな。
 
-**参考情報**: 「やわらかくて軽く通気性が良いので夏につけても問題ない」「日焼け対策にもなりそう」「通気性もいいので夏の山登りでも使用している」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwlDcoVRv2NiUDQv18mesIzE0L_snjbvb8eVvtTvkSr6UiICRn9T3Y_-z8H6gEK3q8BDptwo2n_HlU-qhkC0_a1vUOnSTNZKxyhTp73RDN1RnMOv6oTOwksd0BSMDHvccNfRe26YY=`</details>
+> **参考情報**: 「やわらかくて軽く通気性が良いので夏につけても問題ない」「日焼け対策にもなりそう」「通気性もいいので夏の山登りでも使用している」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwlDcoVRv2NiUDQv18mesIzE0L_snjbvb8eVvtTvkSr6UiICRn9T3Y_-z8H6gEK3q8BDptwo2n_HlU-qhkC0_a1vUOnSTNZKxyhTp73RDN1RnMOv6oTOwksd0BSMDHvccNfRe26YY=`</details>
 
 **JK**: 夏でも快適なら安心ですね。掌の方はどうなってるんですか？
 
@@ -110,13 +110,13 @@ Tags: Gloves, Guide
 
 **先生**: グローブの生地が伸びるということだ。甲部分に使われている「Polartec® Power Stretch® Pro™」という素材は、通気性、保温性、ストレッチ性を全部兼ね備えている優れものだ。
 
-**参考情報**: 「甲の部分には、優れた通気性、保温性、ストレッチ性を兼ね備えたPolartec®Power Stretch® Pro™素材が使用されており」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjz2JN0ixUWroAZ-FiPQcKAx-YtNgMnvoXTCOajDQhUhyYew2NcUDgAU4u6R-vfxrVxh5blS93J5_mQtPtuAtlRyjxugk8_GrY_fhtWid-5IoMSt93yXEG8-BjKOAp_c3iVjXl8coBvHYK2Q==`</details>
+> **参考情報**: 「甲の部分には、優れた通気性、保温性、ストレッチ性を兼ね備えたPolartec®Power Stretch® Pro™素材が使用されており」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjz2JN0ixUWroAZ-FiPQcKAx-YtNgMnvoXTCOajDQhUhyYew2NcUDgAU4u6R-vfxrVxh5blS93J5_mQtPtuAtlRyjxugk8_GrY_fhtWid-5IoMSt93yXEG8-BjKOAp_c3iVjXl8coBvHYK2Q==`</details>
 
 **JK**: ポーラテック！それ聞いたことあります。フリースとかに使われてるやつですよね？
 
 **先生**: よく知っているな。その通りだ。実際にユーザーからは「薄手ながら暖かさを感じられ、風のある状況でも寒さを感じにくい」という評価を受けている。
 
-**参考情報**: 「薄手ながら暖かさを感じられ、風のある状況でも寒さを感じにくいという声があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuZwEGzXAX6CeAFiVnh0e18muo4QZ6HEMo866OmlQQajXrf6wcN6JYPC0017QkE24f8IYrU7ULd0tzwpIBl5QP0eXI2fS7U5hNTVBEq23uLsMUUTdWPOxhTt2N78zFLOPLaKl0UF1FxWFwsloLpYFw5j6cm83F_pSu`</details>
+> **参考情報**: 「薄手ながら暖かさを感じられ、風のある状況でも寒さを感じにくいという声があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuZwEGzXAX6CeAFiVnh0e18muo4QZ6HEMo866OmlQQajXrf6wcN6JYPC0017QkE24f8IYrU7ULd0tzwpIBl5QP0eXI2fS7U5hNTVBEq23uLsMUUTdWPOxhTt2N78zFLOPLaKl0UF1FxWFwsloLpYFw5j6cm83F_pSu`</details>
 
 **JK**: 薄いのに暖かいって最高じゃないですか！ゴツくて分厚いの嫌なんですよね…
 
@@ -168,9 +168,9 @@ Tags: Gloves, Guide
 
 **先生**: 高い撥水性があるから、小雨程度なら弾いてくれる。ただ、大雨や長時間の雨には耐えられない。その代わり、透湿性が非常に高いんだ。
 
-**参考情報**: 「GORE-TEX INFINIUM™ fabric, which provides absolute wind protection. This technology is engineered to completely block wind」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKt5NzTC0tHCxAQJUPjy_XeNNi3IRU40KnPtbOJhPQkEKRIYbWfSdq7_qPln6ndzP51-aZ6BTGLfJ5pFF0cBm3nMBLrQ1tTV4onn1yp_vWu5w9Xk3dETNEhgH5uSte0O8HXt0O6yneZbPlxrea6-oJZNlIdTplNg==`</details>
+> **参考情報**: 「GORE-TEX INFINIUM™ fabric, which provides absolute wind protection. This technology is engineered to completely block wind」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKt5NzTC0tHCxAQJUPjy_XeNNi3IRU40KnPtbOJhPQkEKRIYbWfSdq7_qPln6ndzP51-aZ6BTGLfJ5pFF0cBm3nMBLrQ1tTV4onn1yp_vWu5w9Xk3dETNEhgH5uSte0O8HXt0O6yneZbPlxrea6-oJZNlIdTplNg==`</details>
 
-**参考情報**: 「highly water-repellent or water-resistant rather than fully waterproof」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiY7dya7-NOfhnUugD99_cnwKEm0vTQfJvPQpDGnOHDjdejV58CdM09e3yLs-iyH2jYQtUJKDejH6kLCeMo3Abs9eiV4mUPoBecC031I59h6jk6o7eDRBTxHT6b1H4bCEkYd7FPXTArpowI34uTBDYUCEq-HSpvvgwCACGHDMAIf3foN0vAFBXLg==`</details>
+> **参考情報**: 「highly water-repellent or water-resistant rather than fully waterproof」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiY7dya7-NOfhnUugD99_cnwKEm0vTQfJvPQpDGnOHDjdejV58CdM09e3yLs-iyH2jYQtUJKDejH6kLCeMo3Abs9eiV4mUPoBecC031I59h6jk6o7eDRBTxHT6b1H4bCEkYd7FPXTArpowI34uTBDYUCEq-HSpvvgwCACGHDMAIf3foN0vAFBXLg==`</details>
 
 **JK**: 透湿性が高いってことは、行動中に蒸れにくいってことですか？
 
@@ -224,13 +224,13 @@ Tags: Gloves, Guide
 
 **先生**: 価格に見合うだけの性能はある。まず、GORE-TEXメンブレン採用で完全防水・高透湿。中綿にはPrimaLoft® Gold Crosscoreが100g入っていて、これがまた凄いんだ。
 
-**参考情報**: 「優れた防水性と透湿性を持つGORE-TEXメンブレンを採用しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQjR2gf8Kr_Zflb2VgJkPxQVxmRUygTLMk5M8etx_etcxD4j4wxJqc_xzkw03kp5ezbAwOi1C9Cu-BcU5YSiM3wB9z-jOKwR7W8eygYKTV14kojE1Gdakh95alt4kUShEWYhTrLWE=`</details>
+> **参考情報**: 「優れた防水性と透湿性を持つGORE-TEXメンブレンを採用しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQjR2gf8Kr_Zflb2VgJkPxQVxmRUygTLMk5M8etx_etcxD4j4wxJqc_xzkw03kp5ezbAwOi1C9Cu-BcU5YSiM3wB9z-jOKwR7W8eygYKTV14kojE1Gdakh95alt4kUShEWYhTrLWE=`</details>
 
 **JK**: プリマロフト？聞いたことあるような…
 
 **先生**: 化繊の中綿素材として有名だ。特にGold Crosscoreは「エアロゲルマイクロカプセル技術」という、元々NASAが開発した技術を応用している。軽量なのに保温性が非常に高いんだ。
 
-**参考情報**: 「高い保温性を誇るPrimaLoft® Gold Crosscore 100g を使用しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrkHRgjU4r4yCOObmavyreZcTO1VGywQ3LfvcsxqAVHlgVhfqnISli_Z7YFphpQcc6UQ2iXvWtOZhp8chj6kLn7ic5ACUPGozbZfCg6p1v9ECETN8xttsJ1-WMxuAqtwaJCt-JaJNLYwTWyT7axO7hMJ4oDjlOXsNnzWAk-vqqVwGR`</details>
+> **参考情報**: 「高い保温性を誇るPrimaLoft® Gold Crosscore 100g を使用しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrkHRgjU4r4yCOObmavyreZcTO1VGywQ3LfvcsxqAVHlgVhfqnISli_Z7YFphpQcc6UQ2iXvWtOZhp8chj6kLn7ic5ACUPGozbZfCg6p1v9ECETN8xttsJ1-WMxuAqtwaJCt-JaJNLYwTWyT7axO7hMJ4oDjlOXsNnzWAk-vqqVwGR`</details>
 
 **JK**: NASAの技術！？宇宙服みたい！
 
@@ -250,7 +250,7 @@ Tags: Gloves, Guide
 
 **先生**: 3フィンガーとは、親指、人差し指、そして中指・薬指・小指をまとめた3つのパートに分かれた構造のことだ。
 
-**参考情報**: 「3フィンガー構造により、保温性と効率性を向上させています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEf33_QePeoCjgkWeGJcjr4kHqdVxYDxMujSRONSWKivLQb44k8jmx6FEWHrHRkRzwMSKedySkBdYNr--Rg329c8rY9fDcm1yW7hPspu5xoFcCkQtz49acWFAhCP8JhDJFEBVaEVs5cQkkJ_8KteE5CGKCtTvdaEbS3ghPT5L2SHIg=`</details>
+> **参考情報**: 「3フィンガー構造により、保温性と効率性を向上させています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEf33_QePeoCjgkWeGJcjr4kHqdVxYDxMujSRONSWKivLQb44k8jmx6FEWHrHRkRzwMSKedySkBdYNr--Rg329c8rY9fDcm1yW7hPspu5xoFcCkQtz49acWFAhCP8JhDJFEBVaEVs5cQkkJ_8KteE5CGKCtTvdaEbS3ghPT5L2SHIg=`</details>
 
 **JK**: えっ、なんで指をまとめるんですか？動かしにくくならないですか？
 
@@ -296,7 +296,7 @@ Tags: Gloves, Guide
 
 **先生**: 大きな違いはカフ（手首から先の長さ）だな。グランモンテは**カフが短め**に設計されていて、スキーウェアの袖の下に収まりやすい。トリロジーは逆に長めのカフで、雪の侵入を徹底的に防ぐ設計だ。
 
-**参考情報**: 「カフは短めに設計されており、スキーウェアの袖の下に収まりやすいようになっています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhElOpx-3RGK9Or6HdXaCnQ4Of3KF6uXhctI5LZ8xe94jmR2SbJHR795ZYWSMKvaErEDNTpY8UDWhyhLBlG1TlKrrwahng_NmapPggsV7OZROL_cs0-Vh93n96SZEzj2YqyjPKugbQlp5W5Qi7o6ZJoKE7vlpmGFBipTdvt8-SkT4rvJtV0GlfQtj77GlP`</details>
+> **参考情報**: 「カフは短めに設計されており、スキーウェアの袖の下に収まりやすいようになっています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhElOpx-3RGK9Or6HdXaCnQ4Of3KF6uXhctI5LZ8xe94jmR2SbJHR795ZYWSMKvaErEDNTpY8UDWhyhLBlG1TlKrrwahng_NmapPggsV7OZROL_cs0-Vh93n96SZEzj2YqyjPKugbQlp5W5Qi7o6ZJoKE7vlpmGFBipTdvt8-SkT4rvJtV0GlfQtj77GlP`</details>
 
 **JK**: なるほど、袖の中に入れるか外に被せるかの違いですね。
 
@@ -306,7 +306,7 @@ Tags: Gloves, Guide
 
 **先生**: 防水透湿には「GORE-TEX ePEインサート」を採用。中綿はPrimaLoft® Gold Crosscoreまたはシルバー80gで、掌は山羊革のソフトレザー。スキーポールをしっかりグリップできる。
 
-**参考情報**: 「GORE-TEX ePEインサートを採用しており、優れた防水性と透湿性を提供し、手をドライに保ちます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhElOpx-3RGK9Or6HdXaCnQ4Of3KF6uXhctI5LZ8xe94jmR2SbJHR795ZYWSMKvaErEDNTpY8UDWhyhLBlG1TlKrrwahng_NmapPggsV7OZROL_cs0-Vh93n96SZEzj2YqyjPKugbQlp5W5Qi7o6ZJoKE7vlpmGFBipTdvt8-SkT4rvJtV0GlfQtj77GlP`</details>
+> **参考情報**: 「GORE-TEX ePEインサートを採用しており、優れた防水性と透湿性を提供し、手をドライに保ちます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhElOpx-3RGK9Or6HdXaCnQ4Of3KF6uXhctI5LZ8xe94jmR2SbJHR795ZYWSMKvaErEDNTpY8UDWhyhLBlG1TlKrrwahng_NmapPggsV7OZROL_cs0-Vh93n96SZEzj2YqyjPKugbQlp5W5Qi7o6ZJoKE7vlpmGFBipTdvt8-SkT4rvJtV0GlfQtj77GlP`</details>
 
 #### 主なスペック
 
@@ -341,7 +341,7 @@ Tags: Gloves, Guide
 
 **先生**: たしかに。ただ、オーバーグローブは**軽量・コンパクト**で携行性に優れるんだ。ザックの隅に入れておいて、急な雨や予想外の寒さに対応できる。ミレーの「ブリーズバリヤー II オーバーグローブ」は超撥水素材で、繰り返し洗濯しても撥水機能が長持ちする。
 
-**参考情報**: 「表面の撥水加工ではなく、繊維自体にシリコン由来の撥水成分を浸透させる加工が施されており、極めて高い撥水性能を持続します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCMCjrGVKZNflN1uZoTJFddSVsdlSm1EJMYRMvUKE5Jn4fAyw1mPMuL7vYdf9WRSn0zLpWzcc21LJ9V8z3ZKprHKchFLQ-0liM8-Q8nAA6EkoB70Ty8tsT3VeTBwtKYsoC6uyGKjM=`</details>
+> **参考情報**: 「表面の撥水加工ではなく、繊維自体にシリコン由来の撥水成分を浸透させる加工が施されており、極めて高い撥水性能を持続します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCMCjrGVKZNflN1uZoTJFddSVsdlSm1EJMYRMvUKE5Jn4fAyw1mPMuL7vYdf9WRSn0zLpWzcc21LJ9V8z3ZKprHKchFLQ-0liM8-Q8nAA6EkoB70Ty8tsT3VeTBwtKYsoC6uyGKjM=`</details>
 
 **JK**: 繊維自体に撥水成分が浸透？表面のコーティングじゃないんですか？
 
@@ -379,7 +379,7 @@ Tags: Gloves, Guide
 
 **先生**: その通りだ。特に雪山登山では、グローブのレイヤリングが非常に重要になる。
 
-**参考情報**: 「雪山登山では、インナーグローブ、ミドルグローブ、アウターグローブの3層で構成するレイヤリングが効果的です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwLvIkDK0Ijt-HZo_5hPqSwSikCRaRv6fcH-gC0uqyFyKLK59nvWH3Szs6gWY2iuO3u0-EpM9BujlAqZd8Qq-OzyDbZRG3dbTrrvOksPpGG1s3VFTbGeJjdrOFysqGtO2mFLTXWOo9E6FD9oJ2Fl8Y1Dj84vm5lnHpzbpJ2sdkTX1wyNBbBgzQ7O8n5vDCY0_reERWv9R9Piek`</details>
+> **参考情報**: 「雪山登山では、インナーグローブ、ミドルグローブ、アウターグローブの3層で構成するレイヤリングが効果的です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwLvIkDK0Ijt-HZo_5hPqSwSikCRaRv6fcH-gC0uqyFyKLK59nvWH3Szs6gWY2iuO3u0-EpM9BujlAqZd8Qq-OzyDbZRG3dbTrrvOksPpGG1s3VFTbGeJjdrOFysqGtO2mFLTXWOo9E6FD9oJ2Fl8Y1Dj84vm5lnHpzbpJ2sdkTX1wyNBbBgzQ7O8n5vDCY0_reERWv9R9Piek`</details>
 
 **JK**: 3層！？なんかすごいことになってますね。
 
@@ -417,7 +417,7 @@ Tags: Gloves, Guide
 | L | 23cm | 9.0cm |
 | XL | 24cm | - |
 
-**参考情報**: 「ミレーのグローブは、指先にわずかなゆとりがあるサイズを選ぶのがおすすめです。特に冬用のグローブの場合、指先に少し空気の層ができるくらいのゆとりがあると、保温性が高まります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfip4Xh7ec_xjywHFLVLbaPiTHkzXND84nXoXScKZFoXXIDronc_4TW3vTWjnnFg_egrKpXQ3dHhso_IhQyRdTjiFlWlgCk7r7J_T_glwwEEfI4u1i-O1PLTqTLWclhTleDik_`</details>
+> **参考情報**: 「ミレーのグローブは、指先にわずかなゆとりがあるサイズを選ぶのがおすすめです。特に冬用のグローブの場合、指先に少し空気の層ができるくらいのゆとりがあると、保温性が高まります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfip4Xh7ec_xjywHFLVLbaPiTHkzXND84nXoXScKZFoXXIDronc_4TW3vTWjnnFg_egrKpXQ3dHhso_IhQyRdTjiFlWlgCk7r7J_T_glwwEEfI4u1i-O1PLTqTLWclhTleDik_`</details>
 
 **JK**: ピッタリサイズより少しゆとりがある方がいいんですか？
 
@@ -455,7 +455,7 @@ Tags: Gloves, Guide
 5. 手首側を下にして**風通しの良い日陰で吊り干し**
 6. 乾燥後、撥水が落ちていたら**撥水スプレー**で回復
 
-**参考情報**: 「ぬるま湯（30～40℃程度）で優しく手洗いします」「濡れたグローブを絞る際は、指先から手首の順に優しく絞ってください。強く絞ったり、洗濯機で脱水したりすると、メンブレン（防水フィルム）が破損する恐れがあるため避けてください」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVX_YrNowUK3FPILBzVLfT4RKp-JhDElco_TlCXC1JXJIr1UUK_SSsUD--A5oiMaKJn2Jw3A3iDwBqN_F-4KTLuQy5fO9Q-UydYpJS9Z9tT1X-LH57aO1IoQ1v97pPWAe0oqGm3DKkpEMQqhI=`</details>
+> **参考情報**: 「ぬるま湯（30～40℃程度）で優しく手洗いします」「濡れたグローブを絞る際は、指先から手首の順に優しく絞ってください。強く絞ったり、洗濯機で脱水したりすると、メンブレン（防水フィルム）が破損する恐れがあるため避けてください」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVX_YrNowUK3FPILBzVLfT4RKp-JhDElco_TlCXC1JXJIr1UUK_SSsUD--A5oiMaKJn2Jw3A3iDwBqN_F-4KTLuQy5fO9Q-UydYpJS9Z9tT1X-LH57aO1IoQ1v97pPWAe0oqGm3DKkpEMQqhI=`</details>
 
 **JK**: えー、手洗いかぁ…めんどくさい…
 
@@ -469,7 +469,7 @@ Tags: Gloves, Guide
 4. 乾燥後は**革用クリーム・オイル**で保湿ケア
 5. **1〜2ヶ月に1回**の定期的な保湿ケアを推奨
 
-**参考情報**: 「水濡れした場合は、タオルなどで押さえるように水分を吸い取り、風通しの良い日陰で自然乾燥させてください。直射日光やストーブなどでの急速な乾燥は、革の硬化やひび割れの原因となるため厳禁です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuUeVaqeSjlcw2HUjky8-ayf8WX0H4Ml4mEpNBFqYcSDEN0W9VezNiI3jcyRKzl73GgWV-Ijzvng_Pfbr6J75yZ3eu6aK6BPVL4JXo1DFy7l4DDEIuYo_d50jUhsBel3g=`</details>
+> **参考情報**: 「水濡れした場合は、タオルなどで押さえるように水分を吸い取り、風通しの良い日陰で自然乾燥させてください。直射日光やストーブなどでの急速な乾燥は、革の硬化やひび割れの原因となるため厳禁です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuUeVaqeSjlcw2HUjky8-ayf8WX0H4Ml4mEpNBFqYcSDEN0W9VezNiI3jcyRKzl73GgWV-Ijzvng_Pfbr6J75yZ3eu6aK6BPVL4JXo1DFy7l4DDEIuYo_d50jUhsBel3g=`</details>
 
 **JK**: 革って思った以上にデリケートなんですね…
 
@@ -491,7 +491,7 @@ Tags: Gloves, Guide
 - **デザイン**: フランスブランドらしいおしゃれなデザイン
 - **コスパ**: 機能性に対して価格が妥当
 
-**参考情報**: 「コスパ良し」「保温性、フィット感、タッチパネル対応といった機能が高く評価されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcT6ymz-VUZvlbKUqzjtwqq5eDOIulsXkk7lDrgWU_YcX3QsXKWPJl-eBxr00D6KRXzCMMjbL1I4J9oxVGDhmWEwo1cMlZlKA9LGqs3NQqjAG-_wNUi0aWOB24bQBdSZode5uaH5eqxd1D6lya4qR4LOFlIn-P3LJs`</details>
+> **参考情報**: 「コスパ良し」「保温性、フィット感、タッチパネル対応といった機能が高く評価されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcT6ymz-VUZvlbKUqzjtwqq5eDOIulsXkk7lDrgWU_YcX3QsXKWPJl-eBxr00D6KRXzCMMjbL1I4J9oxVGDhmWEwo1cMlZlKA9LGqs3NQqjAG-_wNUi0aWOB24bQBdSZode5uaH5eqxd1D6lya4qR4LOFlIn-P3LJs`</details>
 
 ### 気になるポイント
 

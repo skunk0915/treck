@@ -36,7 +36,7 @@ Tags: Jacket, Guide
 
 **先生**: ソフトシェルは適度な保温性もあって、ストレッチ性も高い。1日を通して着っぱなしにしても快適なように作られている。行動着としてずっと着ていられるんだ。
 
-**参考情報**: 「ソフトシェルは『着ている時間が長い』、ウィンドシェルは『持ち運びの時間が長い』という基準で選ぶと良い」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEapBmg39Rx5PyeXi1YZDcPWRJFVjzG7mSfjEJ24xfw6VBZb3oJriDH_nc5O6yTUNjeVGfke3VP4_BPyTyUQe9VMVWSjHmJzA9Jo4B3CJffUcDDhherHbBbtoad2aTcdAcwng==`</details>
+> **参考情報**: 「ソフトシェルは『着ている時間が長い』、ウィンドシェルは『持ち運びの時間が長い』という基準で選ぶと良い」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEapBmg39Rx5PyeXi1YZDcPWRJFVjzG7mSfjEJ24xfw6VBZb3oJriDH_nc5O6yTUNjeVGfke3VP4_BPyTyUQe9VMVWSjHmJzA9Jo4B3CJffUcDDhherHbBbtoad2aTcdAcwng==`</details>
 
 **JK**: ふーん……でも両方とも雨は防げるんですよね？
 
@@ -80,7 +80,7 @@ Tags: Jacket, Guide
 
 **先生**: そうだな、卵3個分くらいか。フード裏のポケットに本体を丸めて収納できるから、ザックに入れてもほとんど荷物にならない。
 
-**参考情報**: 「非常に軽量で、わずか約157g（Lサイズ）と驚くほどの軽さを実現しています。フード裏のポケットに本体を収納できるパッカブル仕様」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4cqkUjFI_UBzwNLbp6fmHEnJrVUg_EQ310w-uLFDIaVJP-gTX8w-G2b7-bumNIX2m_BJFXJZPSfNXmUvupybVWgfQwmKCOsxzH-BBKqpv9oJkaIHJTh8eHEu6bCIst19xt2bWRFTtxjAzl9n_fKvs63ZFZVYIf4s-nVHRAgwce9I=`</details>
+> **参考情報**: 「非常に軽量で、わずか約157g（Lサイズ）と驚くほどの軽さを実現しています。フード裏のポケットに本体を収納できるパッカブル仕様」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4cqkUjFI_UBzwNLbp6fmHEnJrVUg_EQ310w-uLFDIaVJP-gTX8w-G2b7-bumNIX2m_BJFXJZPSfNXmUvupybVWgfQwmKCOsxzH-BBKqpv9oJkaIHJTh8eHEu6bCIst19xt2bWRFTtxjAzl9n_fKvs63ZFZVYIf4s-nVHRAgwce9I=`</details>
 
 **JK**: へー！でも生地が薄いと汗でベタベタしそう……
 
@@ -124,7 +124,7 @@ Tags: Jacket, Guide
 
 **先生**: ベンチレーション（通気穴）が背中、脇下、そしてサイドポケットの3箇所に設けられている。スワローテイルフーディにもベンチレーションはあるが、こちらはそれを強化したバージョンだな。
 
-**参考情報**: 「名前の『ベント（Vent）』が示す通り、背中、脇下、そしてファスナー付きのサイドポケットの3箇所にベンチレーション機能を備え」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9cYvM0KkVRm-2IeNVpnARNjovub7Qa3b2aRc8OiEkxGJFtC-WCy07sc1pHAaWMlWacWICSzRkAMOabFMO1VwdVeAVulSiPNnapih5gdGpbGFJijWFPmpxnotHN1sfCCrphmFjksXGhg==`</details>
+> **参考情報**: 「名前の『ベント（Vent）』が示す通り、背中、脇下、そしてファスナー付きのサイドポケットの3箇所にベンチレーション機能を備え」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9cYvM0KkVRm-2IeNVpnARNjovub7Qa3b2aRc8OiEkxGJFtC-WCy07sc1pHAaWMlWacWICSzRkAMOabFMO1VwdVeAVulSiPNnapih5gdGpbGFJijWFPmpxnotHN1sfCCrphmFjksXGhg==`</details>
 
 **JK**: え、穴が開いてたら風通っちゃいません？
 
@@ -170,7 +170,7 @@ Tags: Jacket, Guide
 
 **先生**: ふふ、そこまで極端ではないが、確かに存在感がないくらい軽い。しかも植物由来のナイロン素材を一部使用していて、環境にも配慮している。
 
-**参考情報**: 「軽量でコンパクトなランニング用ウィンドシェルで、撥水性と防風性を備えています。約105g（Lサイズ）」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN70y476JuA3_24l1GViymeTYLbwHLPJMxlTRzx5JIc5xF3xv8AiRZqpCh-2jqVMSQkHJObxCedWtNJ3d6t9AfwX3XkZtwLBEGnZH6Ni4ZIB0bYx29AvRO6y0UsiamLAycPPR6WZF8uA==`</details>
+> **参考情報**: 「軽量でコンパクトなランニング用ウィンドシェルで、撥水性と防風性を備えています。約105g（Lサイズ）」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN70y476JuA3_24l1GViymeTYLbwHLPJMxlTRzx5JIc5xF3xv8AiRZqpCh-2jqVMSQkHJObxCedWtNJ3d6t9AfwX3XkZtwLBEGnZH6Ni4ZIB0bYx29AvRO6y0UsiamLAycPPR6WZF8uA==`</details>
 
 **JK**: へー、エコなんですね！デザインはどうなんですか？
 
@@ -209,7 +209,7 @@ Tags: Jacket, Guide
 
 **先生**: まず素材が違う。ナイロン63%、ポリウレタン37%という配合で、**群を抜いたストレッチ性**がある。バックパックを背負ったままでも上から着られるんだ。
 
-**参考情報**: 「パックを背負ったランニングシーンでの利便性を追求した軽量設計です。はっ水加工が施されたフリーカットの軽量ストレッチ布帛（ナイロン63％、ポリウレタン37％）を使用」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEINxhL_fsFh3P5MSl8Akxn1QpM2htIj5jckC_epTLKH283DWnZwll1_5_DtSXC8d_Dnhj6tx3U33rsvCcTO2vjQUoW66JibpV_fE22NjBxQtmnU25be0MoXiBCYAfqslzMwNICkilAmQ==`</details>
+> **参考情報**: 「パックを背負ったランニングシーンでの利便性を追求した軽量設計です。はっ水加工が施されたフリーカットの軽量ストレッチ布帛（ナイロン63％、ポリウレタン37％）を使用」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEINxhL_fsFh3P5MSl8Akxn1QpM2htIj5jckC_epTLKH283DWnZwll1_5_DtSXC8d_Dnhj6tx3U33rsvCcTO2vjQUoW66JibpV_fE22NjBxQtmnU25be0MoXiBCYAfqslzMwNICkilAmQ==`</details>
 
 **JK**: え、ザック下ろさなくていいんですか？
 
@@ -261,7 +261,7 @@ Tags: Jacket, Guide
 
 **先生**: いや、これは約535〜545gと、今まで紹介したモデルとは全然違う。**裏地付き**なんだ。
 
-**参考情報**: 「表地にはクラシカルで柔らかな風合いのタスランナイロン（リサイクルナイロン100%）を使用し、裏地には肌離れの良いポリエステルメッシュを採用」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErF3ixThzWB2IX3YAmJ5cwxy_n7kHwVjOIRZ5AbDXf_9X39idGchA3c1asEW4dSNhWcsBfHPw1rLfSWeQEWp5Q0fDmrD_e4NHKxBhdDkxIkAnDGCtOIgd-CVtg9w==`</details>
+> **参考情報**: 「表地にはクラシカルで柔らかな風合いのタスランナイロン（リサイクルナイロン100%）を使用し、裏地には肌離れの良いポリエステルメッシュを採用」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErF3ixThzWB2IX3YAmJ5cwxy_n7kHwVjOIRZ5AbDXf_9X39idGchA3c1asEW4dSNhWcsBfHPw1rLfSWeQEWp5Q0fDmrD_e4NHKxBhdDkxIkAnDGCtOIgd-CVtg9w==`</details>
 
 **JK**: 裏地！？じゃあ汗でベタベタしないってことですか？
 
@@ -315,7 +315,7 @@ Tags: Jacket, Guide
 
 **先生**: その通り。登山やクライミングでの使用を想定したモデルだ。素材はナイロン84%、ポリウレタン16%の**Apex Softshell Super Light**。ストレッチ性が抜群で、体の動きにスムーズに追従する。
 
-**参考情報**: 「約195gから240g（Lサイズ）と軽量で、強度のあるナイロン84%と伸縮性に優れたポリウレタン16%をブレンドしたApex Softshell Super Light素材を使用」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGl99aNsgRWmsYLM7ZtIrtv3sZwy_qxIsNgrQ7ZT7IsKP4FYxnL5q6CEcXUJnBbJFbAvE1rhGC295CS_1D5H0-U4FLlktA8f0kZIeXvetIc563K8CmP4CcPGfGsTO3VtFDKPTx3aUscMyUmmpTsuQmL3M5UIJY`</details>
+> **参考情報**: 「約195gから240g（Lサイズ）と軽量で、強度のあるナイロン84%と伸縮性に優れたポリウレタン16%をブレンドしたApex Softshell Super Light素材を使用」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGl99aNsgRWmsYLM7ZtIrtv3sZwy_qxIsNgrQ7ZT7IsKP4FYxnL5q6CEcXUJnBbJFbAvE1rhGC295CS_1D5H0-U4FLlktA8f0kZIeXvetIc563K8CmP4CcPGfGsTO3VtFDKPTx3aUscMyUmmpTsuQmL3M5UIJY`</details>
 
 **JK**: ストレッチって具体的にどれくらい伸びるんですか？
 
@@ -359,7 +359,7 @@ Tags: Jacket, Guide
 
 **先生**: タテ・ヨコの両方に伸びるということだ。通常の生地はタテかヨコの一方にしか伸びないものが多いが、これはどちらにも伸びる。だから複雑な動きにも対応できる。
 
-**参考情報**: 「タテ・ヨコ4方向に伸縮する優れたストレッチ性を持ち、身体の動きを妨げにくいため、ランニングや登山、クライミングなどの活動量の多いシーンで高い運動追従性を発揮」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7pbO7-qSuRkRvwur0_zuVWojBoToqLC90M9CE0TlHlAL-8roS06AxUVWV7HM66tg4que_fawCyDHiwO9S4JncQ9rDPbGXj2Jz1S5Yiy5zKAcDIsUoQUybxYB01yL7sNitFZYtB-i4Zw==`</details>
+> **参考情報**: 「タテ・ヨコ4方向に伸縮する優れたストレッチ性を持ち、身体の動きを妨げにくいため、ランニングや登山、クライミングなどの活動量の多いシーンで高い運動追従性を発揮」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7pbO7-qSuRkRvwur0_zuVWojBoToqLC90M9CE0TlHlAL-8roS06AxUVWV7HM66tg4que_fawCyDHiwO9S4JncQ9rDPbGXj2Jz1S5Yiy5zKAcDIsUoQUybxYB01yL7sNitFZYtB-i4Zw==`</details>
 
 **JK**: へー！じゃあクライミングとかにいいんですか？
 
@@ -405,7 +405,7 @@ Tags: Jacket, Guide
 
 **先生**: ああ。ポケットの位置がハーネスやバックパックのヒップベルトに干渉しにくいように工夫されている。クライミングハーネスをつけていてもポケットにアクセスしやすいんだ。
 
-**参考情報**: 「4WAYストレッチ素材を使用しており、クライミングなどの複雑な体の動きにもスムーズに追従し、ストレスのない着心地を提供」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuujrxOmdZ0dj1L80nhUiyiOcfWvxvm3r2-oHt-fme0-bUWsX_9OeuWmD7Sty12VhdeZdWKIyvCkXTPWK7YyZG41rsW0CLFI9E3MP8vBtHcVgpnt6Mz_UZvh4ACNsLLw==`</details>
+> **参考情報**: 「4WAYストレッチ素材を使用しており、クライミングなどの複雑な体の動きにもスムーズに追従し、ストレスのない着心地を提供」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuujrxOmdZ0dj1L80nhUiyiOcfWvxvm3r2-oHt-fme0-bUWsX_9OeuWmD7Sty12VhdeZdWKIyvCkXTPWK7YyZG41rsW0CLFI9E3MP8vBtHcVgpnt6Mz_UZvh4ACNsLLw==`</details>
 
 **JK**: なるほど〜。シルエットはどうなんですか？
 

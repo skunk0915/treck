@@ -48,7 +48,7 @@ Tags: Guide, Stove & Cookware
 
 **先生**: 鋭いな。確かに数字だけ見ればそうだ。だが、MSR PocketRocket 2は**火力**と**耐久性**を犠牲にせず、この軽さを実現している点が評価されている。
 
-**参考情報**: 「非常に軽量でコンパクト（73g）なため、ザックやポケットの隙間にも収納しやすく、ファスト＆ライトスタイルにも適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVfh_-Ml_eBwn0DKeghSg2WwyTndO3Ar4aMQATQqjCzy3DRXO6DBA8k3gcGuKTzD0XtkjTxCRoSGl41ZF1K6u_zZ_wIo2fqV_4fG6KSd3f_Mz9bfOl5BxMc1ztE9bFCeeTl0vWEbpQUO6-C9HolyKfjvFfX_8YBnlSOJa9`</details>
+> **参考情報**: 「非常に軽量でコンパクト（73g）なため、ザックやポケットの隙間にも収納しやすく、ファスト＆ライトスタイルにも適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVfh_-Ml_eBwn0DKeghSg2WwyTndO3Ar4aMQATQqjCzy3DRXO6DBA8k3gcGuKTzD0XtkjTxCRoSGl41ZF1K6u_zZ_wIo2fqV_4fG6KSd3f_Mz9bfOl5BxMc1ztE9bFCeeTl0vWEbpQUO6-C9HolyKfjvFfX_8YBnlSOJa9`</details>
 
 ---
 
@@ -67,7 +67,7 @@ Tags: Guide, Stove & Cookware
 *   **点火装置**: なし（別途ライターやマッチが必要）
 *   **生産国**: 韓国製
 
-**参考情報**: 「サイズ: 3.4×4.4×7.9cm」「本体重量: 73g (ケース、ガスカートリッジを除く)」「最高出力: 2,143kcal/h」「使用可能燃料: MSR IsoPro (イソプロ)」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2e0PAAur2Gdo7Up5YC2bdYZgEL7R90mx_E1SKe4XnQoptDGw9n4xMry7A4GjB-fsSf3Knij8FFgXywWInlYFZEKivmGZFDMkpSjZbd77RhNWF4RtPICqMUsxqqDgRrvlJkQ==`</details>
+> **参考情報**: 「サイズ: 3.4×4.4×7.9cm」「本体重量: 73g (ケース、ガスカートリッジを除く)」「最高出力: 2,143kcal/h」「使用可能燃料: MSR IsoPro (イソプロ)」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2e0PAAur2Gdo7Up5YC2bdYZgEL7R90mx_E1SKe4XnQoptDGw9n4xMry7A4GjB-fsSf3Knij8FFgXywWInlYFZEKivmGZFDMkpSjZbd77RhNWF4RtPICqMUsxqqDgRrvlJkQ==`</details>
 
 **JK**: 3.5分で1リットル沸くって、めっちゃ早いですね！
 
@@ -88,7 +88,7 @@ Tags: Guide, Stove & Cookware
 
 #### ① 点火装置がない
 
-**参考情報**: 「点火装置: なし（別途ライターやマッチなどが必要です）」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd1SPAE01rm432YBGGktsLi69VJp7g2YaZi-AiUVDK7odkAAEKgBVuL5wH6X4QJrdKxvBbfZy6t15DSmZu1tM67fiuIVea_Qr5tji1l54MVtOuX7bUaWVhd-YpDghlRBY=`</details>
+> **参考情報**: 「点火装置: なし（別途ライターやマッチなどが必要です）」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd1SPAE01rm432YBGGktsLi69VJp7g2YaZi-AiUVDK7odkAAEKgBVuL5wH6X4QJrdKxvBbfZy6t15DSmZu1tM67fiuIVea_Qr5tji1l54MVtOuX7bUaWVhd-YpDghlRBY=`</details>
 
 **JK**: え、ボタン押したら火が出るやつ、ないんですか？
 
@@ -96,7 +96,7 @@ Tags: Guide, Stove & Cookware
 
 #### ② 五徳（ゴトク）が小さい
 
-**参考情報**: 「五徳が小さい・不安定な場合がある 五徳（ポットを支える部分）が小さめだと感じることがあり、特に大きめの鍋を使用する際には安定性に欠ける可能性があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeLrPuQv6jDR8_rWoQrHsXoMMxop_tcrwE5htcGFQAQQ52KHwSu9VL9HFkJaocI6ogi_Rm17FvWRlWtsufXQr-0uR1qNHV31VZ1V8OP_qF9bDDh_el0udOAibM5d0=`</details>
+> **参考情報**: 「五徳が小さい・不安定な場合がある 五徳（ポットを支える部分）が小さめだと感じることがあり、特に大きめの鍋を使用する際には安定性に欠ける可能性があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeLrPuQv6jDR8_rWoQrHsXoMMxop_tcrwE5htcGFQAQQ52KHwSu9VL9HFkJaocI6ogi_Rm17FvWRlWtsufXQr-0uR1qNHV31VZ1V8OP_qF9bDDh_el0udOAibM5d0=`</details>
 
 **JK**: 鍋が小さいやつじゃないとダメってことですか？
 
@@ -104,7 +104,7 @@ Tags: Guide, Stove & Cookware
 
 #### ③ 燃焼音が大きい
 
-**参考情報**: 「作動音が大きい 使用時に発生する燃焼音が比較的大きいと感じるユーザーもいます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn9x4kW_MjRVXGsu2hLLpxauN5E1m-o908JJjLF5jhYp_HB4mW6wbzEz87goJzOwuYsfH9aPNsbpNBjxkfDWMQ4Zsl_GJchBjXMZrQVDRwr40DC-ZZk0vxlNc3hc3aarS2GGOUqQ==`</details>
+> **参考情報**: 「作動音が大きい 使用時に発生する燃焼音が比較的大きいと感じるユーザーもいます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn9x4kW_MjRVXGsu2hLLpxauN5E1m-o908JJjLF5jhYp_HB4mW6wbzEz87goJzOwuYsfH9aPNsbpNBjxkfDWMQ4Zsl_GJchBjXMZrQVDRwr40DC-ZZk0vxlNc3hc3aarS2GGOUqQ==`</details>
 
 **JK**: ゴーッて音がうるさいってことですか？
 
@@ -112,7 +112,7 @@ Tags: Guide, Stove & Cookware
 
 #### ④ 寒冷地・冬山では性能が落ちる
 
-**参考情報**: 「寒冷地での性能低下 他の多くのガスカートリッジ式ストーブと同様に、低温環境では性能が低下し、ガスカートリッジを温める必要がある場合があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzJXR8ci99oxK1DNPZOoCwkpjlDqFOT8SBlHvkp6mDEo1mRK87gqkHBoYjwkjZYCVkcdSeQeta5cQ4mRlcTMOkqBi29e6qFXRknSNPZy-5o8LgoSGjqxX8KSrkIol6MW6URAqlOxfrxSWbviuJztF-Fg0y6DpToQs=`</details>
+> **参考情報**: 「寒冷地での性能低下 他の多くのガスカートリッジ式ストーブと同様に、低温環境では性能が低下し、ガスカートリッジを温める必要がある場合があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzJXR8ci99oxK1DNPZOoCwkpjlDqFOT8SBlHvkp6mDEo1mRK87gqkHBoYjwkjZYCVkcdSeQeta5cQ4mRlcTMOkqBi29e6qFXRknSNPZy-5o8LgoSGjqxX8KSrkIol6MW6URAqlOxfrxSWbviuJztF-Fg0y6DpToQs=`</details>
 
 **先生**: PocketRocket 2には**圧力レギュレーター**（気圧を一定に保つ機能）が搭載されていない。だから、気温が低い冬や高所ではガスの気化が弱まり、火力が落ちる。
 
@@ -142,13 +142,13 @@ Tags: Guide, Stove & Cookware
 | 収納ケース | プラスチックケース | ナイロンポーチ |
 | 価格（目安） | 約9,000円 | 約12,000円～ |
 
-**参考情報**: 「MSR PocketRocket Deluxeには、内蔵のピエゾイグナイター（点火装置）が搭載されており、マッチやライターを別途持ち運ぶ必要がありません。」「Deluxeモデルには圧力レギュレーターが搭載されており、低温時や燃料残量が少ない場合でも、安定した火力を維持し、一貫した沸騰時間を実現します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_cDoDZO-qtdYIKERWOCaCGOJJTZqODIeNq82JL54kMzfVN4xfVc1-n-AGKimewsbGIbROMgpZZJJm_Q0BDfdpy5r3MmDLdh_QTTjj1sqbVWbD5QWr929_JOyg5cmgTtV_y6V_3xM1SMx7uzLX4tOOmkHOCXYm9MBKJq69NopBX-_y1AU_ufQPDebTYFFP`</details>
+> **参考情報**: 「MSR PocketRocket Deluxeには、内蔵のピエゾイグナイター（点火装置）が搭載されており、マッチやライターを別途持ち運ぶ必要がありません。」「Deluxeモデルには圧力レギュレーターが搭載されており、低温時や燃料残量が少ない場合でも、安定した火力を維持し、一貫した沸騰時間を実現します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_cDoDZO-qtdYIKERWOCaCGOJJTZqODIeNq82JL54kMzfVN4xfVc1-n-AGKimewsbGIbROMgpZZJJm_Q0BDfdpy5r3MmDLdh_QTTjj1sqbVWbD5QWr929_JOyg5cmgTtV_y6V_3xM1SMx7uzLX4tOOmkHOCXYm9MBKJq69NopBX-_y1AU_ufQPDebTYFFP`</details>
 
 **JK**: 10gの差でこんなに機能が増えるんですね。
 
 **先生**: Deluxeは**シマーコントロール**（とろ火調理）が得意だ。米を炊いたr、煮込み料理をする人にはこちらが向いている。
 
-**参考情報**: 「火力調整（シマーコントロール）: 多くの小型ストーブが苦手とする弱火での調理（シマーコントロール）が非常に優れており、多様な料理に対応できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmCvIKMVCRSfMggLFPgWzHdsWyrZJjGQKPNAqZ0OdKNqkpH2pmn864WrhWUOq-SjnCwV_hI1xRSjOKQVHiYcXjxMIwiOOZzBZ2WPP2PSZ6PYV2xQexf-FeaSVWpTn48Od_Lrrfqsgq53LcnIOlvBta32MH-qgVaWS3YLhydJ9Uljrr8kD3z97FzRnbH8c=`</details>
+> **参考情報**: 「火力調整（シマーコントロール）: 多くの小型ストーブが苦手とする弱火での調理（シマーコントロール）が非常に優れており、多様な料理に対応できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmCvIKMVCRSfMggLFPgWzHdsWyrZJjGQKPNAqZ0OdKNqkpH2pmn864WrhWUOq-SjnCwV_hI1xRSjOKQVHiYcXjxMIwiOOZzBZ2WPP2PSZ6PYV2xQexf-FeaSVWpTn48Od_Lrrfqsgq53LcnIOlvBta32MH-qgVaWS3YLhydJ9Uljrr8kD3z97FzRnbH8c=`</details>
 
 **JK**: じゃあ私はDeluxe買います！
 
@@ -170,17 +170,17 @@ Tags: Guide, Stove & Cookware
 
 ![SOTO ウインドマスターが強風の中でも安定して燃焼している様子。](/img/msr_pocketrocket_guide_04.jpg)
 
-**参考情報**: 「SOTO ウインドマスターは、その優れた耐風性と寒冷地での安定した火力で高い評価を得ています。本体のみで60g、TriFlex (3本ゴトク) 使用時は67g、4Flex (4本ゴトク) 使用時は86g/87gです。火力: 3260W (11000 BTU) または 2800 kcal/h と高い出力を持ち、2カップの水を2.5分未満で沸騰させることが可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvjzTcMUNDvWqGlTAWRmc0vqoiGfGx9_sH1o8sMxTX9s3NbLxdvU2HDzeWTYSbtRGorppYjoXqLruKBEPhTszMjrj7xsVo4oQAZ84E5wudJaILKhCj9ZhoH0t5rZTpCsKJioIm8-ad5Zc9ycY3dLb1yG1JgtO7`</details>
+> **参考情報**: 「SOTO ウインドマスターは、その優れた耐風性と寒冷地での安定した火力で高い評価を得ています。本体のみで60g、TriFlex (3本ゴトク) 使用時は67g、4Flex (4本ゴトク) 使用時は86g/87gです。火力: 3260W (11000 BTU) または 2800 kcal/h と高い出力を持ち、2カップの水を2.5分未満で沸騰させることが可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvjzTcMUNDvWqGlTAWRmc0vqoiGfGx9_sH1o8sMxTX9s3NbLxdvU2HDzeWTYSbtRGorppYjoXqLruKBEPhTszMjrj7xsVo4oQAZ84E5wudJaILKhCj9ZhoH0t5rZTpCsKJioIm8-ad5Zc9ycY3dLb1yG1JgtO7`</details>
 
 **先生**: ウインドマスターの最大の強みは**耐風性**だ。バーナーヘッドが凹型で、風の影響を受けにくい。
 
-**参考情報**: 「耐風性: バーナーヘッドが凹状のデザインになっており、風の影響を受けにくい構造です。炎口がクッカーのすぐ下にあるため、強風時でも効率的に加熱できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUdMwmNEDXoa_QWUPiqSEpSk9fSp0JBRGwz_7ObRMKuBk_U7PG3N985p4piNSD1dVoRIN2PsY2CJPrUrMHVoeGlGPZL38_sWz46fEVEwXgqJwwst29KdfJsYnuChFl3CIbiPLi5TOodvbsBXW2502s7UkB-xP4Plx4NQK8AdJzGgxdAbUDpdshsJsBSvx0yz9gNsvK_mHNVAmMpxmdAJk=`</details>
+> **参考情報**: 「耐風性: バーナーヘッドが凹状のデザインになっており、風の影響を受けにくい構造です。炎口がクッカーのすぐ下にあるため、強風時でも効率的に加熱できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUdMwmNEDXoa_QWUPiqSEpSk9fSp0JBRGwz_7ObRMKuBk_U7PG3N985p4piNSD1dVoRIN2PsY2CJPrUrMHVoeGlGPZL38_sWz46fEVEwXgqJwwst29KdfJsYnuChFl3CIbiPLi5TOodvbsBXW2502s7UkB-xP4Plx4NQK8AdJzGgxdAbUDpdshsJsBSvx0yz9gNsvK_mHNVAmMpxmdAJk=`</details>
 
 **JK**: 風に強いって、そんなに重要なんですか？
 
 **先生**: 山では突然風が強くなることがある。風が吹くと火が消えたり、火力が落ちてお湯がなかなか沸かなくなる。ウインドマスターは**マイクロレギュレーター**も搭載しているから、寒冷地でも安定している。
 
-**参考情報**: 「マイクロレギュレーター: 独自のマイクロレギュレーター機構により、寒冷地やガス残量が少ない状況でも安定した火力を維持します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLY6atArO1pMJO2X7Y_b3YsYCsO5XcS6skfIu2M376C0M83SDnXPjFXlSzX6sSaDR3nF9Q5KBZj0xMf1il07sF5H9N4yHAMzUeWnfRI7zFQNeSSsVBclt4EByTb4ruNAU6_s3iF5Zi7A9_hB-FThQE4tfyhWXgekry2SXNP5-lHU_IUynT-QbRtckQzw-dKmMG5VHQwao3zdYYg_JlXYxo1r9w`</details>
+> **参考情報**: 「マイクロレギュレーター: 独自のマイクロレギュレーター機構により、寒冷地やガス残量が少ない状況でも安定した火力を維持します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLY6atArO1pMJO2X7Y_b3YsYCsO5XcS6skfIu2M376C0M83SDnXPjFXlSzX6sSaDR3nF9Q5KBZj0xMf1il07sF5H9N4yHAMzUeWnfRI7zFQNeSSsVBclt4EByTb4ruNAU6_s3iF5Zi7A9_hB-FThQE4tfyhWXgekry2SXNP5-lHU_IUynT-QbRtckQzw-dKmMG5VHQwao3zdYYg_JlXYxo1r9w`</details>
 
 **JK**: じゃあウインドマスターの方がいいじゃないですか！
 
@@ -188,7 +188,7 @@ Tags: Guide, Stove & Cookware
 
 ### vs Primus P-153 ウルトラバーナー
 
-**参考情報**: 「プリムス P-153 ウルトラバーナー: 火力: 3600 kcal/hという非常に高い火力が特徴で、迅速な沸騰時間 (2分29秒) を実現します。高火力でありながら静音性にも優れているというレビューもあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXmWXVQhIYrusylH5KNBQ29r8OzrwzHMXTkZNRPmN0ljV5UauSiKtQf1OXv9BfOXcULWHLPrA-zmfxMyRbwF24XSmMwXZ4JqdYZAiHttA1q0BWJmWjYR3v4u0yBJW4CMZACKZ6jAHPecxAO0E1JrUFdWlNwcbnJbrB3kWmwLuB-smY1fQQ6-lLLA==`</details>
+> **参考情報**: 「プリムス P-153 ウルトラバーナー: 火力: 3600 kcal/hという非常に高い火力が特徴で、迅速な沸騰時間 (2分29秒) を実現します。高火力でありながら静音性にも優れているというレビューもあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXmWXVQhIYrusylH5KNBQ29r8OzrwzHMXTkZNRPmN0ljV5UauSiKtQf1OXv9BfOXcULWHLPrA-zmfxMyRbwF24XSmMwXZ4JqdYZAiHttA1q0BWJmWjYR3v4u0yBJW4CMZACKZ6jAHPecxAO0E1JrUFdWlNwcbnJbrB3kWmwLuB-smY1fQQ6-lLLA==`</details>
 
 **先生**: P-153は**火力モンスター**だ。3600kcal/hという凄まじい出力で、水を2分半で沸かせる。
 
@@ -220,11 +220,11 @@ Tags: Guide, Stove & Cookware
 
 **先生**: いや、それが落とし穴だ。MSR公式は**IsoPro専用**を強く推奨している。
 
-**参考情報**: 「MSRでは、専用ガスカートリッジ「ISOPRO」以外の燃料の使用は不完全燃焼や一酸化炭素発生、ガス漏れなどの危険性があるため、絶対に使用しないよう警告しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2e0PAAur2Gdo7Up5YC2bdYZgEL7R90mx_E1SKe4XnQoptDGw9n4xMry7A4GjB-fsSf3Knij8FFgXywWInlYFZEKivmGZFDMkpSjZbd77RhNWF4RtPICqMUsxqqDgRrvlJkQ==`</details>
+> **参考情報**: 「MSRでは、専用ガスカートリッジ「ISOPRO」以外の燃料の使用は不完全燃焼や一酸化炭素発生、ガス漏れなどの危険性があるため、絶対に使用しないよう警告しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2e0PAAur2Gdo7Up5YC2bdYZgEL7R90mx_E1SKe4XnQoptDGw9n4xMry7A4GjB-fsSf3Knij8FFgXywWInlYFZEKivmGZFDMkpSjZbd77RhNWF4RtPICqMUsxqqDgRrvlJkQ==`</details>
 
 ### IsoPro の特徴
 
-**参考情報**: 「MSR IsoProガスカートリッジは、すべてのサイズでイソブタン80%とプロパン20%の独自の燃料ブレンドが採用されています。この配合は、低温下でも高い気化性能を発揮し、ストーブの安定した火力を維持するために最適化されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQUfLS--wxD8uKSexxSmgbxBddQ9gg3Fd6b7jDQQXmXfiSV_6zqrtm-BR_0AarMJm0riJkkqcJwGYgCWL7qThxZMUAW1D8Hemn3u_5FcnEpDy3a2gW8k-8fJQio1eoTLb9r40awWHNAUieNZu7ihG-RZ5IAHgLQfHUp35aENpq7fyUh23seWRuwGulmcGj2-1Rmr4Y7Bg2BiWCfT24ySAYgSrz1saqDfXiMIwLGw==`</details>
+> **参考情報**: 「MSR IsoProガスカートリッジは、すべてのサイズでイソブタン80%とプロパン20%の独自の燃料ブレンドが採用されています。この配合は、低温下でも高い気化性能を発揮し、ストーブの安定した火力を維持するために最適化されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQUfLS--wxD8uKSexxSmgbxBddQ9gg3Fd6b7jDQQXmXfiSV_6zqrtm-BR_0AarMJm0riJkkqcJwGYgCWL7qThxZMUAW1D8Hemn3u_5FcnEpDy3a2gW8k-8fJQio1eoTLb9r40awWHNAUieNZu7ihG-RZ5IAHgLQfHUp35aENpq7fyUh23seWRuwGulmcGj2-1Rmr4Y7Bg2BiWCfT24ySAYgSrz1saqDfXiMIwLGw==`</details>
 
 *   **イソブタン80% + プロパン20%**の混合比率
 *   低温でも気化しやすい（通常のブタンより蒸気圧が高い）
@@ -232,7 +232,7 @@ Tags: Guide, Stove & Cookware
 
 ### サイズラインナップ
 
-**参考情報**: 「MSR IsoProガスカートリッジには、主に容量の異なる3つの種類があります。110g (3.9 oz): 内容量110gで、総重量は約210gです。227g (8 oz): 内容量227gで、総重量は約370gです。450g (16 oz): 最も容量の大きいサイズです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQHurcH1EZWz8aUSRV3vSL64e36PFB9wjla9LR-85eZrdBcPxLCuitg4ipF_H-iUf2QiPA7mPVGtYXPv9dJfuawVFNLQtBE604zUDmPVwPdm_sB91pShf4Tgs2`</details>
+> **参考情報**: 「MSR IsoProガスカートリッジには、主に容量の異なる3つの種類があります。110g (3.9 oz): 内容量110gで、総重量は約210gです。227g (8 oz): 内容量227gで、総重量は約370gです。450g (16 oz): 最も容量の大きいサイズです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQHurcH1EZWz8aUSRV3vSL64e36PFB9wjla9LR-85eZrdBcPxLCuitg4ipF_H-iUf2QiPA7mPVGtYXPv9dJfuawVFNLQtBE604zUDmPVwPdm_sB91pShf4Tgs2`</details>
 
 | サイズ | 内容量 | 総重量（缶込み） | 用途 |
 |-------|--------|-----------------|------|
@@ -256,7 +256,7 @@ Tags: Guide, Stove & Cookware
 
 #### ① PocketRocket & Trail Mini Cook Set
 
-**参考情報**: 「MSR PocketRocket & Trail Mini Cook Set: このセットは、MSR PocketRocket 2と組み合わせることを想定して作られています。0.75Lのアルミ製ポットとポリプロピレン製のボウルが含まれており、ポット内に110gのISOPROガスカートリッジとPocketRocket 2を収納できるため、非常にコンパクトに持ち運び可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEOdP2lJehXEEsmAdvajyOwLXhTvebAPyI7w305345TOjxzgb_YDYTL7-6404zU1Eno-BnGrgI69GEo8VcidFXvjbgPsAI2vD7lVohCwU2aZfvlclIw9-e2U1Ka6XM9Tkq7wbrbpSM`</details>
+> **参考情報**: 「MSR PocketRocket & Trail Mini Cook Set: このセットは、MSR PocketRocket 2と組み合わせることを想定して作られています。0.75Lのアルミ製ポットとポリプロピレン製のボウルが含まれており、ポット内に110gのISOPROガスカートリッジとPocketRocket 2を収納できるため、非常にコンパクトに持ち運び可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEOdP2lJehXEEsmAdvajyOwLXhTvebAPyI7w305345TOjxzgb_YDYTL7-6404zU1Eno-BnGrgI69GEo8VcidFXvjbgPsAI2vD7lVohCwU2aZfvlclIw9-e2U1Ka6XM9Tkq7wbrbpSM`</details>
 
 *   **容量**: 0.75L（ソロ向け）
 *   **素材**: アルミ製ポット
@@ -266,7 +266,7 @@ Tags: Guide, Stove & Cookware
 
 #### ② PocketRocket Deluxe Stove Kit
 
-**参考情報**: 「MSR PocketRocket Deluxe Stove Kit: ピエゾ点火装置付きのパワフルなストーブと、1.2Lのハードアノダイズド加工されたポット、プラスチック製の蓋、0.8Lのプラスチック製ボウル、ポットトングがセットになっています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkYB61tLKLgfkrXnBamkLWnOZ_ILYaAgPUbVCikrWp4Uqt0gWib7BhgdaTFxbdw3u4vvKdsFr7K_3iNuWuAe3IjH7m2kApo8j574ykSceMteItQvQsRM7ZT7JnOX3eGizxYX7YS-gM2mzQmAxydN50-nr6XQ==`</details>
+> **参考情報**: 「MSR PocketRocket Deluxe Stove Kit: ピエゾ点火装置付きのパワフルなストーブと、1.2Lのハードアノダイズド加工されたポット、プラスチック製の蓋、0.8Lのプラスチック製ボウル、ポットトングがセットになっています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkYB61tLKLgfkrXnBamkLWnOZ_ILYaAgPUbVCikrWp4Uqt0gWib7BhgdaTFxbdw3u4vvKdsFr7K_3iNuWuAe3IjH7m2kApo8j574ykSceMteItQvQsRM7ZT7JnOX3eGizxYX7YS-gM2mzQmAxydN50-nr6XQ==`</details>
 
 *   **容量**: 1.2L（2人分も対応可能）
 *   **素材**: ハードアノダイズドアルミ（耐久性が高い）
@@ -276,7 +276,7 @@ Tags: Guide, Stove & Cookware
 
 ### クッカー素材の違い
 
-**参考情報**: 「アルミニウム: 軽量で手頃な価格です。煮込み料理に適していますが、へこみやすい側面もあります。ステンレススチール: アルミニウムよりも耐久性があり、傷にも強いですが、重くなる傾向があるため、車でのキャンプに適しています。チタン: 最も軽量な素材で、素早く加熱され、耐食性も高いですが、高価です。PocketRocketのような集中力の高い炎を持つストーブでは、焦げ付きやすいという意見もあり、主に湯沸かしに適しているとされます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBMj4qR5uW7_Akl4GAAeRjkD5988v98ielQVW431rCUCcfo-4g7OmLF8IzNKSGva4LiKNOnpHiC6bnXbXvH97mV1R9MKvTttQCDqia1IhBvhhdeKVZwyhflZj34kjt2efpPMJfDPR2oXAv9camF2ghnMcsBidnKI0=`</details>
+> **参考情報**: 「アルミニウム: 軽量で手頃な価格です。煮込み料理に適していますが、へこみやすい側面もあります。ステンレススチール: アルミニウムよりも耐久性があり、傷にも強いですが、重くなる傾向があるため、車でのキャンプに適しています。チタン: 最も軽量な素材で、素早く加熱され、耐食性も高いですが、高価です。PocketRocketのような集中力の高い炎を持つストーブでは、焦げ付きやすいという意見もあり、主に湯沸かしに適しているとされます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBMj4qR5uW7_Akl4GAAeRjkD5988v98ielQVW431rCUCcfo-4g7OmLF8IzNKSGva4LiKNOnpHiC6bnXbXvH97mV1R9MKvTttQCDqia1IhBvhhdeKVZwyhflZj34kjt2efpPMJfDPR2oXAv9camF2ghnMcsBidnKI0=`</details>
 
 | 素材 | メリット | デメリット | 向いている人 |
 |------|---------|-----------|-------------|
@@ -301,7 +301,7 @@ Tags: Guide, Stove & Cookware
 5.  **消火**: バルブを完全に閉めて火を消す
 6.  **取り外し**: 完全に冷めてからガス缶を外す
 
-**参考情報**: 「まず、五徳の脚を反時計回りに回し、垂直にしっかりと固定します。MSR ポケットロケット2の五徳はステンレス製で強度が高く、収納時には折りたたむことができます。」「ガスカートリッジに本体を接続する際は、バルブが完全に閉まっていることを確認してください。ガス缶は傾けずに接続し、MSRイソプロガスカートリッジを使用することが推奨されています。過度に締め付けないように注意し、ガス漏れがないか確認してください。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGumoqWjSB-0upTIW-l6WJgW9zaoQfaAqcHz2MWZ98j_RbWS10qjjswlzFOSQPkfSpYTpE_XlsdThUFrkWe0fE4zTjCC0sET-RC_5H2EmTc7hGwssfREY6HF27k0uLrqq6TNjI=`</details>
+> **参考情報**: 「まず、五徳の脚を反時計回りに回し、垂直にしっかりと固定します。MSR ポケットロケット2の五徳はステンレス製で強度が高く、収納時には折りたたむことができます。」「ガスカートリッジに本体を接続する際は、バルブが完全に閉まっていることを確認してください。ガス缶は傾けずに接続し、MSRイソプロガスカートリッジを使用することが推奨されています。過度に締め付けないように注意し、ガス漏れがないか確認してください。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGumoqWjSB-0upTIW-l6WJgW9zaoQfaAqcHz2MWZ98j_RbWS10qjjswlzFOSQPkfSpYTpE_XlsdThUFrkWe0fE4zTjCC0sET-RC_5H2EmTc7hGwssfREY6HF27k0uLrqq6TNjI=`</details>
 
 **JK**: ガス缶って、火を消してからすぐ外しちゃダメなんですか？
 
@@ -309,7 +309,7 @@ Tags: Guide, Stove & Cookware
 
 ### メンテナンスのポイント
 
-**参考情報**: 「MSRのガスカートリッジストーブは、可動部品が少なく燃焼がきれいなため、比較的メンテナンスが簡単です。五徳: 破損や曲がりがないか、また折りたたみ部分がスムーズに動作するかを確認します。ガスケット: ストーブのベース部分にある燃料缶との接続部のガスケットに損傷や乾燥、ひび割れがないか確認します。ガスケットの損傷はガス漏れの原因となるため、非常に危険です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeio5NAOpB_BlBRm8MlCRQuQTBnNmLRrrDC_uayICe2elYmWDazK1PGH5V-MYXGS_S-eGh_wln-enrOcB8Mv1ecY5dH837Lunupg-BHb8en2qh1jcwZPtSwcmuware3QMg7yXTs3E--9MpPDIaRFYePiQ1fTj4Z-CModkhxwxldQQ1T3iLyrA=`</details>
+> **参考情報**: 「MSRのガスカートリッジストーブは、可動部品が少なく燃焼がきれいなため、比較的メンテナンスが簡単です。五徳: 破損や曲がりがないか、また折りたたみ部分がスムーズに動作するかを確認します。ガスケット: ストーブのベース部分にある燃料缶との接続部のガスケットに損傷や乾燥、ひび割れがないか確認します。ガスケットの損傷はガス漏れの原因となるため、非常に危険です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeio5NAOpB_BlBRm8MlCRQuQTBnNmLRrrDC_uayICe2elYmWDazK1PGH5V-MYXGS_S-eGh_wln-enrOcB8Mv1ecY5dH837Lunupg-BHb8en2qh1jcwZPtSwcmuware3QMg7yXTs3E--9MpPDIaRFYePiQ1fTj4Z-CModkhxwxldQQ1T3iLyrA=`</details>
 
 **定期的にチェックすべき箇所**:
 *   **五徳**: 曲がっていないか、ネジが緩んでいないか
@@ -326,7 +326,7 @@ Tags: Guide, Stove & Cookware
 
 **先生**: PocketRocket 2は**税込9,020円**が標準価格だ。
 
-**参考情報**: 「MSR ポケットロケット2の価格は、一般的に税込9,020円、または税別8,200円で販売されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTHEDPdKOSn-hmwR91jbAkdsotG_tOCrp1C3j5LzFkIz4ChyxU-odxmrNl4Md6ZkefzD6hhfYHGYcfTIeRG34WJZmLXZrvZ7OQ7VoE9pL4U_xr2723oOH9GC30Mwwb`</details>
+> **参考情報**: 「MSR ポケットロケット2の価格は、一般的に税込9,020円、または税別8,200円で販売されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTHEDPdKOSn-hmwR91jbAkdsotG_tOCrp1C3j5LzFkIz4ChyxU-odxmrNl4Md6ZkefzD6hhfYHGYcfTIeRG34WJZmLXZrvZ7OQ7VoE9pL4U_xr2723oOH9GC30Mwwb`</details>
 
 ### 主な販売店
 *   **ネット**: Amazon、楽天市場、Yahoo!ショッピング
@@ -352,7 +352,7 @@ Tags: Guide, Stove & Cookware
 
 **先生**: 一応使えるが、**推奨しない**。MSRはIsoPro専用を強く推奨している。
 
-**参考情報**: 「MSRでは、専用ガスカートリッジ「ISOPRO」以外の燃料の使用は不完全燃焼や一酸化炭素発生、ガス漏れなどの危険性があるため、絶対に使用しないよう警告しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2e0PAAur2Gdo7Up5YC2bdYZgEL7R90mx_E1SKe4XnQoptDGw9n4xMry7A4GjB-fsSf3Knij8FFgXywWInlYFZEKivmGZFDMkpSjZbd77RhNWF4RtPICqMUsxqqDgRrvlJkQ==`</details>
+> **参考情報**: 「MSRでは、専用ガスカートリッジ「ISOPRO」以外の燃料の使用は不完全燃焼や一酸化炭素発生、ガス漏れなどの危険性があるため、絶対に使用しないよう警告しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2e0PAAur2Gdo7Up5YC2bdYZgEL7R90mx_E1SKe4XnQoptDGw9n4xMry7A4GjB-fsSf3Knij8FFgXywWInlYFZEKivmGZFDMkpSjZbd77RhNWF4RtPICqMUsxqqDgRrvlJkQ==`</details>
 
 ネジ山のピッチが微妙に違うメーカーもあり、ガス漏れや不完全燃焼のリスクがある。自己責任で使う人もいるが、初心者は避けるべきだ。
 
@@ -396,4 +396,4 @@ Tags: Guide, Stove & Cookware
 
 ---
 
-**参考情報**: 「150日以上のロングトレイルでもトラブルなく使用できたというレビューもあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD8Z52kKHmYoobgZsGxKUKrloSmkhS2mQkhDAopT7p51ohZVcbJtPdgq1JAjUe4ZSNMMg6_2EkY_5tAEg5Co7YIo-H-5iWXhPwQpbrhBS5cwPe7-wWfZpTharRMAXxG4NueSFJP05VxEVDbg==`</details>
+> **参考情報**: 「150日以上のロングトレイルでもトラブルなく使用できたというレビューもあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD8Z52kKHmYoobgZsGxKUKrloSmkhS2mQkhDAopT7p51ohZVcbJtPdgq1JAjUe4ZSNMMg6_2EkY_5tAEg5Co7YIo-H-5iWXhPwQpbrhBS5cwPe7-wWfZpTharRMAXxG4NueSFJP05VxEVDbg==`</details>

@@ -57,7 +57,7 @@ Tags: Wear, Guide
 2. **Polygiene StayFresh™抗菌防臭加工**: 嫌な臭いの発生を抑える
 3. **撥水加工（はっ水）**: 外部からの水分を弾く
 
-**参考情報**: 「カリマーの速乾性や快適なドライ感を追求したシャツやTシャツは多数展開しており、これらはユーザーが「DPF ドライプロテクションファブリック」と呼ぶ機能性に合致するものです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaELhaInlNCCmSfvWocXWVhR1ldWen62iM2b7S1OK2sdzAbsfJmWzrPH8j15sgPvIbB4FtyM_ZYyYS2dtgTmXcvWZBERbGjrgUDUglWN-PBvvQ14kwABe8oToO0zUdxRQqG_WHsUoutQ==`</details>
+> **参考情報**: 「カリマーの速乾性や快適なドライ感を追求したシャツやTシャツは多数展開しており、これらはユーザーが「DPF ドライプロテクションファブリック」と呼ぶ機能性に合致するものです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaELhaInlNCCmSfvWocXWVhR1ldWen62iM2b7S1OK2sdzAbsfJmWzrPH8j15sgPvIbB4FtyM_ZYyYS2dtgTmXcvWZBERbGjrgUDUglWN-PBvvQ14kwABe8oToO0zUdxRQqG_WHsUoutQ==`</details>
 
 **JK**: なるほど…つまり、汗は吸うけど肌に戻さない、臭いも防ぐ、外の水も弾く、っていう三重の守りってことですね！
 
@@ -75,7 +75,7 @@ Tags: Wear, Guide
 
 **先生**: そうだ。緻密でフラットな編み地表面と、後述するDelta®構造による高いかさ高性が特徴だ。撥水ドライ層が汗を吸い込んでも、その汗が肌面に戻るのを抑えてくれる。
 
-**参考情報**: 「軽量で着心地の良いポリエステルはっ水糸CARAT®と、Delta®のもつかさ高構造により、べたつきを防ぎ心地よいドライ感を提供します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2T9TbOPv1AcdSoLSV1yrMuBmRpMIahp3tqWOEbaRfOGGPDZSdzUlTqbNPUOB-z4Ba6uU4zNmQr6uFI88OflZkJWa7i6Q8huMHLJy0UbXK3UvbGpq3F09N6vLFj1xUuxp06ckP6MjtOA==`</details>
+> **参考情報**: 「軽量で着心地の良いポリエステルはっ水糸CARAT®と、Delta®のもつかさ高構造により、べたつきを防ぎ心地よいドライ感を提供します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2T9TbOPv1AcdSoLSV1yrMuBmRpMIahp3tqWOEbaRfOGGPDZSdzUlTqbNPUOB-z4Ba6uU4zNmQr6uFI88OflZkJWa7i6Q8huMHLJy0UbXK3UvbGpq3F09N6vLFj1xUuxp06ckP6MjtOA==`</details>
 
 **JK**: へえ！汗を吸うのに、肌にベタっとしない…それは快適そうですね。
 
@@ -87,7 +87,7 @@ Tags: Wear, Guide
 
 **先生**: モコモコというより、生地に空気の層ができるイメージだな。細やかな編み目で引っ掛かりにくく、耐摩耗性にも優れている。SOLOTEX®糸と融合させたバージョンもあって、天然繊維のような上質な質感と吸汗速乾性を両立させている。
 
-**参考情報**: 「Delta®は、その独特のふくらみとソフトな風合いが特徴の機能素材です。軽量性、ストレッチ性、UVカット性を兼ね備えており、その細やかな編み目は引っ掛かりにくく、耐摩耗性にも優れています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBQzwqjlN4qY8qvycBGTXcRd_lCwNDcSfAXH1ytMKbGBJ0bBpgJmsJS9sC7TlALZqVAuOcIOg8gnhlFqiWuerHqI2oLMky-GZcF4_SSBuBDqSNIyw=`</details>
+> **参考情報**: 「Delta®は、その独特のふくらみとソフトな風合いが特徴の機能素材です。軽量性、ストレッチ性、UVカット性を兼ね備えており、その細やかな編み目は引っ掛かりにくく、耐摩耗性にも優れています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBQzwqjlN4qY8qvycBGTXcRd_lCwNDcSfAXH1ytMKbGBJ0bBpgJmsJS9sC7TlALZqVAuOcIOg8gnhlFqiWuerHqI2oLMky-GZcF4_SSBuBDqSNIyw=`</details>
 
 **JK**: UVカットもあるんだ！夏の登山にピッタリじゃないですか。
 
@@ -99,7 +99,7 @@ Tags: Wear, Guide
 
 **先生**: その通り。主に銀イオン（塩化銀）を有効成分としていて、繊維上のニオイの原因となるバクテリアの増殖を抑制する。しかも、加工は繊維と一体化しているから、製品寿命を通して効果が持続するんだ。
 
-**参考情報**: 「主に銀イオン（塩化銀）を有効成分とし、繊維上のニオイの原因となるバクテリアの増殖を抑制することで、防臭効果を発揮します。」「加工は繊維と一体化しているため、製品の寿命を通して効果が持続するとされています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDbDl9IXUaea5ZeFg2vQviUX-5jW8sl28Pew3nt1OpHnwxGS9YeINcgFEJkJ__VrmrjZZH7hOlwq8umGZSinsDVtUlF-62Ja_0saF5p5OMO-naR-qcBEWwuBGdZ9W3cFp5XwynhZ4=`</details>
+> **参考情報**: 「主に銀イオン（塩化銀）を有効成分とし、繊維上のニオイの原因となるバクテリアの増殖を抑制することで、防臭効果を発揮します。」「加工は繊維と一体化しているため、製品の寿命を通して効果が持続するとされています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDbDl9IXUaea5ZeFg2vQviUX-5jW8sl28Pew3nt1OpHnwxGS9YeINcgFEJkJ__VrmrjZZH7hOlwq8umGZSinsDVtUlF-62Ja_0saF5p5OMO-naR-qcBEWwuBGdZ9W3cFp5XwynhZ4=`</details>
 
 **JK**: すごい！テント泊の連泊でも臭わないってことですよね？
 
@@ -117,7 +117,7 @@ Tags: Wear, Guide
 
 **先生**: いい質問だ。高密度織りだから、引き裂きや縫い目ストレスに対する耐久性も高い。しかも防風性と通気性のバランスに優れていて、空気は通すけど風からは守ってくれる。DWR撥水加工もされているから、シワにもなりにくく携行性も抜群だ。
 
-**参考情報**: 「この素材（PERTEX® QUANTUM AIR）は防風性と通気性のバランスに優れており、軽やかな着心地が特徴です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnUgD8dVR2CThdc8xntg97WR-3MzxHL4qycKuR-QE5_CkgTY36VAfoxuJ7NiAdFgKi25Wn-19_37aUfsHdANj40ZdGYhfUCYSSC7zKUoltdgoedlFIOu7ubU8vFP4ey31tkps=`</details>
+> **参考情報**: 「この素材（PERTEX® QUANTUM AIR）は防風性と通気性のバランスに優れており、軽やかな着心地が特徴です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnUgD8dVR2CThdc8xntg97WR-3MzxHL4qycKuR-QE5_CkgTY36VAfoxuJ7NiAdFgKi25Wn-19_37aUfsHdANj40ZdGYhfUCYSSC7zKUoltdgoedlFIOu7ubU8vFP4ey31tkps=`</details>
 
 ### Octa®CPCP®：中空8フィン断面の保温素材
 
@@ -131,7 +131,7 @@ Tags: Wear, Guide
 
 **先生**: 素晴らしい疑問だ。保温は「デッドエア（動かない空気の層）」を保持することで実現し、通気性は汗の蒸気を外に逃がすことで実現する。Octa®は中綿と裏地が一体化したトリコット素材だから、両方を同時に叶えられるんだ。
 
-**参考情報**: 「この製品は、中空8フィン断面の多機能繊維「Octa®CPCP®」を使用しており、空気を多く含むことで高い保温性を持ちながらも、優れた通気性を実現しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIi1mLDIl0zGffEYMKw2R5HwfZOWN6Ey2WzJqNUwFp-hhqPJQg4V1NxFTzx-nUhgQbPuJdAgMUPVlc9JwMihLyDF2G5d0jkEm2lGhrDk1jUf0AS1YEcSOEdO6mfuxbhFqw31MvozWXzsqeEtuGQk-znBy1C1PhW7NjttOA57YkMD2ob-TiLgFHY_eQMIaj4ptQQ2IT9rhKurNAZ392Am2bIDIvglvoQ0MHBvH3dayc-PlEmV-THYlwBqXC9LJ0t22DzanY0QJoRxvoayxbTjt4izpF7RXE2qRV0Zls5EbpZU2_Tdg=`</details>
+> **参考情報**: 「この製品は、中空8フィン断面の多機能繊維「Octa®CPCP®」を使用しており、空気を多く含むことで高い保温性を持ちながらも、優れた通気性を実現しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIi1mLDIl0zGffEYMKw2R5HwfZOWN6Ey2WzJqNUwFp-hhqPJQg4V1NxFTzx-nUhgQbPuJdAgMUPVlc9JwMihLyDF2G5d0jkEm2lGhrDk1jUf0AS1YEcSOEdO6mfuxbhFqw31MvozWXzsqeEtuGQk-znBy1C1PhW7NjttOA57YkMD2ob-TiLgFHY_eQMIaj4ptQQ2IT9rhKurNAZ392Am2bIDIvglvoQ0MHBvH3dayc-PlEmV-THYlwBqXC9LJ0t22DzanY0QJoRxvoayxbTjt4izpF7RXE2qRV0Zls5EbpZU2_Tdg=`</details>
 
 **JK**: へえ〜！科学ってすごいですね。肌寒い季節の行動着にピッタリじゃないですか。
 
@@ -155,7 +155,7 @@ Tags: Wear, Guide
 
 **先生**: そうだな。素材はポリエステル100%で、先ほど説明したCARAT®撥水糸とDelta®構造を組み合わせている。重量はわずか約111gで、サイズはXSからXLまで展開されている。
 
-**参考情報**: 「fast-dry S/S T: 6,160円」「素材: ポリエステル100%で構成される、はっ水糸「CARAT®（カラット）」と「Delta®（デルタ）」構造を組み合わせた生地が採用」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFVTwZr7c-XGIN2pmbCffqgJTUBXCNMdWlO75ActAxqHkHmrpMXFgHaARpKHeKv7ykIVmr9MzsovNzhycqjBHKhZwL69-_vBuTLkZIzO0brNIlwah2WR3DMs_8Pn71x0bMTFU=`</details>
+> **参考情報**: 「fast-dry S/S T: 6,160円」「素材: ポリエステル100%で構成される、はっ水糸「CARAT®（カラット）」と「Delta®（デルタ）」構造を組み合わせた生地が採用」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFVTwZr7c-XGIN2pmbCffqgJTUBXCNMdWlO75ActAxqHkHmrpMXFgHaARpKHeKv7ykIVmr9MzsovNzhycqjBHKhZwL69-_vBuTLkZIzO0brNIlwah2WR3DMs_8Pn71x0bMTFU=`</details>
 
 #### 主なスペック
 
@@ -187,7 +187,7 @@ Tags: Wear, Guide
 
 **先生**: まさにその通りだ。実際、山行時のベースレイヤーとして推奨されている。素材自体にUVカット効果もあるし、袖周りや身頃にはフラットシーマ縫製が採用されていて、着用時のストレスも軽減されている。
 
-**参考情報**: 「肌面のはっ水ドライ層が、吸い込んだ汗が肌に戻るのを抑え、べたつきを抑制し、快適な着心地を保ちます」「塩化銀を有効成分とした抗菌・防臭加工「Polygiene StayFresh™（ポリジン・ステイフレッシュ）」が施されており、バクテリアの繁殖を抑え、嫌な臭いの発生を防ぎます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFVTwZr7c-XGIN2pmbCffqgJTUBXCNMdWlO75ActAxqHkHmrpMXFgHaARpKHeKv7ykIVmr9MzsovNzhycqjBHKhZwL69-_vBuTLkZIzO0brNIlwah2WR3DMs_8Pn71x0bMTFU=`</details>
+> **参考情報**: 「肌面のはっ水ドライ層が、吸い込んだ汗が肌に戻るのを抑え、べたつきを抑制し、快適な着心地を保ちます」「塩化銀を有効成分とした抗菌・防臭加工「Polygiene StayFresh™（ポリジン・ステイフレッシュ）」が施されており、バクテリアの繁殖を抑え、嫌な臭いの発生を防ぎます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFVTwZr7c-XGIN2pmbCffqgJTUBXCNMdWlO75ActAxqHkHmrpMXFgHaARpKHeKv7ykIVmr9MzsovNzhycqjBHKhZwL69-_vBuTLkZIzO0brNIlwah2WR3DMs_8Pn71x0bMTFU=`</details>
 
 **JK**: でも、ポリエステル100%ってことは、化繊のゴワゴワ感があるんじゃないですか？
 
@@ -201,7 +201,7 @@ Tags: Wear, Guide
 
 **先生**: ハーフジップは重量が約153gで、高めの襟が首の日差しをカットしてくれる。袖にはサムホール（親指を通す穴）が付いていて、手の保護も考慮されている。体温調整がしやすいから、行動中の体温変化が激しい人に向いているな。
 
-**参考情報**: 「fast-dry half-zip: 8,140円または8,800円で、セール価格6,160円の場合もあります」「高めの襟で首の日差しをカットし、袖にはサムホールが付いて手の保護も考慮されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx5o5YOrQz7l0Bc1R5FiAvNlx8ADA4Ko7RuU6uwtyjUJEXU_G1DoPX1cJozHiGPoU1jd_ESrK2QE59SHjc2tj5XB7HJP-R9Lno63aBHQs7-drPsaD1dEv6xg8JQXUbN3HJ8nmyeW7Tsh1r1tl1nOHk`</details>
+> **参考情報**: 「fast-dry half-zip: 8,140円または8,800円で、セール価格6,160円の場合もあります」「高めの襟で首の日差しをカットし、袖にはサムホールが付いて手の保護も考慮されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx5o5YOrQz7l0Bc1R5FiAvNlx8ADA4Ko7RuU6uwtyjUJEXU_G1DoPX1cJozHiGPoU1jd_ESrK2QE59SHjc2tj5XB7HJP-R9Lno63aBHQs7-drPsaD1dEv6xg8JQXUbN3HJ8nmyeW7Tsh1r1tl1nOHk`</details>
 
 **JK**: サムホールって便利そう！朝晩冷える時期に良さそうですね。
 
@@ -213,7 +213,7 @@ Tags: Wear, Guide
 
 **先生**: ああ。「吸水速乾性に優れ、汗をかいてもすぐに乾く」「サラサラとした肌触りが続く」という評価が多い。スポーツやアウトドア活動に最適だと高く評価されているんだ。
 
-**参考情報**: 「ある半袖クルーネック速乾Tシャツは70件のレビューで平均4.80と非常に高い評価を受けています」「多くの製品が吸水速乾性に優れており、汗をかいてもすぐに乾くため、スポーツやアウトドア活動に最適と評価されています。サラサラとした肌触りも好評です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx5o5YOrQz7l0Bc1R5FiAvNlx8ADA4Ko7RuU6uwtyjUJEXU_G1DoPX1cJozHiGPoU1jd_ESrK2QE59SHjc2tj5XB7HJP-R9Lno63aBHQs7-drPsaD1dEv6xg8JQXUbN3HJ8nmyeW7Tsh1r1tl1nOHk`</details>
+> **参考情報**: 「ある半袖クルーネック速乾Tシャツは70件のレビューで平均4.80と非常に高い評価を受けています」「多くの製品が吸水速乾性に優れており、汗をかいてもすぐに乾くため、スポーツやアウトドア活動に最適と評価されています。サラサラとした肌触りも好評です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx5o5YOrQz7l0Bc1R5FiAvNlx8ADA4Ko7RuU6uwtyjUJEXU_G1DoPX1cJozHiGPoU1jd_ESrK2QE59SHjc2tj5XB7HJP-R9Lno63aBHQs7-drPsaD1dEv6xg8JQXUbN3HJ8nmyeW7Tsh1r1tl1nOHk`</details>
 
 **JK**: 実際のユーザーの声って説得力ありますよね。私も欲しくなってきました！
 
@@ -237,7 +237,7 @@ Tags: Wear, Guide
 
 **先生**: そうだ。スナップボタンだと着脱がスムーズだし、暑い時にはボタンを外して効果的に換気ができる。しかも襟は2WAY仕様で、立ち上げてスナップボタンで固定すれば、日焼けや風から首を保護してくれる。
 
-**参考情報**: 「スナップボタン式の襟元で、スムーズな着脱や効果的な換気が可能」「2-way collarで立ち上げが可能でスナップボタンで固定、日焼けや風から保護」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHat0mqLi16GGID0mvtHyGaqgQJCRrHTJET6U4DZkfHe790T8Xeq82m_IEk-rV1zQI2nMLzDYpCrkfGF8z39m7ttlHa0hLiWMeMv_o6bIz9U4AK45cggD_n1CZZgav3RmJ7HsRCp518`</details>
+> **参考情報**: 「スナップボタン式の襟元で、スムーズな着脱や効果的な換気が可能」「2-way collarで立ち上げが可能でスナップボタンで固定、日焼けや風から保護」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHat0mqLi16GGID0mvtHyGaqgQJCRrHTJET6U4DZkfHe790T8Xeq82m_IEk-rV1zQI2nMLzDYpCrkfGF8z39m7ttlHa0hLiWMeMv_o6bIz9U4AK45cggD_n1CZZgav3RmJ7HsRCp518`</details>
 
 **JK**: それ、めっちゃ便利じゃないですか！登山中って暑くなったり寒くなったりするから、すぐ調整できるのは助かりますね。
 
@@ -275,7 +275,7 @@ Tags: Wear, Guide
 
 **先生**: そうだな。スナップボタン（ドットボタン仕様）、ジッパー付き左胸ポケット、裾のアジャスターコードと、機能的なディテールはしっかり押さえられている。速乾性が高いから、夏場でも快適に着用できる。
 
-**参考情報**: 「スナップボタン、ジッパー付き胸ポケット、裾のアジャスターコードが特徴で、シンプルな見た目ながら機能性を考慮したデザイン」「ドットボタン仕様で着脱しやすく、速乾性も高いため、夏場でも快適に着用できる」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWO6ve1WCBJ9YDrXAfZZXN5v24te9uM6LfZdYqecrZ1jy8l1Y8JQNFD3OyWIXL25WSoavtpn1oi2S-4IzoKReqj0t8jlPKzbgBAoTakYf-JwmJ_POS6NkQZ76NqmI6H9fqWMiVa4m7-jQpJnM5-2OxtqjvfWfAu8jt-JQ_`</details>
+> **参考情報**: 「スナップボタン、ジッパー付き胸ポケット、裾のアジャスターコードが特徴で、シンプルな見た目ながら機能性を考慮したデザイン」「ドットボタン仕様で着脱しやすく、速乾性も高いため、夏場でも快適に着用できる」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWO6ve1WCBJ9YDrXAfZZXN5v24te9uM6LfZdYqecrZ1jy8l1Y8JQNFD3OyWIXL25WSoavtpn1oi2S-4IzoKReqj0t8jlPKzbgBAoTakYf-JwmJ_POS6NkQZ76NqmI6H9fqWMiVa4m7-jQpJnM5-2OxtqjvfWfAu8jt-JQ_`</details>
 
 **JK**: 私、夏は半袖派なので、これ良いかも！
 
@@ -291,7 +291,7 @@ Tags: Wear, Guide
 
 **先生**: よく覚えていたな。thermal crewはクルーネックのプルオーバータイプで、軽量でソフトな風合いが特徴だ。通気性に優れているから蒸れにくく、デッドエアを保持して体温を維持してくれる。
 
-**参考情報**: 「これは、吸汗速乾性に優れる「Octa®」素材に抗菌加工を施したプルオーバータイプのミッドレイヤーです。軽量でソフトな風合いが特徴で、通気性にも優れており、デッドエアを保持することで体温を維持します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiugLyP4TNKNbMImhccKgPc4kE-QpeJhZgKf0IK15eswY-pgAkiUW9TzPqY35wIKqnWicdHKz2WIHATnJn3VsrfpGGNKmKO_K_VQIxu1eN0WZdhYM=`</details>
+> **参考情報**: 「これは、吸汗速乾性に優れる「Octa®」素材に抗菌加工を施したプルオーバータイプのミッドレイヤーです。軽量でソフトな風合いが特徴で、通気性にも優れており、デッドエアを保持することで体温を維持します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiugLyP4TNKNbMImhccKgPc4kE-QpeJhZgKf0IK15eswY-pgAkiUW9TzPqY35wIKqnWicdHKz2WIHATnJn3VsrfpGGNKmKO_K_VQIxu1eN0WZdhYM=`</details>
 
 **JK**: フラットシーマ縫製だから、インナーとしても快適なんですよね？
 
@@ -313,7 +313,7 @@ Tags: Wear, Guide
 
 **先生**: そうだ。fluffy-dryは抗ピリング性ポリエステル短繊維を使っていて、毛玉ができにくいのが特徴だ。コットンのような柔らかな肌触りを再現しつつ、吸水速乾性、ストレッチ性、UPF50+のUVカットも備えている。
 
-**参考情報**: 「カリマーの「fluffy-dry Tシャツ」は、毛玉のできにくい抗ピリング性ポリエステル短繊維を使用しているのが特徴です。これにより、コットンのような柔らかな肌触りを再現しつつ、高い機能性を兼ね備えています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgqw5KCSpQFLCQUnHBNuhFpuhIpmv0wWlB-lt3xVYkX4B7UCWAhHr-xWy6C7HKnr6Cyd4k6T9lR1a0VqAkWgv6-sMpV-220yAEhPHPJNYvmKvVa9zCarvyzEx0JuFk3ChyqSuFV0fyrWjbrZjhrRMTb7bKzPEp7QMbURxBA6Cl`</details>
+> **参考情報**: 「カリマーの「fluffy-dry Tシャツ」は、毛玉のできにくい抗ピリング性ポリエステル短繊維を使用しているのが特徴です。これにより、コットンのような柔らかな肌触りを再現しつつ、高い機能性を兼ね備えています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgqw5KCSpQFLCQUnHBNuhFpuhIpmv0wWlB-lt3xVYkX4B7UCWAhHr-xWy6C7HKnr6Cyd4k6T9lR1a0VqAkWgv6-sMpV-220yAEhPHPJNYvmKvVa9zCarvyzEx0JuFk3ChyqSuFV0fyrWjbrZjhrRMTb7bKzPEp7QMbURxBA6Cl`</details>
 
 **JK**: すごい！山でも使えて、街でもオシャレに着られるってことですね。
 
@@ -340,7 +340,7 @@ Tags: Wear, Guide
 | **価格帯** | 6,000円~9,000円、手頃 | コスパ最強 | やや高価（10,000円~） |
 | **デザイン** | 街着兼用シンプル、ロゴ入り | シンプルで幅広いモデル | 高性能かつデザイン評価高い |
 
-**参考情報**: カリマー、モンベル、パタゴニアのベースレイヤー比較情報<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGcpuN-4Bu0py_Z1WyBuTzyH8myrwNzinO7o3-mu-_sJT-4Wrd-zZntr1kAal_4FnmVyvRLJwrQCf21_S6S6MvFcM26rcVProuK_aS6VGYbtc54JQ8eVfyuhvtevBu8Ktk4AGSNurREZ2gurmGfw==`</details>
+> **参考情報**: カリマー、モンベル、パタゴニアのベースレイヤー比較情報<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGcpuN-4Bu0py_Z1WyBuTzyH8myrwNzinO7o3-mu-_sJT-4Wrd-zZntr1kAal_4FnmVyvRLJwrQCf21_S6S6MvFcM26rcVProuK_aS6VGYbtc54JQ8eVfyuhvtevBu8Ktk4AGSNurREZ2gurmGfw==`</details>
 
 **JK**: なるほど…モンベルはコスパ、パタゴニアはデザイン、カリマーはその中間で街着兼用できるってイメージですね。
 
@@ -367,7 +367,7 @@ Tags: Wear, Guide
 
 **先生**: いや、それは一概には言えない。身長170cm前後・体重70kg程度でMサイズがちょうど良いという意見もある。ゆったり着たい場合はLサイズを選ぶのが良いとされている。できれば店頭で試着してから購入するのが一番だな。
 
-**参考情報**: 「カリマーは海外ブランドであるため、サイズ選びには注意が必要です。日本人向けに通常よりワンサイズ下を選ぶことを推奨する声や、身長170cm前後・体重70kg程度でMサイズがちょうど良いという意見があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx5o5YOrQz7l0Bc1R5FiAvNlx8ADA4Ko7RuU6uwtyjUJEXU_G1DoPX1cJozHiGPoU1jd_ESrK2QE59SHjc2tj5XB7HJP-R9Lno63aBHQs7-drPsaD1dEv6xg8JQXUbN3HJ8nmyeW7Tsh1r1tl1nOHk`</details>
+> **参考情報**: 「カリマーは海外ブランドであるため、サイズ選びには注意が必要です。日本人向けに通常よりワンサイズ下を選ぶことを推奨する声や、身長170cm前後・体重70kg程度でMサイズがちょうど良いという意見があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx5o5YOrQz7l0Bc1R5FiAvNlx8ADA4Ko7RuU6uwtyjUJEXU_G1DoPX1cJozHiGPoU1jd_ESrK2QE59SHjc2tj5XB7HJP-R9Lno63aBHQs7-drPsaD1dEv6xg8JQXUbN3HJ8nmyeW7Tsh1r1tl1nOHk`</details>
 
 ### Q2: 洗濯方法は？撥水性能は落ちない？
 
@@ -386,7 +386,7 @@ Tags: Wear, Guide
 
 **先生**: ああ。柔軟剤は撥水加工などに影響を与える可能性があるんだ。実は、カリマーの一部製品は100回洗濯しても撥水性能を維持する特殊素材を使用しているが、それでも適切なケアが必要だ。
 
-**参考情報**: 「中性液体洗剤を使用してください。粉末洗剤は溶け残りの可能性があるため避けましょう。漂白剤、柔軟剤、蛍光増白剤は、撥水加工などに影響を与える可能性があるため、使用しないでください」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ13imbBcaRpenp16veLICRyngX8zMjMweh6aUoZcifSVdYvvlMyJwdUb9ELo0NZr7Oba5jgHjJA5stWV8bIAgJlTCGKJGLazeMffmlp_6jbUpra7XuIiADqxHELeBxEvejvPupVG0_vg_`</details>
+> **参考情報**: 「中性液体洗剤を使用してください。粉末洗剤は溶け残りの可能性があるため避けましょう。漂白剤、柔軟剤、蛍光増白剤は、撥水加工などに影響を与える可能性があるため、使用しないでください」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ13imbBcaRpenp16veLICRyngX8zMjMweh6aUoZcifSVdYvvlMyJwdUb9ELo0NZr7Oba5jgHjJA5stWV8bIAgJlTCGKJGLazeMffmlp_6jbUpra7XuIiADqxHELeBxEvejvPupVG0_vg_`</details>
 
 ### Q3: ポリエステル100%だと肌に合わない人もいる？
 

@@ -33,7 +33,7 @@ Tags: Guide, Packing
 
 **先生**: いや、「スタッフ」は英語で「物」という意味だ。つまり「物を入れる袋」、それがスタッフバッグだ。
 
-**参考情報**: 「スタッフは物という意味、スタッフバッグは物を入れる袋」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXCfF7ckkGlDaiCUExEYNvgZH-GPvAGHRNmXrKoq-kL6KHb398BhISkQTqMs9LAZ3jSm2oEHeQCEtrqZuBgblmcQpNL45PDls0PMlOfoIfNYDw_tOV7ueWnnkv`</details>
+> **参考情報**: 「スタッフは物という意味、スタッフバッグは物を入れる袋」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXCfF7ckkGlDaiCUExEYNvgZH-GPvAGHRNmXrKoq-kL6KHb398BhISkQTqMs9LAZ3jSm2oEHeQCEtrqZuBgblmcQpNL45PDls0PMlOfoIfNYDw_tOV7ueWnnkv`</details>
 
 **JK**: あー、要するに小分け用の袋ってことですか。でも、そんなの100均のビニール袋でよくないですか？
 
@@ -43,7 +43,7 @@ Tags: Guide, Packing
 
 **先生**: ああ。適切にパッキングすれば体への負担が全然違う。それに防水タイプを使えば、雨の日でも着替えや電子機器を守ることができる。
 
-**参考情報**: 「スタッフバッグをうまく配置することで、リュック内の隙間（デッドスペース）をなくし、荷物が揺れるのを防ぎ、体への負担を軽減します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk-f4gIld6zfX6lZ0QSXEAAyAEs7H-oaTcXgA6vEZBikxkeyqtME_sqY_a75bMGjdTC_LqBwMzZJdLV5rbajyeBM2GaRQtRETOz9IKKRCWFOOSiahvYJQ3rXmeQHCwWyqyE65X18UpVYYHf7Anx0qhRvqgmVaQHj5P2_o=`</details>
+> **参考情報**: 「スタッフバッグをうまく配置することで、リュック内の隙間（デッドスペース）をなくし、荷物が揺れるのを防ぎ、体への負担を軽減します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk-f4gIld6zfX6lZ0QSXEAAyAEs7H-oaTcXgA6vEZBikxkeyqtME_sqY_a75bMGjdTC_LqBwMzZJdLV5rbajyeBM2GaRQtRETOz9IKKRCWFOOSiahvYJQ3rXmeQHCwWyqyE65X18UpVYYHf7Anx0qhRvqgmVaQHj5P2_o=`</details>
 
 ---
 
@@ -65,19 +65,19 @@ Tags: Guide, Packing
 
 **先生**: いい質問だ。全ての荷物を防水にする必要はない。例えば使用後の衣類、調理器具、行動食など、濡れても大きな問題がないものは非防水で十分だ。そのぶん軽量で安価に抑えられる。
 
-**参考情報**: 「巾着型やジッパー型のスタッフバッグは、軽量で安価なため、使用後の衣類や調理器具、行動食など、濡れても問題ないものの整理に便利」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8f-JVkA38JTSFI99r_v1n8WKnRw6pKUqVR5MrkvOEGwptwHJBItFtTeDybbhQyVdt-Djj2mlKsGbgtSNOzmyRVk5Sw-VgOiTmepM_JGAlt4a-kw==`</details>
+> **参考情報**: 「巾着型やジッパー型のスタッフバッグは、軽量で安価なため、使用後の衣類や調理器具、行動食など、濡れても問題ないものの整理に便利」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8f-JVkA38JTSFI99r_v1n8WKnRw6pKUqVR5MrkvOEGwptwHJBItFtTeDybbhQyVdt-Djj2mlKsGbgtSNOzmyRVk5Sw-VgOiTmepM_JGAlt4a-kw==`</details>
 
 **JK**: なるほど、使い分けが大事なんですね。
 
 **先生**: 代表的な製品としては、モンベルの「U.L.スタッフバッグ」がある。20デニールのバリスティック®ナイロンを使用していて、非常に軽量だ。0.5Lから展開されていて、小物からウェアまで幅広く対応できる。
 
-**参考情報**: 「超軽量なスタッフバッグで、20デニール・バリスティック®ナイロンを使用し、0.5Lから展開されており、小物からウェアの収納まで幅広く対応します。バックパック内でデッドスペースができにくい丸底デザインが特徴です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjtQ6ezYEVBXbMWfIoCfTR3X9_4E8Ee5x_IrXLuLsRby8sZxBj4pqn1hOpuiLBwJx1She16vEYA4-Q9ZoxD0bf4v--QJ8aMI5TggnrpvHLBRWfgDKma4U4C2UCaGqaHTeSsp7I3Lgew-ZvtiRI8yTzXy5vttk=`</details>
+> **参考情報**: 「超軽量なスタッフバッグで、20デニール・バリスティック®ナイロンを使用し、0.5Lから展開されており、小物からウェアの収納まで幅広く対応します。バックパック内でデッドスペースができにくい丸底デザインが特徴です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjtQ6ezYEVBXbMWfIoCfTR3X9_4E8Ee5x_IrXLuLsRby8sZxBj4pqn1hOpuiLBwJx1She16vEYA4-Q9ZoxD0bf4v--QJ8aMI5TggnrpvHLBRWfgDKma4U4C2UCaGqaHTeSsp7I3Lgew-ZvtiRI8yTzXy5vttk=`</details>
 
 **JK**: 20デニール…？デニールって何ですか？
 
 **先生**: デニールは糸の太さを示す単位だ。9,000メートルの糸の重さが1グラムなら1デニールとなる。数値が大きいほど糸が太くなり、生地は厚く丈夫になるが、そのぶん重くなる。
 
-**参考情報**: 「9,000メートルの糸の重さが1グラムである場合を1デニールと定義します。この数値が大きいほど糸が太く、生地は厚く、一般的に耐久性が増しますが、その分重くなります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEATE34APxzz5m_r0gwXX0Tvr3-Evh6JF8FqBuMiPzCNNyT3LIuSZjPGay5xh_RnDiO64g62kVg55XLGnpgVXI7kFVMd4X-GVsD-EWnrSZXCgrQPHDUGZgrakIcj-aTQ5mPoJvxsap43jlmng==`</details>
+> **参考情報**: 「9,000メートルの糸の重さが1グラムである場合を1デニールと定義します。この数値が大きいほど糸が太く、生地は厚く、一般的に耐久性が増しますが、その分重くなります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEATE34APxzz5m_r0gwXX0Tvr3-Evh6JF8FqBuMiPzCNNyT3LIuSZjPGay5xh_RnDiO64g62kVg55XLGnpgVXI7kFVMd4X-GVsD-EWnrSZXCgrQPHDUGZgrakIcj-aTQ5mPoJvxsap43jlmng==`</details>
 
 **JK**: ってことは、20デニールって薄いんですね。破れたりしないんですか？
 
@@ -107,7 +107,7 @@ Tags: Guide, Packing
 
 **先生**: そこでドライバッグの出番だ。防水性の高い素材を使い、開口部はロールトップ式になっている。入り口を数回巻き込んでバックルで固定することで、水の侵入を完全にシャットアウトする。
 
-**参考情報**: 「開口部はロールトップ式（入り口を数回巻き込みバックルで固定するタイプ）が主流で、水の侵入をシャットアウトします」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8f-JVkA38JTSFI99r_v1n8WKnRw6pKUqVR5MrkvOEGwptwHJBItFtTeDybbhQyVdt-Djj2mlKsGbgtSNOzmyRVk5Sw-VgOiTmepM_JGAlt4a-kw==`</details>
+> **参考情報**: 「開口部はロールトップ式（入り口を数回巻き込みバックルで固定するタイプ）が主流で、水の侵入をシャットアウトします」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8f-JVkA38JTSFI99r_v1n8WKnRw6pKUqVR5MrkvOEGwptwHJBItFtTeDybbhQyVdt-Djj2mlKsGbgtSNOzmyRVk5Sw-VgOiTmepM_JGAlt4a-kw==`</details>
 
 **JK**: 巻き込むんですか？開け閉めが面倒そう…。
 
@@ -123,13 +123,13 @@ Tags: Guide, Packing
 
 代表的な製品としては、シートゥサミットの「ウルトラシルナノ ドライサック」がある。15デニールのシルナイロンを使用した、同社で最も軽量なドライサックだ。
 
-**参考情報**: 「15デニールのシルナイロンを使用し、ロールトップクロージャーを採用した、シートゥサミットで最も軽量なドライサックです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOlblUGQVRAWsJWHmkA3vK9R7pmIVhtI0jfsIOxXIjdB0fKPWzQ6naiJVosX16f-MfdWF64JiJ-_rspas3lTUmk_H7MiaFvDAXtikZOOD7nSoAkQGz3yGIX56uY2P5pSc2xu4=`</details>
+> **参考情報**: 「15デニールのシルナイロンを使用し、ロールトップクロージャーを採用した、シートゥサミットで最も軽量なドライサックです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOlblUGQVRAWsJWHmkA3vK9R7pmIVhtI0jfsIOxXIjdB0fKPWzQ6naiJVosX16f-MfdWF64JiJ-_rspas3lTUmk_H7MiaFvDAXtikZOOD7nSoAkQGz3yGIX56uY2P5pSc2xu4=`</details>
 
 **JK**: シルナイロンって何ですか？
 
 **先生**: シリコンコーティングされたナイロン生地のことだ。軽量で、表面がサラサラしているからザックへの出し入れがスムーズ。半透明で中身が見やすいのも利点だな。
 
-**参考情報**: 「表面がサラサラしており、バックパックへの出し入れがスムーズに行えます。半透明で中身が見やすいのも利点です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv7AsWvm8_jyj6HV_HF8qeVGrGTFgA-sdcMa9UpdZCMnTBuiUcE3JjlQgyVhLXomGEqFuTnOgEGv8QHCesQbWuu1o8rJpUfGPqliBldJH4lGbcbGS5fzEHIqONFzFgpS-rKz1aEeSrJinzzYZf2NrprEhgFCCxyTjK`</details>
+> **参考情報**: 「表面がサラサラしており、バックパックへの出し入れがスムーズに行えます。半透明で中身が見やすいのも利点です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv7AsWvm8_jyj6HV_HF8qeVGrGTFgA-sdcMa9UpdZCMnTBuiUcE3JjlQgyVhLXomGEqFuTnOgEGv8QHCesQbWuu1o8rJpUfGPqliBldJH4lGbcbGS5fzEHIqONFzFgpS-rKz1aEeSrJinzzYZf2NrprEhgFCCxyTjK`</details>
 
 #### 主なスペック
 - 素材: 15デニール・シルナイロン
@@ -159,7 +159,7 @@ Tags: Guide, Packing
 
 **先生**: いや、ベルトで締め付けるか、空気を抜いて体積を減らす仕組みだ。寝袋なら体積を約半分程度まで圧縮できる。
 
-**参考情報**: 「寝袋であれば体積を半分程度に圧縮できる」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtjkXqkdQQVLCYryIQm1GXCt3ewvbPDA1iDtwqnIyuTAi1IYd23mmBMHLpn0zvIqizRxGm_SQdMSiH_-nwr5sg8BR5y6t_zytnO5YU8qzCRKX4PxrQyKQMMA0rmyvyBLI4`</details>
+> **参考情報**: 「寝袋であれば体積を半分程度に圧縮できる」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtjkXqkdQQVLCYryIQm1GXCt3ewvbPDA1iDtwqnIyuTAi1IYd23mmBMHLpn0zvIqizRxGm_SQdMSiH_-nwr5sg8BR5y6t_zytnO5YU8qzCRKX4PxrQyKQMMA0rmyvyBLI4`</details>
 
 **JK**: 半分！？それはすごい。でも、ダウンって圧縮したら傷むんじゃないですか？
 
@@ -193,7 +193,7 @@ Tags: Guide, Packing
 
 **先生**: それなら2ルーム型がいい。水に強いナイロン袋と、通気性のあるメッシュ袋が一体になっていて、濡れたものと乾いたものを分けて収納できる。
 
-**参考情報**: 「水に強いナイロン袋と通気性のあるメッシュ袋が一体になっており、濡れたものと乾いたもの、着替えと洗濯物などを分けて収納できます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrB5gDCXqCFfOEzIkgHLXIYNR36djKqT1QlAHqcATrU8OiPnHrmNL82FLWCa0gKHblmHE8J-sR9AMHSLieB_a2RTm9BqY8RUm_5EZ-GI8Rjt78VxV8S_cZw-DJyqSlyzd77u1v`</details>
+> **参考情報**: 「水に強いナイロン袋と通気性のあるメッシュ袋が一体になっており、濡れたものと乾いたもの、着替えと洗濯物などを分けて収納できます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrB5gDCXqCFfOEzIkgHLXIYNR36djKqT1QlAHqcATrU8OiPnHrmNL82FLWCa0gKHblmHE8J-sR9AMHSLieB_a2RTm9BqY8RUm_5EZ-GI8Rjt78VxV8S_cZw-DJyqSlyzd77u1v`</details>
 
 **JK**: それ便利そう！着替えと洗濯物を分けられるってことですよね。
 
@@ -207,7 +207,7 @@ Tags: Guide, Packing
 
 **先生**: いい質問だ。コーデュラはインビスタ社が製造するナイロン繊維で、非常に丈夫だ。通常のナイロンと比較して約7倍もの引き裂き強度や耐摩耗性を持つ。
 
-**参考情報**: 「通常のナイロンと比較して約7倍もの引き裂き強度や耐摩耗性を持ち、非常に丈夫です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh5Wht7dgLoVY-OCZIP31VViEnCR3F-uLGOPRKTBvTK12R7j0uLyZpUDLCwowKqT0Y5Fi78kPAncXHD6cZRrJu-5nDJ0Bzj03renebqkZD1fAMHDb3Ge1cckGGGQAbACi57A9HJVHx6vMNTXsTRN5AVhn1_Xg=`</details>
+> **参考情報**: 「通常のナイロンと比較して約7倍もの引き裂き強度や耐摩耗性を持ち、非常に丈夫です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh5Wht7dgLoVY-OCZIP31VViEnCR3F-uLGOPRKTBvTK12R7j0uLyZpUDLCwowKqT0Y5Fi78kPAncXHD6cZRrJu-5nDJ0Bzj03renebqkZD1fAMHDb3Ge1cckGGGQAbACi57A9HJVHx6vMNTXsTRN5AVhn1_Xg=`</details>
 
 **JK**: 7倍！？じゃあ全部コーデュラにすればいいんじゃないですか？
 
@@ -223,7 +223,7 @@ Tags: Guide, Packing
 
 **先生**: イスカの「ウルトラライト スタッフバッグ」はシリコナイズド・コーデュラ素材を採用していて、滑りが良く、引き裂き強度にも優れている。軽量さと耐久性のバランスがいい。
 
-**参考情報**: 「シリコナイズド・コーデュラ素材を採用しており、滑りが良く、引き裂き強度に優れ、軽量コンパクトです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC-PNdhBsnYnWT1FVvm0ye4b-Zl7KiMzFvzgWPIPAGszEImBrwho-DKtWJ41z_s3mJ7cGg15EKjLqwprSQ_evoF24MPte_qcpWH1MMGPyloKuDBkw1MVhQ8-Ma1g==`</details>
+> **参考情報**: 「シリコナイズド・コーデュラ素材を採用しており、滑りが良く、引き裂き強度に優れ、軽量コンパクトです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC-PNdhBsnYnWT1FVvm0ye4b-Zl7KiMzFvzgWPIPAGszEImBrwho-DKtWJ41z_s3mJ7cGg15EKjLqwprSQ_evoF24MPte_qcpWH1MMGPyloKuDBkw1MVhQ8-Ma1g==`</details>
 
 ---
 
@@ -241,7 +241,7 @@ Tags: Guide, Packing
 | 着替え一式 | 10L以上 |
 | 寝袋、ダウン製品 | 10L〜35L |
 
-**参考情報**: 「小物類は2L程度、着替えは5～7L、かさばるものは10L以上のスタッフバッグが目安」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwqtgcL-o7lGq3idZMdi9dhLFdSKBE5e_IXtJuDAhidWQUTuaQXggKd3G78q2I66jXxL_dUicR1K6XOlmFJSUutuPE2u7tJ-rILKgg8y5z58E=`</details>
+> **参考情報**: 「小物類は2L程度、着替えは5～7L、かさばるものは10L以上のスタッフバッグが目安」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwqtgcL-o7lGq3idZMdi9dhLFdSKBE5e_IXtJuDAhidWQUTuaQXggKd3G78q2I66jXxL_dUicR1K6XOlmFJSUutuPE2u7tJ-rILKgg8y5z58E=`</details>
 
 **JK**: 着替え一式で10L以上！意外と大きいんですね。
 
@@ -255,7 +255,7 @@ Tags: Guide, Packing
 
 **先生**: 最強の整理術は「色分け」だ。スタッフバッグをカテゴリーごとに色分けしておけば、ザックを開けた瞬間にどこに何があるか一目でわかる。
 
-**参考情報**: 「緊急用具や頻繁に使うものは赤や目立つ色にまとめることで、素早く取り出せるようにします」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVmu-N2nhvlktwPWHsQKRTM-fiT2uqBtAHQaUYf_2elhyPa-XNU5k_TnAvzL5Osc9Vq649h8AZMmdUEEpgvwq6SzetSt7x9Zs5bCrkpduyvTwdOiu6Wmr0ryIEDL073g==`</details>
+> **参考情報**: 「緊急用具や頻繁に使うものは赤や目立つ色にまとめることで、素早く取り出せるようにします」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVmu-N2nhvlktwPWHsQKRTM-fiT2uqBtAHQaUYf_2elhyPa-XNU5k_TnAvzL5Osc9Vq649h8AZMmdUEEpgvwq6SzetSt7x9Zs5bCrkpduyvTwdOiu6Wmr0ryIEDL073g==`</details>
 
 **JK**: 色分けかー。私の推し色でまとめちゃダメですか？
 
@@ -286,7 +286,7 @@ Tags: Guide, Packing
 
 **先生**: 重いものは背中側、つまり体に近い位置に配置する。これで重心が安定し、体への負担が減る。そして、頻繁に使うものは上部に入れる。
 
-**参考情報**: 「重たいものはリュックの背中に近い部分に、使用頻度の高いものは上部に入れるのが基本的なパッキングの考え方です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk-f4gIld6zfX6lZ0QSXEAAyAEs7H-oaTcXgA6vEZBikxkeyqtME_sqY_a75bMGjdTC_LqBwMzZJdLV5rbajyeBM2GaRQtRETOz9IKKRCWFOOSiahvYJQ3rXmeQHCwWyqyE65X18UpVYYHf7Anx0qhRvqgmVaQHj5P2_o=`</details>
+> **参考情報**: 「重たいものはリュックの背中に近い部分に、使用頻度の高いものは上部に入れるのが基本的なパッキングの考え方です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk-f4gIld6zfX6lZ0QSXEAAyAEs7H-oaTcXgA6vEZBikxkeyqtME_sqY_a75bMGjdTC_LqBwMzZJdLV5rbajyeBM2GaRQtRETOz9IKKRCWFOOSiahvYJQ3rXmeQHCwWyqyE65X18UpVYYHf7Anx0qhRvqgmVaQHj5P2_o=`</details>
 
 **JK**: あ、だから私のザック、変に傾いて歩きづらかったんですね…。
 
@@ -312,7 +312,7 @@ Tags: Guide, Packing
 
 **先生**: ウルトラライト、いわゆるUL志向のハイカーにはそういう考え方もある。ジップロックは非常に軽量で、防水性もあり、透明で中身が見える。しかも安価だ。
 
-**参考情報**: 「ジップロックは、その軽さ、防水性、そして多用途性から、登山の必需品とされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG09jwJF4UAzGk56WpxCyL5pclXu4-bRdz8-cU14lRC2Hear-PUKge1m_1kQiQbX7ZqfbGPeU1jzq_WTL8kmdSs_yXOVB6uPvK1_qjImknG1lCN3RFuj_yT3FJZgPiJ`</details>
+> **参考情報**: 「ジップロックは、その軽さ、防水性、そして多用途性から、登山の必需品とされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG09jwJF4UAzGk56WpxCyL5pclXu4-bRdz8-cU14lRC2Hear-PUKge1m_1kQiQbX7ZqfbGPeU1jzq_WTL8kmdSs_yXOVB6uPvK1_qjImknG1lCN3RFuj_yT3FJZgPiJ`</details>
 
 **JK**: やっぱりジップロックで十分じゃないですか！
 
@@ -344,7 +344,7 @@ Tags: Guide, Packing
 
 **先生**: ふむ…そうだな、スタッフバッグを枕として使う方法がある。
 
-**参考情報**: 「スタッフバッグを衣類などで満たして簡易枕として活用することもできます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-K4aNf0VUR6AS8pkz5nqQA_iOehT7UoEQiSv9C7dBMgGLOw6rRG3Nxv8zmg4gosP09MTb300j--TFY6Ex-OCSrX94HlDn-n2gcEoUVgzfe49m-g==`</details>
+> **参考情報**: 「スタッフバッグを衣類などで満たして簡易枕として活用することもできます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-K4aNf0VUR6AS8pkz5nqQA_iOehT7UoEQiSv9C7dBMgGLOw6rRG3Nxv8zmg4gosP09MTb300j--TFY6Ex-OCSrX94HlDn-n2gcEoUVgzfe49m-g==`</details>
 
 **JK**: 枕？どういうことですか？
 
@@ -373,7 +373,7 @@ Tags: Guide, Packing
 | コンプレッションバッグ | 体積圧縮 | 製品による | 高い | 寝袋、ダウンジャケット、フリース |
 | 2ルーム型 | 濡れ物・乾き物分離 | 部分的 | なし | 着替えと洗濯物 |
 
-**参考情報**: 「整理が目的ならスタッフサック、水濡れから絶対守りたいなら防水スタッフサック、荷物をコンパクトにしたいならコンプレッションサック」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtjkXqkdQQVLCYryIQm1GXCt3ewvbPDA1iDtwqnIyuTAi1IYd23mmBMHLpn0zvIqizRxGm_SQdMSiH_-nwr5sg8BR5y6t_zytnO5YU8qzCRKX4PxrQyKQMMA0rmyvyBLI4`</details>
+> **参考情報**: 「整理が目的ならスタッフサック、水濡れから絶対守りたいなら防水スタッフサック、荷物をコンパクトにしたいならコンプレッションサック」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtjkXqkdQQVLCYryIQm1GXCt3ewvbPDA1iDtwqnIyuTAi1IYd23mmBMHLpn0zvIqizRxGm_SQdMSiH_-nwr5sg8BR5y6t_zytnO5YU8qzCRKX4PxrQyKQMMA0rmyvyBLI4`</details>
 
 **JK**: こうして見ると、私は…着替え用にドライバッグ、寝袋用にコンプレッション、小物はジップロックかな。
 

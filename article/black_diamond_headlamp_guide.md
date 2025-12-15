@@ -57,7 +57,7 @@ Tags: Headlamp, Guide
 
 **先生**: 「無難」という言葉は好きじゃないが…機能とサイズのバランスが絶妙なんだ。400ルーメンの明るさに、近接・遠距離モードの切り替え、赤色ナイトビジョン、ストロボ…必要な機能が全部詰まっている。
 
-**参考情報**: 「近接・遠距離モード、ディミング（増／減光）、ストロボ、赤色ナイトビジョン、ロックモードを搭載」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPO2DAuhjaw7_fN0YFYChoEs7bZedrKeAtD3lOKuXKKk6a8Gx6ov86vY2Yw4xA3BbdOGrCHc3E-er_BeJs14CzlEbKYOZQmYmEbavZBRVO9r-w1hqBf54aCIOyZSi0ATTq6FgQA0uRX1OkzQ==`</details>
+> **参考情報**: 「近接・遠距離モード、ディミング（増／減光）、ストロボ、赤色ナイトビジョン、ロックモードを搭載」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPO2DAuhjaw7_fN0YFYChoEs7bZedrKeAtD3lOKuXKKk6a8Gx6ov86vY2Yw4xA3BbdOGrCHc3E-er_BeJs14CzlEbKYOZQmYmEbavZBRVO9r-w1hqBf54aCIOyZSi0ATTq6FgQA0uRX1OkzQ==`</details>
 
 **JK**: ふーん…でも400ルーメンって実際どれくらい明るいんですか？ピンとこないです。
 
@@ -71,7 +71,7 @@ Tags: Headlamp, Guide
 
 **先生**: PowerTapは私が気に入っている機能の一つだ。ヘッドライトの横をトンとタップすると、今の明るさから最大光量に一瞬で切り替わる。
 
-**参考情報**: 「PowerTapは「現在の設定光量」と「最大光量」の間で光量を瞬時に切り替える機能です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo_g368Y1399PlI7CSea8vOKdMWdhbZ8ttYWZ7wKlKpB6AJE7vrHw0Hp_2Dd0pBN4pxu1i0ppG8uDf5fcC8S5HoWv2AFN_dVVBKvE3TNzOjPPZIDZcwBkIa6VB3RKzBxY6hrrcS6-l3zPSO4Bo41KZiitGMa-BCvXfn4xtNQ6sJ_U_`</details>
+> **参考情報**: 「PowerTapは「現在の設定光量」と「最大光量」の間で光量を瞬時に切り替える機能です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo_g368Y1399PlI7CSea8vOKdMWdhbZ8ttYWZ7wKlKpB6AJE7vrHw0Hp_2Dd0pBN4pxu1i0ppG8uDf5fcC8S5HoWv2AFN_dVVBKvE3TNzOjPPZIDZcwBkIa6VB3RKzBxY6hrrcS6-l3zPSO4Bo41KZiitGMa-BCvXfn4xtNQ6sJ_U_`</details>
 
 **JK**: え、それって便利なんですか？
 
@@ -101,7 +101,7 @@ Tags: Headlamp, Guide
 *   操作に慣れが必要という声がある
 *   IPX8の防水でも、バッテリーケース内に水が浸入して腐食した事例が報告されている
 
-**参考情報**: 「Spot 400は操作に慣れが必要だという意見があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaByVy8YhNT6ZNvYgJ53d72HknyJ4o46mTrYnCDC08SB2uqD5GJPwO4GF9IuGXXMa99w3pP6eeDWYPGShVlHTQdoEg4Gtf0Z7T8bHEXPMSj7dtlBlnAebOZN8f011yyg==`</details>
+> **参考情報**: 「Spot 400は操作に慣れが必要だという意見があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaByVy8YhNT6ZNvYgJ53d72HknyJ4o46mTrYnCDC08SB2uqD5GJPwO4GF9IuGXXMa99w3pP6eeDWYPGShVlHTQdoEg4Gtf0Z7T8bHEXPMSj7dtlBlnAebOZN8f011yyg==`</details>
 
 ---
 
@@ -115,7 +115,7 @@ Tags: Headlamp, Guide
 
 **先生**: なるほど。それなら**Storm 500-R**を検討するといい。IP67の高い防水防塵性能を持っていて、雨や雪の中でもしっかり使える。
 
-**参考情報**: 「IP67の高い防水防塵性能と耐衝撃性を備えたタフなモデル」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhQLhMGeThGYZBr9L2HBIF9UacXTqdzIYchOVCrvJ1qapAbaeq4MO_3rQtYFk6AhnE6CcH5UtJ1w4wI7yLgNI7U05wcarqMnboGFu3YZewnnI2K2sJMXZ9GKSKAvwlO7iSIeaCXa2XWdE43rcnt50=`</details>
+> **参考情報**: 「IP67の高い防水防塵性能と耐衝撃性を備えたタフなモデル」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhQLhMGeThGYZBr9L2HBIF9UacXTqdzIYchOVCrvJ1qapAbaeq4MO_3rQtYFk6AhnE6CcH5UtJ1w4wI7yLgNI7U05wcarqMnboGFu3YZewnnI2K2sJMXZ9GKSKAvwlO7iSIeaCXa2XWdE43rcnt50=`</details>
 
 **JK**: IP67…また呪文が出てきましたね。
 
@@ -129,7 +129,7 @@ Tags: Headlamp, Guide
 
 **先生**: そう、500ルーメンで120m先まで照らせる。さらにStormの特徴は、赤・緑・青の3色のナイトビジョンモードだ。
 
-**参考情報**: 「赤、緑、青のLEDを搭載し、シーンに応じた使い分けが可能」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc3sqjj18rvxKpI06tmzeo1GI5bekvOKtWVaBTwvt_eJ9AGXvILF5K8VseIoCuSu8rFruGa3GflmxCWdzz5E5cbBbRH0vVbRKPOxTSg0TWot_eAPxzu_QSofIyod-cnMxw0TwyGGqbvzx9JvM6GGcPHCPqJOYAaKAVdH4oKyl6PA==`</details>
+> **参考情報**: 「赤、緑、青のLEDを搭載し、シーンに応じた使い分けが可能」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc3sqjj18rvxKpI06tmzeo1GI5bekvOKtWVaBTwvt_eJ9AGXvILF5K8VseIoCuSu8rFruGa3GflmxCWdzz5E5cbBbRH0vVbRKPOxTSg0TWot_eAPxzu_QSofIyod-cnMxw0TwyGGqbvzx9JvM6GGcPHCPqJOYAaKAVdH4oKyl6PA==`</details>
 
 **JK**: 赤はわかるけど、緑と青って何に使うんですか？イルミネーション？
 
@@ -143,7 +143,7 @@ Tags: Headlamp, Guide
 
 **先生**: その通り。Spotより20g以上重い。あと、大容量バッテリーの分、電力消費量が大きいという報告もある。高性能の代償だな。
 
-**参考情報**: 「Storm 500-Rは電力消費量が大きいとされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjPapSKZ22zDq45a30BvPXJmfR7baQGAxUqsFSH-e-CZozc1Dfeq4ffj_tyqKCbYCqSqtlg9Mfy6JEdQwECYdEuxuVAXCNFXdyfv_2zzaWTpTdNMiW6aJZtVpPYQa_jo9O1gXluSNvNyR3ATXLUIYGqDIK0reZroD1CFldE5yQSbBXBA8=`</details>
+> **参考情報**: 「Storm 500-Rは電力消費量が大きいとされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjPapSKZ22zDq45a30BvPXJmfR7baQGAxUqsFSH-e-CZozc1Dfeq4ffj_tyqKCbYCqSqtlg9Mfy6JEdQwECYdEuxuVAXCNFXdyfv_2zzaWTpTdNMiW6aJZtVpPYQa_jo9O1gXluSNvNyR3ATXLUIYGqDIK0reZroD1CFldE5yQSbBXBA8=`</details>
 
 **JK**: うーん…重いのはちょっとイヤかも。頭が疲れそう。
 
@@ -172,7 +172,7 @@ Tags: Headlamp, Guide
 *   電力消費量が大きいので、予備電源があると安心
 *   ヒンジ部分が破損したという報告がある
 
-**参考情報**: 「Stormモデルのヒンジ部分が破損したという報告があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0D0KgY5s-lwblyspyyIfeMcwIMcwEsrDCLsyHPC6noPexzch-Rck7CKsAMvoaEKhJ2HQMAA466OC-gpXIcKLQHxxG8nRYmJDmEVxwm0r-b-kKSnI_zkFp6UnqFuE0yoDUNjjGMZodsrtWCjDjUBUi3FM7EhlysemxGG8Em_I7ptLsB8B2Hw==`</details>
+> **参考情報**: 「Stormモデルのヒンジ部分が破損したという報告があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0D0KgY5s-lwblyspyyIfeMcwIMcwEsrDCLsyHPC6noPexzch-Rck7CKsAMvoaEKhJ2HQMAA466OC-gpXIcKLQHxxG8nRYmJDmEVxwm0r-b-kKSnI_zkFp6UnqFuE0yoDUNjjGMZodsrtWCjDjUBUi3FM7EhlysemxGG8Em_I7ptLsB8B2Hw==`</details>
 
 ---
 
@@ -182,7 +182,7 @@ Tags: Headlamp, Guide
 
 **先生**: ある。**Icon 700**だ。名前の通り700ルーメン、最大140m先まで照らせる。ブラックダイヤモンドのラインナップで最も強力だ。
 
-**参考情報**: 「Icon 700は700ルーメンで最大140mの照射距離を持つ、Black Diamondのラインナップ中最も強力なヘッドランプ」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR1MR1NWWoQPec-a3YV0tyR57NARgYznNxbcOj16w1Dw1XCtODC4cekFHFjmjfnWZGYyxCxOHIgFr5TsmNzJjKHu25-5aFGAFVlZw8YAgxUuaPnx4m42cJvnHGvhJUBBn5Xis6uFHoelI2mA==`</details>
+> **参考情報**: 「Icon 700は700ルーメンで最大140mの照射距離を持つ、Black Diamondのラインナップ中最も強力なヘッドランプ」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR1MR1NWWoQPec-a3YV0tyR57NARgYznNxbcOj16w1Dw1XCtODC4cekFHFjmjfnWZGYyxCxOHIgFr5TsmNzJjKHu25-5aFGAFVlZw8YAgxUuaPnx4m42cJvnHGvhJUBBn5Xis6uFHoelI2mA==`</details>
 
 **JK**: 700ルーメン…140m…それ、もはや車のヘッドライトじゃないですか？
 
@@ -196,7 +196,7 @@ Tags: Headlamp, Guide
 
 **先生**: 的確な例えだ。確かに重い。だから長時間使うときは、バッテリーパックを腰に装着することもできる。ケーブルが長めに設計されていて、極寒の環境ではバッテリーをポケットに入れて温めておくこともできるんだ。
 
-**参考情報**: 「非常に寒い温度からバッテリーを保護するため、ケーブルが長く、バッテリーを暖かいポケットに入れられる設計」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESSOvO_TrGduWhSo0QNjk4rkiSuEkootD9VCjVuqVjvJ-vBCW6M28u3h-GNLB7HyF3wlscsWLG9JSGjQ5joronX7PoyQpmoEHXBYQOf5ibXssSSLHgvs_y7UztERzy1KQ8laP6T8wHksCaHIKa11wM2FjHrg==`</details>
+> **参考情報**: 「非常に寒い温度からバッテリーを保護するため、ケーブルが長く、バッテリーを暖かいポケットに入れられる設計」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESSOvO_TrGduWhSo0QNjk4rkiSuEkootD9VCjVuqVjvJ-vBCW6M28u3h-GNLB7HyF3wlscsWLG9JSGjQ5joronX7PoyQpmoEHXBYQOf5ibXssSSLHgvs_y7UztERzy1KQ8laP6T8wHksCaHIKa11wM2FjHrg==`</details>
 
 **JK**: へぇ…プロっぽい工夫ですね。でも正直、私にはオーバースペックな気がします。
 
@@ -248,7 +248,7 @@ Tags: Headlamp, Guide
 
 **先生**: その判断は悪くない。キャンプ用途ならCosmoはむしろ最適だ。広範囲を照らすワイド配光なので、テントの中や調理シーンで便利だぞ。
 
-**参考情報**: 「Cosmo 350は広範囲を明るく照らせる点や軽量性が評価される一方で、本格的な登山にはもう少し明るさが欲しいという意見もあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrCEKcvknk_38LlaFsgRTjy_LMi4Va0zhiTx3TdgQYAZCM1cc_t-CSV00bmm3WpfIYC4zmfxcFN8xQKBdOP7CiPxjwFPnhOG7Jv7wFftGKrvm9yBHBLdMsGfaPlIpQPw==`</details>
+> **参考情報**: 「Cosmo 350は広範囲を明るく照らせる点や軽量性が評価される一方で、本格的な登山にはもう少し明るさが欲しいという意見もあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrCEKcvknk_38LlaFsgRTjy_LMi4Va0zhiTx3TdgQYAZCM1cc_t-CSV00bmm3WpfIYC4zmfxcFN8xQKBdOP7CiPxjwFPnhOG7Jv7wFftGKrvm9yBHBLdMsGfaPlIpQPw==`</details>
 
 **JK**: やった！決まり！Cosmoにします！
 
@@ -288,7 +288,7 @@ Tags: Headlamp, Guide
 
 **先生**: ただし、その分機能は削られている。赤色ナイトビジョンやPowerTapはない。近接・遠距離モードの切り替えもない。
 
-**参考情報**: 「Astro 300は白色モードのみで配光調整ができず、中級者以上のユーザーには不向きとされる場合があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGADc4gCER_z6TvgklHKKiflE8CoZ_1B_dy5sEo0wq8wuxVYKL5hnYvnQOektS05Px5qU9yTaBwvAqLnV5l01m9IdRktUcoE_EK2zwB3kkstu8ytQhXX11zIpKMQKlP`</details>
+> **参考情報**: 「Astro 300は白色モードのみで配光調整ができず、中級者以上のユーザーには不向きとされる場合があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGADc4gCER_z6TvgklHKKiflE8CoZ_1B_dy5sEo0wq8wuxVYKL5hnYvnQOektS05Px5qU9yTaBwvAqLnV5l01m9IdRktUcoE_EK2zwB3kkstu8ytQhXX11zIpKMQKlP`</details>
 
 **JK**: えー、赤色ライトないんですか？山小屋で周りの人を起こさないために必要って聞いたんですけど…。
 
@@ -302,7 +302,7 @@ Tags: Headlamp, Guide
 
 **先生**: 電池蓋の開閉がしづらいという報告がある。緊急時の電池交換がやりにくいのは少し不安だな。
 
-**参考情報**: 「電池蓋の開閉がしづらく、緊急時や暗闇での電池交換が困難であるとの指摘があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGPtCgAl7jCuWvkhWWHCKwn2COiqNwZWzBzm94SPQwaSMz2GJMq7-CCShsipHfNS7tIIiZ6dMvpK9K4iV6Y3uX0WtT_CRa9T1wrFfU06YXIkygKpBfXWWmno7OxbmWXuQT2U-4Z7IOsiSlsmEi6CNyQ7UgDL9qhyDHBA==`</details>
+> **参考情報**: 「電池蓋の開閉がしづらく、緊急時や暗闇での電池交換が困難であるとの指摘があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGPtCgAl7jCuWvkhWWHCKwn2COiqNwZWzBzm94SPQwaSMz2GJMq7-CCShsipHfNS7tIIiZ6dMvpK9K4iV6Y3uX0WtT_CRa9T1wrFfU06YXIkygKpBfXWWmno7OxbmWXuQT2U-4Z7IOsiSlsmEi6CNyQ7UgDL9qhyDHBA==`</details>
 
 **JK**: うーん…やっぱりCosmoの方がいい気がしてきました。
 
@@ -343,7 +343,7 @@ Tags: Headlamp, Guide
 *   **夜間行動、悪天候、道迷いのリスクがある場所**: 300ルーメン以上
 *   **縦走、冬山登山**: 500ルーメン以上が安心
 
-**参考情報**: 「登山で使用するヘッドランプの明るさは、目的やルートによって最適なものが異なります。日帰り登山や山小屋泊、整備された道では100〜300ルーメン程度あれば十分」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGql1QyHqyB-6Uep3lEX5kQBhU0yGVwevSP_B-2eYz1hlwi7aXSRC5dnv_OR2tS5-gPF1WGsbI0Dhrk_shpvfVrKXvsHucJl6XuQcm1IelqfGhsUN6CBAs8nBPjqnG3Nls=`</details>
+> **参考情報**: 「登山で使用するヘッドランプの明るさは、目的やルートによって最適なものが異なります。日帰り登山や山小屋泊、整備された道では100〜300ルーメン程度あれば十分」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGql1QyHqyB-6Uep3lEX5kQBhU0yGVwevSP_B-2eYz1hlwi7aXSRC5dnv_OR2tS5-gPF1WGsbI0Dhrk_shpvfVrKXvsHucJl6XuQcm1IelqfGhsUN6CBAs8nBPjqnG3Nls=`</details>
 
 **JK**: なるほど…私は日帰りか小屋泊がメインだから、300ルーメンあれば大丈夫ってことですね。
 
@@ -354,7 +354,7 @@ Tags: Headlamp, Guide
 *   **IPX4**: 水の飛沫に耐える（最低限）
 *   **IP67/IPX8**: 水没にも耐える（雨天・雪山を想定するなら推奨）
 
-**参考情報**: 「IPX4以上（水の飛沫に影響を受けない）が最低限必要です。雨天や雪山を想定するならIPX7以上が推奨されます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxZe62DJMIhcN_S__vunf6ZM1BKxSIVFdzby-Nib54olDJDZgKyVM5WoLCHHiJQuTxJCS1k9AQ1ahQRNta6LueqWCQ2cw_2-ktFKcg7Iw6PTBUcLfVeFODYGOwUNvnKIUPraDd27S0b5pFESFWhRc=`</details>
+> **参考情報**: 「IPX4以上（水の飛沫に影響を受けない）が最低限必要です。雨天や雪山を想定するならIPX7以上が推奨されます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxZe62DJMIhcN_S__vunf6ZM1BKxSIVFdzby-Nib54olDJDZgKyVM5WoLCHHiJQuTxJCS1k9AQ1ahQRNta6LueqWCQ2cw_2-ktFKcg7Iw6PTBUcLfVeFODYGOwUNvnKIUPraDd27S0b5pFESFWhRc=`</details>
 
 **JK**: AstroだけIPX4で、他はみんなIP67とかIPX8なんですね。
 
@@ -376,7 +376,7 @@ Tags: Headlamp, Guide
 | **充電式** | ランニングコストが安い、エコ | 山中での充電が難しい、モバイルバッテリーが必要 |
 | **ハイブリッド式** | 両方のメリットを享受できる | 本体価格が高めになりがち |
 
-**参考情報**: 「ハイブリッド式は乾電池とUSB充電の両方に対応しており、状況に応じて使い分けができるため、初心者にもおすすめです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRwPRGZHW_wrEAp_qXQAJ18hNJflZrJatzjfVyU-YDAdadiRMjVySfycCGK_eNYq4_DGVnv9wTzVugVnyFsR2fpAdAjEdAiWxBuyqRm_WeeTCByCZkgDoDOTBzjD4=`</details>
+> **参考情報**: 「ハイブリッド式は乾電池とUSB充電の両方に対応しており、状況に応じて使い分けができるため、初心者にもおすすめです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRwPRGZHW_wrEAp_qXQAJ18hNJflZrJatzjfVyU-YDAdadiRMjVySfycCGK_eNYq4_DGVnv9wTzVugVnyFsR2fpAdAjEdAiWxBuyqRm_WeeTCByCZkgDoDOTBzjD4=`</details>
 
 **JK**: ハイブリッドが一番良さそうに見えますね。
 

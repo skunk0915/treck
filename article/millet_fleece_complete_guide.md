@@ -50,7 +50,7 @@ Tags: Fleece, Guide
 
 **先生**: ああ、そこから説明が必要だったか。ポーラテックは、フリースを最初に開発したアメリカの素材メーカーだ。要するに**フリースの本家本元**だな。
 
-**参考情報**: 「ミレーは1980年代にPolarfleece（ポーラテック開発のフリース）をいち早く採用し、現代ではPower Wool、Power Fill、Power Airなど最新のポーラテック技術を取り入れている」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGgs_4SfgyCpCndCDOxukBO6bAcPbJSIi8USOPDH9IcdCZkxtmHEXiaH4MOA9pndF2srAsAoilk-VaZhb1ZL2_6VJP2kgxGCSodYhACemYz7wcI1g1EvBv3Sy9nisE2ZSsa0reWm7D31d9PA-3YtdZ`</details>
+> **参考情報**: 「ミレーは1980年代にPolarfleece（ポーラテック開発のフリース）をいち早く採用し、現代ではPower Wool、Power Fill、Power Airなど最新のポーラテック技術を取り入れている」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGgs_4SfgyCpCndCDOxukBO6bAcPbJSIi8USOPDH9IcdCZkxtmHEXiaH4MOA9pndF2srAsAoilk-VaZhb1ZL2_6VJP2kgxGCSodYhACemYz7wcI1g1EvBv3Sy9nisE2ZSsa0reWm7D31d9PA-3YtdZ`</details>
 
 **JK**: へー、フリースの元祖なんですね。でもそれがなんでミレーに関係あるんですか？
 
@@ -64,7 +64,7 @@ Tags: Fleece, Guide
 
 **先生**: これは生地の内側がグリッド状（格子状）になっている構造のことだ。空気の層ができて保温性が上がる。同時に、その隙間から湿気が抜けるから蒸れにくい。軽くて、暖かくて、蒸れない。登山用フリースに必要な要素を全部満たしているわけだ。
 
-**参考情報**: 「グリッド状の編み方が空気の層を作り出し、保温性と通気性を高めながら重量を大幅に削減。体の湿気を素早く排出し、優れたストレッチ性を発揮」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnuKdSBSqsBFTJFrPlfQGIY0ZzXxadoCFhWJAvAmV_i_AL2FBOCgGCW-_jOjC1ZI9sor7erD1JvPfJYi6s9AzzG4q6_0__UtLl44N704349ghaCjYCZmYSk3w-Ixou_x2geOHOohuR2yHxmuno7E6mU7I=`</details>
+> **参考情報**: 「グリッド状の編み方が空気の層を作り出し、保温性と通気性を高めながら重量を大幅に削減。体の湿気を素早く排出し、優れたストレッチ性を発揮」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnuKdSBSqsBFTJFrPlfQGIY0ZzXxadoCFhWJAvAmV_i_AL2FBOCgGCW-_jOjC1ZI9sor7erD1JvPfJYi6s9AzzG4q6_0__UtLl44N704349ghaCjYCZmYSk3w-Ixou_x2geOHOohuR2yHxmuno7E6mU7I=`</details>
 
 ---
 
@@ -86,7 +86,7 @@ Tags: Fleece, Guide
 
 **先生**: スリムフィットだからな。だがストレッチが効いているから窮屈じゃない。むしろ体に沿うから無駄な空気が入らず、効率的に保温できるんだ。
 
-**参考情報**: 「POLARTEC® POWER GRID™ 生地を採用し、軽量、保温性、透湿性に優れています。スリムフィットで、マウンテニアリングに適しており、防水ジャケットの下に着用可能」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkpf2aJ4yZGq8Z8YHCrgj3jsmG_HU80tFvsMnaK6XeEpr5-ipSNHdXXpJ0xQEWtZC5Fg-DNlYF4b3YsHgJx2EHECz_7CbhJ9lqpyzmZG0j0PsC9udA7ncn85d58mUrni3IEk47WUubX4HTEuD2SSWJSQKvcCm3dwMXqfr76Z8T6-jA819ZFJHE2w==`</details>
+> **参考情報**: 「POLARTEC® POWER GRID™ 生地を採用し、軽量、保温性、透湿性に優れています。スリムフィットで、マウンテニアリングに適しており、防水ジャケットの下に着用可能」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkpf2aJ4yZGq8Z8YHCrgj3jsmG_HU80tFvsMnaK6XeEpr5-ipSNHdXXpJ0xQEWtZC5Fg-DNlYF4b3YsHgJx2EHECz_7CbhJ9lqpyzmZG0j0PsC9udA7ncn85d58mUrni3IEk47WUubX4HTEuD2SSWJSQKvcCm3dwMXqfr76Z8T6-jA819ZFJHE2w==`</details>
 
 ### 細部へのこだわりがすごい
 
@@ -106,7 +106,7 @@ Tags: Fleece, Guide
 
 **先生**: ハーネスを着けても邪魔にならないようにだ。クライミングやスキーではハーネスやヒップベルトを着けることが多い。普通の位置だとポケットが使えなくなるからな。
 
-**参考情報**: 「スリムで軽量、さらにストレッチが効いていて動きやすく、保温性能も十分で汗抜けもよい、完璧」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdZyyW9gPczNQQqPqeoRAh_JWTFslF3RvplfrXzwZJzxHX1gkXNNO1L3P2QIpTUGv9ti3vfEa9dbWISfFGFsz-rHyp3VzQUTmYb4wKTL9V5JfqiX9kLil3ZQDcGXgXm--6CwF6BdEKTPmxghIwVFXjr8CH53I4VtE=`</details>
+> **参考情報**: 「スリムで軽量、さらにストレッチが効いていて動きやすく、保温性能も十分で汗抜けもよい、完璧」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdZyyW9gPczNQQqPqeoRAh_JWTFslF3RvplfrXzwZJzxHX1gkXNNO1L3P2QIpTUGv9ti3vfEa9dbWISfFGFsz-rHyp3VzQUTmYb4wKTL9V5JfqiX9kLil3ZQDcGXgXm--6CwF6BdEKTPmxghIwVFXjr8CH53I4VtE=`</details>
 
 **JK**: 実際使った人はどう言ってるんですか？
 
@@ -140,7 +140,7 @@ Tags: Fleece, Guide
 
 **先生**: 逆だ。両方のいいとこ取りなんだ。外側は耐摩耗性の高いポリアミド、内側は起毛したニットで肌触りが良い。ウールの調湿性や防臭効果を活かしながら、弱点である摩耗しやすさを補っている。
 
-**参考情報**: 「ソフトで暖かく、ストレッチ性、通気性、防臭性に優れたPolartec® Power Wool™ を使用」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk6GuspbVkSQkNG2WWVloy4eJSpRPPC2NR-9-eiIAxHhJSc2-aPUsJVgyUx8m97ys70vbZouG8GnB9HR4lXqr7kXH5haf1jGOzLh0rtvUjrtEEqomfc6pxAcRUpCWcl-4RmLdOcjPEaj_nOB4OGYETaKUlgphqRUW8TwHcB1HTaZsHxG-o`</details>
+> **参考情報**: 「ソフトで暖かく、ストレッチ性、通気性、防臭性に優れたPolartec® Power Wool™ を使用」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk6GuspbVkSQkNG2WWVloy4eJSpRPPC2NR-9-eiIAxHhJSc2-aPUsJVgyUx8m97ys70vbZouG8GnB9HR4lXqr7kXH5haf1jGOzLh0rtvUjrtEEqomfc6pxAcRUpCWcl-4RmLdOcjPEaj_nOB4OGYETaKUlgphqRUW8TwHcB1HTaZsHxG-o`</details>
 
 **JK**: 防臭効果っていうのは気になります。汗かくと臭くなるのイヤなんですよね…
 
@@ -158,7 +158,7 @@ Tags: Fleece, Guide
 
 **先生**: 汗をかきやすい部分は通気性を高め、冷えやすい部分は保温性を高めている。これによって重さを最小限に抑えながら、最大限の快適性を実現しているんだ。
 
-**参考情報**: 「冬のアクティビティのミドルレイヤーに最適で、洗練されたデザインと肌触りの良さ、高い保温力が魅力です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnqNPVM_z_9QY5nDalJRIiVc4_6wsWWvJ7_adiPPTn_FB9DlMwBNwyFdxT_t-M9yc8ZIE5MYjTUYnSh13mRZKXtW7UYEz4RiogkIc7jTAzyLmfA_pmQuXOsMW0TAdOPSsv1eTnc-Mgl8iqqs7E8ZNbBMtzvwjugJ1jhNOBFsob3Gj400Yjo5CdCbvBOA==`</details>
+> **参考情報**: 「冬のアクティビティのミドルレイヤーに最適で、洗練されたデザインと肌触りの良さ、高い保温力が魅力です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnqNPVM_z_9QY5nDalJRIiVc4_6wsWWvJ7_adiPPTn_FB9DlMwBNwyFdxT_t-M9yc8ZIE5MYjTUYnSh13mRZKXtW7UYEz4RiogkIc7jTAzyLmfA_pmQuXOsMW0TAdOPSsv1eTnc-Mgl8iqqs7E8ZNbBMtzvwjugJ1jhNOBFsob3Gj400Yjo5CdCbvBOA==`</details>
 
 **JK**: なんかすごそうですけど、その分高いんですよね？
 
@@ -199,7 +199,7 @@ Tags: Fleece, Guide
 
 **先生**: このモデルは100%リサイクルのポーラテック素材を使っていて、年間を通して使える汎用性が魅力だ。
 
-**参考情報**: 「年間を通して保温性と快適性を提供する軽量フリースジャケットです。100%リサイクルのPolartec素材が使用されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI4akhMNQWO3P0XqZ3S8blfbCa62caemDahbHEwWoKFo84eKzV9kLRxuU7BM4WugGNV6iSmjWllg-nBp9Y5QGaWoalQFdH4goMsLjeij6TPys1K3Sy7HXrLxIpqmzfPJ3r45PwZrgFpVEU-Xr81EZPw1xbyy01e7S8qUiuREYdHjQkK1E-gOSzDnFuhxMk`</details>
+> **参考情報**: 「年間を通して保温性と快適性を提供する軽量フリースジャケットです。100%リサイクルのPolartec素材が使用されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI4akhMNQWO3P0XqZ3S8blfbCa62caemDahbHEwWoKFo84eKzV9kLRxuU7BM4WugGNV6iSmjWllg-nBp9Y5QGaWoalQFdH4goMsLjeij6TPys1K3Sy7HXrLxIpqmzfPJ3r45PwZrgFpVEU-Xr81EZPw1xbyy01e7S8qUiuREYdHjQkK1E-gOSzDnFuhxMk`</details>
 
 **JK**: リサイクルってことはエコってことですか？
 
@@ -240,7 +240,7 @@ Tags: Fleece, Guide
 
 **先生**: マイクロメートル、つまり繊維の太さだ。ウールがチクチクするかどうかは繊維の太さで決まる。一般的に20μm以下なら痒くなりにくいとされている。18.5μmはかなり細い部類だ。
 
-**参考情報**: 「高品質の極細メリノウール（18.5μmのエクストラファインメリノ）を70%配合しており、ウール特有のチクチク感を大幅に軽減し、肌に直接触れても快適な柔らかな肌触りを実現」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH638WmDkPjwG2wS-paAN08xld0ew-yQKbuyAZSW6hU6bbjIhK9yFSTG2TBfjd4NQIG9oB3mPkL1nyRUgukIeJ4R2y8GIo_SqThy5iKEjbt1W4l6zFOLDmMDtN6SnXq_w7W8BB7`</details>
+> **参考情報**: 「高品質の極細メリノウール（18.5μmのエクストラファインメリノ）を70%配合しており、ウール特有のチクチク感を大幅に軽減し、肌に直接触れても快適な柔らかな肌触りを実現」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH638WmDkPjwG2wS-paAN08xld0ew-yQKbuyAZSW6hU6bbjIhK9yFSTG2TBfjd4NQIG9oB3mPkL1nyRUgukIeJ4R2y8GIo_SqThy5iKEjbt1W4l6zFOLDmMDtN6SnXq_w7W8BB7`</details>
 
 **JK**: へー！数字で決まるんですね。
 
@@ -254,7 +254,7 @@ Tags: Fleece, Guide
 
 **先生**: ワッフル構造も良い。凹凸があるから空気の層ができやすく、見た目より暖かい。メリノウールの調湿機能と組み合わさって、汗をかいても蒸れにくい。
 
-**参考情報**: 「生地表面がワッフル状になっており、空気の層を作り出して優れた保温性を発揮します。メリノウールの調湿機能と相まって、汗をかいても蒸れにくい特徴があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfn_-Yj0liVI21Inz2pSCOI0Cr8guUJiw-P3sVeE5yWwRZTc7hVKZ_jmaBC5KiI2kcLCnRx3Dt6IETMVO3oEx9xKJDXPNbVp7Nouj6gq5dG2yUwdM=`</details>
+> **参考情報**: 「生地表面がワッフル状になっており、空気の層を作り出して優れた保温性を発揮します。メリノウールの調湿機能と相まって、汗をかいても蒸れにくい特徴があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfn_-Yj0liVI21Inz2pSCOI0Cr8guUJiw-P3sVeE5yWwRZTc7hVKZ_jmaBC5KiI2kcLCnRx3Dt6IETMVO3oEx9xKJDXPNbVp7Nouj6gq5dG2yUwdM=`</details>
 
 **JK**: でもこれ、見た目がなんか地味じゃないですか？
 
@@ -287,7 +287,7 @@ Tags: Fleece, Guide
 
 **先生**: それなら**フュージョン ライン ロフト ジャケット**だ。ミレーのフリースの中で最もハイロフト、つまり最も毛足が長く保温力が高い。
 
-**参考情報**: 「ミレー製品の中で最もハイロフトのPolartec®フリース素材を使用しており、コンパクトながら高い保温性と優れた運動性を誇ります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXzXJvg8T__lCtujAixChzu6Ia1FvH7lZUTGwkHrHfuDlRRAbmaLT6HxlfKs6shBTVyN7xzwzsPH5IzVNfkgl8TFjlINqRoD6OdNuyUQbIYNHnMFfbR0514AL36uXaASk=`</details>
+> **参考情報**: 「ミレー製品の中で最もハイロフトのPolartec®フリース素材を使用しており、コンパクトながら高い保温性と優れた運動性を誇ります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXzXJvg8T__lCtujAixChzu6Ia1FvH7lZUTGwkHrHfuDlRRAbmaLT6HxlfKs6shBTVyN7xzwzsPH5IzVNfkgl8TFjlINqRoD6OdNuyUQbIYNHnMFfbR0514AL36uXaASk=`</details>
 
 **JK**: ハイロフトってなんですか？
 
@@ -337,7 +337,7 @@ Tags: Fleece, Guide
 
 **先生**: 薄手のマイクロフリースで、適度な保温性と通気性がある。日常使いからちょっとしたアウトドアまで幅広く使える。
 
-**参考情報**: 「薄手のマイクロフリースジャケットで、適度な保温性と通気性があり、屋外アクティビティから日常生活まで幅広く活用できます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNnsWSXaG1RTyPPldjGZ6j7c6fr7e46uCCp1F9BTwqD6_P8vR_D5ceID7C7-sBvOIUDx8O80OBudhAYVOlgnyyCEn191f1aJQ4OEEzX4bUjIXBI_U=`</details>
+> **参考情報**: 「薄手のマイクロフリースジャケットで、適度な保温性と通気性があり、屋外アクティビティから日常生活まで幅広く活用できます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNnsWSXaG1RTyPPldjGZ6j7c6fr7e46uCCp1F9BTwqD6_P8vR_D5ceID7C7-sBvOIUDx8O80OBudhAYVOlgnyyCEn191f1aJQ4OEEzX4bUjIXBI_U=`</details>
 
 **JK**: 値段は？
 
@@ -372,7 +372,7 @@ Tags: Fleece, Guide
 
 **先生**: ミレーは基本的に日本サイズに準拠しているが、モデルによって違いがある。特にフュージョングリッドのようなテクニカルモデルはスリムフィットだから、普段より1サイズ上を勧める人もいる。
 
-**参考情報**: 「スリムな作りが多いものの、ストレッチ性に優れた生地が採用されているため、快適な着心地を提供します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbQLAEDJwpLe5O7L5_S3ChJ8s88B21oBQg9SC3IDzfAEOJsmdK9QbyWmCfz18_phreOcKAOEJ8Kxw520ZHxfNulyoNHhMskE5rfJzw1Z6YkVDjXc4=`</details>
+> **参考情報**: 「スリムな作りが多いものの、ストレッチ性に優れた生地が採用されているため、快適な着心地を提供します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbQLAEDJwpLe5O7L5_S3ChJ8s88B21oBQg9SC3IDzfAEOJsmdK9QbyWmCfz18_phreOcKAOEJ8Kxw520ZHxfNulyoNHhMskE5rfJzw1Z6YkVDjXc4=`</details>
 
 **JK**: えー、そうなんですか…
 
@@ -398,7 +398,7 @@ Tags: Fleece, Guide
 
 **先生**: ポーラテックのような高機能素材は、柔軟剤を使うと吸湿性や速乾性が落ちてしまう。柔軟剤の成分が繊維をコーティングしてしまうからだ。
 
-**参考情報**: 「ポーラテックのような高機能フリースは、柔軟剤を使用するとその性能（吸湿性や速乾性など）が低下する可能性があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5JqCG38FD6zWcbzETt1wuYtzxJQ_-E71mvEXb3OFuj-7xDrB-nmrEWmY3mo_UKs5bYwS_1VLsLcJAxs9pXkqX1lsSZ6Xpx94uLrUsbBtI8mZOhhk5prXrJdZLZAM7_w==`</details>
+> **参考情報**: 「ポーラテックのような高機能フリースは、柔軟剤を使用するとその性能（吸湿性や速乾性など）が低下する可能性があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5JqCG38FD6zWcbzETt1wuYtzxJQ_-E71mvEXb3OFuj-7xDrB-nmrEWmY3mo_UKs5bYwS_1VLsLcJAxs9pXkqX1lsSZ6Xpx94uLrUsbBtI8mZOhhk5prXrJdZLZAM7_w==`</details>
 
 **JK**: そうなんだ…知らなかった。他には？
 
@@ -440,7 +440,7 @@ Tags: Fleece, Guide
 
 **先生**: ミレーの強みは**テクニカルな山岳アクティビティへの特化**だ。クライミング、スキー、厳冬期登山といった、より過酷な環境で使うことを前提に設計されている。
 
-**参考情報**: 「ミレーは主に登山やクライミングなどのテクニカルな山岳アクティビティに特化しており、動きやすさ、保温性、通気性のバランスを重視したフリースが多いです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXM23EeEvdML2wzOIXmT-DI0bcFhdR5uPcUxyj8_1JBt2Y_alm_L9AzM--SQkerZOUf2rNqZl_0fFx5n73M7RSepjnKHF7yZ_XjtfSwRLMI8AJJtFMa2Jqew==`</details>
+> **参考情報**: 「ミレーは主に登山やクライミングなどのテクニカルな山岳アクティビティに特化しており、動きやすさ、保温性、通気性のバランスを重視したフリースが多いです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXM23EeEvdML2wzOIXmT-DI0bcFhdR5uPcUxyj8_1JBt2Y_alm_L9AzM--SQkerZOUf2rNqZl_0fFx5n73M7RSepjnKHF7yZ_XjtfSwRLMI8AJJtFMa2Jqew==`</details>
 
 **JK**: じゃあ、ガチで山やる人はミレー、カジュアルに使いたい人はパタゴニアやノースフェイス、って感じですか？
 

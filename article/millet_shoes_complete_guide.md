@@ -28,7 +28,7 @@ Tags: Shoes, Guide
 
 **先生**: ふむ、それは無理もない。ミレーはフランスの老舗アウトドアブランドで、登山靴だけでも用途に応じた多彩なラインナップを展開しているからな。
 
-**参考情報**: 「ミレーはフランス発祥のアルパインブランドで、本格的な登山からハイキング、スキーまで、様々なマウンテンアクティビティに対応する高機能なウェアやリュック、そして登山靴を提供しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWmroyFIjypqqh5JsjQRla6rnhr-69AxACZn_YTiNY4PT6MupMDhN8EPXIq6qNBUk6b4OeI-r6ePj_FdYNzNe010rl3vehdTBQL11fyfv3w89R4Tz4xxuKa39F8w9Ql_IFziRtFOy6`</details>
+> **参考情報**: 「ミレーはフランス発祥のアルパインブランドで、本格的な登山からハイキング、スキーまで、様々なマウンテンアクティビティに対応する高機能なウェアやリュック、そして登山靴を提供しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWmroyFIjypqqh5JsjQRla6rnhr-69AxACZn_YTiNY4PT6MupMDhN8EPXIq6qNBUk6b4OeI-r6ePj_FdYNzNe010rl3vehdTBQL11fyfv3w89R4Tz4xxuKa39F8w9Ql_IFziRtFOy6`</details>
 
 **JK**: でも、そんなに細かく分ける必要あるんですかね？靴なんて歩ければいいんじゃ…
 
@@ -61,7 +61,7 @@ Tags: Shoes, Guide
 
 **先生**: 片足約500g、細かく言えばUK7.5（26.5cm）で約469gだ。日帰り登山から富士山、3シーズンのトレッキングに最適だな。
 
-**参考情報**: 「ミレーのミッドカット登山靴の中でも特に軽量で、片足約500g（UK7.5=26.5cmの場合、約469g）とされています。この軽量性は、日帰り登山から富士山登山、3シーズンでのトレッキングに適しており、軽快な足運びをサポートします。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-LNOqUHktlp8neAWFzptTci0e0UKupU8qZ0m4WqEp2K69s_1JuKCm00_-vLxBHalD8RKQlntzPS42B0DeZ_LgJ-Axp-CSIJqzAe0GG5QjgoqKQF8bQYNCuERUpNXv3H3UtQgaDXuE`</details>
+> **参考情報**: 「ミレーのミッドカット登山靴の中でも特に軽量で、片足約500g（UK7.5=26.5cmの場合、約469g）とされています。この軽量性は、日帰り登山から富士山登山、3シーズンでのトレッキングに適しており、軽快な足運びをサポートします。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-LNOqUHktlp8neAWFzptTci0e0UKupU8qZ0m4WqEp2K69s_1JuKCm00_-vLxBHalD8RKQlntzPS42B0DeZ_LgJ-Axp-CSIJqzAe0GG5QjgoqKQF8bQYNCuERUpNXv3H3UtQgaDXuE`</details>
 
 **JK**: 469g！？私のスマホより…いや、スマホよりは重いか。でもめちゃくちゃ軽いですね！
 
@@ -110,7 +110,7 @@ Tags: Shoes, Guide
 
 **先生**: **G TREK 3 GTX**だ。G TREKシリーズの中では軽めで柔軟、日帰りから数日間のトレッキングまで幅広く対応できる。
 
-**参考情報**: 「G Trek 3 GTXは、日帰りハイキングから数日間のトレッキングに適した、より軽量で柔軟なオプションです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGco0vHxzJRNg1qSvMscTLa8I1es6wAgDlaG2S6ptABACsmiWqv60v6APgcnCy2vaOhUzkSmizmf9irhlUzdSYye_r63xqRTK-fkf2U52Lf-BfF9_0movDUEzT0eK49tWQnYsToR3ncRBlUXENZT6GBkOs2e9ib-5haxFeuhNeuRqNrug==`</details>
+> **参考情報**: 「G Trek 3 GTXは、日帰りハイキングから数日間のトレッキングに適した、より軽量で柔軟なオプションです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGco0vHxzJRNg1qSvMscTLa8I1es6wAgDlaG2S6ptABACsmiWqv60v6APgcnCy2vaOhUzkSmizmf9irhlUzdSYye_r63xqRTK-fkf2U52Lf-BfF9_0movDUEzT0eK49tWQnYsToR3ncRBlUXENZT6GBkOs2e9ib-5haxFeuhNeuRqNrug==`</details>
 
 **JK**: G TREK 3とG TREK 5って何が違うんですか？数字が大きい方が強いの？
 
@@ -164,7 +164,7 @@ Tags: Shoes, Guide
 
 **先生**: まずアッパーにイタリア製のヌバックレザーを使っている。この革は非常に丈夫で、適切に手入れすれば10年以上使える。
 
-**参考情報**: 「イタリア製ヌバックレザーを使用しており、耐久性に優れています。アッパーは高品質なベロアレザーで、サポート力とクラシックな美学を両立しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvfWSJanO5f_iol33ky_oqO1W3oPbpxmjR0guE5rh7OrzZN8W0h9TKKTgmyMPmSu_XM7pvjKDp9F0zSxuNpzq54ZXUNiaiVDIaKtzqfONPFuQG-wqB8PFj7BsfUP3ev4iTEA-By_HUh7XzUPvyeL-ODzjul27Ibn91F9LfTLNkNrhbv7EacA==`</details>
+> **参考情報**: 「イタリア製ヌバックレザーを使用しており、耐久性に優れています。アッパーは高品質なベロアレザーで、サポート力とクラシックな美学を両立しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvfWSJanO5f_iol33ky_oqO1W3oPbpxmjR0guE5rh7OrzZN8W0h9TKKTgmyMPmSu_XM7pvjKDp9F0zSxuNpzq54ZXUNiaiVDIaKtzqfONPFuQG-wqB8PFj7BsfUP3ev4iTEA-By_HUh7XzUPvyeL-ODzjul27Ibn91F9LfTLNkNrhbv7EacA==`</details>
 
 **JK**: 10年！？高校生の私が大人になっても使えるってこと…？
 
@@ -178,7 +178,7 @@ Tags: Shoes, Guide
 
 **先生**: それから、このモデルには**2種類のインソールが付属**していて、1枚取り外すことで幅広の足にも対応できる。日本人の足に合わせやすい配慮だ。
 
-**参考情報**: 「2種類のインソールが付属しており、必要に応じて1つを取り外すことで、幅広の足にも適応可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7aISg8m26yy1G7R2391hE2zZJ8HJNxYlBvaI2LKRW3ZnKmnojELVjH0x5zcutw4Bz33kVeFtPhIm5eYAWF2C_1pgODUEiObN0wqJnuIwtPNpvyfmHJGCvFOo4Dis3T5MppDGjnGBaPevZ3CePWE67Vn0wMN8kOYbL8Q1vRRjFl5pM416GFwn4zoA35xQY7WndO8jOkS-6ZBPk6W093K1LeAf835UPmLbTmn7iNiyRirXCUhYewbjsTsrk1yVi4c5O8uJdZdTlmc0hJxVM`</details>
+> **参考情報**: 「2種類のインソールが付属しており、必要に応じて1つを取り外すことで、幅広の足にも適応可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7aISg8m26yy1G7R2391hE2zZJ8HJNxYlBvaI2LKRW3ZnKmnojELVjH0x5zcutw4Bz33kVeFtPhIm5eYAWF2C_1pgODUEiObN0wqJnuIwtPNpvyfmHJGCvFOo4Dis3T5MppDGjnGBaPevZ3CePWE67Vn0wMN8kOYbL8Q1vRRjFl5pM416GFwn4zoA35xQY7WndO8jOkS-6ZBPk6W093K1LeAf835UPmLbTmn7iNiyRirXCUhYewbjsTsrk1yVi4c5O8uJdZdTlmc0hJxVM`</details>
 
 **JK**: おお！それは嬉しい。海外ブランドって細いイメージあったから…
 
@@ -224,7 +224,7 @@ Tags: Shoes, Guide
 
 **先生**: 簡単に言えば、「技術が必要な山岳ルート」向けということだ。岩稜帯を含む縦走や、残雪期の登山に適している。
 
-**参考情報**: 「高い足首のサポートと『exoframe』構造により、足首、かかと、甲、土踏まず、つま先など、あらゆる接触点で最高のホールド感と快適性を提供します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEl3hjiOV9jyL-dwKzGkUlOzVZKs_SdzRqSTFUqc-aRfDTtZQjPHE6ftcNfZrt7rlcffJjz3e5KLN_EzCbWBb92-VbH5yI2n6Y5I-6ZsQTOw5A8GRgHpvJ87_1rCrXDNMT5dHCEzhNTgaUXhdvL8zamZ3L3uBwNM2AMwxQNspu-R8CTxZX6Xa7cn7UbwiscHQ==`</details>
+> **参考情報**: 「高い足首のサポートと『exoframe』構造により、足首、かかと、甲、土踏まず、つま先など、あらゆる接触点で最高のホールド感と快適性を提供します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEl3hjiOV9jyL-dwKzGkUlOzVZKs_SdzRqSTFUqc-aRfDTtZQjPHE6ftcNfZrt7rlcffJjz3e5KLN_EzCbWBb92-VbH5yI2n6Y5I-6ZsQTOw5A8GRgHpvJ87_1rCrXDNMT5dHCEzhNTgaUXhdvL8zamZ3L3uBwNM2AMwxQNspu-R8CTxZX6Xa7cn7UbwiscHQ==`</details>
 
 **JK**: exoframe構造って？
 
@@ -273,7 +273,7 @@ Tags: Shoes, Guide
 
 **先生**: このモデルの特徴は**GORE-TEX INVISIBLE FIT**という技術を使っていることだ。メンブレンが薄くて、靴全体が軽く感じる。
 
-**参考情報**: 「GORE-TEX INVISIBLE FIT membrane により、軽量感とシームレスな内部の快適性を提供します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzMi5YsaqScEr-0N8nkdzFP8qz28GkhgiROIJDqnkQMyLPmN8rbK9ZtdLUGmCPervZ7jTV_SOKp6c9WXBODH7LqK-btoovbcLmsydr9wcemYbXeI-l7KwR6pl_udUCzHSibdqprHhu7kuprohRVDI5TeC1B8mt6V33HUJP68Irtrh29yT6hr-7XQvfsH8t6w==`</details>
+> **参考情報**: 「GORE-TEX INVISIBLE FIT membrane により、軽量感とシームレスな内部の快適性を提供します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzMi5YsaqScEr-0N8nkdzFP8qz28GkhgiROIJDqnkQMyLPmN8rbK9ZtdLUGmCPervZ7jTV_SOKp6c9WXBODH7LqK-btoovbcLmsydr9wcemYbXeI-l7KwR6pl_udUCzHSibdqprHhu7kuprohRVDI5TeC1B8mt6V33HUJP68Irtrh29yT6hr-7XQvfsH8t6w==`</details>
 
 **JK**: めっちゃいいじゃないですか。しかもINVISIBLE…透明なの？
 
@@ -287,7 +287,7 @@ Tags: Shoes, Guide
 
 **先生**: ただし、一つ注意がある。このモデルは**サイズが小さめ**に作られている傾向がある。通常サイズより1サイズ上を選ぶことが推奨されている。
 
-**参考情報**: 「The Millet Hike Up GTX shoes generally run small, and it is recommended to take a size up from your usual shoe size.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDvInSyaLVc6ZJnAJC0ZzM8mTXO0Yr5XIpVB92OKO-RD1_CcGkoJixe9hDsf2_Ec1r7kZtKZIROZwL8v8uF_G_j5uQ0kqs-3LSUpIRKKMq-z9pZxR-dZRM1BkOuhDAG0Znh8lxEPdHOo6pTT71HRPx0aXZ9ygKhVbxAkKsE6DF6sYN`</details>
+> **参考情報**: 「The Millet Hike Up GTX shoes generally run small, and it is recommended to take a size up from your usual shoe size.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDvInSyaLVc6ZJnAJC0ZzM8mTXO0Yr5XIpVB92OKO-RD1_CcGkoJixe9hDsf2_Ec1r7kZtKZIROZwL8v8uF_G_j5uQ0kqs-3LSUpIRKKMq-z9pZxR-dZRM1BkOuhDAG0Znh8lxEPdHOo6pTT71HRPx0aXZ9ygKhVbxAkKsE6DF6sYN`</details>
 
 **JK**: えっ、それ大事！ネットで買う時に間違えちゃいそう…
 
@@ -326,7 +326,7 @@ Tags: Shoes, Guide
 
 **先生**: そうだな。このモデルはプレミアムヌバックレザー（2.6mm厚）を使った、ミレーの中でも最も重厚な作りのトレッキングブーツだ。
 
-**参考情報**: 「BOUTHAN GTXは、2.6mm厚の撥水加工されたレザーとGORE-TEX® SKINTECライニングにより、優れた耐久性と防水性を誇ります。適切に手入れをすれば非常に長持ちし、中には10年以上愛用しているユーザーもいます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9QLhQ-vT-pkplR4GTLxZBZoV2SGqDTyzbbIggJzH8ugHUEF-zC3jODMVhtY19WHCDq3AMt_vAYpJUjFte7p5tzkUqB7OWdzECH3fG6lfWuNSBKnGxYQeEoA5bA0zz1TuneOm_car5yYhNqoIaWiOqWCV5lDjxTvPPwUXCOYnwzSWtqAeOthR1`</details>
+> **参考情報**: 「BOUTHAN GTXは、2.6mm厚の撥水加工されたレザーとGORE-TEX® SKINTECライニングにより、優れた耐久性と防水性を誇ります。適切に手入れをすれば非常に長持ちし、中には10年以上愛用しているユーザーもいます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9QLhQ-vT-pkplR4GTLxZBZoV2SGqDTyzbbIggJzH8ugHUEF-zC3jODMVhtY19WHCDq3AMt_vAYpJUjFte7p5tzkUqB7OWdzECH3fG6lfWuNSBKnGxYQeEoA5bA0zz1TuneOm_car5yYhNqoIaWiOqWCV5lDjxTvPPwUXCOYnwzSWtqAeOthR1`</details>
 
 **JK**: 2.6mm！？厚っ！
 
@@ -382,7 +382,7 @@ Tags: Shoes, Guide
 | Vibram® Winkler Evo | テクニカル対応 | HIGH ROUTE GTX |
 | Vibram® Fell Running | 軽量・接着性 | HIKE UP等 |
 
-**参考情報**: 「Vibram®ソールは、グリップ力と耐久性で世界的に認められたブランドです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGp4oNDGCIl1ZuTzivuTCjU9kNanmTrNGB8KrdP6kl_OVYMoxLd9WCMUG3h_W9IW42tt7ODPMPui39CXSRFGTe39yaZ6jtPeS3AFod8Ivy1sV6hOS402OxsdrG8jrPA2-Z0Qspww6KCv4X1w==`</details>
+> **参考情報**: 「Vibram®ソールは、グリップ力と耐久性で世界的に認められたブランドです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGp4oNDGCIl1ZuTzivuTCjU9kNanmTrNGB8KrdP6kl_OVYMoxLd9WCMUG3h_W9IW42tt7ODPMPui39CXSRFGTe39yaZ6jtPeS3AFod8Ivy1sV6hOS402OxsdrG8jrPA2-Z0Qspww6KCv4X1w==`</details>
 
 **JK**: 専門的すぎて全部は覚えられないですけど…要は「用途に合わせて最適なソールを選んでる」ってことですよね。
 
@@ -396,7 +396,7 @@ Tags: Shoes, Guide
 
 **先生**: ミレーの登山靴は**比較的細身のフィット感**が特徴だ。足に吸い付くような感覚を好む人には合う。
 
-**参考情報**: 「ミレーの靴が『細身でシューレースを楽に締められ、これまでにないフィット感』と評価されており、足に吸い付くような感覚を好む方に適している可能性があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcwe8yIawwbTCWaBAIfxquBvVFf5Am-wj3Z-dTg1Lo0vsLPTjaokDYM1tXVob7_x-DzlloB_tWv8nrQzxud6qwEw1WtoZHP2MprUM_KVyBqKaI-K8LhAYXcIW24RcBGwZGBazwkq7hUHtCbvUCPvLHrL55JO4=`</details>
+> **参考情報**: 「ミレーの靴が『細身でシューレースを楽に締められ、これまでにないフィット感』と評価されており、足に吸い付くような感覚を好む方に適している可能性があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcwe8yIawwbTCWaBAIfxquBvVFf5Am-wj3Z-dTg1Lo0vsLPTjaokDYM1tXVob7_x-DzlloB_tWv8nrQzxud6qwEw1WtoZHP2MprUM_KVyBqKaI-K8LhAYXcIW24RcBGwZGBazwkq7hUHtCbvUCPvLHrL55JO4=`</details>
 
 **JK**: 細身…私、足幅広めなんですけど大丈夫ですかね？
 
@@ -425,7 +425,7 @@ Tags: Shoes, Guide
 
 **先生**: 登山靴、特にヌバックレザーのメンテナンスは重要だ。手を抜くと3年で駄目になることもある。
 
-**参考情報**: 「ヌバックレザーは、牛革の表面を軽く起毛させたもので、スエードよりも繊維密度が高く、摩耗や裂けに強い特性があります。適切なお手入れをすることで、長期間使用が可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu_8vn95rjUx-SLZEvZovDnO7LYS6kioZUPk60lNWbcMYqbG3VUYoCb-6H9q4ceRp-Ain-ZnSfjn-O-H0G_4gbIF2i12rpSRCGKUufRdDQOXe-iuZkMbnKMwf3sGDkC6hTqg==`</details>
+> **参考情報**: 「ヌバックレザーは、牛革の表面を軽く起毛させたもので、スエードよりも繊維密度が高く、摩耗や裂けに強い特性があります。適切なお手入れをすることで、長期間使用が可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu_8vn95rjUx-SLZEvZovDnO7LYS6kioZUPk60lNWbcMYqbG3VUYoCb-6H9q4ceRp-Ain-ZnSfjn-O-H0G_4gbIF2i12rpSRCGKUufRdDQOXe-iuZkMbnKMwf3sGDkC6hTqg==`</details>
 
 **JK**: 3年！？全然違うじゃないですか！
 
@@ -495,7 +495,7 @@ Tags: Shoes, Guide
 | **Scarpa（スカルパ）** | フィット感、美しいデザイン、堅牢性 | 足全体を包み込む一体感 |
 | **La Sportiva（スポルティバ）** | 高い信頼性、プロ向け性能 | かかとのホールド性高い |
 
-**参考情報**: 「ミレーの登山靴は、履きやすさを重視したモデルが多く、軽量なハイキングシューズ『スイッチGTX』のようなモデルは、軽快な動きに対応します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVbY_qmcVuj0IuDZtpmnDH3uQYDi2iVJMyNuDWI_Nywr2t_z5lvvoRHodbvDzjqABEAY4yY0b3gyAWCY9GQm9dA5Hwd9kU0kor6-Esfjn_oVxqNapDjh6114Jzr1wCku_bGPdZiJQ=`</details>
+> **参考情報**: 「ミレーの登山靴は、履きやすさを重視したモデルが多く、軽量なハイキングシューズ『スイッチGTX』のようなモデルは、軽快な動きに対応します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVbY_qmcVuj0IuDZtpmnDH3uQYDi2iVJMyNuDWI_Nywr2t_z5lvvoRHodbvDzjqABEAY4yY0b3gyAWCY9GQm9dA5Hwd9kU0kor6-Esfjn_oVxqNapDjh6114Jzr1wCku_bGPdZiJQ=`</details>
 
 **JK**: じゃあ、どれが一番いいんですか？
 

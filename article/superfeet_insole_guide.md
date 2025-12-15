@@ -32,7 +32,7 @@ Tags: Shoes, Guide
 
 **先生**: 近いイメージだな。スーパーフィートは足のかかと周りをしっかりサポートして、足本来の動きを取り戻すという考えに基づいている。
 
-**参考情報**: 「100万人以上の足のデータと、足病医学のセオリーに基づいた構造が特徴です。」<details><summary>出典</summary>`https://www.ishii-sports.com/`</details>
+> **参考情報**: 「100万人以上の足のデータと、足病医学のセオリーに基づいた構造が特徴です。」<details><summary>出典</summary>`https://www.ishii-sports.com/`</details>
 
 ---
 
@@ -52,7 +52,7 @@ Tags: Shoes, Guide
 
 **先生**: そうとも言えるな。さらにかかとのズレによる足のねじれも防いでくれる。
 
-**参考情報**: 「深いヒールカップがカカトをしっかりと包み込み、足本来持っている衝撃吸収機能を引き出してくれます。」<details><summary>出典</summary>`https://tarokiri.com/superfeet/`</details>
+> **参考情報**: 「深いヒールカップがカカトをしっかりと包み込み、足本来持っている衝撃吸収機能を引き出してくれます。」<details><summary>出典</summary>`https://tarokiri.com/superfeet/`</details>
 
 ### スタビライザーキャップ
 
@@ -66,7 +66,7 @@ Tags: Shoes, Guide
 
 **先生**: うむ。歩くとき、足は着地から蹴り出しまでに複雑な動きをする。その際、過度にねじれると膝や腰にも負担がかかる。スタビライザーキャップはこれを抑えてくれる。
 
-**参考情報**: 「かかとの後ろから土踏まずにかけてプラスチック製の板が入っており、足を安定させます。」<details><summary>出典</summary>`https://tarokiri.com/superfeet/`</details>
+> **参考情報**: 「かかとの後ろから土踏まずにかけてプラスチック製の板が入っており、足を安定させます。」<details><summary>出典</summary>`https://tarokiri.com/superfeet/`</details>
 
 ### 後足部サポート
 
@@ -80,7 +80,7 @@ Tags: Shoes, Guide
 
 **先生**: 例えるなら、建物の基礎工事みたいなものだ。土台がしっかりしていれば、上に建つ構造物も安定する。足も同じで、かかと周りが安定すれば、アーチも自然と安定するということだ。
 
-**参考情報**: 「スーパーフィートは、アーチを持ち上げるのではなく、カカト周りをサポートすることで足本来の効率的な動きを取り戻します。」<details><summary>出典</summary>`https://www.impactltd.jp/superfeet/`</details>
+> **参考情報**: 「スーパーフィートは、アーチを持ち上げるのではなく、カカト周りをサポートすることで足本来の効率的な動きを取り戻します。」<details><summary>出典</summary>`https://www.impactltd.jp/superfeet/`</details>
 
 ---
 
@@ -98,7 +98,7 @@ Tags: Shoes, Guide
 
 **先生**: うむ。私も涸沢から上高地まで下るとき、インソールを変える前と後で明らかに疲労感が違った。
 
-**参考情報**: 「登山の後半でも足が疲れにくくなった」<details><summary>出典</summary>`https://asobilifegogo.com/superfeet-trimfit-green/`</details>
+> **参考情報**: 「登山の後半でも足が疲れにくくなった」<details><summary>出典</summary>`https://asobilifegogo.com/superfeet-trimfit-green/`</details>
 
 ### 衝撃吸収と分散
 
@@ -146,7 +146,7 @@ Tags: Shoes, Guide
 
 **先生**: グリーンは厚みがあるからな。前足部で約5mm、かかと部で約7〜9mmある。タイトな靴に入れると窮屈になってしまう。
 
-**参考情報**: 「登山靴に敷くインソールの定番中の定番。足の骨格を安定させ、自然な衝撃吸収を促します。」<details><summary>出典</summary>`https://insoles.com/superfeet-green/`</details>
+> **参考情報**: 「登山靴に敷くインソールの定番中の定番。足の骨格を安定させ、自然な衝撃吸収を促します。」<details><summary>出典</summary>`https://insoles.com/superfeet-green/`</details>
 
 #### 主なスペック
 - アーチサポート：高い（中〜高アーチ向け）
@@ -177,7 +177,7 @@ Tags: Shoes, Guide
 
 **先生**: ブルーはアーチサポートが中程度で、矯正力がマイルドだ。低〜中アーチの人や偏平足にも対応できる。ボリュームもミディアムで、グリーンより薄型だから、タイトなシューズにもフィットしやすい。
 
-**参考情報**: 「ブルーはグリーンより矯正力が穏やかで、より自然な履き心地を提供します。」<details><summary>出典</summary>`https://asobilifegogo.com/superfeet-trimfit-green/`</details>
+> **参考情報**: 「ブルーはグリーンより矯正力が穏やかで、より自然な履き心地を提供します。」<details><summary>出典</summary>`https://asobilifegogo.com/superfeet-trimfit-green/`</details>
 
 #### 主なスペック
 - アーチサポート：中程度（低〜中アーチ向け、偏平足対応）
@@ -201,7 +201,7 @@ Tags: Shoes, Guide
 
 **先生**: よく知っているな。オレンジは前足部に高衝撃吸収フォームが追加されている。長時間立ち仕事をする人やトレイルランナーにも人気だ。ただし男性の足の特性を考慮した設計になっている。
 
-**参考情報**: 「前足部に高衝撃吸収フォームが追加されており、優れたクッション性を提供します。」<details><summary>出典</summary>`https://insoles.com/superfeet-orange/`</details>
+> **参考情報**: 「前足部に高衝撃吸収フォームが追加されており、優れたクッション性を提供します。」<details><summary>出典</summary>`https://insoles.com/superfeet-orange/`</details>
 
 #### 主なスペック
 - アーチサポート：中〜高アーチ向け
@@ -224,7 +224,7 @@ Tags: Shoes, Guide
 
 **先生**: うむ。男性用モデルを女性がそのまま使うと、ヒールカップがゆるかったりすることがある。ベリーはスリムなヒール設計で、短いアーチ長も考慮されている。
 
-**参考情報**: 「女性の足向けに設計されており、一般的な女性の足の形状（高いアーチと狭いかかと）に合わせたサポートが特徴です。」<details><summary>出典</summary>`https://mame-outdoor.com/superfeet-berry/`</details>
+> **参考情報**: 「女性の足向けに設計されており、一般的な女性の足の形状（高いアーチと狭いかかと）に合わせたサポートが特徴です。」<details><summary>出典</summary>`https://mame-outdoor.com/superfeet-berry/`</details>
 
 #### 主なスペック
 - アーチサポート：女性の足に合わせた設計
@@ -247,7 +247,7 @@ Tags: Shoes, Guide
 
 **先生**: カーボンファイバーの強度のおかげだな。タイトフィットの靴に最適で、特にトレイルランナーに人気がある。
 
-**参考情報**: 「カーボンファイバーとプラスチックの混合素材を使用しており、薄さ、軽さ、そして強い矯正力を兼ね備えています。」<details><summary>出典</summary>`https://sato-sk2.jp/column/insole/`</details>
+> **参考情報**: 「カーボンファイバーとプラスチックの混合素材を使用しており、薄さ、軽さ、そして強い矯正力を兼ね備えています。」<details><summary>出典</summary>`https://sato-sk2.jp/column/insole/`</details>
 
 #### 主なスペック
 - アーチサポート：強い矯正力
@@ -268,7 +268,7 @@ Tags: Shoes, Guide
 
 **先生**: 選択肢の一つとしてはアリだな。EVOLyte®カーボンファイバースタビライザーキャップを搭載していて、2層クッションフォームで衝撃吸収性も高い。吸水性のある消臭機能付きトップシートも付いている。
 
-**参考情報**: 「ハイからミディアムアーチ形状が、足、足首、膝、腰にかかるストレスを和らげ、足を安定させます。」<details><summary>出典</summary>`https://impactltd.shop/products/trailblazer-comfort/`</details>
+> **参考情報**: 「ハイからミディアムアーチ形状が、足、足首、膝、腰にかかるストレスを和らげ、足を安定させます。」<details><summary>出典</summary>`https://impactltd.shop/products/trailblazer-comfort/`</details>
 
 #### 主なスペック
 - スタビライザー：EVOLyte®カーボンファイバー
@@ -326,7 +326,7 @@ Tags: Shoes, Guide
 
 **先生**: その通り。例えばサイズCは23.5〜25.0cm、サイズDは25.5〜27.0cmといった具合だ。
 
-**参考情報**: 「スーパーフィートのインソールのサイズは、靴のサイズではなく、実際の足の長さを基準にJ（ジュニア）からHまでのアルファベットで表示されています。」<details><summary>出典</summary>`https://www.follows.co.jp/blog/superfeet-size/`</details>
+> **参考情報**: 「スーパーフィートのインソールのサイズは、靴のサイズではなく、実際の足の長さを基準にJ（ジュニア）からHまでのアルファベットで表示されています。」<details><summary>出典</summary>`https://www.follows.co.jp/blog/superfeet-size/`</details>
 
 ### サイズ選びのポイント
 
@@ -351,7 +351,7 @@ Tags: Shoes, Guide
 
 **先生**: 確かに不可逆的な作業だ。不安なら本当に店舗でやってもらうといい。
 
-**参考情報**: 「基本的に、元々登山靴に入っているインソールを取り出し、それをガイドにしてスーパーフィートのインソールをつま先側からカットします。」<details><summary>出典</summary>`https://tarokiri.com/superfeet/`</details>
+> **参考情報**: 「基本的に、元々登山靴に入っているインソールを取り出し、それをガイドにしてスーパーフィートのインソールをつま先側からカットします。」<details><summary>出典</summary>`https://tarokiri.com/superfeet/`</details>
 
 ---
 
@@ -382,7 +382,7 @@ Tags: Shoes, Guide
 3. **激しい運動は避ける**：慣らし期間中はレースや長時間登山での使用は避ける
 4. **日常生活で慣らす**：まずは通勤や散歩などで使う
 
-**参考情報**: 「慣らし期間は最初から長時間使用するのではなく、1日1～2時間程度の短時間から使用を開始し、徐々に装着時間を延ばしていくことが推奨されます。」<details><summary>出典</summary>`https://xn--qck5b4ef.net/superfeet-demerit/`</details>
+> **参考情報**: 「慣らし期間は最初から長時間使用するのではなく、1日1～2時間程度の短時間から使用を開始し、徐々に装着時間を延ばしていくことが推奨されます。」<details><summary>出典</summary>`https://xn--qck5b4ef.net/superfeet-demerit/`</details>
 
 **JK**: 買ってすぐ富士山とか行かなくてよかった...
 
@@ -404,7 +404,7 @@ Tags: Shoes, Guide
 
 **先生**: 確かに高い。だが、足のトラブル回避や疲労軽減を考えれば投資の価値はあると私は思う。
 
-**参考情報**: 「トリムフィットのグリーン、ブルー、ブラックはそれぞれ7,370円（税込）で販売されています。」<details><summary>出典</summary>`https://shoemart-online.jp/superfeet/`</details>
+> **参考情報**: 「トリムフィットのグリーン、ブルー、ブラックはそれぞれ7,370円（税込）で販売されています。」<details><summary>出典</summary>`https://shoemart-online.jp/superfeet/`</details>
 
 ### 初期の痛み・違和感
 
@@ -428,7 +428,7 @@ Tags: Shoes, Guide
 
 **先生**: 足のサイズやタイプに合わないモデルを選ぶと、効果が感じられないどころか逆効果になることもある。偏平足の人が矯正力の強いグリーンを選ぶと、かえって痛みが出る場合もある。
 
-**参考情報**: 「偏平足の程度によっては、矯正力の強い「トリムグリーン」のようなモデルではなく、「ブラック」や「ベリー」のようなマイルドな形状のインソールが推奨されることがあります。」<details><summary>出典</summary>`https://www.impactltd.jp/superfeet/`</details>
+> **参考情報**: 「偏平足の程度によっては、矯正力の強い「トリムグリーン」のようなモデルではなく、「ブラック」や「ベリー」のようなマイルドな形状のインソールが推奨されることがあります。」<details><summary>出典</summary>`https://www.impactltd.jp/superfeet/`</details>
 
 ---
 
@@ -444,7 +444,7 @@ Tags: Shoes, Guide
 - **通学など日常使用**：約1年
 - **メーカー保証**：500マイル（約800km）または1年
 
-**参考情報**: 「インソールの寿命は、使用頻度や用途によって個人差がありますが、一般的には半年から1年が目安とされています。」<details><summary>出典</summary>`https://shoemart.co.jp/superfeet-lifespan/`</details>
+> **参考情報**: 「インソールの寿命は、使用頻度や用途によって個人差がありますが、一般的には半年から1年が目安とされています。」<details><summary>出典</summary>`https://shoemart.co.jp/superfeet-lifespan/`</details>
 
 ### 交換時期のサイン
 
@@ -476,7 +476,7 @@ Tags: Shoes, Guide
 4. ペーパータオルで水分を取る
 5. 風通しの良い場所で乾かす
 
-**参考情報**: 「中性洗剤とぬるま湯、使い古しの歯ブラシを使って手洗いしてください。」<details><summary>出典</summary>`https://item.rakuten.ne.jp/superfeet/`</details>
+> **参考情報**: 「中性洗剤とぬるま湯、使い古しの歯ブラシを使って手洗いしてください。」<details><summary>出典</summary>`https://item.rakuten.ne.jp/superfeet/`</details>
 
 ### 注意点
 
@@ -502,7 +502,7 @@ Tags: Shoes, Guide
 | **価格帯** | 高価格 | 高価格 | リーズナブル |
 | **特徴** | かかとサポートが強い | 3つのアーチをサポート | ソルボセイン素材 |
 
-**参考情報**: 「スーパーフィートは最も硬く、骨格を矯正するような強いサポート力。シダスは中間の硬さで、バランスの取れたサポート力とクッション性。ソルボは最も柔らかく、衝撃吸収性とクッション性を重視。」<details><summary>出典</summary>`https://fumat.co.jp/insole-comparison/`</details>
+> **参考情報**: 「スーパーフィートは最も硬く、骨格を矯正するような強いサポート力。シダスは中間の硬さで、バランスの取れたサポート力とクッション性。ソルボは最も柔らかく、衝撃吸収性とクッション性を重視。」<details><summary>出典</summary>`https://fumat.co.jp/insole-comparison/`</details>
 
 ### どのブランドを選ぶべきか
 
@@ -550,7 +550,7 @@ Tags: Shoes, Guide
 - 「靴の中で足がズレなくなった」
 - 「下りでの安定感が増した」
 
-**参考情報**: 「Hikers have found the Berry insoles to be highly effective in hiking boots for long treks, significantly reducing pain and preventing heel slippage.」<details><summary>出典</summary>`https://www.trailspace.com/gear/superfeet/`</details>
+> **参考情報**: 「Hikers have found the Berry insoles to be highly effective in hiking boots for long treks, significantly reducing pain and preventing heel slippage.」<details><summary>出典</summary>`https://www.trailspace.com/gear/superfeet/`</details>
 
 **JK**: 下りで安定するの良いですね！私いつも下りで転びそうになるんですよ。
 
@@ -576,7 +576,7 @@ Tags: Shoes, Guide
 3. **モデルの矯正力と自分の足の状態の相性**
 4. **カットする余裕があるか**（基本は大きめを購入してカット）
 
-**参考情報**: 「正しい選び方やフィッティングに不安がある場合は、販売店のスタッフに相談し、カウンセリングを受けることをおすすめします。」<details><summary>出典</summary>`https://www.youtube.com/watch?v=superfeet-fitting`</details>
+> **参考情報**: 「正しい選び方やフィッティングに不安がある場合は、販売店のスタッフに相談し、カウンセリングを受けることをおすすめします。」<details><summary>出典</summary>`https://www.youtube.com/watch?v=superfeet-fitting`</details>
 
 **JK**: やっぱり最初はお店で試してみます！
 

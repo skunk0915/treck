@@ -33,7 +33,7 @@ Tags: Chair, Guide
 
 **先生**: 変わる。ロースタイルは足を投げ出してリラックスできるし、焚き火と目線が近くなる。だが立ち上がるときに膝に負担がかかる。ハイスタイルは食事や作業がしやすいが、焚き火を見下ろす形になる。自分のキャンプスタイルに合わせて選ぶのが重要だ。
 
-**参考情報**: 「スノーピークのチェアは、その座り心地の良さ、デザイン性、耐久性で高い評判を得ています。特に「ローチェア30」は「奇跡のチェア」と評されることもあり、多くのキャンパーから愛用されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnA6dPlTDSWuFm4nzd77yPeaBXHqwndJ6J7CvOBkXswebKTago87S91pmKmPA91hvsK7ydnEO2ctGiR8yNwyXPnofGuLeLm4hGTYCHhU_TnQMTlE1nIC44lZ9AjNXsTYoJrwWLDoM5`</details>
+> **参考情報**: 「スノーピークのチェアは、その座り心地の良さ、デザイン性、耐久性で高い評判を得ています。特に「ローチェア30」は「奇跡のチェア」と評されることもあり、多くのキャンパーから愛用されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnA6dPlTDSWuFm4nzd77yPeaBXHqwndJ6J7CvOBkXswebKTago87S91pmKmPA91hvsK7ydnEO2ctGiR8yNwyXPnofGuLeLm4hGTYCHhU_TnQMTlE1nIC44lZ9AjNXsTYoJrwWLDoM5`</details>
 
 ### スノーピーク チェア主要ラインナップ
 
@@ -65,7 +65,7 @@ Tags: Chair, Guide
 
 **先生**: はは…それくらいリラックスできるということだ。中央収束式で設営も簡単。広げるだけでいい。
 
-**参考情報**: 「座面高30cmの定番モデルで、「奇跡のチェア」と称されるほどの極上の座り心地が特徴です。体を包み込むような安定感があり、長時間座っても疲れにくい設計です。広げるだけで簡単に設営できる収束式で、スリムに折りたためるため、室内でも邪魔になりません。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_A-cpfOerwO7QGCwkJh0wKV_cHD-H73oyjLy4_4E6vAhRt8F10arKNuspF2DdRsJKKogOIDSii5NxqyR5lLylkCKFFMs2czBXQ7rikVAjnz-PD5h2EXjKQIT1zQ==`</details>
+> **参考情報**: 「座面高30cmの定番モデルで、「奇跡のチェア」と称されるほどの極上の座り心地が特徴です。体を包み込むような安定感があり、長時間座っても疲れにくい設計です。広げるだけで簡単に設営できる収束式で、スリムに折りたためるため、室内でも邪魔になりません。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_A-cpfOerwO7QGCwkJh0wKV_cHD-H73oyjLy4_4E6vAhRt8F10arKNuspF2DdRsJKKogOIDSii5NxqyR5lLylkCKFFMs2czBXQ7rikVAjnz-PD5h2EXjKQIT1zQ==`</details>
 
 **JK**: 肘掛けも木っぽくておしゃれですよね。
 
@@ -120,7 +120,7 @@ Tags: Chair, Guide
 
 **先生**: ああ。重量も3.4kgとローチェア30より200g軽い。さらに背面にはメッシュポケットとDカンがついていて、スマホや小物を入れられる。
 
-**参考情報**: 「ローチェア30よりも背もたれが低いモデルです。腰を包み込むような座り心地で、アームレストには天然のチーク材が使われています。ローチェアショートには、背面にメッシュポケットとDカンが装備されており、小物の収納に便利です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqFaBgc6_ilY5T6Xi1-HAQVPtXH92eRWEpaX1YPr43tCnuEIG6_VqEbC5zY9laVPKYBQ5aPRXnv55vPgcjBHkfCZ5PLKx1FLkWpTSBKLEGVtWt4Owuv7RctDOHXg==`</details>
+> **参考情報**: 「ローチェア30よりも背もたれが低いモデルです。腰を包み込むような座り心地で、アームレストには天然のチーク材が使われています。ローチェアショートには、背面にメッシュポケットとDカンが装備されており、小物の収納に便利です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqFaBgc6_ilY5T6Xi1-HAQVPtXH92eRWEpaX1YPr43tCnuEIG6_VqEbC5zY9laVPKYBQ5aPRXnv55vPgcjBHkfCZ5PLKx1FLkWpTSBKLEGVtWt4Owuv7RctDOHXg==`</details>
 
 **JK**: えっ、便利！ローチェア30にはないんですか？
 
@@ -170,7 +170,7 @@ Tags: Chair, Guide
 
 **先生**: さすがに火に当てれば燃えるが、ポリエステルよりは圧倒的に強い。それに、帆布は使い込むほど柔らかくなって体に馴染んでくる。経年変化も楽しめる素材だ。
 
-**参考情報**: 「Take! チェア / Take! チェアロングは座面に丈夫な6号帆布（綿帆布）を使用しており、使い込むほど体に馴染みます。綿帆布は火の粉が飛んできても穴が開きにくく、焚き火周りでの使用に適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3gjjSD8AdKCO0wzyBDnO7QF1VCpc9xeDFXMyTcXfIxu12r5mcw2InFCgtqIDOKcV7WLepruPsc3o3IJCl-zpP1MjYDakG27RmsmskYPrrU7inT8bQjJh0SocrYg==`</details>
+> **参考情報**: 「Take! チェア / Take! チェアロングは座面に丈夫な6号帆布（綿帆布）を使用しており、使い込むほど体に馴染みます。綿帆布は火の粉が飛んできても穴が開きにくく、焚き火周りでの使用に適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3gjjSD8AdKCO0wzyBDnO7QF1VCpc9xeDFXMyTcXfIxu12r5mcw2InFCgtqIDOKcV7WLepruPsc3o3IJCl-zpP1MjYDakG27RmsmskYPrrU7inT8bQjJh0SocrYg==`</details>
 
 **JK**: 育てていく感じですね！革製品みたいで楽しそう。
 
@@ -213,7 +213,7 @@ Tags: Chair, Guide
 
 **先生**: はは…まあ実際に座ってみるといい。私の経験では、このチェアでうたた寝をして1時間経っていたことがある。体が完全に預けられるから、ハンモックに揺られているような感覚になる。
 
-**参考情報**: 「Take!チェアをベースにしたハイバックモデルで、頭まで包み込む設計が最大の魅力です。よりゆったりと深く座れるため、究極のリラックス感を得られます。座面やフレームがしっかりしており、ハンモックのような包まれる座り心地と安定感があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoCUSemeHXBb_FamSzjchkLJHuRfzbmgOJleTmF4h2D7ofqGcd6kOVVKSWPlbqsFpSHlhjZ0EBUGrpnJWurAre4JhCBA3LnMLMsMWJ9bzwhZiwdu7LtlBZhZnQsjJoY98v`</details>
+> **参考情報**: 「Take!チェアをベースにしたハイバックモデルで、頭まで包み込む設計が最大の魅力です。よりゆったりと深く座れるため、究極のリラックス感を得られます。座面やフレームがしっかりしており、ハンモックのような包まれる座り心地と安定感があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoCUSemeHXBb_FamSzjchkLJHuRfzbmgOJleTmF4h2D7ofqGcd6kOVVKSWPlbqsFpSHlhjZ0EBUGrpnJWurAre4JhCBA3LnMLMsMWJ9bzwhZiwdu7LtlBZhZnQsjJoY98v`</details>
 
 **JK**: 身長高い人にも良さそうですね。ローチェア30だと背もたれが足りないって口コミ見ました。
 
@@ -254,7 +254,7 @@ Tags: Chair, Guide
 
 **先生**: なるほど、それなら「FDチェアワイド」がいいだろう。座面高46cmで、スノーピークのテーブル（高さ66cm）と組み合わせると最適な高さになる。
 
-**参考情報**: 「ゆったり座れるワイドサイズで、背もたれに角度が設けられており、体を預けやすいデザインです。アームレストカバーは取り外して洗うことができます。スノーピークのテーブル（高さ66cm）と組み合わせると、最適な座面高（46cm）で快適に食事ができるとされています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG1VOF8aUqf90e7SmIIiffPvSL7e_8hj57SYe9oWQ1d0rbENT9ub6KirChzkNKlKKKRRjcxIlq-d0TOp95kWzqGHRZvrCwJT0OHyJrZgM1mlJJrwliacbi9zoRQkSsyjclOn1m2A==`</details>
+> **参考情報**: 「ゆったり座れるワイドサイズで、背もたれに角度が設けられており、体を預けやすいデザインです。アームレストカバーは取り外して洗うことができます。スノーピークのテーブル（高さ66cm）と組み合わせると、最適な座面高（46cm）で快適に食事ができるとされています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG1VOF8aUqf90e7SmIIiffPvSL7e_8hj57SYe9oWQ1d0rbENT9ub6KirChzkNKlKKKRRjcxIlq-d0TOp95kWzqGHRZvrCwJT0OHyJrZgM1mlJJrwliacbi9zoRQkSsyjclOn1m2A==`</details>
 
 **JK**: ワイドってことは大きめ？
 
@@ -297,7 +297,7 @@ Tags: Chair, Guide
 
 **先生**: 鋭いな。夏場の蒸れが気になるなら「メッシュFDチェア」がある。シートに高強度のメッシュ生地を使っていて、通気性抜群だ。
 
-**参考情報**: 「従来の強度を保ちつつ通気性が向上しており、暑い季節のキャンプでも蒸れずに快適に過ごせます。川遊びなどの休憩時間にも適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnNquec1UbLf9hNVN-Nr6BP0NEPopLtUj_1BFte7S6cHEBpgJ-dO2MuW5ZD_ep9DJNOjOigjXiUECn-R_k7wXC4po-VPzpELiKLYa7BVavnvEptFbw-9wYfyUIM4kXfsuJb24fgb4=`</details>
+> **参考情報**: 「従来の強度を保ちつつ通気性が向上しており、暑い季節のキャンプでも蒸れずに快適に過ごせます。川遊びなどの休憩時間にも適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnNquec1UbLf9hNVN-Nr6BP0NEPopLtUj_1BFte7S6cHEBpgJ-dO2MuW5ZD_ep9DJNOjOigjXiUECn-R_k7wXC4po-VPzpELiKLYa7BVavnvEptFbw-9wYfyUIM4kXfsuJb24fgb4=`</details>
 
 **JK**: メッシュって耐久性大丈夫ですか？すぐ破れそう…。
 
@@ -337,7 +337,7 @@ Tags: Chair, Guide
 
 **先生**: 「グランドパネルチェア」がそれだ。お座敷スタイル専用の簡易座椅子で、1.9kgと非常に軽い。
 
-**参考情報**: 「背面のパネルが背中をしっかりと支え、長時間座っていても快適です。背もたれが自立する設計のため、立ち上がった際に倒れる心配がありません。座面は扇形をしており、あぐらをかいて座ることも可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsuteZY0ynxtEKarL-GCzQfx4wQOKP19ojD9iPtfyRKC0J03zLBvF3OEhsxDCOP6BCdCbvMwu0sRTvTUPusUo6UkFhTvnZVbvHwHVVwMwHYxLd0Zn7kqIApPV9tXOx7ZawbcMvEks=`</details>
+> **参考情報**: 「背面のパネルが背中をしっかりと支え、長時間座っていても快適です。背もたれが自立する設計のため、立ち上がった際に倒れる心配がありません。座面は扇形をしており、あぐらをかいて座ることも可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsuteZY0ynxtEKarL-GCzQfx4wQOKP19ojD9iPtfyRKC0J03zLBvF3OEhsxDCOP6BCdCbvMwu0sRTvTUPusUo6UkFhTvnZVbvHwHVVwMwHYxLd0Zn7kqIApPV9tXOx7ZawbcMvEks=`</details>
 
 **JK**: 1.9kg！めっちゃ軽い！
 
@@ -376,7 +376,7 @@ Tags: Chair, Guide
 
 **先生**: 「ローチェアオットマン」がある。ローチェア30と組み合わせて足を乗せると、完全に足を伸ばしてリラックスできる。
 
-**参考情報**: 「ローチェアオットマンは、スノーピークのローチェア30と組み合わせて使用することで、足を伸ばしてリラックスできるアイテムです。足を乗せるだけでなく、生地がしっかりしているため、薪置きや荷物置きとしても活用できます。コットンキャンバス素材が採用されており、火の粉に強く安心して使用できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC3gBgfpY6r6ZluSWEux6iDShZ7M2TlF2vZkHkHH4YDBowE-q6sSTnhEl6Us7UXJDOxpoq7rvAeuM8Cm5KrqQh_IIww-Gt8WQH1kayKOvpt-hKVQ3q3BCvbtriCKBDF0h3Uj6cc38j75EKwFO5r5lh3XxHkA==`</details>
+> **参考情報**: 「ローチェアオットマンは、スノーピークのローチェア30と組み合わせて使用することで、足を伸ばしてリラックスできるアイテムです。足を乗せるだけでなく、生地がしっかりしているため、薪置きや荷物置きとしても活用できます。コットンキャンバス素材が採用されており、火の粉に強く安心して使用できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC3gBgfpY6r6ZluSWEux6iDShZ7M2TlF2vZkHkHH4YDBowE-q6sSTnhEl6Us7UXJDOxpoq7rvAeuM8Cm5KrqQh_IIww-Gt8WQH1kayKOvpt-hKVQ3q3BCvbtriCKBDF0h3Uj6cc38j75EKwFO5r5lh3XxHkA==`</details>
 
 **JK**: へぇ〜！素材は何ですか？
 
@@ -408,7 +408,7 @@ Tags: Chair, Guide
 
 **先生**: 現行のローチェア30などは座面が固定されているから丸洗いは難しい。部分洗いで対応することになる。
 
-**参考情報**: 「ローチェア30（LV-091）など、現行のポリエステル素材を使用したモデルは座面が固定されているため、丸洗いはできません。部分的な洗濯を行うようにしてください。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUUA1vLuJQx0P9MJl5k8SJh02XfIJLYpZg2fxXTVnsFFvCUMpaa_E0aPQP9IVh6rNB_dB6Bj55CH6TK5F7PVGt01k5HjV_a1e-c2WGfSpp2wuUqQAqGkfQsfqyDE2cpA==`</details>
+> **参考情報**: 「ローチェア30（LV-091）など、現行のポリエステル素材を使用したモデルは座面が固定されているため、丸洗いはできません。部分的な洗濯を行うようにしてください。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUUA1vLuJQx0P9MJl5k8SJh02XfIJLYpZg2fxXTVnsFFvCUMpaa_E0aPQP9IVh6rNB_dB6Bj55CH6TK5F7PVGt01k5HjV_a1e-c2WGfSpp2wuUqQAqGkfQsfqyDE2cpA==`</details>
 
 ### 日常のお手入れ方法
 
@@ -420,7 +420,7 @@ Tags: Chair, Guide
 
 **先生**: 肘掛けに使われている竹集成材は、長時間水分に触れるとシミや変色、反りの原因になる。塗膜が傷つくと湿気を吸いやすくなるから、濡れたまま放置しないこと。
 
-**参考情報**: 「竹集成材の肘掛けなどは、長時間水分に触れるとシミ、変色、反り、狂い、カビの原因となることがあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOKLNYiSan3nKm5HPxB2NX4uO0A1MQCUBxu7AkwarzGP2u8tBDhn9j39wf2C-Ev2DKBeezrg5n70BX1pXvGPSJEwSuAXvPt4765FjLqhSlmtgF5vKhTN2bzBOEApkKQl7KUWh_WThZFkbS7OlEN-JX_7w5TUdpZC6HHFj6ku0-4FPbXC5ZVAb5FnAwVZsMEsX9FcSCYpMEzJW4Nz08vfA1aXw=`</details>
+> **参考情報**: 「竹集成材の肘掛けなどは、長時間水分に触れるとシミ、変色、反り、狂い、カビの原因となることがあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOKLNYiSan3nKm5HPxB2NX4uO0A1MQCUBxu7AkwarzGP2u8tBDhn9j39wf2C-Ev2DKBeezrg5n70BX1pXvGPSJEwSuAXvPt4765FjLqhSlmtgF5vKhTN2bzBOEApkKQl7KUWh_WThZFkbS7OlEN-JX_7w5TUdpZC6HHFj6ku0-4FPbXC5ZVAb5FnAwVZsMEsX9FcSCYpMEzJW4Nz08vfA1aXw=`</details>
 
 ### 永久保証と修理サービス
 
@@ -428,7 +428,7 @@ Tags: Chair, Guide
 
 **先生**: スノーピークは「永久保証」を謳っている。壊れても修理して使い続けることを推奨しているブランドだ。オンラインの修理受付から依頼できる。経年劣化による部品破損は無償で交換してくれることもある。
 
-**参考情報**: 「スノーピークは「永久保証」を提供しており、破損した製品も可能な限り修理して長く使うことを推奨しています。修理はスノーピークのオンライン修理受付（ウェブサイトまたはアプリ）から依頼できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyyar5xbLyE-AUa-bsGglzPLIHFeNlJ8Ccf-OUETmVVEPusj2eCHiXt1CDkwfGtSOT7pJ4pFC8ZUiINUI_UAcchVsytY_C1mo44pfHF3J-WgdWuC05akqtk1cVSEHR-zdw`</details>
+> **参考情報**: 「スノーピークは「永久保証」を提供しており、破損した製品も可能な限り修理して長く使うことを推奨しています。修理はスノーピークのオンライン修理受付（ウェブサイトまたはアプリ）から依頼できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyyar5xbLyE-AUa-bsGglzPLIHFeNlJ8Ccf-OUETmVVEPusj2eCHiXt1CDkwfGtSOT7pJ4pFC8ZUiINUI_UAcchVsytY_C1mo44pfHF3J-WgdWuC05akqtk1cVSEHR-zdw`</details>
 
 **JK**: 永久保証ってすごいですね！高いけど長く使えるなら…。
 

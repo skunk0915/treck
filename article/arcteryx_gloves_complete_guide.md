@@ -48,7 +48,7 @@ Tags: Gloves, Guide
 
 **先生**: まずはVentaシリーズだ。これは**GORE-TEX INFINIUM™**という素材を使っていて、防風性と透湿性のバランスが絶妙なんだ。
 
-**参考情報**: 「GORE-TEX INFINIUM™ ソフトシェル素材が採用されており、優れた防風性と高い透湿性を提供します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWs7OmYBySF-9q5vS_DR94lGboXp2bnXwr0IIxXx86ZvhiiL8VQbXimNDO6t1iP9EgcKF7M3OtwwgHWHUHVc92bhJLGSv_sSuecP3_JrTfcN3ZbzT50hon_s-8-IKYHsggMKBHag==`</details>
+> **参考情報**: 「GORE-TEX INFINIUM™ ソフトシェル素材が採用されており、優れた防風性と高い透湿性を提供します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWs7OmYBySF-9q5vS_DR94lGboXp2bnXwr0IIxXx86ZvhiiL8VQbXimNDO6t1iP9EgcKF7M3OtwwgHWHUHVc92bhJLGSv_sSuecP3_JrTfcN3ZbzT50hon_s-8-IKYHsggMKBHag==`</details>
 
 **JK**: GORE-TEX INFINIUMって何ですか？普通のGORE-TEXと違うんですか？
 
@@ -81,7 +81,7 @@ Tags: Gloves, Guide
 - カフが狭く着脱しにくいという声あり
 - 耐久性に問題ありというレビューも（カフの破れなど）
 
-**参考情報**: 「A significant number of users report premature wear and tear. This includes cuffs tearing off」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7Lu1zjcRXxbadZKpFoiQ02F9KgFXwkxuStAc7jAzXqHLUW_A25kXUO4z1vGQ00u0-TyawUuVqoz4Z4MYeI5OIiiWD7ANGKA8CloYb3UpK66GzONaRRyVil1KPZJG4g8Bm1vXsXq2OgCpvpoec_w==`</details>
+> **参考情報**: 「A significant number of users report premature wear and tear. This includes cuffs tearing off」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7Lu1zjcRXxbadZKpFoiQ02F9KgFXwkxuStAc7jAzXqHLUW_A25kXUO4z1vGQ00u0-TyawUuVqoz4Z4MYeI5OIiiWD7ANGKA8CloYb3UpK66GzONaRRyVil1KPZJG4g8Bm1vXsXq2OgCpvpoec_w==`</details>
 
 **JK**: カフが破れるって…高いのにそれはちょっと…
 
@@ -91,7 +91,7 @@ Tags: Gloves, Guide
 
 **先生**: 気持ちはわかる。だが使い方次第でもあるし、合う人にはとても良いグローブだよ。
 
-**参考情報**: 「一般的に「Venta Glove（ベンタ グローブ）」の定価は、税込みで14,300円」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvow5C7usk_6ItDl89HE07Lxuvvh6P4XRvbCGWae7RHtEmDUX2_1hKH1HTtfv12FqG7Qxj87ms9-9JA95sezkHfcbYSN4i2bq4JvBkXQCZfxJD3D7ZKw==`</details>
+> **参考情報**: 「一般的に「Venta Glove（ベンタ グローブ）」の定価は、税込みで14,300円」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvow5C7usk_6ItDl89HE07Lxuvvh6P4XRvbCGWae7RHtEmDUX2_1hKH1HTtfv12FqG7Qxj87ms9-9JA95sezkHfcbYSN4i2bq4JvBkXQCZfxJD3D7ZKw==`</details>
 
 ---
 
@@ -101,7 +101,7 @@ Tags: Gloves, Guide
 
 **先生**: 次はRivetだ。これは**Polartec® Power Stretch®**というフリース素材を使った薄手のグローブで、単体でもインナーとしても使える万能タイプだな。
 
-**参考情報**: 「耐久性と通気性に優れたPolartec® Power Stretch®フリースにHardface®テクノロジーを採用」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENRInJKEVzIeEpsuQIqaBb1Bu17pavNaz5rggjgVjF7Bw8OpaTn5tLjIhTab-1fWahnjoWgX-syYo228rbXMP6NPmU7_cSOkTI2u4lPSTCbd772wQ7IFmdt0zTSVfpPnkl45SVBC0sZXvXxJJe`</details>
+> **参考情報**: 「耐久性と通気性に優れたPolartec® Power Stretch®フリースにHardface®テクノロジーを採用」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENRInJKEVzIeEpsuQIqaBb1Bu17pavNaz5rggjgVjF7Bw8OpaTn5tLjIhTab-1fWahnjoWgX-syYo228rbXMP6NPmU7_cSOkTI2u4lPSTCbd772wQ7IFmdt0zTSVfpPnkl45SVBC0sZXvXxJJe`</details>
 
 **JK**: インナーグローブ？グローブの中にさらにグローブ入れるんですか？
 
@@ -137,7 +137,7 @@ Tags: Gloves, Guide
 - 極寒での単体使用は厳しい
 - カフ部分が狭く破れる可能性あり
 
-**参考情報**: 「一部のレビューでは、カフ部分が狭く、初めて着用する際に裂けてしまう可能性が指摘」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtQoqruLzu7Vyl8ceMUVBHp6O_GJmR3nX9MIPwzhbPcLnOY6xMObPWiIydaz_v2kMhee__2yocrNQejulMHGnb-nR2pLMsHv-OtiXMH5x70VVWLTSQVKsHj1CBKqeiW-ZAVgfnlIwTtX18ujNUjIC1X2H4zmG2gpGjjYQCnNMpflRhGvxEE_eRIQgKdhkQ`</details>
+> **参考情報**: 「一部のレビューでは、カフ部分が狭く、初めて着用する際に裂けてしまう可能性が指摘」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtQoqruLzu7Vyl8ceMUVBHp6O_GJmR3nX9MIPwzhbPcLnOY6xMObPWiIydaz_v2kMhee__2yocrNQejulMHGnb-nR2pLMsHv-OtiXMH5x70VVWLTSQVKsHj1CBKqeiW-ZAVgfnlIwTtX18ujNUjIC1X2H4zmG2gpGjjYQCnNMpflRhGvxEE_eRIQgKdhkQ`</details>
 
 **JK**: また破れる話…！アークテリクスって高いのに耐久性微妙なんですか…？
 
@@ -147,7 +147,7 @@ Tags: Gloves, Guide
 
 **先生**: 正規の定価は見つけにくいが、だいたい**1万円前後**で取引されていることが多いな。
 
-**参考情報**: 「新品のArc'teryx Rivet Gloveは、ネット販売価格12,500円（税込）」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfkPPR5Du3rCdHG4QBXHrhHh62ohUineCGphV5MrRtGm4kKlW-FMFqhMojitUvlJYYeJz5nt0ZuKw8EHAYcCTD-yx6ZWr4OxpcvH3r3d3jqLzekDD9ohglo7HkSVv8iNIXjIeSTbqgNYTx`</details>
+> **参考情報**: 「新品のArc'teryx Rivet Gloveは、ネット販売価格12,500円（税込）」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfkPPR5Du3rCdHG4QBXHrhHh62ohUineCGphV5MrRtGm4kKlW-FMFqhMojitUvlJYYeJz5nt0ZuKw8EHAYcCTD-yx6ZWr4OxpcvH3r3d3jqLzekDD9ohglo7HkSVv8iNIXjIeSTbqgNYTx`</details>
 
 ---
 
@@ -170,7 +170,7 @@ Tags: Gloves, Guide
 
 ### Alpha SL（スーパーライト）
 
-**参考情報**: 「軽量性、高い操作性、技術的なアルパインおよびアイスクライミング向けに特化」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjD31TkcUN3UnR13t2eRv4qSU7mNkm6R3CvcZGJYm9AtFgubvbnZds3OQlk1r8PPCU_LD27LB_8dZ7HW55P9SBZk9ri7qxG4KSrbjda7g13m5rFP1lVeLV75-2qLrRBFt75tv9U8QA1jsWCnpWaPBZ8lMllvuX`</details>
+> **参考情報**: 「軽量性、高い操作性、技術的なアルパインおよびアイスクライミング向けに特化」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjD31TkcUN3UnR13t2eRv4qSU7mNkm6R3CvcZGJYm9AtFgubvbnZds3OQlk1r8PPCU_LD27LB_8dZ7HW55P9SBZk9ri7qxG4KSrbjda7g13m5rFP1lVeLV75-2qLrRBFt75tv9U8QA1jsWCnpWaPBZ8lMllvuX`</details>
 
 **先生**: Alpha SLは**操作性最優先**のモデルだ。GORE-TEX Infinium（Windstopper）を使って防風性を確保しつつ、レザーパームで岩やギアをしっかり掴める。
 
@@ -194,7 +194,7 @@ Tags: Gloves, Guide
 
 **先生**: Alpha ARは「オールラウンド」の名の通り、**保温性・防水性・操作性のバランス**が取れたモデルだ。
 
-**参考情報**: 「非常に暖かく耐候性に優れており、あらゆる種類の冬の山岳スポーツに適しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7gR-omMvisVDGVsCB2P2QMzXYhWtQAvQZImNqLVqFj1lyiKahx2EnzoJuENnEioe4GUHilcRL7Hz3pV1MDFaycimZ8tFlhdH8cfrhRgYYM4VT3PqjeZziazZQaisU5XIOu_eko4wSGhJAuytT8jPJfMcIC82WbJryPRl9k1MBBvIDil8mQ9QBkFv0vbQ-8jzm7fo=`</details>
+> **参考情報**: 「非常に暖かく耐候性に優れており、あらゆる種類の冬の山岳スポーツに適しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7gR-omMvisVDGVsCB2P2QMzXYhWtQAvQZImNqLVqFj1lyiKahx2EnzoJuENnEioe4GUHilcRL7Hz3pV1MDFaycimZ8tFlhdH8cfrhRgYYM4VT3PqjeZziazZQaisU5XIOu_eko4wSGhJAuytT8jPJfMcIC82WbJryPRl9k1MBBvIDil8mQ9QBkFv0vbQ-8jzm7fo=`</details>
 
 **JK**: おお！これなら雨も雪も大丈夫そう！
 
@@ -216,7 +216,7 @@ Tags: Gloves, Guide
 
 **先生**: そして最強スペックがこのAlpha SVだ。
 
-**参考情報**: 「Arc'teryx's warmest glove for severe winter objectives」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhUrOfCuN-ccWa5MIAd2lHCbBHLS99rnLi-2jK_ymfwSr5PqLztlwiujw70wYkGvUv7gdowAK4kjVCoI54u5zDm6dp3eBeKnFE8c4PRrZqna-AEtHB6635kiFZajSwsPzmtxpgbAfCB6F9mOHL-2A2FC1SmuZUKCtfFRb8Am_ZoKTaIRwgLlFN`</details>
+> **参考情報**: 「Arc'teryx's warmest glove for severe winter objectives」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhUrOfCuN-ccWa5MIAd2lHCbBHLS99rnLi-2jK_ymfwSr5PqLztlwiujw70wYkGvUv7gdowAK4kjVCoI54u5zDm6dp3eBeKnFE8c4PRrZqna-AEtHB6635kiFZajSwsPzmtxpgbAfCB6F9mOHL-2A2FC1SmuZUKCtfFRb8Am_ZoKTaIRwgLlFN`</details>
 
 **JK**: 最強！？
 
@@ -265,7 +265,7 @@ Tags: Gloves, Guide
 
 **先生**: 正直に言うと、アークテリクスのグローブは**サイズ感にばらつきがある**という声が多いんだ。手首がきつい、指が長い・短いなど。
 
-**参考情報**: 「Users often experience problems with the fit, describing issues like wrists being extremely tight, thumbs being too tight, fingers being either too long or too short」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7Lu1zjcRXxbadZKpFoiQ02F9KgFXwkxuStAc7jAzXqHLUW_A25kXUO4z1vGQ00u0-TyawUuVqoz4Z4MYeI5OIiiWD7ANGKA8CloYb3UpK66GzONaRRyVil1KPZJG4g8Bm1vXsXq2OgCpvpoec_w==`</details>
+> **参考情報**: 「Users often experience problems with the fit, describing issues like wrists being extremely tight, thumbs being too tight, fingers being either too long or too short」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7Lu1zjcRXxbadZKpFoiQ02F9KgFXwkxuStAc7jAzXqHLUW_A25kXUO4z1vGQ00u0-TyawUuVqoz4Z4MYeI5OIiiWD7ANGKA8CloYb3UpK66GzONaRRyVil1KPZJG4g8Bm1vXsXq2OgCpvpoec_w==`</details>
 
 **JK**: ええ…それ困りますね。やっぱり店舗で試着した方がいいですか？
 

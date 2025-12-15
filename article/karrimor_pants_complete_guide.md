@@ -73,7 +73,7 @@ comfyシリーズには、複数の高機能素材が採用されています。
 *   **Polartec® Power Air™**: 防風・保温モデルに採用。革新的なニット素材で、マイクロファイバーをカプセル化し、熱効率を高める。
 *   **POLARTEC社 WIND PRO**: 透湿性を保ちつつ防風性も兼ね備える。ソフトな肌触りとストレッチ性が特徴。
 
-**参考情報**: 「カリマーの『comfy W's pants』は、快適な着心地、機能性、そして素材にこだわって作られています。4wayストレッチ素材を使用しており、動きやすさに優れています」<details><summary>出典</summary>`https://www.yodobashi.com/product/100000001005869345/`</details>
+> **参考情報**: 「カリマーの『comfy W's pants』は、快適な着心地、機能性、そして素材にこだわって作られています。4wayストレッチ素材を使用しており、動きやすさに優れています」<details><summary>出典</summary>`https://www.yodobashi.com/product/100000001005869345/`</details>
 
 **JK**: PERTEX®とか、また呪文ですか...？
 
@@ -95,7 +95,7 @@ comfyシリーズには、快適性を高めるための様々な工夫が凝ら
 *   **速乾性**: 吸水速乾性素材のウエストバンドで、汗をかいても快適。
 *   **耐久性**: ヒップパネルは生地を二枚重ねで補強。
 
-**参考情報**: 「ウエストヨークの内側には、ザックを背負った際のベタつきを防止するCARAT®素材が採用されているタイプもあります」<details><summary>出典</summary>`https://www.karrimor.jp/c/item/101206/`</details>
+> **参考情報**: 「ウエストヨークの内側には、ザックを背負った際のベタつきを防止するCARAT®素材が採用されているタイプもあります」<details><summary>出典</summary>`https://www.karrimor.jp/c/item/101206/`</details>
 
 **JK**: CARAT®って、ダイヤモンドのカラットですか？
 
@@ -111,7 +111,7 @@ comfyシリーズには、膝上のジッパーでハーフパンツにも変更
 *   **特徴**: 4WAYストレッチ、軽量、撥水性
 *   **女性向けトレッキングパンツ**
 
-**参考情報**: 「Karrimor Comfy Convertible Pantsは、女性向けトレッキングパンツで、4-way stretchポリエステル（Nylon 85%, Spandex 15%）で快適性と動きやすさを実現。撥水性もあり」<details><summary>出典</summary>`https://www.kitungamarket.com/product/karrimor-comfy-convertible-pants-light-weight-4-way-stretch-trekking-womens/`</details>
+> **参考情報**: 「Karrimor Comfy Convertible Pantsは、女性向けトレッキングパンツで、4-way stretchポリエステル（Nylon 85%, Spandex 15%）で快適性と動きやすさを実現。撥水性もあり」<details><summary>出典</summary>`https://www.kitungamarket.com/product/karrimor-comfy-convertible-pants-light-weight-4-way-stretch-trekking-womens/`</details>
 
 **JK**: 2wayって、便利そうですね！気温変わったらすぐ調整できるじゃないですか。
 
@@ -165,7 +165,7 @@ trekシリーズを語る上で欠かせないのが、「TEXBRID®（テック�
 *   **サステナビリティ**: 耐久性が高く長持ちするため、製品の寿命が延び、環境負荷低減に貢献。
 *   **ポリウレタンフリー**: メカニカルストレッチ（繊維構造そのものが伸縮する）のため、ポリウレタンを使わず環境に優しい。
 
-**参考情報**: 「TEXBRID is described as a high-performance yarn characterized by its exceptional stretch and shape recovery properties. Its spring-like molecular structure allows it to stretch in accordance with body movements, providing a natural and comfortable fit without constriction」<details><summary>出典</summary>`https://www.chorimoda.com/texbrid/`</details>
+> **参考情報**: 「TEXBRID is described as a high-performance yarn characterized by its exceptional stretch and shape recovery properties. Its spring-like molecular structure allows it to stretch in accordance with body movements, providing a natural and comfortable fit without constriction」<details><summary>出典</summary>`https://www.chorimoda.com/texbrid/`</details>
 
 **JK**: TEXBRID®...また呪文ですか。バネみたいな分子構造って、何ですかそれ。
 
@@ -195,7 +195,7 @@ trekシリーズの代表格が「multi field pants series（マルチフィー�
 *   **季節・用途**: 季節を問わず幅広いシーンに対応
 *   **重量**: Mサイズ530g
 
-**参考情報**: 「『multi field pants series』のように、生地の厚みが異なるLW（ライトウエイト）とMW（ミドルウエイト）の2タイプがあり、様々な季節や山行シーンに合わせて選択できます」<details><summary>出典</summary>`https://www.karrimor.jp/c/item/101206/`</details>
+> **参考情報**: 「『multi field pants series』のように、生地の厚みが異なるLW（ライトウエイト）とMW（ミドルウエイト）の2タイプがあり、様々な季節や山行シーンに合わせて選択できます」<details><summary>出典</summary>`https://www.karrimor.jp/c/item/101206/`</details>
 
 **JK**: LWとMW、どっちを選べばいいんですか？
 
@@ -209,7 +209,7 @@ trekシリーズの代表格が「multi field pants series（マルチフィー�
 
 2025年春夏には、さらに進化したtrekking LW pantsとside pocket LW pantsが登場しました。
 
-**参考情報**: 「2025年春夏に登場したトレッキングパンツは、『trekking LW pants』と『side pocket LW pants』の2モデルがあり、TEXBRID®素材の採用によりストレッチ性能と快適性を追求しており、タフでストレッチの効いた生地、汎用性のあるデザイン、機能的で収納力のあるポケットが特徴です」<details><summary>出典</summary>`https://yamahack.com/7799488`</details>
+> **参考情報**: 「2025年春夏に登場したトレッキングパンツは、『trekking LW pants』と『side pocket LW pants』の2モデルがあり、TEXBRID®素材の採用によりストレッチ性能と快適性を追求しており、タフでストレッチの効いた生地、汎用性のあるデザイン、機能的で収納力のあるポケットが特徴です」<details><summary>出典</summary>`https://yamahack.com/7799488`</details>
 
 **JK**: 「快適すぎる」って、どういうことですか？
 
@@ -224,7 +224,7 @@ trekシリーズの代表格が「multi field pants series（マルチフィー�
 *   **肌触り**: 制電糸織り込みで静電気抑制。
 *   **デザイン**: スリムでスタイリッシュ、登山からタウンユースまで対応。
 
-**参考情報**: 「カリマーのトレッキングパンツは、特に『TEXBRID®（テックスブリッド）』のような高伸縮機能素材を使用しているパンツは、脚上げがしやすく、アクティブな動きを妨げません。これにより、山行などのアクティブなシーンでもストレスフリーな履き心地を実現します」<details><summary>出典</summary>`https://www.karrimor.jp/c/item/101206/`</details>
+> **参考情報**: 「カリマーのトレッキングパンツは、特に『TEXBRID®（テックスブリッド）』のような高伸縮機能素材を使用しているパンツは、脚上げがしやすく、アクティブな動きを妨げません。これにより、山行などのアクティブなシーンでもストレスフリーな履き心地を実現します」<details><summary>出典</summary>`https://www.karrimor.jp/c/item/101206/`</details>
 
 **JK**: 制電糸って、何ですか？
 
@@ -280,9 +280,9 @@ riggショーツの最大の特徴は、何と言ってもその収納力です�
 *   **オープンポケット口**: ドローコード装備で中身の飛び出しを防止。
 *   **ウエストバックル**: ポケットに多くの荷物を入れてもずり下がらないよう、しっかりしたバックルを搭載。
 
-**参考情報**: 「Karrimor Rigg shortsは、軽量で速乾性に優れたショートパンツです。撥水性や伸縮性のある4WAYストレッチナイロン素材が使用されており、肌離れが良く、動きに追従する快適な着心地を実現しています。クライミングのチョークバッグから着想を得たカリマーの定番モデルで、収納力に優れた複数のポケットが特徴です」<details><summary>出典</summary>`https://shopping.yahoo.co.jp/search?p=karrimor%20rigg%20shorts&di=&ssl=1`</details>
+> **参考情報**: 「Karrimor Rigg shortsは、軽量で速乾性に優れたショートパンツです。撥水性や伸縮性のある4WAYストレッチナイロン素材が使用されており、肌離れが良く、動きに追従する快適な着心地を実現しています。クライミングのチョークバッグから着想を得たカリマーの定番モデルで、収納力に優れた複数のポケットが特徴です」<details><summary>出典</summary>`https://shopping.yahoo.co.jp/search?p=karrimor%20rigg%20shorts&di=&ssl=1`</details>
 
-**参考情報**: 「外側のポケットは、0.5Lのペットボトルを収納できるサイズに設定されています」<details><summary>出典</summary>`https://item.rakuten.co.jp/heimat-berg/10073398/`</details>
+> **参考情報**: 「外側のポケットは、0.5Lのペットボトルを収納できるサイズに設定されています」<details><summary>出典</summary>`https://item.rakuten.co.jp/heimat-berg/10073398/`</details>
 
 **JK**: ポケット6個とか7個って、そんなに必要ですか？
 
@@ -384,7 +384,7 @@ riggショーツのロングパンツ版。太ももに大きなポケット含�
 *   **種類豊富**: Classic, Quantum, Microlight, Equilibrium, Shield, Endurance など。
 *   **用途**: アウター、インサレーション内層、一部パネル。
 
-**参考情報**: 「PERTEX is a family of performance fabrics, often nylon-based, renowned for being lightweight, durable, wind-resistant, water-repellent, and highly breathable. Developed in England in the 1970s, it's now produced by Mitsui \u0026 Co.」<details><summary>出典</summary>`https://rokon2018.blogspot.com/2020/03/blog-post.html`</details>
+> **参考情報**: 「PERTEX is a family of performance fabrics, often nylon-based, renowned for being lightweight, durable, wind-resistant, water-repellent, and highly breathable. Developed in England in the 1970s, it's now produced by Mitsui \u0026 Co.」<details><summary>出典</summary>`https://rokon2018.blogspot.com/2020/03/blog-post.html`</details>
 
 **JK**: 結局、どっちがいいんですか？
 
@@ -413,7 +413,7 @@ riggショーツのロングパンツ版。太ももに大きなポケット含�
 *   L: 78cm
 *   XL: 80cm
 
-**参考情報**: 「カリマーの公式サイトでは、メンズ、ウィメンズ、キッズのパンツについて詳細なサイズガイドが提供されています。これらのガイドには、ウエスト（ゴム上がりウエストを含む場合もあり）と股下の実寸が記載されています」<details><summary>出典</summary>`https://www.karrimor.jp/c/size_guide/`</details>
+> **参考情報**: 「カリマーの公式サイトでは、メンズ、ウィメンズ、キッズのパンツについて詳細なサイズガイドが提供されています。これらのガイドには、ウエスト（ゴム上がりウエストを含む場合もあり）と股下の実寸が記載されています」<details><summary>出典</summary>`https://www.karrimor.jp/c/size_guide/`</details>
 
 ### 股下の測り方
 
@@ -449,7 +449,7 @@ riggショーツのロングパンツ版。太ももに大きなポケット含�
 *   **中性洗剤使用**: 洗濯用中性洗剤を使用。
 *   **避けるもの**: 漂白剤・柔軟剤・蛍光増白剤、固形石鹸（アルカリ性）、ドライクリーニング。
 
-**参考情報**: 「洗濯には洗濯用中性洗剤を使用してください。漂白剤、柔軟剤、およびそれらが配合された洗剤、また蛍光増白剤入りの洗剤は使用しないでください。これらは撥水加工などに悪影響を及ぼす可能性があります」<details><summary>出典</summary>`https://www.pearlizumi.co.jp/support/faq/care`</details>
+> **参考情報**: 「洗濯には洗濯用中性洗剤を使用してください。漂白剤、柔軟剤、およびそれらが配合された洗剤、また蛍光増白剤入りの洗剤は使用しないでください。これらは撥水加工などに悪影響を及ぼす可能性があります」<details><summary>出典</summary>`https://www.pearlizumi.co.jp/support/faq/care`</details>
 
 **JK**: 中性洗剤って、何が中性なんですか？
 
@@ -491,7 +491,7 @@ riggショーツのロングパンツ版。太ももに大きなポケット含�
 *   **LW/MW展開**: 季節・シーン対応。
 *   **対象年齢層**: 30代〜50代のアウトドア愛好者。
 
-**参考情報**: 「カリマー（Karrimor）は、1946年創業のイギリスのアウトドアブランドで、元々はサイクルバッグメーカーとしてスタートし、後に登山用品を手掛けるようになりました。機能性だけでなくファッション性にも優れており、発色の良いカラーやシンプルなデザインの中にこだわりが見られます」<details><summary>出典</summary>`https://www.travel-sphere-explorer.com/karrimor-brand-image/`</details>
+> **参考情報**: 「カリマー（Karrimor）は、1946年創業のイギリスのアウトドアブランドで、元々はサイクルバッグメーカーとしてスタートし、後に登山用品を手掛けるようになりました。機能性だけでなくファッション性にも優れており、発色の良いカラーやシンプルなデザインの中にこだわりが見られます」<details><summary>出典</summary>`https://www.travel-sphere-explorer.com/karrimor-brand-image/`</details>
 
 ### モンベルの強み
 
@@ -500,7 +500,7 @@ riggショーツのロングパンツ版。太ももに大きなポケット含�
 *   **3段階生地厚**: 薄手・中厚手・厚手でオールシーズン対応。
 *   **初心者向け**: 購入しやすい価格とラインナップ。
 
-**参考情報**: 「モンベル（Montbell）は『迷ったらモンベル』と言われるほど、幅広いラインナップと優れたコストパフォーマンスが魅力です。軽量性、速乾性、ストレッチ性に優れており、快適な着心地を提供します」<details><summary>出典</summary>`https://campify.jp/articles/8594`</details>
+> **参考情報**: 「モンベル（Montbell）は『迷ったらモンベル』と言われるほど、幅広いラインナップと優れたコストパフォーマンスが魅力です。軽量性、速乾性、ストレッチ性に優れており、快適な着心地を提供します」<details><summary>出典</summary>`https://campify.jp/articles/8594`</details>
 
 ### ミレーの強み
 
@@ -508,7 +508,7 @@ riggショーツのロングパンツ版。太ももに大きなポケット含�
 *   **防寒性・防水性**: 高機能素材（ティフォン 50000など）。
 *   **スタイリッシュ**: スリムシルエット、街着にも馴染む。
 
-**参考情報**: 「ミレー（Millet）は、1921年創業のフランスのアウトドアブランドで、高機能な登山用品を多く手掛けています。特に冬のアクティビティに強く、防寒性や防水性、防風性に優れたアイテムが豊富です」<details><summary>出典</summary>`https://campify.jp/articles/8587`</details>
+> **参考情報**: 「ミレー（Millet）は、1921年創業のフランスのアウトドアブランドで、高機能な登山用品を多く手掛けています。特に冬のアクティビティに強く、防寒性や防水性、防風性に優れたアイテムが豊富です」<details><summary>出典</summary>`https://campify.jp/articles/8587`</details>
 
 ### おすすめの選び方
 
@@ -545,11 +545,11 @@ riggショーツのロングパンツ版。太ももに大きなポケット含�
 *   **デザイン**: 「スタイリッシュなデザインでおしゃれに履ける」「スリムで脚長効果もある」
 *   **普段使い**: 「山も街も。つい普段履きしたくなる」
 
-**参考情報**: 「カリマーのパンツは『ストレッチ性に優れていて動きやすいので快適に登山を楽しめる』『通気性があるので蒸れにくい』『撥水加工が施されているので雨に濡れてもしっかり弾いてくれる』といった評価が見られます。また、『スタイリッシュなデザインでおしゃれに履ける』『スリムで脚長効果もある』とデザイン面での評価も高いです」<details><summary>出典</summary>`https://www.biglobe.ne.jp/trend/karrimor-pants-review/`</details>
+> **参考情報**: 「カリマーのパンツは『ストレッチ性に優れていて動きやすいので快適に登山を楽しめる』『通気性があるので蒸れにくい』『撥水加工が施されているので雨に濡れてもしっかり弾いてくれる』といった評価が見られます。また、『スタイリッシュなデザインでおしゃれに履ける』『スリムで脚長効果もある』とデザイン面での評価も高いです」<details><summary>出典</summary>`https://www.biglobe.ne.jp/trend/karrimor-pants-review/`</details>
 
 ### 2025年春夏新作の評価
 
-**参考情報**: 「2025年春夏の新作トレッキングパンツは『快適すぎる』とレビューされており、より快適な着心地と機能性を追求した進化が見られます」<details><summary>出典</summary>`https://yamahack.com/7799488`</details>
+> **参考情報**: 「2025年春夏の新作トレッキングパンツは『快適すぎる』とレビューされており、より快適な着心地と機能性を追求した進化が見られます」<details><summary>出典</summary>`https://yamahack.com/7799488`</details>
 
 **先生**: 私も実際にcomfyパンツを普段着として会議に履いていったことがあるが、誰も登山用だと気づかなかった。それくらい、デザインが洗練されているんだ。
 

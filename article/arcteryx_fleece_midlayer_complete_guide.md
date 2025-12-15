@@ -42,7 +42,7 @@ Delta、Kyanite、Covert…カタログ見てもどれが自分に合ってる�
 
 この3つで、ほぼ全ての使用シーンをカバーできるわけだ。
 
-**参考情報**: 「Arc'teryx offers two popular fleece midlayers, the Delta and the Kyanite, each designed with distinct purposes and materials to cater to different activity levels and conditions. The primary difference lies in their intended function: the Kyanite is a versatile, all-around fleece providing warmth and durability for general use and cold-weather layering, while the Delta is a technical grid fleece engineered for maximum breathability and moisture-wicking during high-output aerobic activities.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmfb85OEaJPAgkaFwYwWhS9-YcMQ0AVZJgpOcY0oA3zr2PLl3kk7L9geCZfiNwbknDCcde4zmwTMCMNTeYDF8m4Vc8b01EkDnfYacVxYSLCdi59rIS2FiDav51BYs2Rn92vHt5zJOLlfjsaT_6mW4hSE4ZYQ==`</details>
+> **参考情報**: 「Arc'teryx offers two popular fleece midlayers, the Delta and the Kyanite, each designed with distinct purposes and materials to cater to different activity levels and conditions. The primary difference lies in their intended function: the Kyanite is a versatile, all-around fleece providing warmth and durability for general use and cold-weather layering, while the Delta is a technical grid fleece engineered for maximum breathability and moisture-wicking during high-output aerobic activities.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmfb85OEaJPAgkaFwYwWhS9-YcMQ0AVZJgpOcY0oA3zr2PLl3kk7L9geCZfiNwbknDCcde4zmwTMCMNTeYDF8m4Vc8b01EkDnfYacVxYSLCdi59rIS2FiDav51BYs2Rn92vHt5zJOLlfjsaT_6mW4hSE4ZYQ==`</details>
 
 **JK**: 確かに、そう考えると分かりやすいかも。じゃあ順番に見ていきましょう！
 
@@ -62,7 +62,7 @@ Delta、Kyanite、Covert…カタログ見てもどれが自分に合ってる�
 
 **先生**: Delta はそれを防ぐために、「通気性」を徹底的に追求している。2024年モデルからは帝人製の **OCTA®（オクタ）** という革新的な素材を採用しているんだ。
 
-**参考情報**: 「アークテリクス Delta フリースは、モデルの年代によって主要な素材が異なります。2024年以降のモデル: 帝人製の「OCTA®（オクタ）」素材を主に使用しています。OCTA®は、8本の突起を持つ中空ポリエステル繊維で、この特殊な構造により、軽量でありながら大量の空気を取り込み、高い保温性を発揮します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3UyvVF9m2DdWutN-JiQ7TY8mgRTXiY_oGBNEdNQN1g8JwKUWHs4KVyDlUh_NbuiHeGauCv-sT6Ssu0ExxjlH-Bd5go1iRJUR1-ClxSUiatjHqkIeyOnbRck0sZHfRtUfm9QBUmcGwolIY_dzHRwtykA==`</details>
+> **参考情報**: 「アークテリクス Delta フリースは、モデルの年代によって主要な素材が異なります。2024年以降のモデル: 帝人製の「OCTA®（オクタ）」素材を主に使用しています。OCTA®は、8本の突起を持つ中空ポリエステル繊維で、この特殊な構造により、軽量でありながら大量の空気を取り込み、高い保温性を発揮します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3UyvVF9m2DdWutN-JiQ7TY8mgRTXiY_oGBNEdNQN1g8JwKUWHs4KVyDlUh_NbuiHeGauCv-sT6Ssu0ExxjlH-Bd5go1iRJUR1-ClxSUiatjHqkIeyOnbRck0sZHfRtUfm9QBUmcGwolIY_dzHRwtykA==`</details>
 
 > **Image Prompt:** アークテリクス Delta フリースを着た登山者が急斜面を登っている写真。軽快な動きと通気性の良さを感じさせる構図。
 
@@ -78,7 +78,7 @@ Delta、Kyanite、Covert…カタログ見てもどれが自分に合ってる�
 
 **先生**: 繊維が抜けにくいんだ。つまり洗濯しても生地がヘタりにくく、海洋汚染も抑えられる。環境負荷が小さいわけだ。
 
-**参考情報**: 「従来のフリースとは異なり、起毛させずに毛足を作る製法のため、繊維の抜けが少なく、海洋汚染への影響や生地のヘタリも大幅に抑えられます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3UyvVF9m2DdWutN-JiQ7TY8mgRTXiY_oGBNEdNQN1g8JwKUWHs4KVyDlUh_NbuiHeGauCv-sT6Ssu0ExxjlH-Bd5go1iRJUR1-ClxSUiatjHqkIeyOnbRck0sZHfRtUfm9QBUmcGwolIY_dzHRwtykA==`</details>
+> **参考情報**: 「従来のフリースとは異なり、起毛させずに毛足を作る製法のため、繊維の抜けが少なく、海洋汚染への影響や生地のヘタリも大幅に抑えられます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3UyvVF9m2DdWutN-JiQ7TY8mgRTXiY_oGBNEdNQN1g8JwKUWHs4KVyDlUh_NbuiHeGauCv-sT6Ssu0ExxjlH-Bd5go1iRJUR1-ClxSUiatjHqkIeyOnbRck0sZHfRtUfm9QBUmcGwolIY_dzHRwtykA==`</details>
 
 **JK**: へー、高いだけあって環境にも配慮してるんですね。でも正直、通気性良すぎて寒くないですか？
 
@@ -92,7 +92,7 @@ Delta、Kyanite、Covert…カタログ見てもどれが自分に合ってる�
 
 **先生**: 用途を理解すれば納得できる。激しい登りでは体が発熱するから、Delta の通気性が心地よい。でも休憩したら、すぐシェルを羽織るか別のレイヤーを追加する――それが正しい使い方なんだ。
 
-**参考情報**: 「Warmth: The Delta provides warmth primarily when moving, making it less insulated and potentially chilly when static, as its design prioritizes airflow.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmfb85OEaJPAgkaFwYwWhS9-YcMQ0AVZJgpOcY0oA3zr2PLl3kk7L9geCZfiNwbknDCcde4zmwTMCMNTeYDF8m4Vc8b01EkDnfYacVxYSLCdi59rIS2FiDav51BYs2Rn92vHt5zJOLlfjsaT_6mW4hSE4ZYQ==`</details>
+> **参考情報**: 「Warmth: The Delta provides warmth primarily when moving, making it less insulated and potentially chilly when static, as its design prioritizes airflow.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmfb85OEaJPAgkaFwYwWhS9-YcMQ0AVZJgpOcY0oA3zr2PLl3kk7L9geCZfiNwbknDCcde4zmwTMCMNTeYDF8m4Vc8b01EkDnfYacVxYSLCdi59rIS2FiDav51BYs2Rn92vHt5zJOLlfjsaT_6mW4hSE4ZYQ==`</details>
 
 **JK**: なるほど…レイヤリング前提なんですね。ちょっと上級者向けな感じ？
 
@@ -105,7 +105,7 @@ Delta、Kyanite、Covert…カタログ見てもどれが自分に合ってる�
 - **フィット**: トリムフィット（体に密着するスリムなシルエット）
 - **価格**: 約$159-170（日本では約28,000〜34,000円前後）
 
-**参考情報**: 「Weight: It is considered a light to very light fleece, with some models weighing around 8.5 ounces (men's) or 275g (Delta LT Hoody).」「The manufacturer's suggested retail price (MSRP) for the Arc'teryx Delta LT Hoody is around $170 or $159.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7fV2xrcGttrHgF_EBcE26f4UYQRqOzWpf7wmh0NrD5dKdCkMz6p-JfW1LRxayaepvPE3j62EIvwPPKhFXotO1NqWS8UTfsv-I4ksjB953tolunKAv6gzmlTmoBC-tFHw5zP4H3Jwv6hSSt1NIzfqBaM4HEC7wPZU=`</details>
+> **参考情報**: 「Weight: It is considered a light to very light fleece, with some models weighing around 8.5 ounces (men's) or 275g (Delta LT Hoody).」「The manufacturer's suggested retail price (MSRP) for the Arc'teryx Delta LT Hoody is around $170 or $159.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7fV2xrcGttrHgF_EBcE26f4UYQRqOzWpf7wmh0NrD5dKdCkMz6p-JfW1LRxayaepvPE3j62EIvwPPKhFXotO1NqWS8UTfsv-I4ksjB953tolunKAv6gzmlTmoBC-tFHw5zP4H3Jwv6hSSt1NIzfqBaM4HEC7wPZU=`</details>
 
 #### こんな人におすすめ
 
@@ -136,7 +136,7 @@ Delta、Kyanite、Covert…カタログ見てもどれが自分に合ってる�
 
 **先生**: 素材は **Polartec® Power Stretch® Pro**。4方向に伸びるストレッチ性と、起毛された内側の柔らかさが特徴だ。
 
-**参考情報**: 「アークテリクスのKyaniteフリースは、Polartec® Power Stretch® Pro素材を採用した、暖かく、動きやすく、快適な着心地が特徴の多用途なフリースです。ミッドレイヤーとしても単体でも着用可能で、トレイル、ロッククライミング、スノーアクティビティ、キャンプなど、幅広いシーンで活躍します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPvZO_3jE5Au7lWeq-PAZjgfUlKIlPGjIzzCEqrKs_ysgyGKUDpWdXFEFPlcz9A9dkBt3PzRGsauF8MpkKofdWK6nimvp1zk1nAQD77I35_NS55-nc9ycZvVzqTq8g6H7L_ESylC-gEh3opr3ekLpSk9s=`</details>
+> **参考情報**: 「アークテリクスのKyaniteフリースは、Polartec® Power Stretch® Pro素材を採用した、暖かく、動きやすく、快適な着心地が特徴の多用途なフリースです。ミッドレイヤーとしても単体でも着用可能で、トレイル、ロッククライミング、スノーアクティビティ、キャンプなど、幅広いシーンで活躍します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPvZO_3jE5Au7lWeq-PAZjgfUlKIlPGjIzzCEqrKs_ysgyGKUDpWdXFEFPlcz9A9dkBt3PzRGsauF8MpkKofdWK6nimvp1zk1nAQD77I35_NS55-nc9ycZvVzqTq8g6H7L_ESylC-gEh3opr3ekLpSk9s=`</details>
 
 > **Image Prompt:** アークテリクス Kyanite Hoody を着た登山者がロッククライミングをしている写真。ストレッチ性と動きやすさが伝わる構図。
 
@@ -148,7 +148,7 @@ Delta、Kyanite、Covert…カタログ見てもどれが自分に合ってる�
 
 **先生**: その通り。メンズMサイズで約300g。Delta より少し重いが、その分保温性がある。実際、40〜50°F（約4〜10℃）の気温なら単体でも十分暖かいという評価が多い。
 
-**参考情報**: 「Warmth: The Kyanite is generally warmer than the Delta, providing solid warmth, particularly for temperatures around 40-50° F. Its dense fabric and brushed interior are effective at trapping heat. It also offers good heat retention and some wind resistance for a fleece.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmfb85OEaJPAgkaFwYwWhS9-YcMQ0AVZJgpOcY0oA3zr2PLl3kk7L9geCZfiNwbknDCcde4zmwTMCMNTeYDF8m4Vc8b01EkDnfYacVxYSLCdi59rIS2FiDav51BYs2Rn92vHt5zJOLlfjsaT_6mW4hSE4ZYQ==`</details>
+> **参考情報**: 「Warmth: The Kyanite is generally warmer than the Delta, providing solid warmth, particularly for temperatures around 40-50° F. Its dense fabric and brushed interior are effective at trapping heat. It also offers good heat retention and some wind resistance for a fleece.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmfb85OEaJPAgkaFwYwWhS9-YcMQ0AVZJgpOcY0oA3zr2PLl3kk7L9geCZfiNwbknDCcde4zmwTMCMNTeYDF8m4Vc8b01EkDnfYacVxYSLCdi59rIS2FiDav51BYs2Rn92vHt5zJOLlfjsaT_6mW4hSE4ZYQ==`</details>
 
 **JK**: へぇ、それなら春秋の低山ハイキングとかに良さそう。
 
@@ -160,7 +160,7 @@ Delta、Kyanite、Covert…カタログ見てもどれが自分に合ってる�
 
 **先生**: そう。長く使うつもりなら、この耐久性は大きなメリットだ。実際、何年使っても見た目があまり劣化しないという声が多い。
 
-**参考情報**: 「Durability: The nylon face of the Polartec® Power Stretch® Pro makes the Kyanite exceptionally durable and resistant to pilling and snagging.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmfb85OEaJPAgkaFwYwWhS9-YcMQ0AVZJgpOcY0oA3zr2PLl3kk7L9geCZfiNwbknDCcde4zmwTMCMNTeYDF8m4Vc8b01EkDnfYacVxYSLCdi59rIS2FiDav51BYs2Rn92vHt5zJOLlfjsaT_6mW4hSE4ZYQ==`</details>
+> **参考情報**: 「Durability: The nylon face of the Polartec® Power Stretch® Pro makes the Kyanite exceptionally durable and resistant to pilling and snagging.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmfb85OEaJPAgkaFwYwWhS9-YcMQ0AVZJgpOcY0oA3zr2PLl3kk7L9geCZfiNwbknDCcde4zmwTMCMNTeYDF8m4Vc8b01EkDnfYacVxYSLCdi59rIS2FiDav51BYs2Rn92vHt5zJOLlfjsaT_6mW4hSE4ZYQ==`</details>
 
 **JK**: 高いのに毛玉できたら最悪ですもんね。
 
@@ -175,7 +175,7 @@ Delta、Kyanite、Covert…カタログ見てもどれが自分に合ってる�
 - **フィット**: レギュラーフィット（体にフィットしつつ重ね着もしやすい）
 - **価格**: 約$150-200（日本では約28,000〜32,000円前後）
 
-**参考情報**: 「Weight: The weight of the Arc'teryx Kyanite Hoody can vary slightly depending on the size and specific model. Men's Medium: Approximately 10.6 oz (300g).」「Price: The price of the Arc'teryx Kyanite Hoody generally ranges from $150 to $200.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmyo_L5Z2vqqZl7H-eYsL_h-cVUv0rKbXvLQ_wDtZ2Z3_ghDWvw7O-5Z4YaG0tKyXum-TqCm4fKZU6YspwuiBJrpuu74HFNbP3ORYkyaJqEGsk1zMw_C7o4yv4IaFVvFu7N0HA1isIk8ang-ICvGPTgOBXPaB3WZKEnNTo5kE=`</details>
+> **参考情報**: 「Weight: The weight of the Arc'teryx Kyanite Hoody can vary slightly depending on the size and specific model. Men's Medium: Approximately 10.6 oz (300g).」「Price: The price of the Arc'teryx Kyanite Hoody generally ranges from $150 to $200.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmyo_L5Z2vqqZl7H-eYsL_h-cVUv0rKbXvLQ_wDtZ2Z3_ghDWvw7O-5Z4YaG0tKyXum-TqCm4fKZU6YspwuiBJrpuu74HFNbP3ORYkyaJqEGsk1zMw_C7o4yv4IaFVvFu7N0HA1isIk8ang-ICvGPTgOBXPaB3WZKEnNTo5kE=`</details>
 
 #### こんな人におすすめ
 
@@ -207,7 +207,7 @@ Delta、Kyanite、Covert…カタログ見てもどれが自分に合ってる�
 
 **先生**: そう。素材は **Alpenex II™** という100%リサイクルポリエステルのフリースで、ウールのようなヘザー調（霜降り風）の質感がある。でもチクチクしない。
 
-**参考情報**: 「リサイクルポリエステル100%のAlpenex II™フリース素材で作られており、ウールのようなヘザー調の質感が魅力です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbmxfp5beySCTlL6xLxxbVu6-eUE-aXe5e-CqlnWWnSftq6Za0UaAXrRFmXS9axMWmckezqRLv7gxsmVuZHmIMBIlYy0Bo-7wcjVKsCWAHCl1bqgI1cFHxb5tU-QFOstOCehxW_1tKvi9CLA==`</details>
+> **参考情報**: 「リサイクルポリエステル100%のAlpenex II™フリース素材で作られており、ウールのようなヘザー調の質感が魅力です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbmxfp5beySCTlL6xLxxbVu6-eUE-aXe5e-CqlnWWnSftq6Za0UaAXrRFmXS9axMWmckezqRLv7gxsmVuZHmIMBIlYy0Bo-7wcjVKsCWAHCl1bqgI1cFHxb5tU-QFOstOCehxW_1tKvi9CLA==`</details>
 
 > **Image Prompt:** アークテリクス Covert Cardigan を着た人がカフェのテラスでくつろいでいる写真。カジュアルでスタイリッシュな雰囲気。
 
@@ -227,7 +227,7 @@ Delta、Kyanite、Covert…カタログ見てもどれが自分に合ってる�
 
 **先生**: その通り。秋の低山ハイキング程度なら問題ないが、稜線で強風に晒されるような場面では別途シェルが必須だ。
 
-**参考情報**: 「However, some reviews note that its high-volume fleece is not particularly dense, making it somewhat wind-permeable and potentially less warm than expected in gusty conditions without additional wind protection.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEN1VwlDjb6SvEw7bdWsGt-pTmEiY9t03ZCsIKydQaB-lWPDcvBmrH5lrjnJXWammEykBnob_FMzAz1w19SE4s8hoC4l5yxSvdCRocbQ6hCKLAd1XSPyMpRNk2UsfHrt0yu8JAQGaVsMVqrNVJFyD5j-5psqNh6NKqDQaiqJz45T2_jSCj2u_TTnHiQ_I4LYu01fBDT9huR1S-4`</details>
+> **参考情報**: 「However, some reviews note that its high-volume fleece is not particularly dense, making it somewhat wind-permeable and potentially less warm than expected in gusty conditions without additional wind protection.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEN1VwlDjb6SvEw7bdWsGt-pTmEiY9t03ZCsIKydQaB-lWPDcvBmrH5lrjnJXWammEykBnob_FMzAz1w19SE4s8hoC4l5yxSvdCRocbQ6hCKLAd1XSPyMpRNk2UsfHrt0yu8JAQGaVsMVqrNVJFyD5j-5psqNh6NKqDQaiqJz45T2_jSCj2u_TTnHiQ_I4LYu01fBDT9huR1S-4`</details>
 
 **JK**: 二つ目は？
 
@@ -249,7 +249,7 @@ Delta、Kyanite、Covert…カタログ見てもどれが自分に合ってる�
 
 **先生**: 自宅でのリモートワークやリラックスタイムにも最適だ。実際、「トレイルで使うにはもったいない」という声もあるくらいだ。
 
-**参考情報**: 「暖かく快適な着心地で、街着や日常使い、軽いアウトドア活動に適していると評価されています。オフィスでの着用や、カジュアルな外出、自宅でのくつろぎ着としても活躍します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC-f3Y_fRpzdjLw_RlaennkjmmpsaW76XMUVo1A7w6GwanbOUDytE8bSFmgQZMlUQ2ly-BUkjrSt2gwMlXpny-ac3tiZbiotAxeVAAOxtzRN12sp8u1ro_cVZ5XozbL3d1hYO4Z-yxWYx0S-0kwK9lrZTr77LXF_46MWbZWp_w1YnLj3MPfKWloOe5kidjrFbUvrPgRjaJ7g=`</details>
+> **参考情報**: 「暖かく快適な着心地で、街着や日常使い、軽いアウトドア活動に適していると評価されています。オフィスでの着用や、カジュアルな外出、自宅でのくつろぎ着としても活躍します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC-f3Y_fRpzdjLw_RlaennkjmmpsaW76XMUVo1A7w6GwanbOUDytE8bSFmgQZMlUQ2ly-BUkjrSt2gwMlXpny-ac3tiZbiotAxeVAAOxtzRN12sp8u1ro_cVZ5XozbL3d1hYO4Z-yxWYx0S-0kwK9lrZTr77LXF_46MWbZWp_w1YnLj3MPfKWloOe5kidjrFbUvrPgRjaJ7g=`</details>
 
 #### 主なスペック
 
@@ -258,7 +258,7 @@ Delta、Kyanite、Covert…カタログ見てもどれが自分に合ってる�
 - **フィット**: レギュラーフィット（ヒップレングス）
 - **価格**: 約$180（日本では約28,000〜35,000円前後）
 
-**参考情報**: 「Weight: Men's: Approximately 1 lb 2.9 oz (535.5 g). Women's: Approximately 420 g (14.8 oz).」「Price: The Arc'teryx Covert Cardigan typically retails for around $180.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1ZiFIGKg-MqMKLqakappvYMoz2IMfJkEDPu0p4VRG4c0E5R8voujrnvEsV6fh2SiNw6qYA9-nayZNQUvjq8sZ9losuJ4fm9KJveYi58bpsAkoFYXCoK5gDUT4wvT4Z1WDGMxEQCnOUM0v6gKsgBIJmyNlAGSpilwaF60=`</details>
+> **参考情報**: 「Weight: Men's: Approximately 1 lb 2.9 oz (535.5 g). Women's: Approximately 420 g (14.8 oz).」「Price: The Arc'teryx Covert Cardigan typically retails for around $180.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1ZiFIGKg-MqMKLqakappvYMoz2IMfJkEDPu0p4VRG4c0E5R8voujrnvEsV6fh2SiNw6qYA9-nayZNQUvjq8sZ9losuJ4fm9KJveYi58bpsAkoFYXCoK5gDUT4wvT4Z1WDGMxEQCnOUM0v6gKsgBIJmyNlAGSpilwaF60=`</details>
 
 #### こんな人におすすめ
 
@@ -353,7 +353,7 @@ Delta、Kyanite、Covert…カタログ見てもどれが自分に合ってる�
 3. **ウエスト**: ウエストの一番細い部分を水平に一周
 4. **ヒップ**: ヒップの一番広い部分を水平に一周
 
-**参考情報**: 「To determine your Arc'teryx fleece size, measure your: Sleeve、Chest/Bust、Waist、Hip.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgEg9B8ZZneFhUNHfQgoEYYbFL83guusiGqupwYlU9peYZqSXaWPCUhua80D9dL7GqnJ-Z5MGnNxiJph1FPM2pP6ANMyjx9FH9MqZ8Io7kap3LXL1UUa5m4DeJEFYJVYSdVA5cDTqwoQ==`</details>
+> **参考情報**: 「To determine your Arc'teryx fleece size, measure your: Sleeve、Chest/Bust、Waist、Hip.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgEg9B8ZZneFhUNHfQgoEYYbFL83guusiGqupwYlU9peYZqSXaWPCUhua80D9dL7GqnJ-Z5MGnNxiJph1FPM2pP6ANMyjx9FH9MqZ8Io7kap3LXL1UUa5m4DeJEFYJVYSdVA5cDTqwoQ==`</details>
 
 **JK**: 測りました。で、どうすれば？
 
@@ -362,13 +362,13 @@ Delta、Kyanite、Covert…カタログ見てもどれが自分に合ってる�
 - **ゆったり着たい・重ね着重視** → サイズアップ
 - **スリムに着たい・単体使用中心** → サイズダウン
 
-**参考情報**: 「If your body measurements fall between two sizes, Arc'teryx recommends selecting a larger size for a looser fit or a smaller size for a tighter fit.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgEg9B8ZZneFhUNHfQgoEYYbFL83guusiGqupwYlU9peYZqSXaWPCUhua80D9dL7GqnJ-Z5MGnNxiJph1FPM2pP6ANMyjx9FH9MqZ8Io7kap3LXL1UUa5m4DeJEFYJVYSdVA5cDTqwoQ==`</details>
+> **参考情報**: 「If your body measurements fall between two sizes, Arc'teryx recommends selecting a larger size for a looser fit or a smaller size for a tighter fit.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgEg9B8ZZneFhUNHfQgoEYYbFL83guusiGqupwYlU9peYZqSXaWPCUhua80D9dL7GqnJ-Z5MGnNxiJph1FPM2pP6ANMyjx9FH9MqZ8Io7kap3LXL1UUa5m4DeJEFYJVYSdVA5cDTqwoQ==`</details>
 
 **JK**: なるほど。でも試着できないのは不安…
 
 **先生**: 可能なら直営店や取扱店で試着するのが一番だ。日本なら東京、大阪、名古屋、札幌、福岡などに店舗がある。
 
-**参考情報**: 「日本全国に多数の直営店および正規取扱店があります。主要都市では、東京（新宿、銀座、原宿、二子玉川など）、大阪、名古屋、札幌、川崎、京都、福岡などに店舗があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgAY69p4_sDXlfkhwa0KoRK7nt1HkPtJFqgcH20_QhTOM1Ngb02lRhKUlzB1oxMZd6P_A2UEikpBrrm8FEBGIbmhc7L-GJ-ZYnOwXJtdbOFhbexAcGr9AEgLQaTcfVsu-XYOmQbt17b_VZtDwSDMDqO3xVM-y_w_Yl8veH339gcKJYBQtkusRj5dGFRpV0_SPJTYYZfYNYXkDdqqWCuPW5-SbmHqE_zZXwCov1oUVwDhCVUlso2_HnpYJobi4=`</details>
+> **参考情報**: 「日本全国に多数の直営店および正規取扱店があります。主要都市では、東京（新宿、銀座、原宿、二子玉川など）、大阪、名古屋、札幌、川崎、京都、福岡などに店舗があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgAY69p4_sDXlfkhwa0KoRK7nt1HkPtJFqgcH20_QhTOM1Ngb02lRhKUlzB1oxMZd6P_A2UEikpBrrm8FEBGIbmhc7L-GJ-ZYnOwXJtdbOFhbexAcGr9AEgLQaTcfVsu-XYOmQbt17b_VZtDwSDMDqO3xVM-y_w_Yl8veH339gcKJYBQtkusRj5dGFRpV0_SPJTYYZfYNYXkDdqqWCuPW5-SbmHqE_zZXwCov1oUVwDhCVUlso2_HnpYJobi4=`</details>
 
 **JK**: オンラインで買うなら返品可能なところで買った方がいいですね。
 
@@ -393,7 +393,7 @@ Delta、Kyanite、Covert…カタログ見てもどれが自分に合ってる�
 5. **すすぎ**: 2回以上（洗剤残りは機能低下の原因）。
 6. **乾燥**: 中温で40〜50分乾燥機にかけると撥水性が回復する。ただし熱に弱いので低温推奨。または陰干し。
 
-**参考情報**: 「準備: ウェアのジッパーはすべて閉め、ポケットのジッパーは開けて、中身を取り出します。…洗濯表示を確認し、適切な水温と洗濯コースを選択します。多くのミッドレイヤーは30°Cまたは40°Cの低温で洗濯可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFu5Rq-AZcBWgwV0OJ9chwuzOSADDyN2TbE8QswigIHfrB4XGNAXgsoiiKU0MznPk6NVYaar1va146uudHY8vFOmXLI50gnLedr2MtB3ysiSfCkD6aiz_V7obO_NNe4-KvgEtHiDzI5N9LFn7iiXApQ`</details>
+> **参考情報**: 「準備: ウェアのジッパーはすべて閉め、ポケットのジッパーは開けて、中身を取り出します。…洗濯表示を確認し、適切な水温と洗濯コースを選択します。多くのミッドレイヤーは30°Cまたは40°Cの低温で洗濯可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFu5Rq-AZcBWgwV0OJ9chwuzOSADDyN2TbE8QswigIHfrB4XGNAXgsoiiKU0MznPk6NVYaar1va146uudHY8vFOmXLI50gnLedr2MtB3ysiSfCkD6aiz_V7obO_NNe4-KvgEtHiDzI5N9LFn7iiXApQ`</details>
 
 **JK**: 柔軟剤ダメなんですね！知らなかった。
 
@@ -419,7 +419,7 @@ Delta、Kyanite、Covert…カタログ見てもどれが自分に合ってる�
 2. **直営店・正規取扱店**: 試着できるのが最大のメリット。スタッフのアドバイスも受けられる。
 3. **大手 EC サイト（楽天・Amazon など）**: ポイント還元があるが、並行輸入品には注意。
 
-**参考情報**: 「日本でアークテリクスのフリースは、公式オンラインストア、実店舗、および複数のオンライン小売店で購入可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgAY69p4_sDXlfkhwa0KoRK7nt1HkPtJFqgcH20_QhTOM1Ngb02lRhKUlzB1oxMZd6P_A2UEikpBrrm8FEBGIbmhc7L-GJ-ZYnOwXJtdbOFhbexAcGr9AEgLQaTcfVsu-XYOmQbt17b_VZtDwSDMDqO3xVM-y_w_Yl8veH339gcKJYBQtkusRj5dGFRpV0_SPJTYYZfYNYXkDdqqWCuPW5-SbmHqE_zZXwCov1oUVwDhCVUlso2_HnpYJobi4=`</details>
+> **参考情報**: 「日本でアークテリクスのフリースは、公式オンラインストア、実店舗、および複数のオンライン小売店で購入可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgAY69p4_sDXlfkhwa0KoRK7nt1HkPtJFqgcH20_QhTOM1Ngb02lRhKUlzB1oxMZd6P_A2UEikpBrrm8FEBGIbmhc7L-GJ-ZYnOwXJtdbOFhbexAcGr9AEgLQaTcfVsu-XYOmQbt17b_VZtDwSDMDqO3xVM-y_w_Yl8veH339gcKJYBQtkusRj5dGFRpV0_SPJTYYZfYNYXkDdqqWCuPW5-SbmHqE_zZXwCov1oUVwDhCVUlso2_HnpYJobi4=`</details>
 
 **JK**: 並行輸入品って何が問題なんですか？
 
@@ -495,7 +495,7 @@ Delta、Kyanite、Covert…カタログ見てもどれが自分に合ってる�
 
 **先生**: 乾燥機で中温40〜50分かけると復活することが多い。それでもダメなら撥水スプレーを使う。
 
-**参考情報**: 「湿ったウェアを乾燥機に入れ、中温（標準温度）で40〜50分間乾燥させると、DWR加工の撥水性が回復します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFu5Rq-AZcBWgwV0OJ9chwuzOSADDyN2TbE8QswigIHfrB4XGNAXgsoiiKU0MznPk6NVYaar1va146uudHY8vFOmXLI50gnLedr2MtB3ysiSfCkD6aiz_V7obO_NNe4-KvgEtHiDzI5N9LFn7iiXApQ`</details>
+> **参考情報**: 「湿ったウェアを乾燥機に入れ、中温（標準温度）で40〜50分間乾燥させると、DWR加工の撥水性が回復します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFu5Rq-AZcBWgwV0OJ9chwuzOSADDyN2TbE8QswigIHfrB4XGNAXgsoiiKU0MznPk6NVYaar1va146uudHY8vFOmXLI50gnLedr2MtB3ysiSfCkD6aiz_V7obO_NNe4-KvgEtHiDzI5N9LFn7iiXApQ`</details>
 
 ### Q5: 他ブランドのフリースと比べてどうですか？
 

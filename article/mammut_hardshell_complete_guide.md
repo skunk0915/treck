@@ -42,7 +42,7 @@ Tags: Hardshell, Guide
 
 **先生**: よく知っているな。マムートはスイスで1862年に創業したブランドだ。元々はロープメーカーで、そこから160年以上かけてクライミングギアやアパレルに事業を広げてきた。
 
-**参考情報**: 「マムートは1862年にスイスでロープメーカーとして創業し、160年以上の歴史を持つアウトドアブランドです。」<details><summary>出典</summary>`https://prtimes.jp/main/html/rd/p/000000116.000021531.html`</details>
+> **参考情報**: 「マムートは1862年にスイスでロープメーカーとして創業し、160年以上の歴史を持つアウトドアブランドです。」<details><summary>出典</summary>`https://prtimes.jp/main/html/rd/p/000000116.000021531.html`</details>
 
 **JK**: ロープ屋さんがジャケット作ってるんですか！なんかすごい転身ですね。
 
@@ -64,7 +64,7 @@ Tags: Hardshell, Guide
 
 **先生**: ああ。ハードシェルは生地が厚手で丈夫だから、岩や氷、アイゼンとの接触による摩耗にも強いんだ。雪山で滑落した時に、生地の摩擦で滑り落ちる勢いを減らす効果もある。
 
-**参考情報**: 「ハードシェルはより厳しい気象条件、特に雪山登山やアルパインクライミングなどでの使用を想定して作られています。生地は一般的に厚手で丈夫であり、岩や氷、アイゼンなどとの接触による摩耗に強く、高い耐久性を持ちます。」<details><summary>出典</summary>`https://mountgearhub044.com/hardshell-compare/`</details>
+> **参考情報**: 「ハードシェルはより厳しい気象条件、特に雪山登山やアルパインクライミングなどでの使用を想定して作られています。生地は一般的に厚手で丈夫であり、岩や氷、アイゼンなどとの接触による摩耗に強く、高い耐久性を持ちます。」<details><summary>出典</summary>`https://mountgearhub044.com/hardshell-compare/`</details>
 
 **JK**: えっ、滑落した時のことまで考えてるんですか…。
 
@@ -98,7 +98,7 @@ Tags: Hardshell, Guide
 
 **先生**: 汗が蒸発して水蒸気になると、分子サイズが水滴よりずっと小さくなる。だから孔を通り抜けられるんだ。
 
-**参考情報**: 「GORE-TEXの核となるのは「GORE-TEXメンブレン」と呼ばれる極薄の膜です。このメンブレンには、水滴が通過できないほど小さく、水蒸気分子よりは大きい微細な孔が無数に開いています。」<details><summary>出典</summary>`https://www.descente.co.jp/brand/descente/technology/gore-tex/`</details>
+> **参考情報**: 「GORE-TEXの核となるのは「GORE-TEXメンブレン」と呼ばれる極薄の膜です。このメンブレンには、水滴が通過できないほど小さく、水蒸気分子よりは大きい微細な孔が無数に開いています。」<details><summary>出典</summary>`https://www.descente.co.jp/brand/descente/technology/gore-tex/`</details>
 
 **JK**: へぇ〜！科学ってすごいですね！
 
@@ -118,7 +118,7 @@ Tags: Hardshell, Guide
 
 **先生**: ああ。3層構造で表地・メンブレン・裏地がすべて貼り合わされているから、とにかく頑丈だ。マムートのNordwandシリーズがこれを採用している。
 
-**参考情報**: 「GORE-TEX Proは、GORE-TEXの中でも最高レベルの耐久性、防水性、透湿性、防風性を兼ね備えたハイスペック素材です。過酷なアウトドア環境や本格的な登山、クライミングなど、極限条件下での使用を想定して設計されています。」<details><summary>出典</summary>`https://yamahack.com/6285`</details>
+> **参考情報**: 「GORE-TEX Proは、GORE-TEXの中でも最高レベルの耐久性、防水性、透湿性、防風性を兼ね備えたハイスペック素材です。過酷なアウトドア環境や本格的な登山、クライミングなど、極限条件下での使用を想定して設計されています。」<details><summary>出典</summary>`https://yamahack.com/6285`</details>
 
 #### GORE-TEX PACLITE（ゴアテックス パックライト）
 
@@ -132,7 +132,7 @@ Tags: Hardshell, Guide
 
 **先生**: 正直に言えば、3層に比べれば耐久性は劣る。でも日帰りハイキングや急な天候変化への備えとしては十分だ。何より**ザックにポンと入れておける気軽さ**は魅力だな。
 
-**参考情報**: 「GORE-TEX PACLITEは、軽量性、コンパクトな収納性、携行性を重視した素材です。旅行や日常使い、日帰り登山など、急な天候変化に対応するためのバックアップシェルとして適しています。」<details><summary>出典</summary>`https://yamachizu.jp/goretex-kinds/`</details>
+> **参考情報**: 「GORE-TEX PACLITEは、軽量性、コンパクトな収納性、携行性を重視した素材です。旅行や日常使い、日帰り登山など、急な天候変化に対応するためのバックアップシェルとして適しています。」<details><summary>出典</summary>`https://yamachizu.jp/goretex-kinds/`</details>
 
 #### 通常のGORE-TEX（2層/3層）
 
@@ -161,7 +161,7 @@ Tags: Hardshell, Guide
 
 **先生**: 汗をかくとメンブレンのコーティング面が肌にペタッとくることがある。だから2.5層のジャケットを着る時は、長袖のベースレイヤーを中に着るのがおすすめだ。
 
-**参考情報**: 「GORE-TEX Paclite素材は直接肌に触れると汗でべたつく可能性があるため、長袖の着用が推奨されています。」<details><summary>出典</summary>`https://climbtrip.net/mammut-convey-tour-hs-hooded-jacket/`</details>
+> **参考情報**: 「GORE-TEX Paclite素材は直接肌に触れると汗でべたつく可能性があるため、長袖の着用が推奨されています。」<details><summary>出典</summary>`https://climbtrip.net/mammut-convey-tour-hs-hooded-jacket/`</details>
 
 ---
 
@@ -187,7 +187,7 @@ Tags: Hardshell, Guide
 - **重量**: 約300g〜336g
 - **価格**: 37,400円（税込）
 
-**参考情報**: 「Convey Tour HS Hooded Jacketは、軽量でパッカブルなGORE-TEX PACLITE® 2.5レイヤー素材を使用したハードシェルジャケットです。ハイキングやトレッキングでの使用を想定しており、優れた防水性と透湿性を提供します。」<details><summary>出典</summary>`https://www.mammut.jp/products/detail/1010-28452`</details>
+> **参考情報**: 「Convey Tour HS Hooded Jacketは、軽量でパッカブルなGORE-TEX PACLITE® 2.5レイヤー素材を使用したハードシェルジャケットです。ハイキングやトレッキングでの使用を想定しており、優れた防水性と透湿性を提供します。」<details><summary>出典</summary>`https://www.mammut.jp/products/detail/1010-28452`</details>
 
 **JK**: 3万円台なら、マムートの中では買いやすい方ですよね？
 
@@ -245,7 +245,7 @@ Tags: Hardshell, Guide
 
 **先生**: わかるぞ。でもAyako Proは**シンプルで洗練されたデザイン**だから、普段の通勤や買い物にも使える。マムート独自のカラーリングもおしゃれだしな。
 
-**参考情報**: 「アウトドアギアとしての高い機能性はもちろんのこと、洗練されたデザインは街着としても違和感がなく、幅広いシーンで着用できます。」<details><summary>出典</summary>`https://kyokotoba.com/mammut-ayako-pro/`</details>
+> **参考情報**: 「アウトドアギアとしての高い機能性はもちろんのこと、洗練されたデザインは街着としても違和感がなく、幅広いシーンで着用できます。」<details><summary>出典</summary>`https://kyokotoba.com/mammut-ayako-pro/`</details>
 
 ### 主なスペック
 
@@ -285,7 +285,7 @@ Tags: Hardshell, Guide
 
 **先生**: いい感性だな。安いゴアテックス製品だと確かにそういうのがある。でもAyako Proは**しなやかで肌触りがいい**と評判だ。ゴワつきも少ない。
 
-**参考情報**: 「GORE-TEX素材特有のシャカシャカとした音やごわつきが少なく、しなやかな肌触りが特徴です。」<details><summary>出典</summary>`https://kyokotoba.com/mammut-ayako-pro/`</details>
+> **参考情報**: 「GORE-TEX素材特有のシャカシャカとした音やごわつきが少なく、しなやかな肌触りが特徴です。」<details><summary>出典</summary>`https://kyokotoba.com/mammut-ayako-pro/`</details>
 
 **JK**: へぇ〜！じゃあ電車の中でもシャカシャカ鳴らなくて済みますね。
 
@@ -329,7 +329,7 @@ Tags: Hardshell, Guide
 
 **先生**: Eiger Extremeは1995年に初代が登場し、2025年で誕生30周年を迎えた。5年ごとにフルモデルチェンジを行い、常に最新技術を取り入れている。
 
-**参考情報**: 「Eiger Extremeコレクションは、1995年に初代が登場し、2025年には誕生30周年を迎えました。そして2025年10月2日には、5年ぶりのフルモデルチェンジとなる第6世代が発売されました。」<details><summary>出典</summary>`https://www.mammut.jp/feature/eiger-extreme/`</details>
+> **参考情報**: 「Eiger Extremeコレクションは、1995年に初代が登場し、2025年には誕生30周年を迎えました。そして2025年10月2日には、5年ぶりのフルモデルチェンジとなる第6世代が発売されました。」<details><summary>出典</summary>`https://www.mammut.jp/feature/eiger-extreme/`</details>
 
 **JK**: 30年も続いてるんですか！
 
@@ -350,7 +350,7 @@ Tags: Hardshell, Guide
 
 **先生**: 正直に言って高い。だが性能を考えれば納得できる価格だ。2024年のISPOアワードも受賞している。
 
-**参考情報**: 「MAMMUT Eiger Nordwand Pro HS GORE-TEX Proジャケットは、その卓越した耐久性、優れた耐候性、快適性、そして極限状況に対応する豊富な機能が高く評価されています。2024年のISPOアワードを受賞しています。」<details><summary>出典</summary>`https://www.outdoorgearlab.com/reviews/clothing-mens/hardshell-jacket/mammut-nordwand-pro-hs-hooded`</details>
+> **参考情報**: 「MAMMUT Eiger Nordwand Pro HS GORE-TEX Proジャケットは、その卓越した耐久性、優れた耐候性、快適性、そして極限状況に対応する豊富な機能が高く評価されています。2024年のISPOアワードを受賞しています。」<details><summary>出典</summary>`https://www.outdoorgearlab.com/reviews/clothing-mens/hardshell-jacket/mammut-nordwand-pro-hs-hooded`</details>
 
 ### 極限を生き抜くための機能
 
@@ -461,7 +461,7 @@ Tags: Hardshell, Guide
 
 **先生**: ああ。ヨーロッパサイズは**日本サイズより大きめ**に作られていることが多い。例えば、日本でMサイズを着ている人なら、マムートではSサイズを選ぶとちょうどいいことがある。
 
-**参考情報**: 「マムートのヨーロッパサイズは、日本の一般的なサイズよりもやや大きめに作られています。そのため、通常日本で着用しているサイズよりもワンサイズ下を選ぶことが推奨される場合があります。」<details><summary>出典</summary>`https://nap-camp.com/mammut-size/`</details>
+> **参考情報**: 「マムートのヨーロッパサイズは、日本の一般的なサイズよりもやや大きめに作られています。そのため、通常日本で着用しているサイズよりもワンサイズ下を選ぶことが推奨される場合があります。」<details><summary>出典</summary>`https://nap-camp.com/mammut-size/`</details>
 
 ### アジアンフィット（AF）モデルを狙え
 
@@ -512,7 +512,7 @@ Tags: Hardshell, Guide
 
 **先生**: ダメだ。柔軟剤や漂白剤はGORE-TEXメンブレンを傷つけて、防水・透湿性能を低下させる。これは絶対覚えておいてくれ。
 
-**参考情報**: 「粉末洗剤、柔軟剤、漂白剤、染み抜き剤は使用しないでください。これらはGORE-TEXメンブレンを傷つけ、性能を低下させる可能性があります。」<details><summary>出典</summary>`https://www.gore-tex.com/jp/support/care`</details>
+> **参考情報**: 「粉末洗剤、柔軟剤、漂白剤、染み抜き剤は使用しないでください。これらはGORE-TEXメンブレンを傷つけ、性能を低下させる可能性があります。」<details><summary>出典</summary>`https://www.gore-tex.com/jp/support/care`</details>
 
 #### 洗濯機の設定
 - 洗濯ネットに入れる
@@ -531,7 +531,7 @@ Tags: Hardshell, Guide
 - 完全に乾燥した後、**中温で20～40分**タンブル乾燥にかける
 - これで表面の撥水加工（DWR）が再活性化される
 
-**参考情報**: 「完全に乾いた後、中温（または温風）で20分から40分程度タンブル乾燥にかけることで、生地表面の耐久撥水加工（DWR）が再活性化され、撥水性が回復します。」<details><summary>出典</summary>`https://www.gore-tex.com/jp/support/care`</details>
+> **参考情報**: 「完全に乾いた後、中温（または温風）で20分から40分程度タンブル乾燥にかけることで、生地表面の耐久撥水加工（DWR）が再活性化され、撥水性が回復します。」<details><summary>出典</summary>`https://www.gore-tex.com/jp/support/care`</details>
 
 #### アイロンを使う場合
 - 乾燥機がない場合は、**スチームなし・低温**のアイロン
@@ -565,7 +565,7 @@ Tags: Hardshell, Guide
 
 **先生**: ああ。マムートは逆に**「わかる人にはわかる」ブランド**という側面がある。マンモスのロゴを見て「あ、ガチの人だ」と思う登山者は多いぞ。
 
-**参考情報**: 「マムートはスイス発祥のマムートは、クライミングロープの製造から始まったブランドで、ウェアだけでなくクライミングギア全体で高い評価を得ています。機能性の高さに加え、洗練された無駄のないデザインも人気の理由です。」<details><summary>出典</summary>`https://mountgearhub044.com/hardshell-compare/`</details>
+> **参考情報**: 「マムートはスイス発祥のマムートは、クライミングロープの製造から始まったブランドで、ウェアだけでなくクライミングギア全体で高い評価を得ています。機能性の高さに加え、洗練された無駄のないデザインも人気の理由です。」<details><summary>出典</summary>`https://mountgearhub044.com/hardshell-compare/`</details>
 
 ### マムートの立ち位置
 
@@ -597,7 +597,7 @@ Tags: Hardshell, Guide
 
 **先生**: 使い方次第だが、**5年〜10年**は使えることが多いな。マムートのハードシェルは特に耐久性が高いと評判だ。
 
-**参考情報**: 「実際に使用しているユーザーからは、「ヘタれない、こすれても破れない、毛玉がつかない」といった声が聞かれ、何度も洗濯しても品質が維持されることが報告されています。」<details><summary>出典</summary>`https://live-your-life3.com/mammut-hardshell-review/`</details>
+> **参考情報**: 「実際に使用しているユーザーからは、「ヘタれない、こすれても破れない、毛玉がつかない」といった声が聞かれ、何度も洗濯しても品質が維持されることが報告されています。」<details><summary>出典</summary>`https://live-your-life3.com/mammut-hardshell-review/`</details>
 
 **JK**: 10年も！？それなら高くても元が取れそうですね。
 

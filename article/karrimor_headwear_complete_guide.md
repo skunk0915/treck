@@ -72,7 +72,7 @@ Tags: Headwear, Guide
 
 **先生**: はは、見た目は確かに実用一辺倒だ。だが、南アルプス縦走で使った人のレビューでは「これのおかげで顔や耳が全く焼けなかった」と絶賛されている。機能美を理解できる人向きだな。
 
-**参考情報**: 「ツバが広く、スダレと合わせてUVプロテクション効果が高いため、顔や耳の日焼けをしっかりと防いでくれる。南アルプスの縦走で使用して効果を実感した」\u003cdetails\u003e\u003csummary\u003e出典\u003c/summary\u003e`https://review.rakuten.co.jp/item/1/303845_10001000/1.1/`\u003c/details\u003e
+> **参考情報**: 「ツバが広く、スダレと合わせてUVプロテクション効果が高いため、顔や耳の日焼けをしっかりと防いでくれる。南アルプスの縦走で使用して効果を実感した」\u003cdetails\u003e\u003csummary\u003e出典\u003c/summary\u003e`https://review.rakuten.co.jp/item/1/303845_10001000/1.1/`\u003c/details\u003e
 
 **JK**: うーん、機能は認めますけど…私には勇気がいるかも。
 
@@ -113,7 +113,7 @@ Tags: Headwear, Guide
 - 遮熱効果は環境により変動
 - 価格がやや高め
 
-**参考情報**: 「真夏の直射日光を再現した実験では、遮熱シートがない帽子に比べて内部の温度を約8℃下げる効果が確認されています」\u003cdetails\u003e\u003csummary\u003e出典\u003c/summary\u003e`https://www.karrimor.jp/c/cap/thermo_shield_cap`\u003c/details\u003e
+> **参考情報**: 「真夏の直射日光を再現した実験では、遮熱シートがない帽子に比べて内部の温度を約8℃下げる効果が確認されています」\u003cdetails\u003e\u003csummary\u003e出典\u003c/summary\u003e`https://www.karrimor.jp/c/cap/thermo_shield_cap`\u003c/details\u003e
 
 **JK**: でも、8℃も本当に下がるんですかね？体感できます？
 
@@ -183,7 +183,7 @@ Tags: Headwear, Guide
 - 通常のハットより価格が高め
 - 夏の暑い時期には蒸れる可能性
 
-**参考情報**: 「WTX™素材は、表面に撥水加工が施され、中間層に特殊なポリウレタン膜を使用することで、雪や雨の侵入を防ぎながら、内部の湿気を排出してムレを解消する特徴を持っています」\u003cdetails\u003e\u003csummary\u003e出典\u003c/summary\u003e`https://www.karrimor.jp/c/rainwear/wtx_lt_rain_hat`\u003c/details\u003e
+> **参考情報**: 「WTX™素材は、表面に撥水加工が施され、中間層に特殊なポリウレタン膜を使用することで、雪や雨の侵入を防ぎながら、内部の湿気を排出してムレを解消する特徴を持っています」\u003cdetails\u003e\u003csummary\u003e出典\u003c/summary\u003e`https://www.karrimor.jp/c/rainwear/wtx_lt_rain_hat`\u003c/details\u003e
 
 **JK**: これ、普通のレインハットと何が違うんですか？
 
@@ -205,7 +205,7 @@ Tags: Headwear, Guide
 
 **先生**: そうだ。ベント部分には「コア」という構造があって、着用時も通気口が開いた状態を保つ。フローキャップは側面と後頭部に大きな通気口があって、熱を効率的に逃がす設計になっている。
 
-**参考情報**: 「前方から空気を取り込み、内部を循環させ熱を排出する機能。ベント部分にコア構造があり、着用時も通気口が開く」\u003cdetails\u003e\u003csummary\u003e出典\u003c/summary\u003e`https://digitalpr.jp/r/68944`\u003c/details\u003e
+> **参考情報**: 「前方から空気を取り込み、内部を循環させ熱を排出する機能。ベント部分にコア構造があり、着用時も通気口が開く」\u003cdetails\u003e\u003csummary\u003e出典\u003c/summary\u003e`https://digitalpr.jp/r/68944`\u003c/details\u003e
 
 **JK**: それって夏のトレッキングに良さそうですね。
 
@@ -241,7 +241,7 @@ Tags: Headwear, Guide
 - つばが短めで日除け効果は控えめ
 - 強風時は飛ばされやすい
 
-**参考情報**: 「ユーザーから軽い感じ、通気性の良さ、汎用性の高いデザインが高評価」\u003cdetails\u003e\u003csummary\u003e出典\u003c/summary\u003e`https://www.shopstaff.jp/brand/karrimor/rc-cool-cap`\u003c/details\u003e
+> **参考情報**: 「ユーザーから軽い感じ、通気性の良さ、汎用性の高いデザインが高評価」\u003cdetails\u003e\u003csummary\u003e出典\u003c/summary\u003e`https://www.shopstaff.jp/brand/karrimor/rc-cool-cap`\u003c/details\u003e
 
 **JK**: これならタウンユースもできそうですね。
 
@@ -280,7 +280,7 @@ Tags: Headwear, Guide
 - 厳冬期の長時間行動には保温不足の可能性
 - 洗濯時に縮む可能性（要確認）
 
-**参考情報**: 「薄手ながら優れた保温性を持つニット帽で、内側にはPOLARTEC® Microフリースがライニング。冬山登山でも十分な暖かさを提供し、ヘルメットの下に着用することも可能」\u003cdetails\u003e\u003csummary\u003e出典\u003c/summary\u003e`https://www.maededeuschurch.com/karrimor-waffle-beanie-review`\u003c/details\u003e
+> **参考情報**: 「薄手ながら優れた保温性を持つニット帽で、内側にはPOLARTEC® Microフリースがライニング。冬山登山でも十分な暖かさを提供し、ヘルメットの下に着用することも可能」\u003cdetails\u003e\u003csummary\u003e出典\u003c/summary\u003e`https://www.maededeuschurch.com/karrimor-waffle-beanie-review`\u003c/details\u003e
 
 **JK**: ヘルメットかぶる時って、普通のニット帽じゃダメなんですか？
 
@@ -300,7 +300,7 @@ Tags: Headwear, Guide
 
 **先生**: 特に「heavy wool beanie」は、「エアヤーン」という特殊技術で紡績したウールを二重に編み立てていて、保温性がさらに高い。厳冬期の登山にも対応できるレベルだ。
 
-**参考情報**: 「特に「heavy wool beanie」は、特殊技術「エアヤーン」で紡績されたウールを二重に編み立てており、高い保温性を提供」\u003cdetails\u003e\u003csummary\u003e出典\u003c/summary\u003e`https://digitalpr.jp/r/wool-beanie-2023`\u003c/details\u003e
+> **参考情報**: 「特に「heavy wool beanie」は、特殊技術「エアヤーン」で紡績されたウールを二重に編み立てており、高い保温性を提供」\u003cdetails\u003e\u003csummary\u003e出典\u003c/summary\u003e`https://digitalpr.jp/r/wool-beanie-2023`\u003c/details\u003e
 
 **JK**: ウールって洗濯大変じゃないですか？
 
@@ -360,9 +360,9 @@ Tags: Headwear, Guide
 
 **先生**: モデルによって異なる。必ず製品の洗濯表示を確認することが大前提だが、一般的には手洗い推奨だ。
 
-**参考情報**: 「帰宅後は、洋服ブラシや帽子用ブラシでブラッシングし、ほこりを取り除きます」\u003cdetails\u003e\u003csummary\u003e出典\u003c/summary\u003e`https://www.tanaka-hat.jp/maintenance`\u003c/details\u003e
+> **参考情報**: 「帰宅後は、洋服ブラシや帽子用ブラシでブラッシングし、ほこりを取り除きます」\u003cdetails\u003e\u003csummary\u003e出典\u003c/summary\u003e`https://www.tanaka-hat.jp/maintenance`\u003c/details\u003e
 
-**参考情報**: 「ぬるま湯に中性洗剤を溶かし、優しく押し洗いします。汗染みなどの部分的な汚れには、固く絞ったタオルに洗剤を含ませて叩くようにして汚れをたたき出す方法があります」\u003cdetails\u003e\u003csummary\u003e出典\u003c/summary\u003e`https://www.kao-kirei.com/hat-washing`\u003c/details\u003e
+> **参考情報**: 「ぬるま湯に中性洗剤を溶かし、優しく押し洗いします。汗染みなどの部分的な汚れには、固く絞ったタオルに洗剤を含ませて叩くようにして汚れをたたき出す方法があります」\u003cdetails\u003e\u003csummary\u003e出典\u003c/summary\u003e`https://www.kao-kirei.com/hat-washing`\u003c/details\u003e
 
 **先生**: 日常的には、帰宅後にブラッシングでほこりを落とす。汗止めテープ部分は消臭・除菌スプレーを軽く使うといい。洗濯機は型崩れの原因になるから避けるべきだ。
 
@@ -370,7 +370,7 @@ Tags: Headwear, Guide
 
 **先生**: 面倒だが、帽子は型崩れすると見た目も機能も落ちる。特にツバの形状が崩れると視界確保に影響する。洗った後は形を整えて、風通しの良い日陰で平干しか吊り干しだ。
 
-**参考情報**: 「洗濯後は、形を整えてから、風通しの良い日陰で平干しまたは吊り干しで乾燥させます。ドライヤーでの急激な乾燥は、変形や傷みの原因となるため避けてください」\u003cdetails\u003e\u003csummary\u003e出典\u003c/summary\u003e`https://www.tanaka-hat.jp/maintenance`\u003c/details\u003e
+> **参考情報**: 「洗濯後は、形を整えてから、風通しの良い日陰で平干しまたは吊り干しで乾燥させます。ドライヤーでの急激な乾燥は、変形や傷みの原因となるため避けてください」\u003cdetails\u003e\u003csummary\u003e出典\u003c/summary\u003e`https://www.tanaka-hat.jp/maintenance`\u003c/details\u003e
 
 **JK**: 保管はどうすればいいんですか？
 
@@ -402,7 +402,7 @@ Tags: Headwear, Guide
 
 **先生**: 実験データでは約8℃の差が確認されているが、環境や個人差がある。ユーザーレビューでは「確かに涼しい」という声が多いが、魔法のように涼しくなるわけではない。あくまで通常の帽子よりも遮熱効果が高いと考えるべきだ。
 
-**参考情報**: 「真夏の直射日光を再現した実験では、遮熱シートがない帽子に比べて内部の温度を約8℃下げる効果が確認されています」\u003cdetails\u003e\u003csummary\u003e出典\u003c/summary\u003e`https://www.karrimor.jp/c/cap/thermo_shield_cap`\u003c/details\u003e
+> **参考情報**: 「真夏の直射日光を再現した実験では、遮熱シートがない帽子に比べて内部の温度を約8℃下げる効果が確認されています」\u003cdetails\u003e\u003csummary\u003e出典\u003c/summary\u003e`https://www.karrimor.jp/c/cap/thermo_shield_cap`\u003c/details\u003e
 
 ### Q4: ビーニーはヘルメットの下に着用できる？
 

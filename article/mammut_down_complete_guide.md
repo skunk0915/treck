@@ -59,7 +59,7 @@ Tags: Down, Guide
 
 **先生**: ダウンは空気を閉じ込めることで暖かさを生み出す。よくふくらむダウンほど、たくさんの空気を閉じ込められる。つまり、**同じ重さなら、フィルパワーが高いほど暖かい**ということだ。
 
-**参考情報**: 「フィルパワーの数値が高いほど、より多くの空気を閉じ込めることができ、保温性が向上します。高フィルパワーのダウンは、同じ暖かさを保ちながら、より軽量でコンパクトに収納できます」<details><summary>出典</summary>`https://ja.wikipedia.org/wiki/フィルパワー`</details>
+> **参考情報**: 「フィルパワーの数値が高いほど、より多くの空気を閉じ込めることができ、保温性が向上します。高フィルパワーのダウンは、同じ暖かさを保ちながら、より軽量でコンパクトに収納できます」<details><summary>出典</summary>`https://ja.wikipedia.org/wiki/フィルパワー`</details>
 
 **JK**: じゃあ、900フィルパワーのやつ買えば最強じゃないですか！
 
@@ -101,7 +101,7 @@ Tags: Down, Guide
 
 2. **防水表地＋シームテープ**: 表地にPertex Shieldなどの防水透湿素材を使い、さらにシームテープで補強。ダウンへの水の侵入を防ぐ。
 
-**参考情報**: 「ダウン自体に撥水加工（例：Nikwax社のPFCフリー撥水加工）が施されており、従来のダウンと比較して90%の吸水率低減、30%速い乾燥を実現しています」<details><summary>出典</summary>`https://www.mammut.com/jp/ja`</details>
+> **参考情報**: 「ダウン自体に撥水加工（例：Nikwax社のPFCフリー撥水加工）が施されており、従来のダウンと比較して90%の吸水率低減、30%速い乾燥を実現しています」<details><summary>出典</summary>`https://www.mammut.com/jp/ja`</details>
 
 **JK**: へー！じゃあ雪がついても大丈夫ってこと？
 
@@ -131,7 +131,7 @@ Tags: Down, Guide
 
 **先生**: まず、**800フィルパワー**のグースダウンを115g使用している。800FPというのは超高品質に分類される。
 
-**参考情報**: 「重量は約380gで、800フィルパワーの責任ある調達に基づいた疎水性グースダウン115gを封入」<details><summary>出典</summary>`https://www.mammut.jp/item/mammut_1013-01830`</details>
+> **参考情報**: 「重量は約380gで、800フィルパワーの責任ある調達に基づいた疎水性グースダウン115gを封入」<details><summary>出典</summary>`https://www.mammut.jp/item/mammut_1013-01830`</details>
 
 **JK**: 115gって少なくないですか？
 
@@ -165,7 +165,7 @@ Tags: Down, Guide
 
 **先生**: 評判はかなりいい。特に「軽いのに暖かい」という声が多い。
 
-**参考情報**: 「超軽量で暖かく、極寒から温暖まであらゆる条件に最適」<details><summary>出典</summary>`https://viranomainen.fi/mammut-broad-peak-review`</details>
+> **参考情報**: 「超軽量で暖かく、極寒から温暖まであらゆる条件に最適」<details><summary>出典</summary>`https://viranomainen.fi/mammut-broad-peak-review`</details>
 
 **JK**: デメリットはないんですか？完璧すぎて逆に怪しいんですけど。
 
@@ -206,7 +206,7 @@ Tags: Down, Guide
 
 **先生**: ロッククライミングや氷壁登攀で、パートナーを確保している間に着る防寒着のことだ。じっと動かないから体が冷える。そこで、ハードシェルの**上から**サッと羽織れる保温着が必要になる。
 
-**参考情報**: 「氷点下でのビレイ、ビバーク、スキー滑走に不可欠な、ハードシェルの上から着用することを想定したダウンジャケット」<details><summary>出典</summary>`https://www.mammut.jp/taiss-pro-belay`</details>
+> **参考情報**: 「氷点下でのビレイ、ビバーク、スキー滑走に不可欠な、ハードシェルの上から着用することを想定したダウンジャケット」<details><summary>出典</summary>`https://www.mammut.jp/taiss-pro-belay`</details>
 
 ### Taiss Pro INの特徴
 
@@ -277,7 +277,7 @@ Tags: Down, Guide
 
 **先生**: **900フィルパワー**のダウンを使っている。これはマムートのラインナップでも最高レベルだ。
 
-**参考情報**: 「責任ある調達に基づく900フィルパワーのDRY DOWNと、湿りやすい部位に配置されたリサイクルG-LOFT® ECO EVOX化繊インサレーションを採用」<details><summary>出典</summary>`https://www.mammut.jp/eiger-nordwand-light-down`</details>
+> **参考情報**: 「責任ある調達に基づく900フィルパワーのDRY DOWNと、湿りやすい部位に配置されたリサイクルG-LOFT® ECO EVOX化繊インサレーションを採用」<details><summary>出典</summary>`https://www.mammut.jp/eiger-nordwand-light-down`</details>
 
 ### Eiger Nordwand Light Down INの特徴
 
@@ -348,7 +348,7 @@ Tags: Down, Guide
 
 これで**3つの使い方**ができる。
 
-**参考情報**: 「街着としてもハマる万能さ」「ベーシックなデザインは登山から日常使いまで対応します」<details><summary>出典</summary>`https://www.mammut.jp/convey-3in1`</details>
+> **参考情報**: 「街着としてもハマる万能さ」「ベーシックなデザインは登山から日常使いまで対応します」<details><summary>出典</summary>`https://www.mammut.jp/convey-3in1`</details>
 
 ### Convey 3 in 1の特徴
 
@@ -458,7 +458,7 @@ Tags: Down, Guide
 
 **先生**: まず、洗濯表示を必ず確認すること。マムートのダウンは基本的に自宅洗い可能だ。
 
-**参考情報**: 「洗濯機を使用する場合は、できるだけ低温（30℃程度が理想的）で、優しい洗濯コースを設定します。ダウン専用洗剤を使用してください」<details><summary>出典</summary>`https://www.mammut.jp/care-instructions-down`</details>
+> **参考情報**: 「洗濯機を使用する場合は、できるだけ低温（30℃程度が理想的）で、優しい洗濯コースを設定します。ダウン専用洗剤を使用してください」<details><summary>出典</summary>`https://www.mammut.jp/care-instructions-down`</details>
 
 #### 洗濯の手順
 
@@ -514,7 +514,7 @@ Tags: Down, Guide
 | **モンベル** | 軽量・高機能・コスパ | 800FP EXダウン、低価格 | コスパ重視の幅広い層 |
 | **ノースフェイス** | 機能性とファッション性のバランス | 幅広い層に人気 | 日常〜アウトドア両用 |
 
-**参考情報**: 「マムートは本格的な登山やクライミングに特化した高機能・高耐久性。プロフェッショナルな印象」<details><summary>出典</summary>`https://travel-sphere-explorer.com/outdoor-brand-comparison`</details>
+> **参考情報**: 「マムートは本格的な登山やクライミングに特化した高機能・高耐久性。プロフェッショナルな印象」<details><summary>出典</summary>`https://travel-sphere-explorer.com/outdoor-brand-comparison`</details>
 
 **JK**: モンベルってやっぱりコスパいいんですか？
 

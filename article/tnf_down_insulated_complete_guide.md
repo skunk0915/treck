@@ -61,7 +61,7 @@ Tags: Down, Guide
 
 **先生**: 秘密は中わたにある。バルトロには**光電子®ダウン**という特殊なダウンが使われているんだ。
 
-**参考情報**: 「真冬の天体観測や雪上ハイクにも対応できる、最高レベルの保温力を備えています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIXlj57gMk3Oo4hfNVUt-3cctbuCS0kxi98expl2DI_FXLBwTKjZ0KPHM-T5zhPvGGZzjdW7HiDCW6W_EdJrZ9eeDKfUKePjtkKParuQ-MhQBRbw==`</details>
+> **参考情報**: 「真冬の天体観測や雪上ハイクにも対応できる、最高レベルの保温力を備えています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIXlj57gMk3Oo4hfNVUt-3cctbuCS0kxi98expl2DI_FXLBwTKjZ0KPHM-T5zhPvGGZzjdW7HiDCW6W_EdJrZ9eeDKfUKePjtkKParuQ-MhQBRbw==`</details>
 
 **JK**: 光電子…？また難しい言葉が出てきた。呪文ですか？
 
@@ -129,7 +129,7 @@ Tags: Down, Guide
 
 **先生**: お、さすがにヌプシは知っていたか。1992年にエクスペディション用として開発されたモデルで、90年代にはヒップホップシーンで大流行したんだ。
 
-**参考情報**: 「1992年にエクスペディション向けに開発された、高い保温性と機能性を持つブランドの象徴的なダウンジャケット」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHySZ3PvigcqWRdModgHmBQ7eMhPpQeX76AM_t_yKAPLypziyuplyGfe2sq6awF9g4NyIrocxkh6qzzdSwcx8olmMgMJ7jLpVjcPswjN7UBMVgL-4MbY6xFdRI4yRj2kA==`</details>
+> **参考情報**: 「1992年にエクスペディション向けに開発された、高い保温性と機能性を持つブランドの象徴的なダウンジャケット」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHySZ3PvigcqWRdModgHmBQ7eMhPpQeX76AM_t_yKAPLypziyuplyGfe2sq6awF9g4NyIrocxkh6qzzdSwcx8olmMgMJ7jLpVjcPswjN7UBMVgL-4MbY6xFdRI4yRj2kA==`</details>
 
 **JK**: エクスペディション…？
 
@@ -205,7 +205,7 @@ Tags: Down, Guide
 
 **先生**: 違う。ダウンと**化学繊維（化繊わた）**のハイブリッドだ。
 
-**参考情報**: 「ダウンと化繊わたを組み合わせたハイブリッドダウンが最大の特徴です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQtzrGvwtHtroK4ifVBlRMeMItFJXybLB0dgOQKNzyZ6e7sap3Xqaf1zJDZHLpJWk8x9LyJhmWXJjPQ5KEs91JZY-vYWZRLTKCb70WocfirRzzAQ==`</details>
+> **参考情報**: 「ダウンと化繊わたを組み合わせたハイブリッドダウンが最大の特徴です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQtzrGvwtHtroK4ifVBlRMeMItFJXybLB0dgOQKNzyZ6e7sap3Xqaf1zJDZHLpJWk8x9LyJhmWXJjPQ5KEs91JZY-vYWZRLTKCb70WocfirRzzAQ==`</details>
 
 **JK**: え、化繊わたを混ぜてるんですか？それってダウンより劣るんじゃ…
 
@@ -328,7 +328,7 @@ Tags: Down, Guide
 
 **先生**: いい質問だ。フィルパワーはダウンの品質を示す重要な指標だ。
 
-**参考情報**: 「1オンス（約28.4g）の羽毛がどのくらいの体積（立方インチ）に膨らむかを示した数値で、FPと略されます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiKFmms0KfGD1hs1Okq8lLK8BBbF9lpKthZ4li5NEWlZAoHR6QZTxyyFvGmU5f8KlN400gLIsVXIcMEMNxCoTQtQ3ds8VvHqjLqQoCzILH3Rg5Ktgao9d_p3FzWiU0DJfOHkWyC5k2iB3R`</details>
+> **参考情報**: 「1オンス（約28.4g）の羽毛がどのくらいの体積（立方インチ）に膨らむかを示した数値で、FPと略されます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiKFmms0KfGD1hs1Okq8lLK8BBbF9lpKthZ4li5NEWlZAoHR6QZTxyyFvGmU5f8KlN400gLIsVXIcMEMNxCoTQtQ3ds8VvHqjLqQoCzILH3Rg5Ktgao9d_p3FzWiU0DJfOHkWyC5k2iB3R`</details>
 
 **JK**: 1オンスの羽毛が膨らむ体積…？よくわからないんですけど。
 
@@ -367,7 +367,7 @@ Tags: Down, Guide
 
 **先生**: CLEANDOWNは、ノースフェイスのダウン製品に使われている**高品質ダウン素材**のブランド名だ。河田フェザーという日本の会社が開発した。
 
-**参考情報**: 「河田フェザー独自の高度な技術により、原毛に付着したアカ、ホコリ、油脂などの不純物を日本国内で徹底的に洗浄」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEy8NIMQ0is5SoySGmu_QbZYUGo8f1KJUTcNF0qPEcjdTm8HIK-TahNySyHgricwIh50nTKBmxgKHdjEGWmIWIhhRhq5q1Cs6QPC3hbHXri7WG2ouaTzIBfDGmP51OOw==`</details>
+> **参考情報**: 「河田フェザー独自の高度な技術により、原毛に付着したアカ、ホコリ、油脂などの不純物を日本国内で徹底的に洗浄」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEy8NIMQ0is5SoySGmu_QbZYUGo8f1KJUTcNF0qPEcjdTm8HIK-TahNySyHgricwIh50nTKBmxgKHdjEGWmIWIhhRhq5q1Cs6QPC3hbHXri7WG2ouaTzIBfDGmP51OOw==`</details>
 
 **JK**: 洗浄…？ダウンって洗うんですか？
 
@@ -429,7 +429,7 @@ Tags: Down, Guide
 
 **先生**: **絶対にダメだ**。
 
-**参考情報**: 「圧縮袋の使用はダウンの羽毛を傷め、かさ高（ロフト）や保温性を損なう原因となるため避けてください」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5EGrs4t3cxx8XldWToXvnPhh84D7W4VAhOiDIxKjpEpsLTf4TfQsslsTaUj94xEwr44arwFT5eDuEwCbFU4COXPPnlssSfaOPUF_vQdz_pBLu0ywd0CRGbFxmF6kj82WDlmw=`</details>
+> **参考情報**: 「圧縮袋の使用はダウンの羽毛を傷め、かさ高（ロフト）や保温性を損なう原因となるため避けてください」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5EGrs4t3cxx8XldWToXvnPhh84D7W4VAhOiDIxKjpEpsLTf4TfQsslsTaUj94xEwr44arwFT5eDuEwCbFU4COXPPnlssSfaOPUF_vQdz_pBLu0ywd0CRGbFxmF6kj82WDlmw=`</details>
 
 **JK**: えー！ダメなんですか？場所取るから圧縮したかったんですけど…
 

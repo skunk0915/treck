@@ -69,7 +69,7 @@ Tags: Camping, Storage, Guide
 
 **先生**: 例えるなら、2Lのペットボトル4本ちょっとの重さだ。160Lもの大容量があるのに、女性でも片手で持ち運べる。
 
-**参考情報**: 「女性でも片手で持ち運びやすい軽さを実現」<details><summary>出典</summary>`https://www.dod.camp/product/c2_534_kh/`</details>
+> **参考情報**: 「女性でも片手で持ち運びやすい軽さを実現」<details><summary>出典</summary>`https://www.dod.camp/product/c2_534_kh/`</details>
 
 **JK**: え、160Lってめっちゃ大きいですよね！？それで8.6kgって確かにすごいかも。
 
@@ -119,7 +119,7 @@ Tags: Camping, Storage, Guide
 
 **先生**: そうだ。それだけ信頼性が高いということだな。最大の特徴は大径ノーパンクラバータイヤ。芝生、砂利道、ちょっとした段差でもスムーズに移動できる。
 
-**参考情報**: 「最大積載重量100kgを確保するため、丈夫なスチールフレームを採用」<details><summary>出典</summary>`https://www.dod.camp/product/c2_46/`</details>
+> **参考情報**: 「最大積載重量100kgを確保するため、丈夫なスチールフレームを採用」<details><summary>出典</summary>`https://www.dod.camp/product/c2_46/`</details>
 
 **JK**: パンクしないタイヤ！？それは安心ですね。
 
@@ -172,7 +172,7 @@ Tags: Camping, Storage, Guide
 
 **先生**: 従来モデルから約5.1kgの軽量化を実現している。総重量約8.9kgで、アルミモデルに迫る軽さだ。
 
-**参考情報**: 「従来モデルから約5.1kgの軽量化を実現」<details><summary>出典</summary>`https://prtimes.jp/main/html/rd/p/000000xxx.000xxxxxx.html`</details>
+> **参考情報**: 「従来モデルから約5.1kgの軽量化を実現」<details><summary>出典</summary>`https://prtimes.jp/main/html/rd/p/000000xxx.000xxxxxx.html`</details>
 
 **JK**: 5.1kgも軽くなったんですか！？それすごくないですか？
 
@@ -249,7 +249,7 @@ Tags: Camping, Storage, Guide
 
 **先生**: そうだ。サイズが違うから適合しない。
 
-**参考情報**: 「フォールディングキャリーワゴン専用に設計されており、DODのアルミキャリーワゴンや他社製のワゴンには適合しません」<details><summary>出典</summary>`https://www.dod.camp/product/gt2_706_wd/`</details>
+> **参考情報**: 「フォールディングキャリーワゴン専用に設計されており、DODのアルミキャリーワゴンや他社製のワゴンには適合しません」<details><summary>出典</summary>`https://www.dod.camp/product/gt2_706_wd/`</details>
 
 **JK**: えー！それちょっと残念…
 
@@ -291,7 +291,7 @@ Tags: Camping, Storage, Guide
 
 **先生**: そうだ。約10秒で組み立てが完了する。
 
-**参考情報**: 「天板を持ち上げるだけで棚が完成し、誰でも簡単に組み立て・折りたたみが可能」<details><summary>出典</summary>`https://www.dod.camp/product/tb1_38/`</details>
+> **参考情報**: 「天板を持ち上げるだけで棚が完成し、誰でも簡単に組み立て・折りたたみが可能」<details><summary>出典</summary>`https://www.dod.camp/product/tb1_38/`</details>
 
 **JK**: 10秒！？それマジですか！？毎回組み立てるの面倒なテーブルとか嫌だったんですけど、これなら全然いいじゃん！
 
@@ -337,7 +337,7 @@ Tags: Camping, Storage, Guide
 
 **先生**: 家庭のキッチンセットをアウトドアでも使えるように設計された収納棚だ。調理器具や調味料をまとめて収納・持ち運びできる。
 
-**参考情報**: 「家庭のキッチンセットをアウトドアでも使えるように設計された収納棚」<details><summary>出典</summary>`https://www.dod.camp/product/chef_rel_shelf/`</details>
+> **参考情報**: 「家庭のキッチンセットをアウトドアでも使えるように設計された収納棚」<details><summary>出典</summary>`https://www.dod.camp/product/chef_rel_shelf/`</details>
 
 **JK**: あ、なるほど！家で使ってる調味料とかをそのまま持っていけるってことですか？
 
@@ -401,7 +401,7 @@ Tags: Camping, Storage, Guide
 
 **先生**: 「良く見るやつ」という意味だな。キャンプ場でよく見かける頑丈ボックスのDODオリジナルカラー版だ。製造元のリス株式会社に製造委託したOEM製品だから、品質は折り紙付きだ。
 
-**参考情報**: 「リス株式会社製造のOEM製品で、静止耐荷重100kgと高い強度を持つ」<details><summary>出典</summary>`https://www.dod.camp/product/yokumiruyaatsu/`</details>
+> **参考情報**: 「リス株式会社製造のOEM製品で、静止耐荷重100kgと高い強度を持つ」<details><summary>出典</summary>`https://www.dod.camp/product/yokumiruyaatsu/`</details>
 
 **JK**: 100kg！？人が座っても大丈夫ってことですか？
 
@@ -431,7 +431,7 @@ Tags: Camping, Storage, Guide
 
 **先生**: そこで専用オプションの出番だ。シキルヤーツという仕切り用アクセサリーがある。
 
-**参考情報**: 「シキルヤーツは9枚の仕切り板で最大10区画に分割可能」<details><summary>出典</summary>`https://www.dod.camp/product/shikiruyaatsu/`</details>
+> **参考情報**: 「シキルヤーツは9枚の仕切り板で最大10区画に分割可能」<details><summary>出典</summary>`https://www.dod.camp/product/shikiruyaatsu/`</details>
 
 **JK**: 仕切る…ヤーツ？DOD、ダジャレ好きすぎでしょ！
 
@@ -466,7 +466,7 @@ Tags: Camping, Storage, Guide
 
 **先生**: それを解決するのがステルスエックスだ。「たかがゴミ箱、されどゴミ箱」というコンセプトで作られている。
 
-**参考情報**: 「ゴミ袋を完全に隠すことで、キャンプサイトや部屋の生活感を排除」<details><summary>出典</summary>`https://www.dod.camp/product/gm1_450/`</details>
+> **参考情報**: 「ゴミ袋を完全に隠すことで、キャンプサイトや部屋の生活感を排除」<details><summary>出典</summary>`https://www.dod.camp/product/gm1_450/`</details>
 
 **JK**: え、ゴミ袋が完全に見えなくなるんですか！？
 
@@ -526,7 +526,7 @@ Tags: Camping, Storage, Guide
 
 **先生**: トートハコナールがある。トートバッグと収納ボックスの2WAYで使える優れものだ。
 
-**参考情報**: 「トートバッグと収納ボックスの2WAYで使用可能」<details><summary>出典</summary>`https://www.dod.camp/product/tote_hakonaru/`</details>
+> **参考情報**: 「トートバッグと収納ボックスの2WAYで使用可能」<details><summary>出典</summary>`https://www.dod.camp/product/tote_hakonaru/`</details>
 
 **JK**: 2WAY！？どういうこと？
 
@@ -559,7 +559,7 @@ Tags: Camping, Storage, Guide
 
 **先生**: DODのテキーラシリーズは、カスタマイズ性の高いラックやテーブルのシリーズだ。その収納・運搬用バッグがテキーラバッグだな。
 
-**参考情報**: 「3層構造でギアを保護し、金属音を軽減」<details><summary>出典</summary>`https://www.dod.camp/product/qb5_896_bk/`</details>
+> **参考情報**: 「3層構造でギアを保護し、金属音を軽減」<details><summary>出典</summary>`https://www.dod.camp/product/qb5_896_bk/`</details>
 
 **JK**: あー、なるほど。それ用のバッグなんですね。
 

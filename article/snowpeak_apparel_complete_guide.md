@@ -39,7 +39,7 @@ Tags: Apparel, Guide
 
 **先生**: まさにそれだ。ナイロンやポリエステル素材は熱に弱く、火の粉が一つ飛んだだけで穴が開く。高価なダウンジャケットが一瞬でダメになることもある。スノーピークはその問題を解決するために、難燃性のアパレルを開発したんだ。
 
-**参考情報**: 「焚き火の火の粉による穴あきを防ぎ、安心して焚き火を囲めるように設計されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFf5bKZKwt4ON_TAhzb-8r-EhfYTfH9OUv0oUZAGecFy8yIRomLO5FPQbk5clldZgnLE35CmWl52MpHmLj_EQq4eF1I1SF6jAR4ATpaobCDpQrC9hiknUa0E9Emlw8=`</details>
+> **参考情報**: 「焚き火の火の粉による穴あきを防ぎ、安心して焚き火を囲めるように設計されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFf5bKZKwt4ON_TAhzb-8r-EhfYTfH9OUv0oUZAGecFy8yIRomLO5FPQbk5clldZgnLE35CmWl52MpHmLj_EQq4eF1I1SF6jAR4ATpaobCDpQrC9hiknUa0E9Emlw8=`</details>
 
 ### スノーピークアパレルの主なシリーズ
 
@@ -64,7 +64,7 @@ Tags: Apparel, Guide
 
 **先生**: ふふ、そこがスノーピークの技術力だな。彼らは帝人という素材メーカーと2年かけて共同開発し、「Teijinconex neo（テイジンコーネックス・ネオ）」という新素材を作り上げた。難燃性はそのままに、染色性を高めて普段着として着られる風合いに仕上げているんだ。
 
-**参考情報**: 「スノーピークと帝人は、従来の『Teijinconex』の優れた難燃性を受け継ぎつつ、さらに『優れた染色性』を兼ね備えた新しいメタ系アラミド繊維『Teijinconex neo』を共同開発しました」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFsl-FudtMRbArjBbswZ5-8M5dLZdsUqUAprG8c2GtFHhfxqRnDWOmhGw-qjl6nKBEQLP4l1laUcQL7odGVjLl-e812YVMZcBo9J0fPCYfpByYMHsY65AV1sIqXPlBpJFiUcn97vHsf6XmL4jdew==`</details>
+> **参考情報**: 「スノーピークと帝人は、従来の『Teijinconex』の優れた難燃性を受け継ぎつつ、さらに『優れた染色性』を兼ね備えた新しいメタ系アラミド繊維『Teijinconex neo』を共同開発しました」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFsl-FudtMRbArjBbswZ5-8M5dLZdsUqUAprG8c2GtFHhfxqRnDWOmhGw-qjl6nKBEQLP4l1laUcQL7odGVjLl-e812YVMZcBo9J0fPCYfpByYMHsY65AV1sIqXPlBpJFiUcn97vHsf6XmL4jdew==`</details>
 
 **JK**: へー、2年もかけて開発したんだ。でも正直、そこまでする必要あります？普通に焚き火から離れればいいだけじゃ…
 
@@ -84,7 +84,7 @@ Tags: Apparel, Guide
 
 **先生**: 表地にアラミド100%を使い、中綿にはダウン90%・フェザー10%を充填している。見た目はコットンのようでありながら軽量で、難燃性と保温性を両立しているんだ。
 
-**参考情報**: 「難燃性・耐久性に優れたアラミド100%生地を使用し、見た目はコットンのようでありながら軽量性も兼ね備えています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEawQ1di9YBrix7GbciEqlBwPj9tcdFCbFJ_EmmHl7wwa-ioMRxsiEBg8wzp1DZZTEpUzRkN-2M0I-n2IyLTjiEKzK9jtbQtgiHxE073C4q2l4LNXLu03oLiCXJXs4cYLWcUAeHUJwD`</details>
+> **参考情報**: 「難燃性・耐久性に優れたアラミド100%生地を使用し、見た目はコットンのようでありながら軽量性も兼ね備えています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEawQ1di9YBrix7GbciEqlBwPj9tcdFCbFJ_EmmHl7wwa-ioMRxsiEBg8wzp1DZZTEpUzRkN-2M0I-n2IyLTjiEKzK9jtbQtgiHxE073C4q2l4LNXLu03oLiCXJXs4cYLWcUAeHUJwD`</details>
 
 **JK**: でも、ダウンって洗えないイメージがあるんですけど…キャンプで汚れたらどうするんですか？
 
@@ -139,7 +139,7 @@ Tags: Apparel, Guide
 | M | 55cm | 42cm | 177cm男性で程よいゆとり |
 | L | 62cm | 46cm | かなり大きめ |
 
-**参考情報**: 「身長177cmの男性でMサイズは程よくゆとりあり、Lサイズはかなり大きめとの声あり」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe7_8tGi2oJ-F9_SpxqocfMcGQ8LHvzN0w25Br9J1YVgxv67IEgh6-UDzNBsjh4PNNJ3L9FBZnrqyNb1qqXKnmta9IELvqipH98IN8kmOPtfBRO70JfUUVqMyu`</details>
+> **参考情報**: 「身長177cmの男性でMサイズは程よくゆとりあり、Lサイズはかなり大きめとの声あり」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe7_8tGi2oJ-F9_SpxqocfMcGQ8LHvzN0w25Br9J1YVgxv67IEgh6-UDzNBsjh4PNNJ3L9FBZnrqyNb1qqXKnmta9IELvqipH98IN8kmOPtfBRO70JfUUVqMyu`</details>
 
 #### 主なスペック
 
@@ -172,7 +172,7 @@ Tags: Apparel, Guide
 
 **先生**: 考えてみてほしい。夏のキャンプでも夜は焚き火をするだろう。薄着だと火の粉のダメージを直接受けやすい。このシリーズはシャツやパンツ、スカートまで展開しているから、春夏のキャンプコーデを丸ごと焚き火対応にできるんだ。
 
-**参考情報**: 「アクリルカネカロンと綿を組み合わせた難燃性の高い糸をタテ糸とヨコ糸に採用し、軽量ながらも引き裂きに強い厚手のリップストップ素材で仕上げられています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEUEsXrTh1WAMFRq0GpsBDDt2fu2R2Va_iRRcWxPyd8x2Mu6xTFuqvSiEZeVe8MtkrTQ2CmOS3LuB_ACoSP1KjACX_eWVxGsUO5SW_wMKn9ySPTZP9Livc0mqKNFl2BA==`</details>
+> **参考情報**: 「アクリルカネカロンと綿を組み合わせた難燃性の高い糸をタテ糸とヨコ糸に採用し、軽量ながらも引き裂きに強い厚手のリップストップ素材で仕上げられています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEUEsXrTh1WAMFRq0GpsBDDt2fu2R2Va_iRRcWxPyd8x2Mu6xTFuqvSiEZeVe8MtkrTQ2CmOS3LuB_ACoSP1KjACX_eWVxGsUO5SW_wMKn9ySPTZP9Livc0mqKNFl2BA==`</details>
 
 **JK**: スカートまであるんですか！？それはちょっと気になる…
 
@@ -210,7 +210,7 @@ Tags: Apparel, Guide
 
 **先生**: 通常の中綿やダウンは、伸縮性がないから動くと突っ張る。このシリーズは生地も中綿も糸も全部ストレッチするように設計されているから、キャンプでテント設営したり、料理したりする動作が楽なんだ。
 
-**参考情報**: 「生地、中綿、糸のすべてがストレッチするため、快適な着心地と動きやすさを実現しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUVR2Jjk3yoQeGDSXKlKhisvzkdH3b2zLPoK0xrrVfG7IpV_P_JYcLPQLrAtYyAbcvvZqMxuuwODU2BirsfgvcJb7tXUXsgngKIDeSiskXIZuxfOlPhYVpq_pHIU9o1s_MiFTPVFi-sOH5dzOUttRKhdxy3A==`</details>
+> **参考情報**: 「生地、中綿、糸のすべてがストレッチするため、快適な着心地と動きやすさを実現しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUVR2Jjk3yoQeGDSXKlKhisvzkdH3b2zLPoK0xrrVfG7IpV_P_JYcLPQLrAtYyAbcvvZqMxuuwODU2BirsfgvcJb7tXUXsgngKIDeSiskXIZuxfOlPhYVpq_pHIU9o1s_MiFTPVFi-sOH5dzOUttRKhdxy3A==`</details>
 
 **JK**: へー、でもそれって焚き火の時は着れないってことですよね？TAKIBIと使い分けないといけないのめんどくさくないですか？
 
@@ -250,13 +250,13 @@ Tags: Apparel, Guide
 
 **先生**: その通り。しかもスノーピークのアパレルは全製品に「永久保証」がついているとはいえ、初期投資としてはかなり高額だ。キャンプ初心者がいきなり揃えるには敷居が高い。
 
-**参考情報**: 「全製品に『永久保証』が付いていることが、価格に反映されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfSEjv7GUVHVAw3Rb9MA-va_YFOUACOHKy54Xp67Vh-1j10pjnKZDaGUs0ToptXyKpditJkWx0al3oh-FAh5QiqvAW0mBzFKkLZbb72i0qnLrx1yLq_YjhKj6PwNlKDK6Bvw==`</details>
+> **参考情報**: 「全製品に『永久保証』が付いていることが、価格に反映されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfSEjv7GUVHVAw3Rb9MA-va_YFOUACOHKy54Xp67Vh-1j10pjnKZDaGUs0ToptXyKpditJkWx0al3oh-FAh5QiqvAW0mBzFKkLZbb72i0qnLrx1yLq_YjhKj6PwNlKDK6Bvw==`</details>
 
 **JK**: 他にはありますか？
 
 **先生**: デザインに関する意見もある。ゆったりしたシルエットが多いから、タイトなフィット感を好む人には合わないかもしれない。またアースカラー中心で地味という声もあるな。
 
-**参考情報**: 「一部の意見では、ダボッとしたシルエットやアースカラーの組み合わせが子供っぽく見えたり、洗練されていないと感じられたりすることがあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCFVWY-Qr2RVKqzaYexvcnpp90PogiQAjSU4C6PYOl-n3UFXkkkwyVpUsmiZrVkQ9WOiRDtvOh-7BpPuUNsc8odDImFuCtdxZ-5TnPxnX_CaD4xYDaEfcoZAzoU9mjkcUleg==`</details>
+> **参考情報**: 「一部の意見では、ダボッとしたシルエットやアースカラーの組み合わせが子供っぽく見えたり、洗練されていないと感じられたりすることがあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCFVWY-Qr2RVKqzaYexvcnpp90PogiQAjSU4C6PYOl-n3UFXkkkwyVpUsmiZrVkQ9WOiRDtvOh-7BpPuUNsc8odDImFuCtdxZ-5TnPxnX_CaD4xYDaEfcoZAzoU9mjkcUleg==`</details>
 
 **JK**: 確かに…インスタ映えする感じではないかも。あとなんかおじさんっぽいっていうか…
 
@@ -285,7 +285,7 @@ Tags: Apparel, Guide
 
 **先生**: 重要な違いがある。「難燃」は火がつきにくく、火の粉で穴が開かないという意味だ。「耐火」は火の中でも燃えないという意味になる。TAKIBIシリーズは難燃であって耐火ではない。直火に当て続ければ燃えるから注意が必要だ。
 
-**参考情報**: 「完全な耐火性ではありませんが、火の粉による穴あきを防ぎ、熱に耐えることで、火の傍でも安全に過ごせるようにします」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFjHgBcOTKjSfYoF-Lizbo6c3PgWn-wE-FcHw2dVTqbivLsosluFox0gKjNnWBSuVw7w_vZCOwlnmokeQ8QjPbmuVk7sf0qX0DIHXshRwQyjO-CIWg6rBvNv8Q58jALrbAA2YlT89rkWTXfRVPLOYrvIkBETyWpzkwkYWvHkMkxf6JOQM=`</details>
+> **参考情報**: 「完全な耐火性ではありませんが、火の粉による穴あきを防ぎ、熱に耐えることで、火の傍でも安全に過ごせるようにします」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFjHgBcOTKjSfYoF-Lizbo6c3PgWn-wE-FcHw2dVTqbivLsosluFox0gKjNnWBSuVw7w_vZCOwlnmokeQ8QjPbmuVk7sf0qX0DIHXshRwQyjO-CIWg6rBvNv8Q58jALrbAA2YlT89rkWTXfRVPLOYrvIkBETyWpzkwkYWvHkMkxf6JOQM=`</details>
 
 ### Q2. 洗濯しても難燃性は落ちませんか？
 

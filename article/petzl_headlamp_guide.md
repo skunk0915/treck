@@ -23,7 +23,7 @@ Tags: Headlamp, Guide
 
 **先生**: いい質問だな。ペツルはフランスの老舗で、登山者から高い信頼を得ているメーカーだ。
 
-**参考情報**: 「ペツルはフランスの老舗登山用品メーカーであり、そのヘッドランプは登山者から高い信頼を得ています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfUGzug54hJMo0Gv9R5Cs9da0Yzw7X125N2hR0fRz5760_MlfERZpoUHiTa4OkbdA-QMBbOR7HmdsCmn6xpUoUv_xpBlW28HjJ7ouPgw2eLQRbvxBFVMrWJbi1pEP3JsaOkmc=`</details>
+> **参考情報**: 「ペツルはフランスの老舗登山用品メーカーであり、そのヘッドランプは登山者から高い信頼を得ています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfUGzug54hJMo0Gv9R5Cs9da0Yzw7X125N2hR0fRz5760_MlfERZpoUHiTa4OkbdA-QMBbOR7HmdsCmn6xpUoUv_xpBlW28HjJ7ouPgw2eLQRbvxBFVMrWJbi1pEP3JsaOkmc=`</details>
 
 **JK**: 老舗って言われても…。具体的に何がすごいんですか？
 
@@ -33,7 +33,7 @@ Tags: Headlamp, Guide
 
 **先生**: その通りだ。山小屋で電池が切れても、コンビニで単4電池を買えば復活する。この安心感は大きい。
 
-**参考情報**: 「PetzlのHYBRID CONCEPTデザインを採用した多くのヘッドランプは、COREバッテリーと単4電池の両方を使用できるため、状況に応じた柔軟な電源選択が可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrBBBk0_GLLoHUqjqhTAm0vSkXKGn9-buuP_ZeuUVh60aFIMkm7dnsYW0u-3T3GCm5SwYd8fUqqz7DhUBT97qnCBJX1VV2EaywKtr_hXIrX1sEEGlrMEZGGjhdMbfE_4yhxhEtPf-VWx19hc9DefaUnMz4u2Tu5nP6KavtU0Yo0fcr6OHYmztakdnxUSIoF4=`</details>
+> **参考情報**: 「PetzlのHYBRID CONCEPTデザインを採用した多くのヘッドランプは、COREバッテリーと単4電池の両方を使用できるため、状況に応じた柔軟な電源選択が可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrBBBk0_GLLoHUqjqhTAm0vSkXKGn9-buuP_ZeuUVh60aFIMkm7dnsYW0u-3T3GCm5SwYd8fUqqz7DhUBT97qnCBJX1VV2EaywKtr_hXIrX1sEEGlrMEZGGjhdMbfE_4yhxhEtPf-VWx19hc9DefaUnMz4u2Tu5nP6KavtU0Yo0fcr6OHYmztakdnxUSIoF4=`</details>
 
 ---
 
@@ -53,7 +53,7 @@ Tags: Headlamp, Guide
 | **ADVANCED** | 高出力・多機能 | 縦走登山・トレイルラン |
 | **PERFORMANCE** | 最高峰・自動調光 | ウルトラトレイル・本格登山 |
 
-**参考情報**: 「軽量・コンパクトで操作がシンプルです。近距離の照射を重視しており、日帰り登山やハイキング、キャンプ、旅行といった日常使いやレクリエーションに適しています。初心者やライトユーザーにおすすめのシリーズです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo1z9edPZib_50I717FdmqNSpF2GH2KK3Zz3xUX757zXDIBOpFS--eopeuj1pbdFdo6mB4vlcSHilN-A5htIzPG5QsS6mrkVGW6nr8VorW-Ijqyg==`</details>
+> **参考情報**: 「軽量・コンパクトで操作がシンプルです。近距離の照射を重視しており、日帰り登山やハイキング、キャンプ、旅行といった日常使いやレクリエーションに適しています。初心者やライトユーザーにおすすめのシリーズです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo1z9edPZib_50I717FdmqNSpF2GH2KK3Zz3xUX757zXDIBOpFS--eopeuj1pbdFdo6mB4vlcSHilN-A5htIzPG5QsS6mrkVGW6nr8VorW-Ijqyg==`</details>
 
 **JK**: なるほど、初心者は「DISCOVER」ってことですね！
 
@@ -63,7 +63,7 @@ Tags: Headlamp, Guide
 
 **先生**: 暗い山道を歩くには、遠くと手元の両方を照らせる必要がある。ADVANCEDシリーズには**ミックスビーム**という機能があって、それが可能なんだ。
 
-**参考情報**: 「より高い照射力と多機能性を備え、汎用性が高いのが特徴です。ワイドビームとスポットビームの切り替えや、夜間視力を保護する赤色光機能を搭載しているモデルが多く、登山、トレッキング、バックパッキング、サイクリングなど幅広いアウトドアアクティビティに対応します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo1z9edPZib_50I717FdmqNSpF2GH2KK3Zz3xUX757zXDIBOpFS--eopeuj1pbdFdo6mB4vlcSHilN-A5htIzPG5QsS6mrkVGW6nr8VorW-Ijqyg==`</details>
+> **参考情報**: 「より高い照射力と多機能性を備え、汎用性が高いのが特徴です。ワイドビームとスポットビームの切り替えや、夜間視力を保護する赤色光機能を搭載しているモデルが多く、登山、トレッキング、バックパッキング、サイクリングなど幅広いアウトドアアクティビティに対応します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo1z9edPZib_50I717FdmqNSpF2GH2KK3Zz3xUX757zXDIBOpFS--eopeuj1pbdFdo6mB4vlcSHilN-A5htIzPG5QsS6mrkVGW6nr8VorW-Ijqyg==`</details>
 
 ---
 
@@ -82,13 +82,13 @@ Tags: Headlamp, Guide
 
 **先生**: テント内や夜道を歩くには十分だ。読書もできる。
 
-**参考情報**: 「TIKKINAはペツルのヘッドランプシリーズの中で最もシンプルで軽量なエントリーモデルです。日帰り登山やハイキングに適しており、高いコストパフォーマンスから初めてのヘッドランプや予備用としても推奨されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyveC04XICX1QuoHccUuxjGSrF3bRbbxFjjaAv8ch2TxnJys0nbKX2fQ1uRzGTE6m8yxJtYOc4KFrLjd5qmTM_58Qg6ggQqS2yXTe6taULsgxNN1cS6pDNFRXKRD7S-HM6kPO2KR38UnZLqKI8`</details>
+> **参考情報**: 「TIKKINAはペツルのヘッドランプシリーズの中で最もシンプルで軽量なエントリーモデルです。日帰り登山やハイキングに適しており、高いコストパフォーマンスから初めてのヘッドランプや予備用としても推奨されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyveC04XICX1QuoHccUuxjGSrF3bRbbxFjjaAv8ch2TxnJys0nbKX2fQ1uRzGTE6m8yxJtYOc4KFrLjd5qmTM_58Qg6ggQqS2yXTe6taULsgxNN1cS6pDNFRXKRD7S-HM6kPO2KR38UnZLqKI8`</details>
 
 **JK**: でも予備用…？メインで使っちゃダメなんですか？
 
 **先生**: 日帰り登山やキャンプならメインでも全く問題ない。ただ、本格的な登山では連続照射時間が心配になる場面もある。
 
-**参考情報**: 「緊急事態が発生する可能性のある本格的な登山においては、より上位モデルの方が連続照射時間の点で適している場合もあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyveC04XICX1QuoHccUuxjGSrF3bRbbxFjjaAv8ch2TxnJys0nbKX2fQ1uRzGTE6m8yxJtYOc4KFrLjd5qmTM_58Qg6ggQqS2yXTe6taULsgxNN1cS6pDNFRXKRD7S-HM6kPO2KR38UnZLqKI8`</details>
+> **参考情報**: 「緊急事態が発生する可能性のある本格的な登山においては、より上位モデルの方が連続照射時間の点で適している場合もあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyveC04XICX1QuoHccUuxjGSrF3bRbbxFjjaAv8ch2TxnJys0nbKX2fQ1uRzGTE6m8yxJtYOc4KFrLjd5qmTM_58Qg6ggQqS2yXTe6taULsgxNN1cS6pDNFRXKRD7S-HM6kPO2KR38UnZLqKI8`</details>
 
 **JK**: つまり「安いから買っといて損はない」って感じですね。
 
@@ -122,7 +122,7 @@ Tags: Headlamp, Guide
 - 防水性能: IPX4
 - 価格: 約5,280円
 
-**参考情報**: 「TIKKAは20年以上の歴史を持つペツルの代表的な定番モデルで、ナイトハイクやキャンプなど幅広いアウトドアシーンに対応します。蓄光リフレクターや赤色光などの機能がTIKKINAよりも充実しており、初心者から経験者まで安心して使える万能ヘッドランプと評価されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfUGzug54hJMo0Gv9R5Cs9da0Yzw7X125N2hR0fRz5760_MlfERZpoUHiTa4OkbdA-QMBbOR7HmdsCmn6xpUoUv_xpBlW28HjJ7ouPgw2eLQRbvxBFVMrWJbi1pEP3JsaOkmc=`</details>
+> **参考情報**: 「TIKKAは20年以上の歴史を持つペツルの代表的な定番モデルで、ナイトハイクやキャンプなど幅広いアウトドアシーンに対応します。蓄光リフレクターや赤色光などの機能がTIKKINAよりも充実しており、初心者から経験者まで安心して使える万能ヘッドランプと評価されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfUGzug54hJMo0Gv9R5Cs9da0Yzw7X125N2hR0fRz5760_MlfERZpoUHiTa4OkbdA-QMBbOR7HmdsCmn6xpUoUv_xpBlW28HjJ7ouPgw2eLQRbvxBFVMrWJbi1pEP3JsaOkmc=`</details>
 
 **JK**: 蓄光リフレクター…？また呪文が…。
 
@@ -168,7 +168,7 @@ Tags: Headlamp, Guide
 - 防水性能: IPX4
 - 価格: 約11,979円
 
-**参考情報**: 「ACTIK COREは、モデルによって異なりますが、最大350ルーメンから600ルーメン（最新モデルでは625ルーメン）の高出力を誇ります。白色光は3段階の光量調整が可能で、最大光量では90m以上の照射距離を持ちます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdlGLSVWpSF8xMB7zUkj6j7NogXhFtO__fbDvggNWpMEEXy5hfuXTo6Drakn6qxrtpuIYnIi7qfWg2E1KpKfayszBMsvUm-DWXD4V6vqufUKeMOsWYi9FmkkyF-6b1WlLe7vSwqd7kuUFWrZSqVlmQ`</details>
+> **参考情報**: 「ACTIK COREは、モデルによって異なりますが、最大350ルーメンから600ルーメン（最新モデルでは625ルーメン）の高出力を誇ります。白色光は3段階の光量調整が可能で、最大光量では90m以上の照射距離を持ちます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdlGLSVWpSF8xMB7zUkj6j7NogXhFtO__fbDvggNWpMEEXy5hfuXTo6Drakn6qxrtpuIYnIi7qfWg2E1KpKfayszBMsvUm-DWXD4V6vqufUKeMOsWYi9FmkkyF-6b1WlLe7vSwqd7kuUFWrZSqVlmQ`</details>
 
 **JK**: 600ルーメン！？ティキナの2倍じゃないですか！
 
@@ -190,13 +190,13 @@ Tags: Headlamp, Guide
 
 **JK**: あ…確かに迷惑ですね。
 
-**参考情報**: 「電源を入れて最初に弱モードからスタートする設計は、同行者がいる場合や山小屋での使用時に配慮が行き届いていると評価されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdlGLSVWpSF8xMB7zUkj6j7NogXhFtO__fbDvggNWpMEEXy5hfuXTo6Drakn6qxrtpuIYnIi7qfWg2E1KpKfayszBMsvUm-DWXD4V6vqufUKeMOsWYi9FmkkyF-6b1WlLe7vSwqd7kuUFWrZSqVlmQ`</details>
+> **参考情報**: 「電源を入れて最初に弱モードからスタートする設計は、同行者がいる場合や山小屋での使用時に配慮が行き届いていると評価されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdlGLSVWpSF8xMB7zUkj6j7NogXhFtO__fbDvggNWpMEEXy5hfuXTo6Drakn6qxrtpuIYnIi7qfWg2E1KpKfayszBMsvUm-DWXD4V6vqufUKeMOsWYi9FmkkyF-6b1WlLe7vSwqd7kuUFWrZSqVlmQ`</details>
 
 **JK**: ところで、COREバッテリーって付属してるんですか？別売りですか？
 
 **先生**: ACTIK COREは付属している。だから箱を開けてすぐ充電式で使える。
 
-**参考情報**: 「付属のリチャージャブルバッテリー「CORE」と、別売の単4アルカリ電池3本の両方を使用できる「ハイブリッドコンセプト」を採用しています。これにより、万が一バッテリーが切れても乾電池で対応できるため、長時間の使用や非常時に安心感があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlJdS0rnmxU6lU7fNfWJtfFJPC4PRfojW-PY0yC_78tvpm9C7E-IavzuPQbl5tci2yNftLVp9k1Cf3nWCM62sjRcWs89-ajoNuYE9qFAuTVZiUZ3Hi69DGsSNuKxkopzOv3dvQ_SaDTQyuCVrxpII4pPeKaQ==`</details>
+> **参考情報**: 「付属のリチャージャブルバッテリー「CORE」と、別売の単4アルカリ電池3本の両方を使用できる「ハイブリッドコンセプト」を採用しています。これにより、万が一バッテリーが切れても乾電池で対応できるため、長時間の使用や非常時に安心感があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlJdS0rnmxU6lU7fNfWJtfFJPC4PRfojW-PY0yC_78tvpm9C7E-IavzuPQbl5tci2yNftLVp9k1Cf3nWCM62sjRcWs89-ajoNuYE9qFAuTVZiUZ3Hi69DGsSNuKxkopzOv3dvQ_SaDTQyuCVrxpII4pPeKaQ==`</details>
 
 **JK**: 私、COREバッテリーだけ買ってティカに付けるってできますか？
 
@@ -237,7 +237,7 @@ Tags: Headlamp, Guide
 
 **先生**: 夜のトレイルランニングでは、これくらいあると安心だ。155m先まで見える。
 
-**参考情報**: 「2024年のアップデートで、SWIFT RLはさらに進化しました。最大光量1100ルーメンにパワーアップし、155m先まで照射可能です。バッテリー込みでわずか100gと非常に軽量です。USB Type-Cでの充電に対応し、利便性が向上しました。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXJrx5YTSvfaGVsYsJHe8tFMw1Nrl-GfVPZABP9bGh7WyeTUl9-YsducFaDL1uOl8lY18UtSc14YORP3SzD2m2lFI-QHQp01tL--n2Xi0e-HjJZowcnKK288bMELjyhhzzU-54bg89_1Nt3I0=`</details>
+> **参考情報**: 「2024年のアップデートで、SWIFT RLはさらに進化しました。最大光量1100ルーメンにパワーアップし、155m先まで照射可能です。バッテリー込みでわずか100gと非常に軽量です。USB Type-Cでの充電に対応し、利便性が向上しました。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXJrx5YTSvfaGVsYsJHe8tFMw1Nrl-GfVPZABP9bGh7WyeTUl9-YsducFaDL1uOl8lY18UtSc14YORP3SzD2m2lFI-QHQp01tL--n2Xi0e-HjJZowcnKK288bMELjyhhzzU-54bg89_1Nt3I0=`</details>
 
 **JK**: でも2万円近くするのは高いですよ…。
 
@@ -247,7 +247,7 @@ Tags: Headlamp, Guide
 
 **先生**: センサーが周囲の明るさを感知して、自動で光量を調整してくれる。手元の地図を見るときは弱く、遠くを見るときは強く。手動操作が要らない。
 
-**参考情報**: 「リアクティブライティング技術は、ヘッドランプのセンサーが反射光を分析し、最適な明るさとビームパターンに自動で調整するペツルの特許技術です。これにより、手元の地図を見る時や遠くの景色を見る時など、状況に応じて手動で操作することなく常に適切な明るさが得られ、バッテリーの消費も効率的に行われます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGI1fLVJPN0cTcQ-FJBsP3zGNkoyzUPOBniGEUIFSjJ2e6HXGtUHyimXv9qAi53PzPzQFm9sTFPIcczu9bh39SoxaalPgFeXcJ8eIs2vvVrfM-As6gaHKim9A0t_lVFIgdb3__zZquMYLf3lCR7tgWWwYb`</details>
+> **参考情報**: 「リアクティブライティング技術は、ヘッドランプのセンサーが反射光を分析し、最適な明るさとビームパターンに自動で調整するペツルの特許技術です。これにより、手元の地図を見る時や遠くの景色を見る時など、状況に応じて手動で操作することなく常に適切な明るさが得られ、バッテリーの消費も効率的に行われます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGI1fLVJPN0cTcQ-FJBsP3zGNkoyzUPOBniGEUIFSjJ2e6HXGtUHyimXv9qAi53PzPzQFm9sTFPIcczu9bh39SoxaalPgFeXcJ8eIs2vvVrfM-As6gaHKim9A0t_lVFIgdb3__zZquMYLf3lCR7tgWWwYb`</details>
 
 **JK**: それは確かに便利そう…。走りながらボタン操作したくないですもんね。
 
@@ -255,7 +255,7 @@ Tags: Headlamp, Guide
 
 **先生**: それから、ヘッドバンドの設計も秀逸だ。後頭部が二股に分かれていて、頭を包み込むようにフィットする。
 
-**参考情報**: 「後頭部が二股に分かれた独自のヘッドバンドにより、頭を包み込むような高いフィット感を提供し、長時間の装着でも疲れにくいと評価されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_q4oUat5sDTRJbvRWhkINkJVkQKBMh_6D3bg9KoYP0uGEgYEZYnz5wz2_57LY3CqKdgUU7_WL3s_jb8CbOMoI6kVBqjQs5PI1AhVlCwSAwT53J6OBMINIcB89gZhIZ6QsbFnR1G66Ug-ytVZgtKdtkyDG`</details>
+> **参考情報**: 「後頭部が二股に分かれた独自のヘッドバンドにより、頭を包み込むような高いフィット感を提供し、長時間の装着でも疲れにくいと評価されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_q4oUat5sDTRJbvRWhkINkJVkQKBMh_6D3bg9KoYP0uGEgYEZYnz5wz2_57LY3CqKdgUU7_WL3s_jb8CbOMoI6kVBqjQs5PI1AhVlCwSAwT53J6OBMINIcB89gZhIZ6QsbFnR1G66Ug-ytVZgtKdtkyDG`</details>
 
 **JK**: 走っててもズレにくいってことですか？
 
@@ -272,7 +272,7 @@ Tags: Headlamp, Guide
 - 操作は1つのボタンで行うため慣れが必要
 - 雨や霧ではセンサーが誤作動することがある
 
-**参考情報**: 「雨や霧などの状況ではセンサーが上手く機能せず、光量を高めに維持してしまう場合があるため、その際にはスタンダードライティングモードへの切り替えが推奨されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGI1fLVJPN0cTcQ-FJBsP3zGNkoyzUPOBniGEUIFSjJ2e6HXGtUHyimXv9qAi53PzPzQFm9sTFPIcczu9bh39SoxaalPgFeXcJ8eIs2vvVrfM-As6gaHKim9A0t_lVFIgdb3__zZquMYLf3lCR7tgWWwYb`</details>
+> **参考情報**: 「雨や霧などの状況ではセンサーが上手く機能せず、光量を高めに維持してしまう場合があるため、その際にはスタンダードライティングモードへの切り替えが推奨されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGI1fLVJPN0cTcQ-FJBsP3zGNkoyzUPOBniGEUIFSjJ2e6HXGtUHyimXv9qAi53PzPzQFm9sTFPIcczu9bh39SoxaalPgFeXcJ8eIs2vvVrfM-As6gaHKim9A0t_lVFIgdb3__zZquMYLf3lCR7tgWWwYb`</details>
 
 ---
 
@@ -289,7 +289,7 @@ Tags: Headlamp, Guide
 - 充電: USB Type-C
 - 特殊機能: バッテリーがモバイルバッテリーとしても使用可能
 
-**参考情報**: 「NAO RLは、ペツルのヘッドランプの中でも最高峰の性能を誇り、特にウルトラトレイルなどの過酷なレースで活躍するモデルです。最大1500ルーメンの超高出力を誇り、高い光量を長時間維持できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVy2bSaQG5G8C5Tn6e7oCNRurv86DwuFo6MEo1OuPazu4EzlI5afK4Rjp0W7Kwp44TP3CSQBR0Tnw5xtghBbr_fR6YW739HzrBGPA0W1KMvl8CmPY=`</details>
+> **参考情報**: 「NAO RLは、ペツルのヘッドランプの中でも最高峰の性能を誇り、特にウルトラトレイルなどの過酷なレースで活躍するモデルです。最大1500ルーメンの超高出力を誇り、高い光量を長時間維持できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVy2bSaQG5G8C5Tn6e7oCNRurv86DwuFo6MEo1OuPazu4EzlI5afK4Rjp0W7Kwp44TP3CSQBR0Tnw5xtghBbr_fR6YW739HzrBGPA0W1KMvl8CmPY=`</details>
 
 **JK**: 1500ルーメン！？もはや車のヘッドライトじゃないですか！
 
@@ -299,7 +299,7 @@ Tags: Headlamp, Guide
 
 **先生**: NAO RLのバッテリーは、スマートフォンなどの充電もできる。緊急時に役立つ機能だ。
 
-**参考情報**: 「バッテリー自体がモバイルバッテリーとしても機能し、緊急時にはスマートフォンなどの充電もできます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5gWEI9yweO4A4Dem1p_dsTPClbfIY7Mpme_Ev_-qhbpnsldqnr1daWMQq2-yBXOoonJJvd2nC8nW9L6KcOrNbJ599MNeyY3PlaH4ToyMbgnaMx__SVjrozGLH0IZnKV5riZkvEvh5oQ1IUlgR5wijsAMA83FOin0=`</details>
+> **参考情報**: 「バッテリー自体がモバイルバッテリーとしても機能し、緊急時にはスマートフォンなどの充電もできます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5gWEI9yweO4A4Dem1p_dsTPClbfIY7Mpme_Ev_-qhbpnsldqnr1daWMQq2-yBXOoonJJvd2nC8nW9L6KcOrNbJ599MNeyY3PlaH4ToyMbgnaMx__SVjrozGLH0IZnKV5riZkvEvh5oQ1IUlgR5wijsAMA83FOin0=`</details>
 
 **JK**: すごい…けど、私には完全にオーバースペックですね…。
 
@@ -321,7 +321,7 @@ Tags: Headlamp, Guide
 - 充電: Micro USB
 - 防水性能: IPX4
 
-**参考情報**: 「わずか35g（1.2オンス）と非常に軽量で、手のひらに収まるほどのコンパクトさです。これにより、ポケットや小さなバッグにも簡単に収納でき、持ち運びが容易です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGWyTb7BVSd9kYTpFQMeZu0CNJ7Shf6nBSqehuZ6tTYvt1CNmgqt2q-BL9j18ddiPLR7JvHnhv20lKvyoHDc6a3eTvW-sc2cIfFHclmhMv0It1dVPdgrWrQ95LN2t8gR8aazJ3o1dTqwtDWXMCqTurk9P2ZmYcj4OvgfRggNqR56rBrq6tHbqmV7QPMlU69Cc=`</details>
+> **参考情報**: 「わずか35g（1.2オンス）と非常に軽量で、手のひらに収まるほどのコンパクトさです。これにより、ポケットや小さなバッグにも簡単に収納でき、持ち運びが容易です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGWyTb7BVSd9kYTpFQMeZu0CNJ7Shf6nBSqehuZ6tTYvt1CNmgqt2q-BL9j18ddiPLR7JvHnhv20lKvyoHDc6a3eTvW-sc2cIfFHclmhMv0It1dVPdgrWrQ95LN2t8gR8aazJ3o1dTqwtDWXMCqTurk9P2ZmYcj4OvgfRggNqR56rBrq6tHbqmV7QPMlU69Cc=`</details>
 
 **JK**: 35g！？卵1個より軽いじゃないですか！
 
@@ -360,13 +360,13 @@ Tags: Headlamp, Guide
 | 経済性 | 長期的に経済的 | 都度購入が必要 |
 | 入手性 | 専用品 | どこでも購入可 |
 
-**参考情報**: 「COREバッテリーは、低温下でも優れた照明性能を発揮し、アルカリ電池よりも低温環境での機能が優れています。COREバッテリーは、より長時間にわたって安定した明るさを提供しますが、単4アルカリ電池は放電するにつれて徐々に明るさが低下する傾向があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtlx4lVAZmmlRxNlEopjj6FowARfzEDcBLDu28A8yGlhGO5xm3xCpzMGGd9AEKn_73tPSp2nft5k77M_nVUI8NHhaexUbD_Bw0nBBzpu8v8pF-rYNK-Dce3eCtnlbnkSvMESm3-Bw2N-bBXZ9lZMwHs6fzuXfM64ABk2wc6jyTmH5Qwj47x8YULC-8ZG6CfBy4BKkyVm8Xf7mIm8Wyi4w=`</details>
+> **参考情報**: 「COREバッテリーは、低温下でも優れた照明性能を発揮し、アルカリ電池よりも低温環境での機能が優れています。COREバッテリーは、より長時間にわたって安定した明るさを提供しますが、単4アルカリ電池は放電するにつれて徐々に明るさが低下する傾向があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtlx4lVAZmmlRxNlEopjj6FowARfzEDcBLDu28A8yGlhGO5xm3xCpzMGGd9AEKn_73tPSp2nft5k77M_nVUI8NHhaexUbD_Bw0nBBzpu8v8pF-rYNK-Dce3eCtnlbnkSvMESm3-Bw2N-bBXZ9lZMwHs6fzuXfM64ABk2wc6jyTmH5Qwj47x8YULC-8ZG6CfBy4BKkyVm8Xf7mIm8Wyi4w=`</details>
 
 **JK**: 1時間で乾電池は3分の1になっちゃうんですか…！
 
 **先生**: そうだ。特に冬山では差が顕著だ。アルカリ電池は低温に弱い。
 
-**参考情報**: 「ある比較では、COREバッテリーは1時間後に初期の明るさの50%を維持しましたが、単4アルカリ電池は約3分の1に低下しました。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFemBYjQPDEVtabOGO5ywds4JLBELRZTjACFKCx3AHGTf5OdX6H-fVa04nzy1Xg6oIM4ZUyy4qXqEa3sMY0DzqhY-9pRdK9r4rdH_4XT3HxsDyWkT8eujKsbKxaZP-LRRwZu0hBsZo=`</details>
+> **参考情報**: 「ある比較では、COREバッテリーは1時間後に初期の明るさの50%を維持しましたが、単4アルカリ電池は約3分の1に低下しました。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFemBYjQPDEVtabOGO5ywds4JLBELRZTjACFKCx3AHGTf5OdX6H-fVa04nzy1Xg6oIM4ZUyy4qXqEa3sMY0DzqhY-9pRdK9r4rdH_4XT3HxsDyWkT8eujKsbKxaZP-LRRwZu0hBsZo=`</details>
 
 **JK**: じゃあCOREバッテリー一択ですね！
 
@@ -379,9 +379,9 @@ Tags: Headlamp, Guide
 - 300回充電後も初期容量の約70%を維持
 - 単4電池900本分の寿命相当
 
-**参考情報**: 「ペツル CORE バッテリーの充電時間は、USB充電器またはコンピューターを使用した場合、約3時間から3.5時間です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFbljipFCzxbCmJXqSrziEs5OjwYTlGXsa81UJfF3_cXSfB98JLB8M1e5g6NcUBFxN1iYm_ujwEaJMyqCYupyiMl3dB8Rqi4Ggc91o4ke5m6OA5A3I4KkEQhbwaLJIwstAbq6cyGrd3txXkWnZiA==`</details>
+> **参考情報**: 「ペツル CORE バッテリーの充電時間は、USB充電器またはコンピューターを使用した場合、約3時間から3.5時間です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFbljipFCzxbCmJXqSrziEs5OjwYTlGXsa81UJfF3_cXSfB98JLB8M1e5g6NcUBFxN1iYm_ujwEaJMyqCYupyiMl3dB8Rqi4Ggc91o4ke5m6OA5A3I4KkEQhbwaLJIwstAbq6cyGrd3txXkWnZiA==`</details>
 
-**参考情報**: 「ペツル CORE バッテリーの寿命は、900本の単4形アルカリ電池に相当するとされています。充電サイクルは約300回で、300回の充放電後でも初期容量の約70%を維持します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFbljipFCzxbCmJXqSrziEs5OjwYTlGXsa81UJfF3_cXSfB98JLB8M1e5g6NcUBFxN1iYm_ujwEaJMyqCYupyiMl3dB8Rqi4Ggc91o4ke5m6OA5A3I4KkEQhbwaLJIwstAbq6cyGrd3txXkWnZiA==`</details>
+> **参考情報**: 「ペツル CORE バッテリーの寿命は、900本の単4形アルカリ電池に相当するとされています。充電サイクルは約300回で、300回の充放電後でも初期容量の約70%を維持します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFbljipFCzxbCmJXqSrziEs5OjwYTlGXsa81UJfF3_cXSfB98JLB8M1e5g6NcUBFxN1iYm_ujwEaJMyqCYupyiMl3dB8Rqi4Ggc91o4ke5m6OA5A3I4KkEQhbwaLJIwstAbq6cyGrd3txXkWnZiA==`</details>
 
 **JK**: 900本分！？それなら元が取れそうですね。
 
@@ -402,7 +402,7 @@ Tags: Headlamp, Guide
 | 夜間の岩稜帯・ナイトハイク | 500lm以上 |
 | トレイルランニング | 800lm以上推奨 |
 
-**参考情報**: 「テント内作業や防災には100ルーメン前後で十分です。一般的な登山や夜間歩行には200〜400ルーメン、夜間の岩稜帯やナイトハイクには500ルーメン以上あると安心です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfRdgeuBTbzSyKtClcb7F7qS-xQrdEUOa88j1QJDIsvbUqQ4K02h0Vli6SfGa2XRcMEvQYtKmu6IavhUENBdFiH0zkbwMRFKkgTnZl1ascpNcVKYNJFzUieKgMul7Zbz8PhR3he80F`</details>
+> **参考情報**: 「テント内作業や防災には100ルーメン前後で十分です。一般的な登山や夜間歩行には200〜400ルーメン、夜間の岩稜帯やナイトハイクには500ルーメン以上あると安心です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfRdgeuBTbzSyKtClcb7F7qS-xQrdEUOa88j1QJDIsvbUqQ4K02h0Vli6SfGa2XRcMEvQYtKmu6IavhUENBdFiH0zkbwMRFKkgTnZl1ascpNcVKYNJFzUieKgMul7Zbz8PhR3he80F`</details>
 
 **JK**: つまり私みたいな初心者は300〜350lmあれば大丈夫ってことですか？
 

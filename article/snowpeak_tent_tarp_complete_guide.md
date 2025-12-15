@@ -67,7 +67,7 @@ Tags: Tent, Tarp, Guide
 
 **先生**: アメニティドームは基本的にクロスポール構造だ。ポールを通す場所が色で示されているから、説明書を見なくても直感的に組み立てられる。慣れれば1人でも20分程度で設営できるぞ。
 
-**参考情報**: 「ポールとスリーブが色分けされているため、キャンプ初心者でも迷うことなく簡単に設営できると評判です。2人での設営が推奨されますが、慣れれば1人でも可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuD5huWPnudepwWdAe47uQLY-FmSMU3alMBjGVihmIHFJTrQfMwAv_q1oXKW9xNxL_M4FOC6sV-CkgAs_pgQivUJfJsnw2CY2WYNu3vZQerxRnZWnMciBOIEE=`</details>
+> **参考情報**: 「ポールとスリーブが色分けされているため、キャンプ初心者でも迷うことなく簡単に設営できると評判です。2人での設営が推奨されますが、慣れれば1人でも可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuD5huWPnudepwWdAe47uQLY-FmSMU3alMBjGVihmIHFJTrQfMwAv_q1oXKW9xNxL_M4FOC6sV-CkgAs_pgQivUJfJsnw2CY2WYNu3vZQerxRnZWnMciBOIEE=`</details>
 
 **JK**: 20分！？思ったより早いですね。でも雨とか大丈夫なんですか？
 
@@ -83,7 +83,7 @@ Tags: Tent, Tarp, Guide
 
 **先生**: 着替えや荷物整理のときは少し不便だな。あと、タープがないとリビングスペースが狭い。テント単体だと「寝るだけ」の場所になりがちだ。
 
-**参考情報**: 「Mサイズでも室内高が150cmと低めのため、テント内での立ち作業や移動の際に腰をかがめる必要があり、不便に感じる場合があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9ywQma_9YZ3MQyi1MH-kx4wbepIg5h6ml1deWAylVjY0oWevPlz4mgj_hBx8VOrgk7iIY02Yu_BS1uoi3Rxu4py7WctZdm5IqCv0VUTZyMWBt2gE0QWD2VMUsz0WAQcGYqpqjiHyU2fA=`</details>
+> **参考情報**: 「Mサイズでも室内高が150cmと低めのため、テント内での立ち作業や移動の際に腰をかがめる必要があり、不便に感じる場合があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9ywQma_9YZ3MQyi1MH-kx4wbepIg5h6ml1deWAylVjY0oWevPlz4mgj_hBx8VOrgk7iIY02Yu_BS1uoi3Rxu4py7WctZdm5IqCv0VUTZyMWBt2gE0QWD2VMUsz0WAQcGYqpqjiHyU2fA=`</details>
 
 **JK**: じゃあ別にタープも買わなきゃダメってことですか？出費がかさむ…。
 
@@ -122,7 +122,7 @@ Tags: Tent, Tarp, Guide
 
 **先生**: ドーム型がお椀を伏せたような形なのに対し、トンネル型は細長いカマボコのような形状だ。ポールが3本で設営でき、前室も広い。さらにインナーテントを外せばシェルターとしても使える汎用性がある。
 
-**参考情報**: 「ヴォールトは「カマボコ型」（トンネル型）と呼ばれる形状のテントで、インナーテントを使用すれば2ルームテントとして、インナーテントを外せば広々としたシェルターとしても利用できる汎用性の高さが特徴です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELhy6sgdqNUO7yoiN68DRL-kp3h4GtnXGFfDP7VUvBR4cZPr4-ZU19LNSksUi5QhOhgmiSmOXyw7Oq55KqlO4ZKMwMNTZDk6uimRacYkwe8wyvKFtVrBNt77jGw9jkL8A=`</details>
+> **参考情報**: 「ヴォールトは「カマボコ型」（トンネル型）と呼ばれる形状のテントで、インナーテントを使用すれば2ルームテントとして、インナーテントを外せば広々としたシェルターとしても利用できる汎用性の高さが特徴です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELhy6sgdqNUO7yoiN68DRL-kp3h4GtnXGFfDP7VUvBR4cZPr4-ZU19LNSksUi5QhOhgmiSmOXyw7Oq55KqlO4ZKMwMNTZDk6uimRacYkwe8wyvKFtVrBNt77jGw9jkL8A=`</details>
 
 **JK**: シェルター？
 
@@ -136,7 +136,7 @@ Tags: Tent, Tarp, Guide
 
 **先生**: タープとテントを連結して、雨に濡れずにテントに出入りできる張り方のことだ。特に雨の日は重宝するぞ。
 
-**参考情報**: 「「エントリーパックTT」は、ヴォールトテントとヘキサタープがセットになった商品です。テントとタープを別々に購入するよりもお得な価格設定で、スノーピークの高品質な製品を揃えることができます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1xjYlCefpH4umK4HFKVaED1UAgxq4Rr9xUrPTtkZNL1ZRxxwAkeTsasmaC0IfXzq0dl_aqvATIFMbtIs0QelTvP56kBwZ-k5OU6rhbAd8qVdTAYWdz9RKqU5Rikc=`</details>
+> **参考情報**: 「「エントリーパックTT」は、ヴォールトテントとヘキサタープがセットになった商品です。テントとタープを別々に購入するよりもお得な価格設定で、スノーピークの高品質な製品を揃えることができます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1xjYlCefpH4umK4HFKVaED1UAgxq4Rr9xUrPTtkZNL1ZRxxwAkeTsasmaC0IfXzq0dl_aqvATIFMbtIs0QelTvP56kBwZ-k5OU6rhbAd8qVdTAYWdz9RKqU5Rikc=`</details>
 
 #### 主なスペック
 
@@ -192,7 +192,7 @@ Tags: Tent, Tarp, Guide
 
 **先生**: 大型テントの宿命だな。だが「シールドルーフ」というオプションを使えばかなり改善できる。
 
-**参考情報**: 「結露はランドロックでも発生し得る問題ですが、「シールドルーフ」が効果的な対策として強く推奨されています。シールドルーフを装着することで、フライシートとの間に隙間が生まれ、結露を防ぐ効果が期待できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH--x2wVB2h4uM4gCBy6AsQOoqctlsUQTcaR1ULknvIlAz74AOiF2T8LlGb9r6DBifY8f2v4NXH-BNMpIV1wEy8Yn4byMTS9vlU6Q124oOnDhk9KaB0UuSYNUwvf6ywhczYDzYjUg==`</details>
+> **参考情報**: 「結露はランドロックでも発生し得る問題ですが、「シールドルーフ」が効果的な対策として強く推奨されています。シールドルーフを装着することで、フライシートとの間に隙間が生まれ、結露を防ぐ効果が期待できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH--x2wVB2h4uM4gCBy6AsQOoqctlsUQTcaR1ULknvIlAz74AOiF2T8LlGb9r6DBifY8f2v4NXH-BNMpIV1wEy8Yn4byMTS9vlU6Q124oOnDhk9KaB0UuSYNUwvf6ywhczYDzYjUg==`</details>
 
 **JK**: また別売りじゃないですか…。スノーピークって追加でいろいろ買わせる作戦なんですか？
 
@@ -255,7 +255,7 @@ Tags: Tent, Tarp, Guide
 
 **先生**: スノーピーク独自の「遮光ピグメントPUコーティング」が施されている。これがすごいんだ。
 
-**参考情報**: 「この加工により、タープの下は加工されていないタープと比較して体感温度が2～4度低くなることが、特に暑い環境（35～45度）での検証で示されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKLB99Msm_v9EXZ3l1XysNvT2Z-4s9xLQ5ABmlJnUqeZUbyzd7fyu35yRTirgtRSQQWBriUR9zyF4k--jdWtku8tUs0tqqw1aefV3hdjD1OZfhcCVGCDDXlFDKUA-sjnggOecnkZd680wO2-RzQVsy`</details>
+> **参考情報**: 「この加工により、タープの下は加工されていないタープと比較して体感温度が2～4度低くなることが、特に暑い環境（35～45度）での検証で示されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKLB99Msm_v9EXZ3l1XysNvT2Z-4s9xLQ5ABmlJnUqeZUbyzd7fyu35yRTirgtRSQQWBriUR9zyF4k--jdWtku8tUs0tqqw1aefV3hdjD1OZfhcCVGCDDXlFDKUA-sjnggOecnkZd680wO2-RzQVsy`</details>
 
 **JK**: 2〜4度も！？それってかなり違いますよね！
 
@@ -275,7 +275,7 @@ Tags: Tent, Tarp, Guide
 
 **先生**: インナールーフに難燃性のT/Cコットン（ポリエステル・コットン混紡）を使っているんだ。火の粉が当たっても穴が開きにくい設計になっている。
 
-**参考情報**: 「「TAKIBIタープ」は、焚き火の火の粉が飛散しても穴が開きにくいよう、難燃性の素材をインナールーフに採用しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz3hUaG-GYX8kKvx4xeyKWpEvAC7550Qkn7zi4x8ZY0J8caX3RQkcabmi55DNbnls6nxrxRJjrqhQ5koyHdvTLCtqIoc6eWHbtuPLci0qkCqkO9Fen0vk0krae`</details>
+> **参考情報**: 「「TAKIBIタープ」は、焚き火の火の粉が飛散しても穴が開きにくいよう、難燃性の素材をインナールーフに採用しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz3hUaG-GYX8kKvx4xeyKWpEvAC7550Qkn7zi4x8ZY0J8caX3RQkcabmi55DNbnls6nxrxRJjrqhQ5koyHdvTLCtqIoc6eWHbtuPLci0qkCqkO9Fen0vk0krae`</details>
 
 **JK**: へー！じゃあ雨の日でも焚き火できるってことですか？
 
@@ -301,13 +301,13 @@ Tags: Tent, Tarp, Guide
 
 **JK**: 2kg切ってるんですか！？さっきのランドロックが22kgだったから…10分の1以下！
 
-**参考情報**: 「「ファル Pro.air 3」（3人用）は本体とフレームで1,920gと、3人用のテントとしては軽量です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElccFq4uuwMCrLJJ4idSrAley1HLCkdGtpLwc3iW5r3dMcXOvwrSTRaYFpdjWHqsnnB9QynBABNfP8MuR2KSH5MqWUweCO5qmfvFYH9QKfaV0vki8GhXrctK2MDLSbDH0=`</details>
+> **参考情報**: 「「ファル Pro.air 3」（3人用）は本体とフレームで1,920gと、3人用のテントとしては軽量です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElccFq4uuwMCrLJJ4idSrAley1HLCkdGtpLwc3iW5r3dMcXOvwrSTRaYFpdjWHqsnnB9QynBABNfP8MuR2KSH5MqWUweCO5qmfvFYH9QKfaV0vki8GhXrctK2MDLSbDH0=`</details>
 
 **先生**: そうだ。さらに軽いのが「ラゴ Pro.air 1」で、トレッキングポールをフレーム代わりにすると最小700gまで軽量化できる。
 
 **JK**: 700g！？ペットボトル1本ちょっとじゃないですか！
 
-**参考情報**: 「「ラゴ Pro.air 1」は1kgを下回る軽さが特徴で、メインフレームをトレッキングポールで代用した場合、最小重量700gまで軽量化が可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU2rv1CqOeo6i8QoLIlv1gVwqtb2Otrov-TSV3UZkfw_yyqL3j9gex3uLsxJ4ViFrH9MOf1QSANo4zc0HhxJu-8AI9RNk9kSQ0djqCG4NfsCKwj2I=`</details>
+> **参考情報**: 「「ラゴ Pro.air 1」は1kgを下回る軽さが特徴で、メインフレームをトレッキングポールで代用した場合、最小重量700gまで軽量化が可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU2rv1CqOeo6i8QoLIlv1gVwqtb2Otrov-TSV3UZkfw_yyqL3j9gex3uLsxJ4ViFrH9MOf1QSANo4zc0HhxJu-8AI9RNk9kSQ0djqCG4NfsCKwj2I=`</details>
 
 ### 山岳テントの特殊機能
 
@@ -351,7 +351,7 @@ Tags: Tent, Tarp, Guide
 
 **先生**: 逆だ。「全製品が永久保証の対象だから保証書が必要ない」んだ。
 
-**参考情報**: 「スノーピークの全製品には保証書が添付されていませんが、これは全ての製品が「永久保証」の対象であるためです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELqkDJG1jJwCkK7zhY82KkM5JRh_yaLIF3ZDY4EejPn3Q43Fxd0gXntSb9Fwi9VHkeQ4vnGgS5K7HHmOcKJL-tBypYivfL6WJG-ZAOggC35DPP-l4-4hzx4qZ1TDrKs98U`</details>
+> **参考情報**: 「スノーピークの全製品には保証書が添付されていませんが、これは全ての製品が「永久保証」の対象であるためです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELqkDJG1jJwCkK7zhY82KkM5JRh_yaLIF3ZDY4EejPn3Q43Fxd0gXntSb9Fwi9VHkeQ4vnGgS5K7HHmOcKJL-tBypYivfL6WJG-ZAOggC35DPP-l4-4hzx4qZ1TDrKs98U`</details>
 
 **JK**: すごい！じゃあ一生修理してくれるってことですか！？
 
@@ -371,7 +371,7 @@ Tags: Tent, Tarp, Guide
 - 使用上の損傷・事故
 - 往復送料は顧客負担
 
-**参考情報**: 「製造上の欠陥が原因で製品の機能が損なわれた場合は、無料で修理または交換されます。この場合の往復送料もスノーピークが負担します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsVF4jZ2-aMgjH9SJD8OSTT-Ca8uTDyKRSrFnVdnsyVOYGYkqc5xWJXlBYaB0mo0XIcC2ftfJaHcybRVmkuIIPX7NiMMfGiCpgol6NzIFisl_uDpfng2Pa6lKNSdQv1rPjBPT4xAhms47573PpHKFBhN40IRHV692h4srpT5Izd-3iEj78ifTn5IGWsDE00BWFx3cTApMmrB1oHOvAKFnb5PTDkrmUMyll68P5cQVr3sSj8sbFVAxOIc3g0Lmky9aWLmaCI3Y56uFnesqO6HGZcsbVPwikCXF11YqeqMnEBPkzqqdCMO6bnN4K5HMHAMMxxkZ6VAZyFud8DamFzuRGkbttOKCsKAG3tnJ_TBoUXj8T4cD-KKBdjRLJzVugETO5OF0fkLzXwG4gGEohmFYLLYZ4g0C2F5NVqDmcLczf76a283pR4XBfenmTXFOBtxR8LtRsPCsOw-XU3oaOJYjo048=`</details>
+> **参考情報**: 「製造上の欠陥が原因で製品の機能が損なわれた場合は、無料で修理または交換されます。この場合の往復送料もスノーピークが負担します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsVF4jZ2-aMgjH9SJD8OSTT-Ca8uTDyKRSrFnVdnsyVOYGYkqc5xWJXlBYaB0mo0XIcC2ftfJaHcybRVmkuIIPX7NiMMfGiCpgol6NzIFisl_uDpfng2Pa6lKNSdQv1rPjBPT4xAhms47573PpHKFBhN40IRHV692h4srpT5Izd-3iEj78ifTn5IGWsDE00BWFx3cTApMmrB1oHOvAKFnb5PTDkrmUMyll68P5cQVr3sSj8sbFVAxOIc3g0Lmky9aWLmaCI3Y56uFnesqO6HGZcsbVPwikCXF11YqeqMnEBPkzqqdCMO6bnN4K5HMHAMMxxkZ6VAZyFud8DamFzuRGkbttOKCsKAG3tnJ_TBoUXj8T4cD-KKBdjRLJzVugETO5OF0fkLzXwG4gGEohmFYLLYZ4g0C2F5NVqDmcLczf76a283pR4XBfenmTXFOBtxR8LtRsPCsOw-XU3oaOJYjo048=`</details>
 
 **JK**: 有償でも直してもらえるなら安心ですね。
 
@@ -389,7 +389,7 @@ Tags: Tent, Tarp, Guide
 
 **先生**: 濡れたまま保管するとカビや悪臭、生地の劣化につながる。キャンプから帰ったら必ず完全に乾かすこと。
 
-**参考情報**: 「テントの寿命を延ばす上で最も重要なのが「徹底的な乾燥」です。濡れたまま保管するとカビや悪臭、生地の劣化の原因になります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmTTDHdZCzPTuBhpFiKFC9iN3gOAJbQw-7GuYxjGtJcE4NFyu-AtTZ4IQbvMNoUQOlM7uGQxn16cbehANG7lxkKJ1zsehVHp7dbyTt7FQhaOsyNdAaCcpp0UohUDHLOkjWCwG8XWQcszdkUBvQywbvbPH0gw==`</details>
+> **参考情報**: 「テントの寿命を延ばす上で最も重要なのが「徹底的な乾燥」です。濡れたまま保管するとカビや悪臭、生地の劣化の原因になります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmTTDHdZCzPTuBhpFiKFC9iN3gOAJbQw-7GuYxjGtJcE4NFyu-AtTZ4IQbvMNoUQOlM7uGQxn16cbehANG7lxkKJ1zsehVHp7dbyTt7FQhaOsyNdAaCcpp0UohUDHLOkjWCwG8XWQcszdkUBvQywbvbPH0gw==`</details>
 
 **JK**: でも雨キャンプの後とかどうするんですか？マンションだと干す場所ないし…。
 
@@ -420,7 +420,7 @@ Tags: Tent, Tarp, Guide
 
 **先生**: そうだ。テントに記載されている対応人数は「最大収容人数」であって「快適に過ごせる人数」ではないことが多い。荷物を置くスペースも考えると、1サイズ大きめがちょうどいい。
 
-**参考情報**: 「テントに記載されている対応人数は最大収容人数であることが多いため、荷物や快適性を考慮して「使用人数＋1人」を目安に選びましょう。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuVqhPMzt1SJulCu8HddEY0iXiC5Vhi8DV864oM-18uEk-JfOOPjsCZJvOnMiiNySxcnrlJUvwFyK7FNHLxPotPWaS1zqBwfpYjemumbcnlZozDv-5uuKr0g2-VA==`</details>
+> **参考情報**: 「テントに記載されている対応人数は最大収容人数であることが多いため、荷物や快適性を考慮して「使用人数＋1人」を目安に選びましょう。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuVqhPMzt1SJulCu8HddEY0iXiC5Vhi8DV864oM-18uEk-JfOOPjsCZJvOnMiiNySxcnrlJUvwFyK7FNHLxPotPWaS1zqBwfpYjemumbcnlZozDv-5uuKr0g2-VA==`</details>
 
 ### 人数別おすすめ
 

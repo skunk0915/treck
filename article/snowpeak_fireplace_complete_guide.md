@@ -27,7 +27,7 @@ Tags: Camping, Guide
 
 **先生**: いい質問だな。スノーピークの焚き火台は1996年発売で、実は「焚火台」というジャンル自体を作った草分け的な存在なんだ。
 
-**参考情報**: 「スノーピークの焚き火台は、1996年の発売以来、多くのキャンパーに愛され続けている定番製品です。直火禁止のマナーを広め、「焚火台」というジャンルを確立した先駆けとも言われています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGYKSujvAB7dbiQ1jduY6qm44CWlpr8xU9m2FRsDLxeQP6ZpJ6dvqJa_ssPmb_36bHXXB6HI83aTR-eUJ6T_8BeGkdOh3s7psVaSjEO7qrnM-EFQr1CEjVD65972P6toNxAXf9U_rY`</details>
+> **参考情報**: 「スノーピークの焚き火台は、1996年の発売以来、多くのキャンパーに愛され続けている定番製品です。直火禁止のマナーを広め、「焚火台」というジャンルを確立した先駆けとも言われています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGYKSujvAB7dbiQ1jduY6qm44CWlpr8xU9m2FRsDLxeQP6ZpJ6dvqJa_ssPmb_36bHXXB6HI83aTR-eUJ6T_8BeGkdOh3s7psVaSjEO7qrnM-EFQr1CEjVD65972P6toNxAXf9U_rY`</details>
 
 **JK**: えっ、そんな前からあるんですか！私が生まれる前じゃないですか。
 
@@ -67,7 +67,7 @@ Tags: Camping, Guide
 
 **先生**: スノーピークの焚き火台は1.5mm厚のステンレス製だから、その頑丈さゆえに重量がある。でもこの重さが「一生使える」耐久性を生んでいるんだ。
 
-**参考情報**: 「1〜2人用のコンパクトなサイズで、ソロキャンプや少人数での使用に最適です。持ち運びがしやすく、小枝や炭火を使った小規模な焚き火や調理に向いています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6s2wjm-38_lvT6G-OnX2KorsY8_uSvm5WGjIISnpdBK_ngtyH8NQFi2Y8RKBoWdOWjkzk3x7ox2UQTCYRL3SEBuhG_rw-1bAzF1qCOC5KPaNzRZ9P7LEi4o_TFLHWhXKxnYymFiJcNw==`</details>
+> **参考情報**: 「1〜2人用のコンパクトなサイズで、ソロキャンプや少人数での使用に最適です。持ち運びがしやすく、小枝や炭火を使った小規模な焚き火や調理に向いています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6s2wjm-38_lvT6G-OnX2KorsY8_uSvm5WGjIISnpdBK_ngtyH8NQFi2Y8RKBoWdOWjkzk3x7ox2UQTCYRL3SEBuhG_rw-1bAzF1qCOC5KPaNzRZ9P7LEi4o_TFLHWhXKxnYymFiJcNw==`</details>
 
 **JK**: でもSサイズって、市販の薪入るんですか？よく見かける30cmくらいの薪。
 
@@ -104,7 +104,7 @@ Tags: Camping, Guide
 
 **先生**: 迷ったらMを選ぶ人が多い、バランスのいいサイズだな。2〜3人での使用に適している。
 
-**参考情報**: 「ソロ〜デュオキャンプに適したサイズで、ある程度の薪を使用でき、焚き火と調理のバランスが良いモデルです。30cmの薪であれば縦にギリギリ収まります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEl7SFKdOsUo30MPFApq344oJMVGAeFc7KaICUFqANBFqpAcUUeQQ3xmXu4dEQ0W_1U48FUsYJlD4upgAPMutxuUa6l-s6rAhTzESBZzsFzatJpV0Z2s07A-OU7iXKB1d_21dk=`</details>
+> **参考情報**: 「ソロ〜デュオキャンプに適したサイズで、ある程度の薪を使用でき、焚き火と調理のバランスが良いモデルです。30cmの薪であれば縦にギリギリ収まります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEl7SFKdOsUo30MPFApq344oJMVGAeFc7KaICUFqANBFqpAcUUeQQ3xmXu4dEQ0W_1U48FUsYJlD4upgAPMutxuUa6l-s6rAhTzESBZzsFzatJpV0Z2s07A-OU7iXKB1d_21dk=`</details>
 
 **JK**: 30cmの薪がギリギリ入るってことは、Sより使いやすそうですね。
 
@@ -151,7 +151,7 @@ Tags: Camping, Guide
 
 **先生**: 「映え」か…まあ、確かに大きな炎は迫力があるな。455×455mmのサイズがあるから、大きな薪もそのまま投入できる。
 
-**参考情報**: 「デュオ〜ファミリーキャンプで最も人気が高いサイズで、大きめの薪もそのまま投入可能です。ダッチオーブンやグリルプレートとの相性も良く、本格的な焚き火料理を楽しみたい方におすすめです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEl7SFKdOsUo30MPFApq344oJMVGAeFc7KaICUFqANBFqpAcUUeQQ3xmXu4dEQ0W_1U48FUsYJlD4upgAPMutxuUa6l-s6rAhTzESBZzsFzatJpV0Z2s07A-OU7iXKB1d_21dk=`</details>
+> **参考情報**: 「デュオ〜ファミリーキャンプで最も人気が高いサイズで、大きめの薪もそのまま投入可能です。ダッチオーブンやグリルプレートとの相性も良く、本格的な焚き火料理を楽しみたい方におすすめです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEl7SFKdOsUo30MPFApq344oJMVGAeFc7KaICUFqANBFqpAcUUeQQ3xmXu4dEQ0W_1U48FUsYJlD4upgAPMutxuUa6l-s6rAhTzESBZzsFzatJpV0Z2s07A-OU7iXKB1d_21dk=`</details>
 
 **JK**: ダッチオーブン！あれやってみたいんですよね。ローストチキンとか。
 
@@ -165,7 +165,7 @@ Tags: Camping, Guide
 
 **先生**: ははは、そう反応すると思った。ただ、収納ケースを使えば肩にかけて運べるから、意外と楽だという声も多いぞ。オートキャンプで車から降ろしてすぐ設置するなら問題ない。
 
-**参考情報**: 「最も多くのユーザーがデメリットとして挙げるのがその重量です。特にLサイズは本体だけで5.5kg、スターターセット全体では10kgを超えることもあり、オートキャンプ以外の持ち運びには不便さを感じる場合があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnwEQqrzSxRTFBgVwe48Tn_wRIVEpGaRpGk1TiM2VCNMKvCZfmeS20sCnIOSuDn6uoHmNjusBKgibOAybs-O4Su06ZRRW3WrXrcbqfLTMDVlIz-6CV2BSVYtyQRpP65E0E8lLUWF5gueLeLn6WSg==`</details>
+> **参考情報**: 「最も多くのユーザーがデメリットとして挙げるのがその重量です。特にLサイズは本体だけで5.5kg、スターターセット全体では10kgを超えることもあり、オートキャンプ以外の持ち運びには不便さを感じる場合があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnwEQqrzSxRTFBgVwe48Tn_wRIVEpGaRpGk1TiM2VCNMKvCZfmeS20sCnIOSuDn6uoHmNjusBKgibOAybs-O4Su06ZRRW3WrXrcbqfLTMDVlIz-6CV2BSVYtyQRpP65E0E8lLUWF5gueLeLn6WSg==`</details>
 
 **JK**: 車で行くなら大丈夫ってことですね。電車キャンプは無理そう…。
 
@@ -200,7 +200,7 @@ Tags: Camping, Guide
 
 **先生**: 正直、一般的なファミリーキャンプには必要ないサイズだ。イベントや大人数でのグループキャンプで、みんなで囲む大きな焚き火がしたいときに使う。
 
-**参考情報**: 「焚火台Lの約3倍の容積を持ち、どんなサイズの薪でも焚火を楽しめる一番大きいサイズです。大人数での豪快な焚火におすすめです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEORvgFpqndb_09rCz5-b9F403e9kmaGuqQcV0gXp28lBB9dYuAEz1ZNERTYKAzPGXi5EreXQAj7Az0c6Lh1pcVDoJl-GHcdPOxPMJsa_d_mUJx4wt-tKfDFLFT2vWzmhhnZPrd_1s7dO9DFsVy6g==`</details>
+> **参考情報**: 「焚火台Lの約3倍の容積を持ち、どんなサイズの薪でも焚火を楽しめる一番大きいサイズです。大人数での豪快な焚火におすすめです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEORvgFpqndb_09rCz5-b9F403e9kmaGuqQcV0gXp28lBB9dYuAEz1ZNERTYKAzPGXi5EreXQAj7Az0c6Lh1pcVDoJl-GHcdPOxPMJsa_d_mUJx4wt-tKfDFLFT2vWzmhhnZPrd_1s7dO9DFsVy6g==`</details>
 
 **JK**: なんかもう別次元ですね…。私には関係なさそう。
 
@@ -216,7 +216,7 @@ Tags: Camping, Guide
 
 **先生**: 2021年に発売された比較的新しいモデルだ。Sとは構造が違って、脚パーツ、ベースプレート、本体が分解できる。
 
-**参考情報**: 「2021年4月に発売された、ソロキャンプに特化した新しい焚き火台です。従来の焚き火台と同じく、暖を取るだけでなく調理や拡張性の高さ、ワンアクションで広げられるシンプルな構造、強大な熱量にも対応する丈夫さを踏襲しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2dhEhoGo4Ix_mTVRGfImoYnXcS00dNHyvBTu6zqUK4PaIMSuPlJ-DQ_ekNS3ypM1G9KEddLZs2NmF-gCPrF381Q4dTjzAOKv_4WtQLNqklyidT6n49Kts60D4GaxNlvQTpUG5MI73_WPASQ==`</details>
+> **参考情報**: 「2021年4月に発売された、ソロキャンプに特化した新しい焚き火台です。従来の焚き火台と同じく、暖を取るだけでなく調理や拡張性の高さ、ワンアクションで広げられるシンプルな構造、強大な熱量にも対応する丈夫さを踏襲しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2dhEhoGo4Ix_mTVRGfImoYnXcS00dNHyvBTu6zqUK4PaIMSuPlJ-DQ_ekNS3ypM1G9KEddLZs2NmF-gCPrF381Q4dTjzAOKv_4WtQLNqklyidT6n49Kts60D4GaxNlvQTpUG5MI73_WPASQ==`</details>
 
 **JK**: 分解できると何がいいんですか？
 
@@ -238,7 +238,7 @@ Tags: Camping, Guide
 
 **先生**: まず、ベースプレートは必須と言っていい。焚き火台の下に敷いて、地面への熱ダメージと灰の落下を防ぐ。
 
-**参考情報**: 「芝生や土の中の微生物を守りながら焚き火を楽しめます。焚き火台を移動させたいときに、本体ではなくベースプレートを持てば動かしやすくなります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU0_6VmOQSSsuTZ_8agczg0Uq6sjIkmCyI03WV-cuuvhWxu4U3cDWBHFQSFmwBntETYcelUNa_HosFoHQQQdEPrQXsFhJIG71cAwwm2SDO3DGonfV_k5C6y7i9tbkkxeFibHNAy5Q=`</details>
+> **参考情報**: 「芝生や土の中の微生物を守りながら焚き火を楽しめます。焚き火台を移動させたいときに、本体ではなくベースプレートを持てば動かしやすくなります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU0_6VmOQSSsuTZ_8agczg0Uq6sjIkmCyI03WV-cuuvhWxu4U3cDWBHFQSFmwBntETYcelUNa_HosFoHQQQdEPrQXsFhJIG71cAwwm2SDO3DGonfV_k5C6y7i9tbkkxeFibHNAy5Q=`</details>
 
 **JK**: 芝生を守るって、そんなに大事なんですか？焚き火台使ってるんだから大丈夫じゃないですか？
 
@@ -248,7 +248,7 @@ Tags: Camping, Guide
 
 **先生**: 次に炭床Pro。これは焚き火台の底に敷くパーツで、薪や炭を底上げして燃焼効率を上げる。
 
-**参考情報**: 「燃焼部分を底上げすることで、無駄な木炭の使用を抑え、均等に熱源を維持できます。鋳鉄製の頑丈なスペックで、焚き火・炭火のハイカロリーにも耐えられます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVoy1jufDZpXTdyS0KjYN_jOav2fGLeACyu43Fnt2Hc1c0kcNv9OYEvEKRyKgzE5zqBRIyn3aN147VrOxpds8JhXRNB7nAIJeEpFvhzrYDmNT0He73w0C6fRUWHGkqmlMQLLtQOyiDAfElddGRlZhV`</details>
+> **参考情報**: 「燃焼部分を底上げすることで、無駄な木炭の使用を抑え、均等に熱源を維持できます。鋳鉄製の頑丈なスペックで、焚き火・炭火のハイカロリーにも耐えられます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVoy1jufDZpXTdyS0KjYN_jOav2fGLeACyu43Fnt2Hc1c0kcNv9OYEvEKRyKgzE5zqBRIyn3aN147VrOxpds8JhXRNB7nAIJeEpFvhzrYDmNT0He73w0C6fRUWHGkqmlMQLLtQOyiDAfElddGRlZhV`</details>
 
 **JK**: 底上げすると何がいいんですか？
 
@@ -262,7 +262,7 @@ Tags: Camping, Guide
 
 **先生**: 焚き火料理をしたいなら、グリルブリッジは必須だな。焚き火台の上に橋渡しをして、焼き網やスキレットを置く土台になる。
 
-**参考情報**: 「焚き火台LにグリルブリッジLをセットすることで、調理用オプションを使用できます。3段階の高さ調整が可能で、火加減をコントロールできます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGddrXaZnxq2xHRx3DLR6EB4o0ECv5IwJTBqpR5PpSTSr0v37Ko2vMvzapeJqe34VVxP-2N0QKOvzX-7olryeNtmWiHMRJRc2pZAbxDuWwcdP52u7gem4zo-eeooAhx4XVY8vJ4BA==`</details>
+> **参考情報**: 「焚き火台LにグリルブリッジLをセットすることで、調理用オプションを使用できます。3段階の高さ調整が可能で、火加減をコントロールできます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGddrXaZnxq2xHRx3DLR6EB4o0ECv5IwJTBqpR5PpSTSr0v37Ko2vMvzapeJqe34VVxP-2N0QKOvzX-7olryeNtmWiHMRJRc2pZAbxDuWwcdP52u7gem4zo-eeooAhx4XVY8vJ4BA==`</details>
 
 **JK**: 高さ調整ができるんですか？それ便利そう！
 
@@ -288,7 +288,7 @@ Tags: Camping, Guide
 
 **先生**: 初心者には「スターターセット」をおすすめする。焚き火に必要な基本アイテムがセットになっている。
 
-**参考情報**: 「焚き火台スターターセットは、焚き火台本体に炭床Pro、ベースプレート、収納ケースが含まれており、これから焚き火台を始める方におすすめです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvR7o29IZxRaExile5xKjRZYy3s32-eMuwjTXml6pK7_DmHVz0YKeflf0-XoTJyPlQFo2oNfymBSOpUh2No1pNvo2Aziwhd1t7W5Eu58gg9tZWfeDmxH58ZdCmDecEi5-u0za3b2_VuPCDQw==`</details>
+> **参考情報**: 「焚き火台スターターセットは、焚き火台本体に炭床Pro、ベースプレート、収納ケースが含まれており、これから焚き火台を始める方におすすめです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvR7o29IZxRaExile5xKjRZYy3s32-eMuwjTXml6pK7_DmHVz0YKeflf0-XoTJyPlQFo2oNfymBSOpUh2No1pNvo2Aziwhd1t7W5Eu58gg9tZWfeDmxH58ZdCmDecEi5-u0za3b2_VuPCDQw==`</details>
 
 ### スターターセットの内容
 
@@ -323,7 +323,7 @@ Tags: Camping, Guide
 
 **先生**: いや、超簡単だ。広げるだけ。5秒で終わる。
 
-**参考情報**: 「4枚のパネルで構成されたシンプルな構造が特徴で、広げるだけで簡単に組み立てられ、収納時も折りたたむだけなので非常に短時間で設営・撤収が可能です（最短3秒ほど）。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnwEQqrzSxRTFBgVwe48Tn_wRIVEpGaRpGk1TiM2VCNMKvCZfmeS20sCnIOSuDn6uoHmNjusBKgibOAybs-O4Su06ZRRW3WrXrcbqfLTMDVlIz-6CV2BSVYtyQRpP65E0E8lLUWF5gueLeLn6WSg==`</details>
+> **参考情報**: 「4枚のパネルで構成されたシンプルな構造が特徴で、広げるだけで簡単に組み立てられ、収納時も折りたたむだけなので非常に短時間で設営・撤収が可能です（最短3秒ほど）。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnwEQqrzSxRTFBgVwe48Tn_wRIVEpGaRpGk1TiM2VCNMKvCZfmeS20sCnIOSuDn6uoHmNjusBKgibOAybs-O4Su06ZRRW3WrXrcbqfLTMDVlIz-6CV2BSVYtyQRpP65E0E8lLUWF5gueLeLn6WSg==`</details>
 
 **JK**: え、それだけ？説明書とか見なくていいんですか？
 
@@ -335,7 +335,7 @@ Tags: Camping, Guide
 
 **先生**: 最初は誰でもそう思う。ポイントは薪の準備だ。細い薪、中くらいの太さの薪、太い薪の3種類を用意しておくこと。
 
-**参考情報**: 「火がつきやすいように、細い薪、中くらいの太さの薪、太い薪の3種類を用意すると良いでしょう。湿った薪は燃えにくいため、含水率20%以下の乾燥した薪を使用し、もし湿っていたら焚き火台の周りで乾かすのがおすすめです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQeX3AMl8T0tkcG9Jk5h6l3kRfc5zULcd_xmBSqLJku8lzQQpJC4qcwsljZUvQ0haWT2ahnuXA11xpW7Ck-HJgub9-g4QZI0jvOVUU1uDRQ9suQmt-EPd0uszcZvhHfdxi4Mhw`</details>
+> **参考情報**: 「火がつきやすいように、細い薪、中くらいの太さの薪、太い薪の3種類を用意すると良いでしょう。湿った薪は燃えにくいため、含水率20%以下の乾燥した薪を使用し、もし湿っていたら焚き火台の周りで乾かすのがおすすめです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQeX3AMl8T0tkcG9Jk5h6l3kRfc5zULcd_xmBSqLJku8lzQQpJC4qcwsljZUvQ0haWT2ahnuXA11xpW7Ck-HJgub9-g4QZI0jvOVUU1uDRQ9suQmt-EPd0uszcZvhHfdxi4Mhw`</details>
 
 **JK**: 3種類も必要なんですか？
 
@@ -365,7 +365,7 @@ Tags: Camping, Guide
 
 **先生**: 毎回ピカピカに洗う必要はない。ただ、長く使うにはいくつかのケアが必要だ。
 
-**参考情報**: 「使用後は十分に冷却し、残った灰や炭は酸化の原因となるため、できる限り取り除くことが推奨されています。焦げ付きは熱いうちにワイヤーブラシで軽く落とし、頑固な油汚れには重曹を溶かした40℃前後のお湯に1時間程度浸け置き洗いをするのが効果的です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGH7ukZQiZktpo8jK2uS3Ci0UIq8lZgcGWwREM-yGNBHrTQ-ruB5dHPl7Ne9zXxa2pBi7n4kJqsE-6NJcViWTr0R9fa4rZw6QK5YcXNYMO-caoaaqvbWZ2eIWiJbsg5whkweewYPO28pZLT79fNaF5YnQ==`</details>
+> **参考情報**: 「使用後は十分に冷却し、残った灰や炭は酸化の原因となるため、できる限り取り除くことが推奨されています。焦げ付きは熱いうちにワイヤーブラシで軽く落とし、頑固な油汚れには重曹を溶かした40℃前後のお湯に1時間程度浸け置き洗いをするのが効果的です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGH7ukZQiZktpo8jK2uS3Ci0UIq8lZgcGWwREM-yGNBHrTQ-ruB5dHPl7Ne9zXxa2pBi7n4kJqsE-6NJcViWTr0R9fa4rZw6QK5YcXNYMO-caoaaqvbWZ2eIWiJbsg5whkweewYPO28pZLT79fNaF5YnQ==`</details>
 
 **JK**: 重曹！？そこまでやるんですか？
 
@@ -389,7 +389,7 @@ Tags: Camping, Guide
 
 **先生**: まず、絶対にやってはいけないのが、熱い焚き火台に直接水をかけること。
 
-**参考情報**: 「焚き火を楽しんだ後は、しっかりと後片付けをすることが重要です。焚き火台に直接水をかけると急冷されて変形する可能性があるため、燃えている薪や炭を火ばさみで取り出し、水を入れたバケツなどで消火します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbHzwygVERidyoEJnXCg0UixRtuRDHyQ9cpMsgoDUkPxHOGoS1jnLW7WESIU7lWOuANgaVpHA16m5EOIyfkhJYpivgudGjoE8mGWpgabR87gcAL2BsT-hxpNwIrbXw8oXfEgKQ04QM`</details>
+> **参考情報**: 「焚き火を楽しんだ後は、しっかりと後片付けをすることが重要です。焚き火台に直接水をかけると急冷されて変形する可能性があるため、燃えている薪や炭を火ばさみで取り出し、水を入れたバケツなどで消火します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbHzwygVERidyoEJnXCg0UixRtuRDHyQ9cpMsgoDUkPxHOGoS1jnLW7WESIU7lWOuANgaVpHA16m5EOIyfkhJYpivgudGjoE8mGWpgabR87gcAL2BsT-hxpNwIrbXw8oXfEgKQ04QM`</details>
 
 **JK**: えっ、水かけちゃダメなんですか？消火のために水かけるイメージありました。
 
@@ -415,7 +415,7 @@ Tags: Camping, Guide
 
 **先生**: ユニフレームのファイアグリルは、スノーピークと並ぶ定番商品だ。
 
-**参考情報**: 「スノーピークは、最高の品質と耐久性、美しいデザインを求める方、様々なオプションで焚き火を総合的に楽しみたい方に最適です。ユニフレームは、コストパフォーマンスと万能性を重視し、焚き火と料理の両方を一台で楽しみたい方に強くおすすめです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEseFrh2zrSb9zQiZa5w-ukX2-8X1D-mUozVhCmGbXDqCdFFtEsXAOqDMhecfmOG9e4TAptYZpolybmLxH4ckX6x4Sa0uGMePOJQcoFUu68-Dp8NLHJdMwhA3RqEerI3T2vPcdiuBFx`</details>
+> **参考情報**: 「スノーピークは、最高の品質と耐久性、美しいデザインを求める方、様々なオプションで焚き火を総合的に楽しみたい方に最適です。ユニフレームは、コストパフォーマンスと万能性を重視し、焚き火と料理の両方を一台で楽しみたい方に強くおすすめです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEseFrh2zrSb9zQiZa5w-ukX2-8X1D-mUozVhCmGbXDqCdFFtEsXAOqDMhecfmOG9e4TAptYZpolybmLxH4ckX6x4Sa0uGMePOJQcoFUu68-Dp8NLHJdMwhA3RqEerI3T2vPcdiuBFx`</details>
 
 **JK**: コスパがいいんですか？
 
@@ -449,7 +449,7 @@ Tags: Camping, Guide
 
 **先生**: 正直に言うと、登山には向かない。
 
-**参考情報**: 「UL（ウルトラライト）軽量化や登山での携帯性を重視する場合、スノーピークの焚き火台は、その堅牢な作りのため、比較的重量があります。特にLサイズは5kgを超えるため、UL志向の登山には不向きと言えるでしょう。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1nuK8fb930YizAR5-Vg32QrZr1GddFzR5MpbUQLHhNEbM5psSCtGqmdjHERU2T9-ByyQfBCbjY_6g-Ian1-XgDXoz5wlVecM4jiNKf0SgesLPZcHSkYN62hcz4bThqPj0MnJPTlpS`</details>
+> **参考情報**: 「UL（ウルトラライト）軽量化や登山での携帯性を重視する場合、スノーピークの焚き火台は、その堅牢な作りのため、比較的重量があります。特にLサイズは5kgを超えるため、UL志向の登山には不向きと言えるでしょう。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1nuK8fb930YizAR5-Vg32QrZr1GddFzR5MpbUQLHhNEbM5psSCtGqmdjHERU2T9-ByyQfBCbjY_6g-Ian1-XgDXoz5wlVecM4jiNKf0SgesLPZcHSkYN62hcz4bThqPj0MnJPTlpS`</details>
 
 **JK**: そうなんですか…。登山で焚き火したいときはどうするんですか？
 

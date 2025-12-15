@@ -35,7 +35,7 @@ Tags: Training, Guide
 
 **先生**: ふふ、だからこそトレーニングが重要なんだ。
 
-**参考情報**: 「登山では特に下半身と体幹の筋肉が重要です。これらの筋肉を鍛えることで、長時間の歩行や不安定な足場での安定性が向上し、疲労軽減や怪我の予防につながります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9iaHWjDGesqCMca5Iko8HpJSLL_xfQ-YLFBCNgxJnCGAgP7Dv0qQpDWyn5yVgnujBhanekiB-HhpVp6MuzdFq4tLokwigET5YXuN_RvV7RKi7ycm8tmPve_wI8F0=`</details>
+> **参考情報**: 「登山では特に下半身と体幹の筋肉が重要です。これらの筋肉を鍛えることで、長時間の歩行や不安定な足場での安定性が向上し、疲労軽減や怪我の予防につながります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9iaHWjDGesqCMca5Iko8HpJSLL_xfQ-YLFBCNgxJnCGAgP7Dv0qQpDWyn5yVgnujBhanekiB-HhpVp6MuzdFq4tLokwigET5YXuN_RvV7RKi7ycm8tmPve_wI8F0=`</details>
 
 ---
 
@@ -53,7 +53,7 @@ Tags: Training, Guide
 
 **先生**: 大丈夫だ。持久力は誰でもトレーニングで向上させることができる。年齢に関わらずな。
 
-**参考情報**: 「持久力は、肺から酸素を効率的に体内に取り込み、利用する能力であり、心臓と肺の機能に直結します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxMnMoQEQEFCMK8DtwKKFlmeCMHqCaVobpTUQVHWd4RtxPMYndidc8MkY-LPLp5sAadDQjudAHcmExFJ7STm8Fjr7PLLKDQuz6n0mS2Gfc6gN_XG00iBH6bbLoW9YgwOW6gSMYLUgOKayE3zzfFhYCv_ZrvzrkjeTb9zI2eYX2clw7e-qXn0ku1D0=`</details>
+> **参考情報**: 「持久力は、肺から酸素を効率的に体内に取り込み、利用する能力であり、心臓と肺の機能に直結します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxMnMoQEQEFCMK8DtwKKFlmeCMHqCaVobpTUQVHWd4RtxPMYndidc8MkY-LPLp5sAadDQjudAHcmExFJ7STm8Fjr7PLLKDQuz6n0mS2Gfc6gN_XG00iBH6bbLoW9YgwOW6gSMYLUgOKayE3zzfFhYCv_ZrvzrkjeTb9zI2eYX2clw7e-qXn0ku1D0=`</details>
 
 ### 筋力（下半身・体幹）
 
@@ -81,7 +81,7 @@ Tags: Training, Guide
 
 **先生**: 特に**股関節の柔軟性**は、登りも下りも楽にするために欠かせない要素だ。柔軟性があれば、肉離れなどの怪我の予防にもつながる。
 
-**参考情報**: 「柔軟性は加齢とともに低下しやすく、体が硬いと関節の可動域が小さくなり、疲労しやすくなります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwUJGVYPRmDUNK3Vp-3kTiDzUPqo13-oOio-DGB6noHObtfGETe2d1d-rQ2Yyidj7LyIJnTd54OTyXMYbiLCN5yskj-9fqwfKp2jkb3IXsHxzbSs-l5GXIcV8QIwd-H5elShDlOrgh6mXG9_s65qKps_qR`</details>
+> **参考情報**: 「柔軟性は加齢とともに低下しやすく、体が硬いと関節の可動域が小さくなり、疲労しやすくなります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwUJGVYPRmDUNK3Vp-3kTiDzUPqo13-oOio-DGB6noHObtfGETe2d1d-rQ2Yyidj7LyIJnTd54OTyXMYbiLCN5yskj-9fqwfKp2jkb3IXsHxzbSs-l5GXIcV8QIwd-H5elShDlOrgh6mXG9_s65qKps_qR`</details>
 
 ---
 
@@ -91,7 +91,7 @@ Tags: Training, Guide
 
 **先生**: いや、自宅で十分だ。特別な器具も不要だぞ。自重トレーニングを中心に、手軽に継続できるメニューを紹介しよう。
 
-**参考情報**: 「これらのトレーニングは、特別な道具を必要とせず自宅で手軽に行えるものが多く、忙しい方でも日常生活に取り入れやすい方法です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaDvJWOfxMqnf1tiQwKt8DWgG0KkxzNOSo-L65sTXbMuEA2G7lUxsqSgtaVgVrKIh9mTKSg3zqCGYdBXIBjeVlASnd7x8-6lyJIARhTnOhx2BaySSYLoeMOum0QC4=`</details>
+> **参考情報**: 「これらのトレーニングは、特別な道具を必要とせず自宅で手軽に行えるものが多く、忙しい方でも日常生活に取り入れやすい方法です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaDvJWOfxMqnf1tiQwKt8DWgG0KkxzNOSo-L65sTXbMuEA2G7lUxsqSgtaVgVrKIh9mTKSg3zqCGYdBXIBjeVlASnd7x8-6lyJIARhTnOhx2BaySSYLoeMOum0QC4=`</details>
 
 ### スクワット：下半身強化の王道
 
@@ -107,7 +107,7 @@ Tags: Training, Guide
 
 **先生**: 10回×3セットを目安にするといい。慣れてきたらリュックを背負って負荷を上げることもできる。
 
-**参考情報**: 「スクワット: 下半身全体を効率的に鍛える基本のトレーニングです。足を肩幅に開き、膝がつま先より前に出ないように注意しながら、椅子に座るように腰を下ろします」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiuDmzCY_w3FBqONomKKKJZDJXnmDPsoPOuFt7PKgdtEe76N4xclymFaurYa5IFPA4GLJaEcStSSKaxXO6mlyJCLAHihIzECSU6OzsRTV7hb12yfA_2qTjvQ==`</details>
+> **参考情報**: 「スクワット: 下半身全体を効率的に鍛える基本のトレーニングです。足を肩幅に開き、膝がつま先より前に出ないように注意しながら、椅子に座るように腰を下ろします」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiuDmzCY_w3FBqONomKKKJZDJXnmDPsoPOuFt7PKgdtEe76N4xclymFaurYa5IFPA4GLJaEcStSSKaxXO6mlyJCLAHihIzECSU6OzsRTV7hb12yfA_2qTjvQ==`</details>
 
 #### 主なスペック
 - 回数目安：10回×3セット
@@ -136,7 +136,7 @@ Tags: Training, Guide
 
 **先生**: そのグラグラこそがバランストレーニングになっている。左右それぞれ10回ずつを3セットだ。
 
-**参考情報**: 「ランジ: 太もも、ふくらはぎ、お尻の筋肉をバランスよく鍛えます。片足を大きく前に踏み出し、膝が90度になるまで腰を下げます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxMnMoQEQEFCMK8DtwKKFlmeCMHqCaVobpTUQVHWd4RtxPMYndidc8MkY-LPLp5sAadDQjudAHcmExFJ7STm8Fjr7PLLKDQuz6n0mS2Gfc6gN_XG00iBH6bbLoW9YgwOW6gSMYLUgOKayE3zzfFhYCv_ZrvzrkjeTb9zI2eYX2clw7e-qXn0ku1D0=`</details>
+> **参考情報**: 「ランジ: 太もも、ふくらはぎ、お尻の筋肉をバランスよく鍛えます。片足を大きく前に踏み出し、膝が90度になるまで腰を下げます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxMnMoQEQEFCMK8DtwKKFlmeCMHqCaVobpTUQVHWd4RtxPMYndidc8MkY-LPLp5sAadDQjudAHcmExFJ7STm8Fjr7PLLKDQuz6n0mS2Gfc6gN_XG00iBH6bbLoW9YgwOW6gSMYLUgOKayE3zzfFhYCv_ZrvzrkjeTb9zI2eYX2clw7e-qXn0ku1D0=`</details>
 
 ### カーフレイズ：地味だけど超重要
 
@@ -154,7 +154,7 @@ Tags: Training, Guide
 
 **JK**: なるほど！ それなら続けられそう。
 
-**参考情報**: 「カーフレイズ: ふくらはぎを鍛え、登山時の足の疲れを軽減します。15回×3セットが目安で、日常的に取り入れやすいトレーニングです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrdD1VCxY8XUVHgy-_USu-jXFi8hiNDWZHTjAxTby_-Lc4LS_DxhsSVE9ofymIVIQ4hGZw9qql9nev76a8NkRc5fiVI9qvMpMBDZ-6JSITYc4HbMRWCvwQ5Ujfgc6J`</details>
+> **参考情報**: 「カーフレイズ: ふくらはぎを鍛え、登山時の足の疲れを軽減します。15回×3セットが目安で、日常的に取り入れやすいトレーニングです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrdD1VCxY8XUVHgy-_USu-jXFi8hiNDWZHTjAxTby_-Lc4LS_DxhsSVE9ofymIVIQ4hGZw9qql9nev76a8NkRc5fiVI9qvMpMBDZ-6JSITYc4HbMRWCvwQ5Ujfgc6J`</details>
 
 ### ヒップリフト：下山時の膝を守る
 
@@ -168,7 +168,7 @@ Tags: Training, Guide
 
 **先生**: その通り。やり方は簡単だ。仰向けに寝て膝を立て、お尻を持ち上げる。10回×3セットが目安だ。
 
-**参考情報**: 「ヒップリフト: お尻の筋肉を強化し、下り坂での膝への負担を軽減します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiuDmzCY_w3FBqONomKKKJZDJXnmDPsoPOuFt7PKgdtEe76N4xclymFaurYa5IFPA4GLJaEcStSSKaxXO6mlyJCLAHihIzECSU6OzsRTV7hb12yfA_2qTjvQ==`</details>
+> **参考情報**: 「ヒップリフト: お尻の筋肉を強化し、下り坂での膝への負担を軽減します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiuDmzCY_w3FBqONomKKKJZDJXnmDPsoPOuFt7PKgdtEe76N4xclymFaurYa5IFPA4GLJaEcStSSKaxXO6mlyJCLAHihIzECSU6OzsRTV7hb12yfA_2qTjvQ==`</details>
 
 ### プランク：体幹強化の決定版
 
@@ -188,7 +188,7 @@ Tags: Training, Guide
 
 **先生**: プランクは腹筋、背筋、太ももの筋肉を同時に鍛えられる。不安定な山道でバランスを保つ力が身につくぞ。
 
-**参考情報**: 「プランク: 体幹を強化し、バランス能力と静的筋持久力を向上させます。両肘を床につけ、つま先で体を支え、体を一直線に保ちます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvGJ6qY_voiebJDgudJQRENQBxx_JAsNAoatfsSo7xkxMQ8_i9A2Yitgurm71hPEwTlcLtteHBk4lxcrP7Z8oyn-IDTRAjG3s0JXkfpKfDbMStcVnneoC-c_FQRrgf1SGkMQmQNU7fzFgUXJxl6sjclWma`</details>
+> **参考情報**: 「プランク: 体幹を強化し、バランス能力と静的筋持久力を向上させます。両肘を床につけ、つま先で体を支え、体を一直線に保ちます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvGJ6qY_voiebJDgudJQRENQBxx_JAsNAoatfsSo7xkxMQ8_i9A2Yitgurm71hPEwTlcLtteHBk4lxcrP7Z8oyn-IDTRAjG3s0JXkfpKfDbMStcVnneoC-c_FQRrgf1SGkMQmQNU7fzFgUXJxl6sjclWma`</details>
 
 ---
 
@@ -214,7 +214,7 @@ Tags: Training, Guide
 
 **先生**: 平坦な道でのウォーキングだけでは、山登りに必要な新たな筋肉をつけたり、実際の山登りの負荷に対応するには不十分な場合がある。だから、近所の坂道や石段がある神社などを歩くのがおすすめだ。
 
-**参考情報**: 「特に、健康維持には効果的ですが、平坦な道でのウォーキングだけでは、山登りに必要な新たな筋肉をつけたり、実際の山登りの負荷に対応するには不十分な場合があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgCitktEWWW4jzdCXdtc8yUFSWuAW8Fd-jyUMJ1CTK7ibx5BZikBrMaWieS7TuFvGhO-73jCLNzSVXtd7bK0NC4Z5FIchTfzHIn2bCjg_wJTwJswEbNY8gKYveEl9P23dUQvmW5GbSOR7lUdsXHJQ8Ix1AwWLdLSqXAiX3TqCnfRFJ`</details>
+> **参考情報**: 「特に、健康維持には効果的ですが、平坦な道でのウォーキングだけでは、山登りに必要な新たな筋肉をつけたり、実際の山登りの負荷に対応するには不十分な場合があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgCitktEWWW4jzdCXdtc8yUFSWuAW8Fd-jyUMJ1CTK7ibx5BZikBrMaWieS7TuFvGhO-73jCLNzSVXtd7bK0NC4Z5FIchTfzHIn2bCjg_wJTwJswEbNY8gKYveEl9P23dUQvmW5GbSOR7lUdsXHJQ8Ix1AwWLdLSqXAiX3TqCnfRFJ`</details>
 
 ### ジョギング：持久力強化に効果的
 
@@ -232,7 +232,7 @@ Tags: Training, Guide
 
 **先生**: ただし注意点もある。ジョギングは**膝や足首に負担がかかる**。関節に不安がある人は、早歩きから始めるのがいいだろう。
 
-**参考情報**: 「ジョギングは、山登りに必要な持久力を養うのに非常に効果的なトレーニングです。平地を走る負荷は、山を登り降りする際の負荷に相当すると言われており、心肺機能の強化にも繋がります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfhta_7wXuFlRQxXvA-_mvmjIkduTXS3KNnTcFCVrpPpqRMvUdgWxObWpwOWPfVg-ck3wt2xarvnlymlb5JuPVD-MrZ8vqQlAjNTTYxUIrHSVZNb_yzRboOjDcOY0TCAnzaao4zzm4CBOPzwdJvndZAEfTAJbubZdA9aOPJV69C1HtnKu2nAijL4noRdyuZy3ZlZ_n-QKXFFLr9_voyrpxaVw2mYGR3K_8svPhCvcLhplHQqAajkBRR8gL2fbfc3RiIUy_TZZWEMh2ZGCo1nHQeFUSBletfBlxGBahEysyXwUmkIakwUa0BiEVCjFsbAF9QeoKWH7YGllnx2etu89fRJaWQJsHIocd`</details>
+> **参考情報**: 「ジョギングは、山登りに必要な持久力を養うのに非常に効果的なトレーニングです。平地を走る負荷は、山を登り降りする際の負荷に相当すると言われており、心肺機能の強化にも繋がります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfhta_7wXuFlRQxXvA-_mvmjIkduTXS3KNnTcFCVrpPpqRMvUdgWxObWpwOWPfVg-ck3wt2xarvnlymlb5JuPVD-MrZ8vqQlAjNTTYxUIrHSVZNb_yzRboOjDcOY0TCAnzaao4zzm4CBOPzwdJvndZAEfTAJbubZdA9aOPJV69C1HtnKu2nAijL4noRdyuZy3ZlZ_n-QKXFFLr9_voyrpxaVw2mYGR3K_8svPhCvcLhplHQqAajkBRR8gL2fbfc3RiIUy_TZZWEMh2ZGCo1nHQeFUSBletfBlxGBahEysyXwUmkIakwUa0BiEVCjFsbAF9QeoKWH7YGllnx2etu89fRJaWQJsHIocd`</details>
 
 ### 階段昇降：登山シミュレーション
 
@@ -254,7 +254,7 @@ Tags: Training, Guide
 
 **先生**: ただし注意点もある。**長時間行うと腰や膝を痛める可能性がある**から、無理のない範囲で、休息日も設けることが大切だ。
 
-**参考情報**: 「階段トレーニングは、有酸素運動と筋力トレーニングの両方の効果が得られるため、山登りにとって非常に効率的なトレーニングです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlPrxhTXfdUSZnNsJ37VOGXKCvmH_LRrNoxpnMen18JWO87uAU_-kAKPvIK5ShjEBPk7ro3cEOl6aO_lIE7-leSfsEz9uk8dUFSLavW_LUR-JKGszUuh-mFNEx_NVc2EWuvFF4LOMW`</details>
+> **参考情報**: 「階段トレーニングは、有酸素運動と筋力トレーニングの両方の効果が得られるため、山登りにとって非常に効率的なトレーニングです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlPrxhTXfdUSZnNsJ37VOGXKCvmH_LRrNoxpnMen18JWO87uAU_-kAKPvIK5ShjEBPk7ro3cEOl6aO_lIE7-leSfsEz9uk8dUFSLavW_LUR-JKGszUuh-mFNEx_NVc2EWuvFF4LOMW`</details>
 
 ### プレ登山：実践に勝る練習はない
 
@@ -272,7 +272,7 @@ Tags: Training, Guide
 
 **先生**: そんなことはない。可能であれば、**月に2回程度の低山登山**を実践することが、最も有効なトレーニングになる。1時間以上歩き続けることに慣れることが目標だ。
 
-**参考情報**: 「プレ登山（練習登山）: まずは標高差500m程度の山から登り始め、慣れてきたら1,000m程度の山へとステップアップしましょう。1時間以上歩き続けることに慣れることが目標です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFSFQx38OsHky6OtvDXbbsUQQSpRCuWWXfL22VUK3B2N1OE_glVI6UDhm19v9_fkiqiv10Wxdl7vnulT5n5t-IypGJlXL0sX90GJ2y1t0Kr_qVrUa4NYH3DhmpeONjRdMWr8OaPUl7GMj5I-JDqKBG7tfT`</details>
+> **参考情報**: 「プレ登山（練習登山）: まずは標高差500m程度の山から登り始め、慣れてきたら1,000m程度の山へとステップアップしましょう。1時間以上歩き続けることに慣れることが目標です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFSFQx38OsHky6OtvDXbbsUQQSpRCuWWXfL22VUK3B2N1OE_glVI6UDhm19v9_fkiqiv10Wxdl7vnulT5n5t-IypGJlXL0sX90GJ2y1t0Kr_qVrUa4NYH3DhmpeONjRdMWr8OaPUl7GMj5I-JDqKBG7tfT`</details>
 
 ---
 
@@ -296,7 +296,7 @@ Tags: Training, Guide
 
 **先生**: 全く意味がないわけではないが、体を温めるには不十分とされている。登山前には、体を動かす系のストレッチを中心にするといい。
 
-**参考情報**: 「登山前には、筋肉や体の温度を上昇させる「動的ストレッチ」が有効です。アキレス腱を伸ばすなどの静的ストレッチだけでは、身体を温めるには不十分とされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEszsgAoSjXfk18DRil_J2ZGHZiszsBPxLv8zu7lh99ubBDC-q_LIllL90mdgRFqcXtRDXu_dbscL6q4V_ZJIGGU9-PHzvqffnGKcu8hto-Hk-UDA==`</details>
+> **参考情報**: 「登山前には、筋肉や体の温度を上昇させる「動的ストレッチ」が有効です。アキレス腱を伸ばすなどの静的ストレッチだけでは、身体を温めるには不十分とされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEszsgAoSjXfk18DRil_J2ZGHZiszsBPxLv8zu7lh99ubBDC-q_LIllL90mdgRFqcXtRDXu_dbscL6q4V_ZJIGGU9-PHzvqffnGKcu8hto-Hk-UDA==`</details>
 
 ### 登山前の準備運動メニュー
 
@@ -318,7 +318,7 @@ Tags: Training, Guide
 
 **先生**: 実際、**ラジオ体操も全身運動としておすすめ**だぞ。
 
-**参考情報**: 「準備運動は、体温や筋温を上昇させ、酸素や血液の流れを良くすることが目的です。これにより、心肺機能への急激な負担を軽減し、柔軟性を高めて可動域を広げることで、スムーズな身体の動きや怪我の防止につながります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOQE9VXM9pKK3D_yy-_UBxR0bIev1CIMIPw4j_LUcy_7T6xf0v2O6D7H-7iJs1RhV1uf4_nc5Y4_D3aa3V1prsX7FAktsPgTNsOUbmV5NM8UfGLB4-f8AdJLcZE9MPx91gfmKWE4rJQt4w-R-HHBCStw4LuF93uEoebgMHzVbmENNtvFPJmdmNMO_edSMRuSnRPuhzDzwZ-mRxe40-b-UFFEQD-PjNdQgdA0ZGkojX5GFivqtR23ySLQqXhSBfnk4MWftRnxT63Hy6bmsRBqU3DOA1tmVmq0nr5CZpaxC4kwktznlU6d15F5aIaK7DJ4KwtDshSwbsbkUxpssMYDmHrC6FO5-Y7kgrPmNYwgkg435wG5gioUJTovw4JCFtqg==`</details>
+> **参考情報**: 「準備運動は、体温や筋温を上昇させ、酸素や血液の流れを良くすることが目的です。これにより、心肺機能への急激な負担を軽減し、柔軟性を高めて可動域を広げることで、スムーズな身体の動きや怪我の防止につながります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOQE9VXM9pKK3D_yy-_UBxR0bIev1CIMIPw4j_LUcy_7T6xf0v2O6D7H-7iJs1RhV1uf4_nc5Y4_D3aa3V1prsX7FAktsPgTNsOUbmV5NM8UfGLB4-f8AdJLcZE9MPx91gfmKWE4rJQt4w-R-HHBCStw4LuF93uEoebgMHzVbmENNtvFPJmdmNMO_edSMRuSnRPuhzDzwZ-mRxe40-b-UFFEQD-PjNdQgdA0ZGkojX5GFivqtR23ySLQqXhSBfnk4MWftRnxT63Hy6bmsRBqU3DOA1tmVmq0nr5CZpaxC4kwktznlU6d15F5aIaK7DJ4KwtDshSwbsbkUxpssMYDmHrC6FO5-Y7kgrPmNYwgkg435wG5gioUJTovw4JCFtqg==`</details>
 
 ---
 
@@ -346,7 +346,7 @@ Tags: Training, Guide
 
 **先生**: 絶対にダメだ。登山当日は**腹八分目の朝食をしっかり摂り**、炭水化物でエネルギーを補給することが重要だぞ。
 
-**参考情報**: 「普段から運動習慣がないと、山登りで必要な基礎体力が不足し、すぐに疲労困憊の状態になりがちです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHMVe0NUTx7y6QrPHZBRBUFrWOLv9HWGj8aRwVMG6D4Q-IEWh8508rtQ9IbipQIIxw9CBoLuAk4stLDSNmIU8xSlrc5vtkOaJrvXcI1uk8Q9BV4QEpKOPVywVDXisHR7XG9ag=`</details>
+> **参考情報**: 「普段から運動習慣がないと、山登りで必要な基礎体力が不足し、すぐに疲労困憊の状態になりがちです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHMVe0NUTx7y6QrPHZBRBUFrWOLv9HWGj8aRwVMG6D4Q-IEWh8508rtQ9IbipQIIxw9CBoLuAk4stLDSNmIU8xSlrc5vtkOaJrvXcI1uk8Q9BV4QEpKOPVywVDXisHR7XG9ag=`</details>
 
 ### 筋肉痛の原因
 
@@ -362,7 +362,7 @@ Tags: Training, Guide
 
 **先生**: さらに、着地の衝撃も筋肉への負担を増大させる。そして、筋肉が硬い状態だと損傷しやすくなる。だから柔軟性が重要なんだ。
 
-**参考情報**: 「特に下山時、筋肉が伸びながら力を出す（ブレーキをかけるような）動作（伸張性収縮）が繰り返されることで、太ももの前面（大腿四頭筋）に大きな負担がかかり、筋肉が損傷しやすくなります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzHwS4BuF3uuqWZkBLky7m714nH3zFfxqPzmh3WxKWXnAwahbD09kIaUOsbAh5mew03C3owPQVB6vVujg_GkP7Cg6bp20Nw8hQBNr7t2nzeJtgCV7SOnIEvL4=`</details>
+> **参考情報**: 「特に下山時、筋肉が伸びながら力を出す（ブレーキをかけるような）動作（伸張性収縮）が繰り返されることで、太ももの前面（大腿四頭筋）に大きな負担がかかり、筋肉が損傷しやすくなります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzHwS4BuF3uuqWZkBLky7m714nH3zFfxqPzmh3WxKWXnAwahbD09kIaUOsbAh5mew03C3owPQVB6vVujg_GkP7Cg6bp20Nw8hQBNr7t2nzeJtgCV7SOnIEvL4=`</details>
 
 ### トレッキングポールの活用
 
@@ -378,7 +378,7 @@ Tags: Training, Guide
 
 **先生**: その通りだ。
 
-**参考情報**: 「トレッキングポールを使用すると、下半身だけでなく上半身の力も活用でき、下山時の着地衝撃を腕に分散させ、脚への負担を大幅に軽減できます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzHwS4BuF3uuqWZkBLky7m714nH3zFfxqPzmh3WxKWXnAwahbD09kIaUOsbAh5mew03C3owPQVB6vVujg_GkP7Cg6bp20Nw8hQBNr7t2nzeJtgCV7SOnIEvL4=`</details>
+> **参考情報**: 「トレッキングポールを使用すると、下半身だけでなく上半身の力も活用でき、下山時の着地衝撃を腕に分散させ、脚への負担を大幅に軽減できます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzHwS4BuF3uuqWZkBLky7m714nH3zFfxqPzmh3WxKWXnAwahbD09kIaUOsbAh5mew03C3owPQVB6vVujg_GkP7Cg6bp20Nw8hQBNr7t2nzeJtgCV7SOnIEvL4=`</details>
 
 ---
 
@@ -400,7 +400,7 @@ Tags: Training, Guide
 
 **先生**: そうだ。富士山のような往復8時間以上の登山の場合は、**登山予定日の3ヶ月以上前**からトレーニングを始めるのが理想的だ。
 
-**参考情報**: 「富士山のような往復8時間以上の登山の場合: 登山予定日の3ヶ月以上前からトレーニングを始めるのが理想的とされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFebDkwNDGUuRE3EKxmS4jadA5LTS77rGkj_wipRzXAvkvbMI3EodqX5kOZSzAER6P1jSWPc9OFz8mSCyYK-p7aM02LYykpym8SRHpIZbSt4fLhTiUTx-KV7yO548p-Tv6SVLSXRM9k`</details>
+> **参考情報**: 「富士山のような往復8時間以上の登山の場合: 登山予定日の3ヶ月以上前からトレーニングを始めるのが理想的とされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFebDkwNDGUuRE3EKxmS4jadA5LTS77rGkj_wipRzXAvkvbMI3EodqX5kOZSzAER6P1jSWPc9OFz8mSCyYK-p7aM02LYykpym8SRHpIZbSt4fLhTiUTx-KV7yO548p-Tv6SVLSXRM9k`</details>
 
 ### 効果が出るまでの期間
 
@@ -414,7 +414,7 @@ Tags: Training, Guide
 
 **JK**: じゃあ、とりあえず始めてみます！
 
-**参考情報**: 「自宅でできる有酸素運動や筋力トレーニングを週3回程度のペースで行った場合、1ヶ月後には持久力の向上が感じられ、4週間から12週間（約1～3ヶ月）で効果を実感できるとされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIOp8fOqTjrtM1Os2cJxC9zyoH6qkcRpR7IaukRD0MnZEPsd77l48x_eeFrQwK8KdNsYyDs44MDfXyM7pOjflj-1OxkaFzV-ZEvfo1rmy6hlqMrTArUjt0i8KlD5cDEEinh9NRVto=`</details>
+> **参考情報**: 「自宅でできる有酸素運動や筋力トレーニングを週3回程度のペースで行った場合、1ヶ月後には持久力の向上が感じられ、4週間から12週間（約1～3ヶ月）で効果を実感できるとされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIOp8fOqTjrtM1Os2cJxC9zyoH6qkcRpR7IaukRD0MnZEPsd77l48x_eeFrQwK8KdNsYyDs44MDfXyM7pOjflj-1OxkaFzV-ZEvfo1rmy6hlqMrTArUjt0i8KlD5cDEEinh9NRVto=`</details>
 
 ---
 
@@ -432,7 +432,7 @@ Tags: Training, Guide
 
 **先生**: いいんだ。どんなトレーニングも継続が重要だ。短時間でも毎日続けることで、習慣化される。
 
-**参考情報**: 「どんなトレーニングも継続が重要です。1日3分など短時間でも毎日続けることを意識しましょう」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaDvJWOfxMqnf1tiQwKt8DWgG0KkxzNOSo-L65sTXbMuEA2G7lUxsqSgtaVgVrKIh9mTKSg3zqCGYdBXIBjeVlASnd7x8-6lyJIARhTnOhx2BaySSYLoeMOum0QC4=`</details>
+> **参考情報**: 「どんなトレーニングも継続が重要です。1日3分など短時間でも毎日続けることを意識しましょう」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaDvJWOfxMqnf1tiQwKt8DWgG0KkxzNOSo-L65sTXbMuEA2G7lUxsqSgtaVgVrKIh9mTKSg3zqCGYdBXIBjeVlASnd7x8-6lyJIARhTnOhx2BaySSYLoeMOum0QC4=`</details>
 
 ### 具体的な目標を持つ
 
@@ -470,7 +470,7 @@ Tags: Training, Guide
 
 **先生**: 直後は冷やす方がいい。炎症を抑える効果がある。
 
-**参考情報**: 「アイシング: 下山後すぐに15～20分程度冷やすことで、筋肉の炎症を抑え、回復を促進します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyHCQADHG2ceyFmrpN5Th79CB7bZBxH1fehpjSZQBfVCf0Y0LVcW7SEUqJivt2LgGRoAyq6k5hkEHf0mrPdc_x-KcI_wmmcaJMu8cr-BPulZxXkZ4uBn1l4XR-FIfI1WRJLWl6nzwJ-J0NsJQ=`</details>
+> **参考情報**: 「アイシング: 下山後すぐに15～20分程度冷やすことで、筋肉の炎症を抑え、回復を促進します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyHCQADHG2ceyFmrpN5Th79CB7bZBxH1fehpjSZQBfVCf0Y0LVcW7SEUqJivt2LgGRoAyq6k5hkEHf0mrPdc_x-KcI_wmmcaJMu8cr-BPulZxXkZ4uBn1l4XR-FIfI1WRJLWl6nzwJ-J0NsJQ=`</details>
 
 ### 静的ストレッチ
 
@@ -480,7 +480,7 @@ Tags: Training, Guide
 
 **先生**: その通りだ。反動をつけずにゆっくりと筋肉を伸ばし、20秒程度維持するのがポイントだ。**入浴後の体が温まっている状態で行うと効果的**だぞ。
 
-**参考情報**: 「登山後にゆっくりと筋肉を伸ばす静的ストレッチは、筋肉の緊張をほぐし、血流を促進し、疲労回復を助けます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZY4FLovCrrgd0WLYk8xWvaSHTfkQDOXTkkajA4BZh-YADsz42Ca0J1iHp0lirN1-MBVnlBCV6LWo04UgxonEH7OYy8PYRvMjEj4i8wo3AYSwRliM=`</details>
+> **参考情報**: 「登山後にゆっくりと筋肉を伸ばす静的ストレッチは、筋肉の緊張をほぐし、血流を促進し、疲労回復を助けます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZY4FLovCrrgd0WLYk8xWvaSHTfkQDOXTkkajA4BZh-YADsz42Ca0J1iHp0lirN1-MBVnlBCV6LWo04UgxonEH7OYy8PYRvMjEj4i8wo3AYSwRliM=`</details>
 
 ### 食事と睡眠
 
@@ -490,7 +490,7 @@ Tags: Training, Guide
 
 **先生**: 登山後はしっかり食べた方がいい。筋肉の修復にはタンパク質が必要だし、エネルギー補充には糖質が必要だ。
 
-**参考情報**: 「登山後はタンパク質と糖質を多めに摂り、疲労回復を促しましょう」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpuiNbLZH_3YjDV701UUu_bGMaE6c-mu2UoUSw6jiIrOTgxXldr-L8gdRlDuYPM8zcqHEE3FbwVlAPyrebmqJSahRt5ZrZaF4Nu2EjX5p_2m7XV1aqLKiQWsdt62KunV5vrTRguLJNZ6akcuTftnwWy5o=`</details>
+> **参考情報**: 「登山後はタンパク質と糖質を多めに摂り、疲労回復を促しましょう」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpuiNbLZH_3YjDV701UUu_bGMaE6c-mu2UoUSw6jiIrOTgxXldr-L8gdRlDuYPM8zcqHEE3FbwVlAPyrebmqJSahRt5ZrZaF4Nu2EjX5p_2m7XV1aqLKiQWsdt62KunV5vrTRguLJNZ6akcuTftnwWy5o=`</details>
 
 ---
 

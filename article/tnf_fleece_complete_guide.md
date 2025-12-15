@@ -62,7 +62,7 @@ Tags: Fleece, Guide
 
 **先生**: 見た目は時代に合わせてアップデートされているから安心していい。特に2024年モデルはサイズ感がリニューアルされて、身幅と着丈が約2サイズアップした。今のトレンドに合ったゆったりシルエットになっている。
 
-**参考情報**: 「2024年モデルではサイズ感がリニューアルされ、身幅と着丈が約2サイズアップし、トレンドを意識したバランスの良いシルエットになっています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-4ASmFVVqHJE2Iywh3A_0PJoMLFUZlDTUIBlfCDySffASnCo9JIjAB1Geg5OI07D1QEZkqimRLJrs6mvyIG0aYDW2MYyAd2TcqMlwqufTWN8juQ_btmgC_u3xKBmmA0ntiQ9pnn4LbyoMn_JXRWULKA==`</details>
+> **参考情報**: 「2024年モデルではサイズ感がリニューアルされ、身幅と着丈が約2サイズアップし、トレンドを意識したバランスの良いシルエットになっています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-4ASmFVVqHJE2Iywh3A_0PJoMLFUZlDTUIBlfCDySffASnCo9JIjAB1Geg5OI07D1QEZkqimRLJrs6mvyIG0aYDW2MYyAd2TcqMlwqufTWN8juQ_btmgC_u3xKBmmA0ntiQ9pnn4LbyoMn_JXRWULKA==`</details>
 
 **JK**: あ、それなら安心かも。で、何がそんなにいいんですか？
 
@@ -74,13 +74,13 @@ Tags: Fleece, Guide
 
 **先生**: 要は「超細かい繊維を使った高品質フリース」と思えばいい。このフリースが体とジャケットの間に**デッドエア**——動かない空気の層——を作り出す。静止した空気は最高の断熱材だから、結果として高い保温性が得られるわけだ。
 
-**参考情報**: 「マイクロフリース素材は、軽くて厚みがあり、効果的にデッドエア（動かない空気の層）をため込むことで、衣服内を適温に保ち高い保温性を発揮します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEneXqu89dtvVgipb2PI60lENVSYpouiy6o6Hw-UAGEw6904KdRl7HiN_LmBZxQpGTxOoJJKhxsLKkCMw83W2yn5Icwn1td6cH_h6Dr9q-HYzNK0YVcJYQgWmAoqoQkT24=`</details>
+> **参考情報**: 「マイクロフリース素材は、軽くて厚みがあり、効果的にデッドエア（動かない空気の層）をため込むことで、衣服内を適温に保ち高い保温性を発揮します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEneXqu89dtvVgipb2PI60lENVSYpouiy6o6Hw-UAGEw6904KdRl7HiN_LmBZxQpGTxOoJJKhxsLKkCMw83W2yn5Icwn1td6cH_h6Dr9q-HYzNK0YVcJYQgWmAoqoQkT24=`</details>
 
 **JK**: へえ、空気を閉じ込めるから暖かいってことですね。
 
 **先生**: その通り。ちなみに、2017年以前のデナリジャケットはPolartec社の素材を使っていたんだが、2018年以降はこのノースフェイス独自素材に切り替わった。そして2019年以降はリサイクルポリエステル（ペットボトル由来）が使われていて、環境にも配慮している。
 
-**参考情報**: 「2019年モデル以降、生地にはペットボトルなどのリサイクルポリエステルが使用されており、環境に配慮した素材選びがなされています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfSXhOATdF-Q1tLVahOGWBJ9D2znMLV2Q6QqhaNXXSMXlTCJ20IJn3J23KqUzu_BxeFtfgWQms7K5zJyHMM0fNscxHMbRKtUjMQCBDUeA98eKFG0haWqB_tspYlZWWS904AcaUJp3kRRM9B8g=`</details>
+> **参考情報**: 「2019年モデル以降、生地にはペットボトルなどのリサイクルポリエステルが使用されており、環境に配慮した素材選びがなされています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfSXhOATdF-Q1tLVahOGWBJ9D2znMLV2Q6QqhaNXXSMXlTCJ20IJn3J23KqUzu_BxeFtfgWQms7K5zJyHMM0fNscxHMbRKtUjMQCBDUeA98eKFG0haWqB_tspYlZWWS904AcaUJp3kRRM9B8g=`</details>
 
 ### デナリジャケットの耐久性と機能
 
@@ -101,7 +101,7 @@ Tags: Fleece, Guide
 - **静電ケア設計**: 冬場に気になる静電気の発生を抑える。
 - **YKK製ビスロンファスナー**: 一部が欠けても機能するし、雪で凍りにくい。アウトドア向けの細かい配慮だ。
 
-**参考情報**: 「専用ファスナーでアウターと連結できるジップインジップシステムに対応しており、幅広い着こなしが可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJuSfPvl1Xaf42RtKhIxZ_UXqLFb2NYu3OMAHp1SMyZcg9zvrVMB6eG9rGVo_iBQU9d6c6vgHukIWyMlQuGzJBjLz7h-lPtaG0ePWYkGUGpHGLPxOXlYrFvW4Ttl0N-F9YwlxkscaIaaRAYXXXOpJf3c0ogeXtlw==`</details>
+> **参考情報**: 「専用ファスナーでアウターと連結できるジップインジップシステムに対応しており、幅広い着こなしが可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJuSfPvl1Xaf42RtKhIxZ_UXqLFb2NYu3OMAHp1SMyZcg9zvrVMB6eG9rGVo_iBQU9d6c6vgHukIWyMlQuGzJBjLz7h-lPtaG0ePWYkGUGpHGLPxOXlYrFvW4Ttl0N-F9YwlxkscaIaaRAYXXXOpJf3c0ogeXtlw==`</details>
 
 ### デナリジャケットの実際の使用感とデメリット
 
@@ -109,7 +109,7 @@ Tags: Fleece, Guide
 
 **先生**: あるぞ。まず、フリース素材がやや**固め**だ。密度が高いから保温性は高いんだが、その分しなやかさに欠ける面がある。サイズがぴったりすぎると動きにくさを感じるかもしれない。
 
-**参考情報**: 「フリース生地としてはやや固めなので、サイズがぴったりすぎると動きにくさを感じる場合があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNvf12k__phPAEjeLht5zwL8I4aErvpER12Ixk63ZS5aI8S_RrZkCYjnnPqZkKcRFhJ7KzSfEkWTvP-b8P14GYiDa20NG8MlhxJDY9GWhxNI4EJnnR3AeBgr9laE1WGdkbF9A5oH6EZc6HylyR8wuk7cwSToQ4vHfe1VSjE1-U1aUH_6LXcIq8vM2sUitmq8RHXsAmQ0UhyB94oG30sYKN2J0KDqGwZ89_4y1ZIBBnBqB90AUUIvH-2w==`</details>
+> **参考情報**: 「フリース生地としてはやや固めなので、サイズがぴったりすぎると動きにくさを感じる場合があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNvf12k__phPAEjeLht5zwL8I4aErvpER12Ixk63ZS5aI8S_RrZkCYjnnPqZkKcRFhJ7KzSfEkWTvP-b8P14GYiDa20NG8MlhxJDY9GWhxNI4EJnnR3AeBgr9laE1WGdkbF9A5oH6EZc6HylyR8wuk7cwSToQ4vHfe1VSjE1-U1aUH_6LXcIq8vM2sUitmq8RHXsAmQ0UhyB94oG30sYKN2J0KDqGwZ89_4y1ZIBBnBqB90AUUIvH-2w==`</details>
 
 **JK**: じゃあ、ゆったり目に選んだほうがいいってことですね。
 
@@ -125,7 +125,7 @@ Tags: Fleece, Guide
 
 **先生**: 定価22,000円（税込）。ただ、Amazonなどでは時期によって18,000円前後で買えることもある。
 
-**参考情報**: 「2024年のノースフェイス デナリジャケットの定価は、複数の情報源によると22,000円（税込）です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLPgwrjye31Y883ja5K-JxqiC5ePMD3ITXRlXhYrlq-d5mqFGc92YBFiNOrEbKtydmX76KsjTJE6C_OTkvpBEIBFWqJTt7nuXsBAehzMOA6dbjapHOQLQv3W9hUsfB1KisvwaXaIFCSXCCKwYT4zIvqGoel9WkQ7bwnCxLbA==`</details>
+> **参考情報**: 「2024年のノースフェイス デナリジャケットの定価は、複数の情報源によると22,000円（税込）です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLPgwrjye31Y883ja5K-JxqiC5ePMD3ITXRlXhYrlq-d5mqFGc92YBFiNOrEbKtydmX76KsjTJE6C_OTkvpBEIBFWqJTt7nuXsBAehzMOA6dbjapHOQLQv3W9hUsfB1KisvwaXaIFCSXCCKwYT4zIvqGoel9WkQ7bwnCxLbA==`</details>
 
 **JK**: 2万円かあ…ユニクロのフリースの何倍だろう…
 
@@ -168,7 +168,7 @@ Tags: Fleece, Guide
 
 **先生**: バーサロフトジャケットは、**POLARTEC社のハイロフトフリース「Versa Loft」**を使用している。ポリエステル100%だが、その毛足の長さは見た目でもすぐわかる。ふわふわで、触ると気持ちいいぞ。
 
-**参考情報**: 「主要素材にはPOLARTEC社のハイロフトフリース「Versa Loft（ポリエステル100％）」が採用されています。この素材は、生地間に大きなデッドエア層を作ることで、保温効果を最大限に高めています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtC6LnPoFxFioaxoNskz_qbyg174wgoeZZYWcR0JwPIqU0YmAVoUWxZR8agiGFX8nFonHH4zBR67nVSHB7cYZZ46UC7WJ-KVEkNzz74UBZA2dh5k06WfhRk7wSkJW2C7MATD3V-Ag8LA==`</details>
+> **参考情報**: 「主要素材にはPOLARTEC社のハイロフトフリース「Versa Loft（ポリエステル100％）」が採用されています。この素材は、生地間に大きなデッドエア層を作ることで、保温効果を最大限に高めています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtC6LnPoFxFioaxoNskz_qbyg174wgoeZZYWcR0JwPIqU0YmAVoUWxZR8agiGFX8nFonHH4zBR67nVSHB7cYZZ46UC7WJ-KVEkNzz74UBZA2dh5k06WfhRk7wSkJW2C7MATD3V-Ag8LA==`</details>
 
 **JK**: あー、あのテディベアみたいなやつですね！街で着てる人よく見ます。
 
@@ -188,7 +188,7 @@ Tags: Fleece, Guide
 
 **先生**: そうだ。フリースという素材の宿命でもある。毛足が長くて空気を多く含む＝風が通りやすい、ということだ。風が強い日に単体で着ると、その暖かさを十分に発揮できない。
 
-**参考情報**: 「防風性の弱さ、毛抜け、ポリウレタンの劣化、人気の高さゆえに人と被りやすい点が挙げられます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7nAs3VyWdu2ghGP-18wnN-PsqSjP5Itrby_pEDLt_wyZM6GO16yU4JQPFR48gSAwyeW8gFPRvUnUbBwI3qoDaLmEFIUr2rXiDRFNjViO5Th6YVHAUIdCRP9RtVE1vPnPBkzyrnHWFAUgrcFzUQ5VSIM5x`</details>
+> **参考情報**: 「防風性の弱さ、毛抜け、ポリウレタンの劣化、人気の高さゆえに人と被りやすい点が挙げられます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7nAs3VyWdu2ghGP-18wnN-PsqSjP5Itrby_pEDLt_wyZM6GO16yU4JQPFR48gSAwyeW8gFPRvUnUbBwI3qoDaLmEFIUr2rXiDRFNjViO5Th6YVHAUIdCRP9RtVE1vPnPBkzyrnHWFAUgrcFzUQ5VSIM5x`</details>
 
 **JK**: じゃあ風が強い日は上に何か羽織ったほうがいいってことですね。
 
@@ -210,7 +210,7 @@ Tags: Fleece, Guide
 
 **先生**: サイズ感は、ややゆとりのあるシルエットだ。厚手のインナーを着ても窮屈に感じにくい設計になっている。
 
-**参考情報**: 「身長168cmの人がMサイズを着用している例や、身長182cmの人がLサイズを着用している例があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtC6LnPoFxFioaxoNskz_qbyg174wgoeZZYWcR0JwPIqU0YmAVoUWxZR8agiGFX8nFonHH4zBR67nVSHB7cYZZ46UC7WJ-KVEkNzz74UBZA2dh5k06WfhRk7wSkJW2C7MATD3V-Ag8LA==`</details>
+> **参考情報**: 「身長168cmの人がMサイズを着用している例や、身長182cmの人がLサイズを着用している例があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtC6LnPoFxFioaxoNskz_qbyg174wgoeZZYWcR0JwPIqU0YmAVoUWxZR8agiGFX8nFonHH4zBR67nVSHB7cYZZ46UC7WJ-KVEkNzz74UBZA2dh5k06WfhRk7wSkJW2C7MATD3V-Ag8LA==`</details>
 
 **JK**: 参考になります。具体的なサイズ感ってわかりますか？
 
@@ -236,7 +236,7 @@ Tags: Fleece, Guide
 
 **先生**: 定価37,400円（税込）。デナリジャケットより1万5千円ほど高い。
 
-**参考情報**: 「2024年におけるノースフェイス バーサロフトジャケットの定価は、37,400円（税込）です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHDcloWVUEYDKEFISTkfkdrZhk--RS7VfgjShZrcLK6PX-1TZRmfzIcwTIIETReWqQZNFF4aoPRQ8fv9RrWmJTkHFN-EZZJfB4rDlzPZ-bVoL-2uFAAcUVDKZ0-OL9kJdRziIXog==`</details>
+> **参考情報**: 「2024年におけるノースフェイス バーサロフトジャケットの定価は、37,400円（税込）です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHDcloWVUEYDKEFISTkfkdrZhk--RS7VfgjShZrcLK6PX-1TZRmfzIcwTIIETReWqQZNFF4aoPRQ8fv9RrWmJTkHFN-EZZJfB4rDlzPZ-bVoL-2uFAAcUVDKZ0-OL9kJdRziIXog==`</details>
 
 **JK**: 高いなあ…でも暖かさは一番なんですよね？
 
@@ -279,13 +279,13 @@ Tags: Fleece, Guide
 
 **先生**: 素材は**Versa Micro 100 ECO**というリサイクルマイクロフリース。ポリエステル100%だ。デナリジャケットのバーサマイクロ300と比べると薄手で、その分軽い。
 
-**参考情報**: 「軽量で優れた保温性を持つリサイクルマイクロフリース（Versa Micro 100 ECO、ポリエステル100%）を採用しております。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBeofeaRirBeKakUAOTxLSEoOIw5OwtJpizY4IUffzr2pKPEFi6-iPFfCdX7Np4Kp96TbEbA0n729e5Ale8tyREd2aVJ34wRK45S1Zk3sKGGtN0_5dYPFx7U-roujR6mNa3-hwLTum_Q==`</details>
+> **参考情報**: 「軽量で優れた保温性を持つリサイクルマイクロフリース（Versa Micro 100 ECO、ポリエステル100%）を採用しております。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBeofeaRirBeKakUAOTxLSEoOIw5OwtJpizY4IUffzr2pKPEFi6-iPFfCdX7Np4Kp96TbEbA0n729e5Ale8tyREd2aVJ34wRK45S1Zk3sKGGtN0_5dYPFx7U-roujR6mNa3-hwLTum_Q==`</details>
 
 **JK**: どのくらい軽いんですか？
 
 **先生**: Lサイズで約275g。デナリジャケットが約480gだから、200g以上軽い。ザックに入れても負担になりにくいし、着ていても肩が凝りにくい。
 
-**参考情報**: 「Lサイズで約275gと非常に軽量で、肩への負担が少ないのも特徴です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBeofeaRirBeKakUAOTxLSEoOIw5OwtJpizY4IUffzr2pKPEFi6-iPFfCdX7Np4Kp96TbEbA0n729e5Ale8tyREd2aVJ34wRK45S1Zk3sKGGtN0_5dYPFx7U-roujR6mNa3-hwLTum_Q==`</details>
+> **参考情報**: 「Lサイズで約275gと非常に軽量で、肩への負担が少ないのも特徴です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBeofeaRirBeKakUAOTxLSEoOIw5OwtJpizY4IUffzr2pKPEFi6-iPFfCdX7Np4Kp96TbEbA0n729e5Ale8tyREd2aVJ34wRK45S1Zk3sKGGtN0_5dYPFx7U-roujR6mNa3-hwLTum_Q==`</details>
 
 **JK**: 275g！ペットボトル半分くらいの重さですね。
 
@@ -313,7 +313,7 @@ Tags: Fleece, Guide
 - **春や秋**のライトアウターとして
 - **日常使い**の羽織りとして
 
-**参考情報**: 「森林限界を越える登山から肌寒い季節のキャンプまで、さまざまなアウトドアシーンで中間保温着として幅広く活用できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBeofeaRirBeKakUAOTxLSEoOIw5OwtJpizY4IUffzr2pKPEFi6-iPFfCdX7Np4Kp96TbEbA0n729e5Ale8tyREd2aVJ34wRK45S1Zk3sKGGtN0_5dYPFx7U-roujR6mNa3-hwLTum_Q==`</details>
+> **参考情報**: 「森林限界を越える登山から肌寒い季節のキャンプまで、さまざまなアウトドアシーンで中間保温着として幅広く活用できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBeofeaRirBeKakUAOTxLSEoOIw5OwtJpizY4IUffzr2pKPEFi6-iPFfCdX7Np4Kp96TbEbA0n729e5Ale8tyREd2aVJ34wRK45S1Zk3sKGGtN0_5dYPFx7U-roujR6mNa3-hwLTum_Q==`</details>
 
 **JK**: 万能ですね！しかも春〜秋まで使えるなら、コスパいいかも。
 
@@ -325,7 +325,7 @@ Tags: Fleece, Guide
 
 **先生**: ここは注意が必要だ。**全体的にややタイトな作り**になっている。通常よりワンサイズ上を選ぶことを推奨する声が多い。
 
-**参考情報**: 「全体的にややタイトな作りだと感じるユーザーが多く、通常よりもワンサイズ上を選ぶことを推奨する声もあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqSpv0a_Q4eF58Pt1isax3VEobAJfd5JEqLY-j7bwUjyF4cFEcgXmIhzKukl8Cwh0qW9CB10sOnlqwDDeGy-VcMGN_NRelZ3riAWCbKkmnzXdf9FuakqQ1vPk52FXbfhjnL6XcxnAFbSZUvbiBahns3cwUuo-RunFDrOPzgBuJldSl2mU2w_pTa3kXdm_aoR-kC1ECt6FEKMlQ-9JULfUqSUroRBsUQi7FbzLHgVwMHTtPBz722Q==`</details>
+> **参考情報**: 「全体的にややタイトな作りだと感じるユーザーが多く、通常よりもワンサイズ上を選ぶことを推奨する声もあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqSpv0a_Q4eF58Pt1isax3VEobAJfd5JEqLY-j7bwUjyF4cFEcgXmIhzKukl8Cwh0qW9CB10sOnlqwDDeGy-VcMGN_NRelZ3riAWCbKkmnzXdf9FuakqQ1vPk52FXbfhjnL6XcxnAFbSZUvbiBahns3cwUuo-RunFDrOPzgBuJldSl2mU2w_pTa3kXdm_aoR-kC1ECt6FEKMlQ-9JULfUqSUroRBsUQi7FbzLHgVwMHTtPBz722Q==`</details>
 
 **JK**: 私みたいに重ね着したい人は要注意ですね。
 
@@ -337,13 +337,13 @@ Tags: Fleece, Guide
 
 **先生**: 定価14,850円（税込）。3モデルの中では最も安い。さらに、セール時にはAmazonで9,900円前後で買えることもある。
 
-**参考情報**: 「ノースフェイス マウンテンバーサマイクロジャケットの定価は、公式サイトでは14,850円（税込）で販売されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVbbVpqvn5ytP5vHM3hMXv4HqML_qIIG5lHVl-dAgAzrzcgGl50R2iz6yShqe5-NvZjVcWHRXRtM8mvzYDvsyj0t3lkKS3GrhbfNnNaPQBshHUjQTmgKAQbBwrUFt03dCsiBJW9jG9XLfaM1_Ycm0=`</details>
+> **参考情報**: 「ノースフェイス マウンテンバーサマイクロジャケットの定価は、公式サイトでは14,850円（税込）で販売されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVbbVpqvn5ytP5vHM3hMXv4HqML_qIIG5lHVl-dAgAzrzcgGl50R2iz6yShqe5-NvZjVcWHRXRtM8mvzYDvsyj0t3lkKS3GrhbfNnNaPQBshHUjQTmgKAQbBwrUFt03dCsiBJW9jG9XLfaM1_Ycm0=`</details>
 
 **JK**: 1万円以下で買えることもあるんですか！？それは嬉しい！
 
 **先生**: コスパという点では、3モデルの中でダントツだな。「登山用に1着フリースが欲しい」という初心者には、まずこれをおすすめすることが多い。
 
-**参考情報**: 「1万円前後で購入できることが多く、品質の高さと合わせてコストパフォーマンスが良いと評価されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUL1Npjdym9rllpyGTjaWTiJCpBvLQSDpKywf9muMkZrYmG1bAg8jmtl53_73h-fbuCyyBApQxRzA0ieBeFLB5fm3jjkT_Um0nNcd2Tscr8vSgoVKc4fqTJ9W7_0bugGy2xTsueRiDOEyGWhI=`</details>
+> **参考情報**: 「1万円前後で購入できることが多く、品質の高さと合わせてコストパフォーマンスが良いと評価されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUL1Npjdym9rllpyGTjaWTiJCpBvLQSDpKywf9muMkZrYmG1bAg8jmtl53_73h-fbuCyyBApQxRzA0ieBeFLB5fm3jjkT_Um0nNcd2Tscr8vSgoVKc4fqTJ9W7_0bugGy2xTsueRiDOEyGWhI=`</details>
 
 #### 主なスペック
 
@@ -374,7 +374,7 @@ Tags: Fleece, Guide
 
 **先生**: ノースフェイスの独自機能で、**対応するアウタージャケットとミドルレイヤー（フリースやダウン）を専用ファスナーで連結**できるシステムだ。2つのウェアが1つに合体するイメージだな。
 
-**参考情報**: 「ジップインジップシステムは、対応のアウタージャケットとミドルレイヤーを専用ファスナーで連結し、一体化できる独自の機能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5Ya3GuRiWSRn5bKNyp-M2-K_dRckLryXP2iYOHLis4UrqNaG-fjwJl2WFZUkcR7KNwdBmmHwtiokSuykgSCOpQW5Us9vyle7HCwRckBa9o7nwKURvgHIYhRg3vbJmWQ==`</details>
+> **参考情報**: 「ジップインジップシステムは、対応のアウタージャケットとミドルレイヤーを専用ファスナーで連結し、一体化できる独自の機能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5Ya3GuRiWSRn5bKNyp-M2-K_dRckLryXP2iYOHLis4UrqNaG-fjwJl2WFZUkcR7KNwdBmmHwtiokSuykgSCOpQW5Us9vyle7HCwRckBa9o7nwKURvgHIYhRg3vbJmWQ==`</details>
 
 **JK**: あー、合体！それは便利そう。でも何がいいんですか？
 
@@ -416,7 +416,7 @@ Tags: Fleece, Guide
 2. **ファスナーを閉める**: 生地との引っかかりを防ぐ
 3. **洗濯ネットに入れる**: 型崩れや他の洗濯物との絡まりを防ぐ
 
-**参考情報**: 「毛玉や型崩れ、他の洗濯物との絡まりを防ぐために、必ずフリースを洗濯ネットに入れましょう。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdYTBkeos4bzBjMfgWZCNwxybE2_q03qklPXcmScGIAvcTm3uyRVnyhuMs8gFAeby1F3_8gOTCJNDSGIyhsy3CwFFCLA_MAW_tjQf7d8Pt4aKlRTwfDjU2yadfwqVfnoQ3Rp5PeQ==`</details>
+> **参考情報**: 「毛玉や型崩れ、他の洗濯物との絡まりを防ぐために、必ずフリースを洗濯ネットに入れましょう。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdYTBkeos4bzBjMfgWZCNwxybE2_q03qklPXcmScGIAvcTm3uyRVnyhuMs8gFAeby1F3_8gOTCJNDSGIyhsy3CwFFCLA_MAW_tjQf7d8Pt4aKlRTwfDjU2yadfwqVfnoQ3Rp5PeQ==`</details>
 
 **JK**: 裏返すのは知らなかった！いつもそのまま入れてました…
 
@@ -424,7 +424,7 @@ Tags: Fleece, Guide
 
 **先生**: 洗剤は**おしゃれ着用の中性洗剤**を使う。普通の弱アルカリ性洗剤は洗浄力が強すぎて、フリースの風合いを損ねることがある。
 
-**参考情報**: 「おしゃれ着用の中性洗剤を使用しましょう。一般的な弱アルカリ性洗剤は洗浄力が強い反面、生地に負担をかけ、フリースの風合いを損ねる可能性があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdYTBkeos4bzBjMfgWZCNwxybE2_q03qklPXcmScGIAvcTm3uyRVnyhuMs8gFAeby1F3_8gOTCJNDSGIyhsy3CwFFCLA_MAW_tjQf7d8Pt4aKlRTwfDjU2yadfwqVfnoQ3Rp5PeQ==`</details>
+> **参考情報**: 「おしゃれ着用の中性洗剤を使用しましょう。一般的な弱アルカリ性洗剤は洗浄力が強い反面、生地に負担をかけ、フリースの風合いを損ねる可能性があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdYTBkeos4bzBjMfgWZCNwxybE2_q03qklPXcmScGIAvcTm3uyRVnyhuMs8gFAeby1F3_8gOTCJNDSGIyhsy3CwFFCLA_MAW_tjQf7d8Pt4aKlRTwfDjU2yadfwqVfnoQ3Rp5PeQ==`</details>
 
 **JK**: 柔軟剤は使っていいんですか？
 
@@ -436,7 +436,7 @@ Tags: Fleece, Guide
 
 **先生**: その通り。フリースは熱に弱い。乾燥機にかけると縮んでしまうことがある。
 
-**参考情報**: 「フリースは熱に弱く、乾燥機を使用すると縮んでしまうことがあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdYTBkeos4bzBjMfgWZCNwxybE2_q03qklPXcmScGIAvcTm3uyRVnyhuMs8gFAeby1F3_8gOTCJNDSGIyhsy3CwFFCLA_MAW_tjQf7d8Pt4aKlRTwfDjU2yadfwqVfnoQ3Rp5PeQ==`</details>
+> **参考情報**: 「フリースは熱に弱く、乾燥機を使用すると縮んでしまうことがあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdYTBkeos4bzBjMfgWZCNwxybE2_q03qklPXcmScGIAvcTm3uyRVnyhuMs8gFAeby1F3_8gOTCJNDSGIyhsy3CwFFCLA_MAW_tjQf7d8Pt4aKlRTwfDjU2yadfwqVfnoQ3Rp5PeQ==`</details>
 
 **JK**: やっぱりか…
 
@@ -472,7 +472,7 @@ Tags: Fleece, Guide
 - **行動停止時**（休憩時・テント内）に適している
 - 濡れに弱い
 
-**参考情報**: 「ダウンジャケットが保温性重視で行動停止時に適しているのに対し、フリースは保温性と通気性のバランスが良く、行動中の着用にも向いています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZRnpGMHhMgX8sf08-vCuVsUDqgEymxyd9Qf52D7ojUohE1ANyvpRcuFIXt1uJc1h3Af5FkzO88PCdcBkTujAo1pZXfuDSNsSbW6NoxYnNgRipEnk0MIjSNCF1GyU6Bl8-MtAyIYj96gAAQ-piMN3S2WNAXQ==`</details>
+> **参考情報**: 「ダウンジャケットが保温性重視で行動停止時に適しているのに対し、フリースは保温性と通気性のバランスが良く、行動中の着用にも向いています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZRnpGMHhMgX8sf08-vCuVsUDqgEymxyd9Qf52D7ojUohE1ANyvpRcuFIXt1uJc1h3Af5FkzO88PCdcBkTujAo1pZXfuDSNsSbW6NoxYnNgRipEnk0MIjSNCF1GyU6Bl8-MtAyIYj96gAAQ-piMN3S2WNAXQ==`</details>
 
 **JK**: じゃあ、歩いてる最中に着るならフリース、休憩で止まってる時に着るならダウン、ってことですか？
 

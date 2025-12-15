@@ -58,7 +58,7 @@ Tags: Rainwear, Guide
 
 **先生**: しかも素材は**GORE-TEX 3層構造**。軽いからといって防水性を犠牲にしているわけではない。むしろ最高レベルの防水透湿性能を持っている。
 
-**参考情報**: 「軽量で柔らかなePEメンブレンを使用したGORE-TEX PRODUCTS 3層構造」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBUVP16Eszp8CCZ1RX6JgsEF9IRUTlGb22XzXjOx41bYVhH_YLIIFuaiG9KReWBvT4Yjp6R0TpgtLAYDjqF9EoW5Dx_qcXj68Fmo0ktYraeMrHl5achb998jwRchYUYcnc88mCO4YGVg==`</details>
+> **参考情報**: 「軽量で柔らかなePEメンブレンを使用したGORE-TEX PRODUCTS 3層構造」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBUVP16Eszp8CCZ1RX6JgsEF9IRUTlGb22XzXjOx41bYVhH_YLIIFuaiG9KReWBvT4Yjp6R0TpgtLAYDjqF9EoW5Dx_qcXj68Fmo0ktYraeMrHl5achb998jwRchYUYcnc88mCO4YGVg==`</details>
 
 **JK**: ゴアテックスって名前は聞いたことあります！あの高いやつですよね。
 
@@ -68,7 +68,7 @@ Tags: Rainwear, Guide
 
 **先生**: 簡単に言うと、環境に優しい新世代のゴアテックスだ。従来の素材と同じ性能を維持しながら、フッ素化合物を使っていないから環境負荷が少ない。
 
-**参考情報**: 「ePEメンブレンは、PFASを含まない『PFASフリー』の素材であり、これがePTFEとの最も大きな違いです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdiq3LHt9XZs7JOlVkpe_ILvy4edUvtdaQbUfz3_bM9i6LBkBeSu2q_rp5KeKIwmCcmL08zrDZCOLXBz8rXkZTbIRriD-RrdIIToUgYDjP8D2mF3q1MNgAJU_3wALaFn5nIwRa`</details>
+> **参考情報**: 「ePEメンブレンは、PFASを含まない『PFASフリー』の素材であり、これがePTFEとの最も大きな違いです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdiq3LHt9XZs7JOlVkpe_ILvy4edUvtdaQbUfz3_bM9i6LBkBeSu2q_rp5KeKIwmCcmL08zrDZCOLXBz8rXkZTbIRriD-RrdIIToUgYDjP8D2mF3q1MNgAJU_3wALaFn5nIwRa`</details>
 
 **JK**: おお、エコなんですね！最近そういうの大事ですよね。
 
@@ -90,7 +90,7 @@ Tags: Rainwear, Guide
 
 **先生**: 次に**スラントポケット**。斜めに配置されていて、バックパックのヒップベルトと干渉しにくい高めの位置にある。
 
-**参考情報**: 「パックを背負ったままでも腕を上げやすい設計で、アクティブな動きを妨げません」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBUVP16Eszp8CCZ1RX6JgsEF9IRUTlGb22XzXjOx41bYVhH_YLIIFuaiG9KReWBvT4Yjp6R0TpgtLAYDjqF9EoW5Dx_qcXj68Fmo0ktYraeMrHl5achb998jwRchYUYcnc88mCO4YGVg==`</details>
+> **参考情報**: 「パックを背負ったままでも腕を上げやすい設計で、アクティブな動きを妨げません」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBUVP16Eszp8CCZ1RX6JgsEF9IRUTlGb22XzXjOx41bYVhH_YLIIFuaiG9KReWBvT4Yjp6R0TpgtLAYDjqF9EoW5Dx_qcXj68Fmo0ktYraeMrHl5achb998jwRchYUYcnc88mCO4YGVg==`</details>
 
 **JK**: でもそれって、普段使いだと逆に使いにくくないですか？
 
@@ -110,7 +110,7 @@ Tags: Rainwear, Guide
 
 **先生**: いくつかある。まず**フロントジッパーがやや硬い**という意見がある。慣れの問題ではあるが、気になる人はいるだろう。
 
-**参考情報**: 「フロントジッパーが硬く、開閉しづらいという意見があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOnr5M-8i2YAJOGluClvhYCU2i4e7_2zuywfmwvWB-aq23EAMB8eMcXImFotdtG_-iXI24bAV4-7gzIQkRaHKi4gg5imztIsWjgy_EfdyO3jL3ztyRMrjayOjMOeS52BFuOYNwovbiTGq_g3oKL9uV8i-bGWd68y0=`</details>
+> **参考情報**: 「フロントジッパーが硬く、開閉しづらいという意見があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOnr5M-8i2YAJOGluClvhYCU2i4e7_2zuywfmwvWB-aq23EAMB8eMcXImFotdtG_-iXI24bAV4-7gzIQkRaHKi4gg5imztIsWjgy_EfdyO3jL3ztyRMrjayOjMOeS52BFuOYNwovbiTGq_g3oKL9uV8i-bGWd68y0=`</details>
 
 **JK**: へー、細かいところですね。
 
@@ -163,7 +163,7 @@ Tags: Rainwear, Guide
 
 **先生**: 簡単に言えば「一番気合の入ったやつ」だ。
 
-**参考情報**: 「長年にわたり改良が重ねられてきた、ザ・ノース・フェイスを象徴するモデルです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3BTl3VGQ4cx-A83rUecMPj9Rli0UETvSiHYgtAQ9IVii-vkCMBUHtM6AhzewEDZvvUHGO6zHCwr86LLBaWRtnwDs48U3aRm6AwQHIWGmjbGNPscw81zk4uap8V2w=`</details>
+> **参考情報**: 「長年にわたり改良が重ねられてきた、ザ・ノース・フェイスを象徴するモデルです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3BTl3VGQ4cx-A83rUecMPj9Rli0UETvSiHYgtAQ9IVii-vkCMBUHtM6AhzewEDZvvUHGO6zHCwr86LLBaWRtnwDs48U3aRm6AwQHIWGmjbGNPscw81zk4uap8V2w=`</details>
 
 **JK**: おお！じゃあこれ買えば間違いないってことですか？
 
@@ -173,7 +173,7 @@ Tags: Rainwear, Guide
 
 **先生**: クライムライトが20デニールだ。数字が大きいほど生地が厚くて丈夫になる。つまり耐久性は圧倒的に高い。
 
-**参考情報**: 「150デニールのGORE-TEX素材で非常に厚手で耐久性が高く、雨風や寒さから身を守ります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3BTl3VGQ4cx-A83rUecMPj9Rli0UETvSiHYgtAQ9IVii-vkCMBUHtM6AhzewEDZvvUHGO6zHCwr86LLBaWRtnwDs48U3aRm6AwQHIWGmjbGNPscw81zk4uap8V2w=`</details>
+> **参考情報**: 「150デニールのGORE-TEX素材で非常に厚手で耐久性が高く、雨風や寒さから身を守ります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3BTl3VGQ4cx-A83rUecMPj9Rli0UETvSiHYgtAQ9IVii-vkCMBUHtM6AhzewEDZvvUHGO6zHCwr86LLBaWRtnwDs48U3aRm6AwQHIWGmjbGNPscw81zk4uap8V2w=`</details>
 
 **JK**: なるほど…で、重さは？
 
@@ -183,7 +183,7 @@ Tags: Rainwear, Guide
 
 **先生**: そう、ここが大きな違いだ。耐久性と軽量性はトレードオフの関係にある。
 
-**参考情報**: 「マウンテンジャケット（Lサイズ）は約825gと、他の軽量なレインウェアと比較すると重い傾向にあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiizmXuNjI8H_o5E6hNkzF8dxN9D2OeJE7cOIsNQDTYkwR7l2Uj8zwhXpa85nfbd3OXCdvgPfba1U2mFQq5xL4DgWeldZpKtW03pWkXUatNcx-Crvitb86VP-98QGI7xnMXGLh4oFgccNX_0T7Dg5y0kncj6d72Q==`</details>
+> **参考情報**: 「マウンテンジャケット（Lサイズ）は約825gと、他の軽量なレインウェアと比較すると重い傾向にあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiizmXuNjI8H_o5E6hNkzF8dxN9D2OeJE7cOIsNQDTYkwR7l2Uj8zwhXpa85nfbd3OXCdvgPfba1U2mFQq5xL4DgWeldZpKtW03pWkXUatNcx-Crvitb86VP-98QGI7xnMXGLh4oFgccNX_0T7Dg5y0kncj6d72Q==`</details>
 
 **JK**: 重いの絶対嫌なんですけど…
 
@@ -195,13 +195,13 @@ Tags: Rainwear, Guide
 
 **先生**: 簡単に言うと、**ジャケットの内側にフリースやダウンを連結できる機能**だ。
 
-**参考情報**: 「ジップインジップシステムに対応しており、別売りのフリースやダウンジャケットを連結させることで、保温性を高めることができます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2Fi1KgCxBKTnknftty9DA8lcgY9s-b_CGUZyiD8ngd9YmDq78y7So1kvnQjOKGgkbzImPX73MX0x19WP-krB89ufTRHhEtC-B-mPO0nNt8K0iNnp5NUZaC1R1Lbz2RUflrHppaLfzTPD2Zxx7s4txaqcb24FipA==`</details>
+> **参考情報**: 「ジップインジップシステムに対応しており、別売りのフリースやダウンジャケットを連結させることで、保温性を高めることができます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2Fi1KgCxBKTnknftty9DA8lcgY9s-b_CGUZyiD8ngd9YmDq78y7So1kvnQjOKGgkbzImPX73MX0x19WP-krB89ufTRHhEtC-B-mPO0nNt8K0iNnp5NUZaC1R1Lbz2RUflrHppaLfzTPD2Zxx7s4txaqcb24FipA==`</details>
 
 **JK**: え、くっつくんですか！？
 
 **先生**: フロント内側のファスナーと、袖口・首元のスナップボタンで接続する。
 
-**参考情報**: 「フロント内側のジップ、袖口と首元のスナップボタンで接続します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFVIyhTU7CqzijfAoJAnC6t6tbV9iIV-dIlnS3y59T0EWb5CE4_OPsDkaz_RxhQYIO5nlxd0Ffptynua7DzWlMipPlRsUMapCdkIFORysibcTawmRC0FVnbIM4d9LRuXi6A0SvIENh-wzYcHPh4oEo-vSHdNech3HH9T6mG8tl`</details>
+> **参考情報**: 「フロント内側のジップ、袖口と首元のスナップボタンで接続します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFVIyhTU7CqzijfAoJAnC6t6tbV9iIV-dIlnS3y59T0EWb5CE4_OPsDkaz_RxhQYIO5nlxd0Ffptynua7DzWlMipPlRsUMapCdkIFORysibcTawmRC0FVnbIM4d9LRuXi6A0SvIENh-wzYcHPh4oEo-vSHdNech3HH9T6mG8tl`</details>
 
 **JK**: へー！それって便利なんですか？
 
@@ -227,7 +227,7 @@ Tags: Rainwear, Guide
 
 **先生**: 59,400円（税込）。2025年モデルは66,000円になる予定だ。
 
-**参考情報**: 「2024年8月1日より改定されたもので、59,400円（税込）」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeQArU_QxH97rZjpvx4ZVPMDnkM2iHMdp0-XYIW0g0T0g6CVitc0P1j8UtQVe5SvgGTz2WNhnTegJrmn_qrBdL0caa9vtKbxe8Skbw3nRm_r8DQkotw8ts-AUzLgjnpdAFDQFZ`</details>
+> **参考情報**: 「2024年8月1日より改定されたもので、59,400円（税込）」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeQArU_QxH97rZjpvx4ZVPMDnkM2iHMdp0-XYIW0g0T0g6CVitc0P1j8UtQVe5SvgGTz2WNhnTegJrmn_qrBdL0caa9vtKbxe8Skbw3nRm_r8DQkotw8ts-AUzLgjnpdAFDQFZ`</details>
 
 **JK**: ろ、6万円！？無理無理無理！
 
@@ -288,7 +288,7 @@ Tags: Rainwear, Guide
 
 **先生**: そうだ。価格は22,000円（税込）。
 
-**参考情報**: 「メーカー希望小売価格は22,000円（税込）」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFrEfhPUvh_VOYHcmXEv35bLtt0Orfkf5xU8eJfhWOIrYSc7uASnOny8s0c58z0rSeO0aF0KxSNmIziO5KAoJdL57Tnz0melIKZpfkwROC3B_u7AIxYj8f7VEnLo-O5L_dU3fEhkzbe20=`</details>
+> **参考情報**: 「メーカー希望小売価格は22,000円（税込）」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFrEfhPUvh_VOYHcmXEv35bLtt0Orfkf5xU8eJfhWOIrYSc7uASnOny8s0c58z0rSeO0aF0KxSNmIziO5KAoJdL57Tnz0melIKZpfkwROC3B_u7AIxYj8f7VEnLo-O5L_dU3fEhkzbe20=`</details>
 
 **JK**: 2万円！？さっきまでの話と比べると安い！
 
@@ -306,7 +306,7 @@ Tags: Rainwear, Guide
 
 **先生**: そうだ。ゴアテックスはePTFEやePEという**メンブレン（膜）をラミネート**する技術。一方ハイベントは**ポリウレタンコーティング**で防水透湿を実現している。
 
-**参考情報**: 「HYVENT：ポリウレタン（PU）コーティングを施すことで防水透湿機能を実現、GORE-TEX：ePTFEメンブレンを生地にラミネート」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhnA6hIO5yVUcvYcEb6SEJQEJtEfxWXRtNXaVXtUqzoGhHtsATWbDF5ToybyeO_NqenWMYl9j-VL7hMU9jcrxFfyQVdVEGainolVTQGkHSfdT7nLvzoX1FapgLEo8d_xN1-8-ViUkPCnvT6rHwCvB3DElC`</details>
+> **参考情報**: 「HYVENT：ポリウレタン（PU）コーティングを施すことで防水透湿機能を実現、GORE-TEX：ePTFEメンブレンを生地にラミネート」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhnA6hIO5yVUcvYcEb6SEJQEJtEfxWXRtNXaVXtUqzoGhHtsATWbDF5ToybyeO_NqenWMYl9j-VL7hMU9jcrxFfyQVdVEGainolVTQGkHSfdT7nLvzoX1FapgLEo8d_xN1-8-ViUkPCnvT6rHwCvB3DElC`</details>
 
 **JK**: ぜんぜんわからないんですけど、何が違うんですか？
 
@@ -327,7 +327,7 @@ Tags: Rainwear, Guide
 
 **先生**: その通り。むしろ**しなやかで軽い着心地**はドットショットの大きな魅力だ。
 
-**参考情報**: 「軽量で柔らかく、しなやかな着心地が特徴で、日常使いから様々なアウトドアアクティビティに適しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmADy_aeuiZ1FCFm-l395EsUt-d33O0X5DVVgSWEk07SKagAURaXf839djECGh7Tffc6aHppi_KKbm4uMD2Fyz4tPSQws1LjmFWwB4yvi7ZqBu-rd_9HeUP9wVGP6em-KUCBkJnYtUe_rq`</details>
+> **参考情報**: 「軽量で柔らかく、しなやかな着心地が特徴で、日常使いから様々なアウトドアアクティビティに適しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmADy_aeuiZ1FCFm-l395EsUt-d33O0X5DVVgSWEk07SKagAURaXf839djECGh7Tffc6aHppi_KKbm4uMD2Fyz4tPSQws1LjmFWwB4yvi7ZqBu-rd_9HeUP9wVGP6em-KUCBkJnYtUe_rq`</details>
 
 ### ドットショットの機能
 
@@ -341,7 +341,7 @@ Tags: Rainwear, Guide
 
 **先生**: 生地を裁断する時のパターンを工夫して、廃棄率を削減している。環境に配慮した設計だな。
 
-**参考情報**: 「資源量を抑える『SYN-GRID』によるパターンメイキングを採用し、裁断による生地の廃棄率を削減しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-WDavJ39i59qvV-xcGSkPN-noJR6wiBcFLyIXBDn2gPJPNtUS42RhL06Cep8bB3UNpQvClG-S7LFInPmZy1FYVa5R7DY69Uu_Lga2DqFeqgO34ArdiTumey5vBGRxjYv7FU3FfQbcDQ==`</details>
+> **参考情報**: 「資源量を抑える『SYN-GRID』によるパターンメイキングを採用し、裁断による生地の廃棄率を削減しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-WDavJ39i59qvV-xcGSkPN-noJR6wiBcFLyIXBDn2gPJPNtUS42RhL06Cep8bB3UNpQvClG-S7LFInPmZy1FYVa5R7DY69Uu_Lga2DqFeqgO34ArdiTumey5vBGRxjYv7FU3FfQbcDQ==`</details>
 
 **JK**: へー、見えないところでエコなんですね。
 
@@ -355,7 +355,7 @@ Tags: Rainwear, Guide
 
 **先生**: ポリウレタンコーティングは時間が経つと「加水分解」という現象で劣化する。早ければ2〜3年、長くても5年程度でコーティングが剥がれ始める可能性がある。
 
-**参考情報**: 「素材に採用されているポリウレタンコーティングは水に弱く、経年劣化による加水分解が避けられない。早ければ2～3年で劣化が始まる」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgCo2IFWiSjE5aXQyB76FDz-VE6Xh4eATNZtVMUhvvIomsZxV-AydBrEXSrREErzpxhR4H8nxRegqtfKl0Nx5sxoko-sKkESWNtShczWR21lAkdX_CDcmokZQs_uUq9iw2aXVsxIxVbh5CMFM4DJw5`</details>
+> **参考情報**: 「素材に採用されているポリウレタンコーティングは水に弱く、経年劣化による加水分解が避けられない。早ければ2～3年で劣化が始まる」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgCo2IFWiSjE5aXQyB76FDz-VE6Xh4eATNZtVMUhvvIomsZxV-AydBrEXSrREErzpxhR4H8nxRegqtfKl0Nx5sxoko-sKkESWNtShczWR21lAkdX_CDcmokZQs_uUq9iw2aXVsxIxVbh5CMFM4DJw5`</details>
 
 **JK**: え！？2〜3年で壊れる可能性あるってこと！？
 

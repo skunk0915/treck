@@ -32,7 +32,7 @@ Tags: Backpack, Guide
 
 **先生**: そうだ。バルトロが男性用、ディバが女性用。パラゴンが男性用、メイブンが女性用。それぞれのペアで考えるとわかりやすい。
 
-**参考情報**: 「男性用が「バルトロ」、女性用が「ディバ」」「男性用が「パラゴン」、女性用が「メイブン (Maven)」です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq7HHRjiEN5Ci-YB3bFUtuxQkz-CVf2Ytl0LXa4BR-QYwpkd4bbGkjI_B1SCgtvdpYo_GeoJkOt9HKGhiZapNrWaaQ6vCLO0yLwHZcJbXSL4i29U2H86GJOWCZZNn7t0qjcv2_gLOqEm1ELjwU4bbcS-cDNQ==`</details>
+> **参考情報**: 「男性用が「バルトロ」、女性用が「ディバ」」「男性用が「パラゴン」、女性用が「メイブン (Maven)」です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq7HHRjiEN5Ci-YB3bFUtuxQkz-CVf2Ytl0LXa4BR-QYwpkd4bbGkjI_B1SCgtvdpYo_GeoJkOt9HKGhiZapNrWaaQ6vCLO0yLwHZcJbXSL4i29U2H86GJOWCZZNn7t0qjcv2_gLOqEm1ELjwU4bbcS-cDNQ==`</details>
 
 **JK**: あ、男女でペアになってるんですね。でも、なんでそんなに分けるんですか？1種類でよくないですか？
 
@@ -42,7 +42,7 @@ Tags: Backpack, Guide
 
 **先生**: その通り。グレゴリーには「パックは背負うものではなく、着るものだ」という哲学がある。それを最高レベルで実現したのがバルトロ/ディバ、軽さとのバランスを取ったのがパラゴン/メイブンだと思えばいい。
 
-**参考情報**: 「グレゴリーは「パックは背負うものではなく、着るものだ」という哲学のもと、体にフィットするバックパックを開発しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoBnrAKiCOD5SDh9t8qMV9kIEMQCGRpEy3cozkgLsn-D-uRDhrgIhqk3Ehz7y53B1tjwQ-qCUAOdPnZvuHDusLC3IRLG1LY4BdOYqP1w-FZ3rHW9s=`</details>
+> **参考情報**: 「グレゴリーは「パックは背負うものではなく、着るものだ」という哲学のもと、体にフィットするバックパックを開発しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoBnrAKiCOD5SDh9t8qMV9kIEMQCGRpEy3cozkgLsn-D-uRDhrgIhqk3Ehz7y53B1tjwQ-qCUAOdPnZvuHDusLC3IRLG1LY4BdOYqP1w-FZ3rHW9s=`</details>
 
 ### グレゴリー大型リュックの主なシリーズ
 
@@ -59,7 +59,7 @@ Tags: Backpack, Guide
 
 **先生**: まず紹介するのはバルトロだ。グレゴリーの最上位モデルで、「**バックパック界のロールスロイス**」とも呼ばれている。
 
-**参考情報**: 「「バックパック界のロールスロイス」と称されるほどの抜群の背負い心地と安定感が特徴です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGo2C8JwOshklijjHfk08xF9e3mmBugblOtomZZkBMmWF3GcMghO8B_V-s7gv-avT4qJ2kZGJRy2PRKHDHJGO1WFZyyzbSuVDJ2DJZjrjrFHDi8sEQ=`</details>
+> **参考情報**: 「「バックパック界のロールスロイス」と称されるほどの抜群の背負い心地と安定感が特徴です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGo2C8JwOshklijjHfk08xF9e3mmBugblOtomZZkBMmWF3GcMghO8B_V-s7gv-avT4qJ2kZGJRy2PRKHDHJGO1WFZyyzbSuVDJ2DJZjrjrFHDi8sEQ=`</details>
 
 **JK**: ロールスロイス！？いきなり超高級車が出てきたんですけど！
 
@@ -75,7 +75,7 @@ Tags: Backpack, Guide
 
 **先生**: 一番の違いは**FreeFloat A3サスペンション**というシステムだ。これを説明しよう。
 
-**参考情報**: 「自動角度調整ショルダーハーネス (Auto-Rotating Shoulder Harness): ショルダーハーネスがユーザーの肩の傾斜角度に合わせて自動的にフィットを調整します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5TbNuTuqKw3an7RTLYVh3XBMjiYbSHy9G-jIJP9JAEJhPRogzt-9zZwZbDM2dOOzqeOQ6IgfTO6agn5U9FIfdtUx6hPg_Tu_hg6lanX6yxSXlhoun1cPvLKfLOTPgB_U9xlNQWF1pQ-A=`</details>
+> **参考情報**: 「自動角度調整ショルダーハーネス (Auto-Rotating Shoulder Harness): ショルダーハーネスがユーザーの肩の傾斜角度に合わせて自動的にフィットを調整します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5TbNuTuqKw3an7RTLYVh3XBMjiYbSHy9G-jIJP9JAEJhPRogzt-9zZwZbDM2dOOzqeOQ6IgfTO6agn5U9FIfdtUx6hPg_Tu_hg6lanX6yxSXlhoun1cPvLKfLOTPgB_U9xlNQWF1pQ-A=`</details>
 
 **JK**: …呪文ですか？
 
@@ -87,7 +87,7 @@ Tags: Backpack, Guide
 
 **先生**: たとえば岩場で体を傾けた時、普通のリュックだと片方の肩にグッと力がかかるだろう？バルトロはその動きに追従して、荷重が偏らないようにしてくれる。
 
-**参考情報**: 「FreeFloat ダイナミックヒップベルト: グレゴリー独自の特許取得済み構造により、体の動きに追従して旋回するよう設計されたパネルでフレームとヒップベルトが接続されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8muBGJJRyvpqv9DgegQFS2fkuFWJdXhhlxH_3Ibsd1Vg-IA9sRzGhkl_hDzuxiZ0Ly6qCnhFiOxVDShEUIhgzq9Q5FGkk3lOm43gtkk7gNwv3hH9j4zZK37y23IB4Q8OLZy4dCWs=`</details>
+> **参考情報**: 「FreeFloat ダイナミックヒップベルト: グレゴリー独自の特許取得済み構造により、体の動きに追従して旋回するよう設計されたパネルでフレームとヒップベルトが接続されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8muBGJJRyvpqv9DgegQFS2fkuFWJdXhhlxH_3Ibsd1Vg-IA9sRzGhkl_hDzuxiZ0Ly6qCnhFiOxVDShEUIhgzq9Q5FGkk3lOm43gtkk7gNwv3hH9j4zZK37y23IB4Q8OLZy4dCWs=`</details>
 
 **JK**: そんなことできるんですか！
 
@@ -97,7 +97,7 @@ Tags: Backpack, Guide
 
 **先生**: そして**AirCushionバックパネル**。90%以上がオープンエアのハニカム構造で、背中とリュックの間に常に空気が流れる。夏山で汗だくになっても、蒸れにくいんだ。
 
-**参考情報**: 「エアクッションバックパネル: フォームを使用しない90%以上オープンエアのハニカム構造を採用したバックパネルで、優れた通気性を確保」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUhyYhihkCJ07VfJv00ph5uWC3H60AD8D28u9mVxpvc8OnX6BzqXDViT_Yp8Yp2C_0q6mTaNtsmCepEHi5rHEJ_VTWG1beIFo61XNz7YQGlMoysfP9Vz6NBmNoTZCWsjn83vyk`</details>
+> **参考情報**: 「エアクッションバックパネル: フォームを使用しない90%以上オープンエアのハニカム構造を採用したバックパネルで、優れた通気性を確保」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUhyYhihkCJ07VfJv00ph5uWC3H60AD8D28u9mVxpvc8OnX6BzqXDViT_Yp8Yp2C_0q6mTaNtsmCepEHi5rHEJ_VTWG1beIFo61XNz7YQGlMoysfP9Vz6NBmNoTZCWsjn83vyk`</details>
 
 **JK**: 90%以上って、ほぼ空気じゃないですか！
 
@@ -107,7 +107,7 @@ Tags: Backpack, Guide
 
 **先生**: バルトロには実用的な機能も満載だ。いくつか紹介しよう。
 
-**参考情報**: 「サングラスクイックストウシステム: ショルダーハーネスにサングラスを安全に収納できます」「サイドワインダーボトルホルスター: 移動中に片手でボトルを取り出せます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfUYxaEimdlOaZ6bH53b7nGtVIySmIrmAbFBX6ZL7SX4SRp0W3P23Qve6BpFbbbJpk5zmgctfSSnCiuZkzMkoMRkkvjFIXJC7eWXfXFEFNtqsernGBg1aCsPrJfOdOMRrpsTlIblOOBbNKd0KE-Arke4ex4KTIiKlhDyQmlYI-bqNQ6Uwi1psOO14=`</details>
+> **参考情報**: 「サングラスクイックストウシステム: ショルダーハーネスにサングラスを安全に収納できます」「サイドワインダーボトルホルスター: 移動中に片手でボトルを取り出せます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfUYxaEimdlOaZ6bH53b7nGtVIySmIrmAbFBX6ZL7SX4SRp0W3P23Qve6BpFbbbJpk5zmgctfSSnCiuZkzMkoMRkkvjFIXJC7eWXfXFEFNtqsernGBg1aCsPrJfOdOMRrpsTlIblOOBbNKd0KE-Arke4ex4KTIiKlhDyQmlYI-bqNQ6Uwi1psOO14=`</details>
 
 **JK**: サングラスクイックストウ？また呪文…
 
@@ -132,7 +132,7 @@ Tags: Backpack, Guide
 - 素材: UHMWPEハニカムクリプトリップナイロン（Proモデル）
 - レインカバー付属
 
-**参考情報**: 「容量: Sサイズ: 80L、Mサイズ: 85L、Lサイズ: 90L」「最大積載重量: 31.8kg (Proモデル)」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEycS7aAWKEIapYee0MX-98jxYXeojuumfuKJxdjTI6AABXzdCHlRbnYE7-k5aT1I9XXu_Wvt_lrNxAZlL21Y_GTFpb2Z8sCl7cznih5t2I43uhugicqadMFUNKfXAfRcwhrZWm4Y1J`</details>
+> **参考情報**: 「容量: Sサイズ: 80L、Mサイズ: 85L、Lサイズ: 90L」「最大積載重量: 31.8kg (Proモデル)」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEycS7aAWKEIapYee0MX-98jxYXeojuumfuKJxdjTI6AABXzdCHlRbnYE7-k5aT1I9XXu_Wvt_lrNxAZlL21Y_GTFpb2Z8sCl7cznih5t2I43uhugicqadMFUNKfXAfRcwhrZWm4Y1J`</details>
 
 #### こんな人におすすめ
 - 北アルプスなど長期縦走をしたい人
@@ -151,7 +151,7 @@ Tags: Backpack, Guide
 
 **先生**: 確かに重い。でもこれは「重い荷物を楽に背負うため」の重さなんだ。実際に20kgの荷物を入れて10km歩くと、軽いリュックより疲れにくいことがわかる。
 
-**参考情報**: 「以前のモデルと比較して、新型のバルトロ85は、ヒップベルトのポケットが両方メッシュではなくなるなどの変更点があります。また、旧モデルに付属していたアタックザックは新モデルでは付属しないようです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2Dn61wYY-F-WRLPxoU-tk-HX34PDHxOWjTo5AymPX5PO9Q3zl3yeSVMsvdDy8R_CTy4w0IkCfpDtNeyFArNdFBNnLQPL_FfpU41grX63KjqvCglaCbKGWiEbjW9dc4NbPLABLiw==`</details>
+> **参考情報**: 「以前のモデルと比較して、新型のバルトロ85は、ヒップベルトのポケットが両方メッシュではなくなるなどの変更点があります。また、旧モデルに付属していたアタックザックは新モデルでは付属しないようです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2Dn61wYY-F-WRLPxoU-tk-HX34PDHxOWjTo5AymPX5PO9Q3zl3yeSVMsvdDy8R_CTy4w0IkCfpDtNeyFArNdFBNnLQPL_FfpU41grX63KjqvCglaCbKGWiEbjW9dc4NbPLABLiw==`</details>
 
 **JK**: あと、アタックザックって何ですか？
 
@@ -167,7 +167,7 @@ Tags: Backpack, Guide
 
 **先生**: バルトロ65で約3万4千円〜5万5千円、バルトロ85で約4万3千円からだ。
 
-**参考情報**: 「グレゴリー バルトロ 65: 34,320円から55,000円程度」「グレゴリー バルトロ 85: 42,979円から販売されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW9Actp_ei0XRzxErtg7OaYBBCH4BikSwvC356GSYscKRX83jlyLudEOD7vk0f7XEeE6MqpbctnI7oGf67gclKb2Q0CDhv3fZu9LP4gWZAkA8f8pS4UT3pN-qb2cpKAfsyd-y-0-gIv8WaYvfR8isEmJ7N3Nb71swqQVbMcHGeFBicsToz3G45w6df93jCd2pAq9nfVw3PeG3muHaspaChd-l4eITjSO3LbhxGUm9JCWJWmIc=`</details>
+> **参考情報**: 「グレゴリー バルトロ 65: 34,320円から55,000円程度」「グレゴリー バルトロ 85: 42,979円から販売されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW9Actp_ei0XRzxErtg7OaYBBCH4BikSwvC356GSYscKRX83jlyLudEOD7vk0f7XEeE6MqpbctnI7oGf67gclKb2Q0CDhv3fZu9LP4gWZAkA8f8pS4UT3pN-qb2cpKAfsyd-y-0-gIv8WaYvfR8isEmJ7N3Nb71swqQVbMcHGeFBicsToz3G45w6df93jCd2pAq9nfVw3PeG3muHaspaChd-l4eITjSO3LbhxGUm9JCWJWmIc=`</details>
 
 **JK**: 5万円！？リュックに！？
 
@@ -181,13 +181,13 @@ Tags: Backpack, Guide
 
 **先生**: 次はディバだ。これはバルトロを女性の体型に合わせて再設計したモデルになる。
 
-**参考情報**: 「男性向けのバルトロシリーズを女性の体型に合わせてリサイズしたモデルであり、快適な背負い心地と高い機能性が特徴です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqlnMc5-2QbCEoZ-HNFPZJySnKBnE_0wUD7ThQLVIoqdjZ-qsG-5kqfn0tE8-0G2hqeqKDH3vBVMFxK7-QKfNgNiU0sawRkIlSzA4biApyLvyNSaU=`</details>
+> **参考情報**: 「男性向けのバルトロシリーズを女性の体型に合わせてリサイズしたモデルであり、快適な背負い心地と高い機能性が特徴です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqlnMc5-2QbCEoZ-HNFPZJySnKBnE_0wUD7ThQLVIoqdjZ-qsG-5kqfn0tE8-0G2hqeqKDH3vBVMFxK7-QKfNgNiU0sawRkIlSzA4biApyLvyNSaU=`</details>
 
 **JK**: ただサイズ小さくしただけじゃないんですか？
 
 **先生**: そこが違う。女性と男性では体の構造が違うだろう？肩幅、胸部、腰の位置、背面の長さ…。ディバはそれを全部考慮して設計されている。
 
-**参考情報**: 「女性の体型に合わせてショルダーハーネスの胸部湾曲が考慮され、本体の幅なども再設計されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqlnMc5-2QbCEoZ-HNFPZJySnKBnE_0wUD7ThQLVIoqdjZ-qsG-5kqfn0tE8-0G2hqeqKDH3vBVMFxK7-QKfNgNiU0sawRkIlSzA4biApyLvyNSaU=`</details>
+> **参考情報**: 「女性の体型に合わせてショルダーハーネスの胸部湾曲が考慮され、本体の幅なども再設計されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqlnMc5-2QbCEoZ-HNFPZJySnKBnE_0wUD7ThQLVIoqdjZ-qsG-5kqfn0tE8-0G2hqeqKDH3vBVMFxK7-QKfNgNiU0sawRkIlSzA4biApyLvyNSaU=`</details>
 
 **JK**: ショルダーハーネスの胸部湾曲…？
 
@@ -199,7 +199,7 @@ Tags: Backpack, Guide
 
 ### ディバ80のスペック
 
-**参考情報**: 「ディバ80 PROは、最大許容重量27kg、最大積載重量70ポンド（約31.7kg）に対応し、長距離トレッキングやギアを多く必要とする冬季の登山に適しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJH9UjWZQ9p-SXCY5V6sajwYZmJa9xq5sCQMPm2fDHL1xgGGGOTtq_tZmPlk2HF4n18E7oLKcQqbzkyZCNr-DA2m-FmfDSc6T9NG0LiMI4DpaFkM1adYk=`</details>
+> **参考情報**: 「ディバ80 PROは、最大許容重量27kg、最大積載重量70ポンド（約31.7kg）に対応し、長距離トレッキングやギアを多く必要とする冬季の登山に適しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJH9UjWZQ9p-SXCY5V6sajwYZmJa9xq5sCQMPm2fDHL1xgGGGOTtq_tZmPlk2HF4n18E7oLKcQqbzkyZCNr-DA2m-FmfDSc6T9NG0LiMI4DpaFkM1adYk=`</details>
 
 #### 主なスペック
 - 容量: XS/75L、S/80L、M/85L
@@ -232,7 +232,7 @@ Tags: Backpack, Guide
 
 **先生**: さて、ここからは軽量モデルの話だ。パラゴンはバルトロの技術を継承しながら、大幅な軽量化を実現したモデルになる。
 
-**参考情報**: 「「軽快に歩きたい人」に向けたモデルで、ウルトラライト (UL) スタイルにも通じる要素を持ちます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxyNQl_8U0McfqkK5TgF_ETj_LSt6OKUN91oySmOWQY9vEVM18VxDBrvT-bcFJEwdg_LVaNquPUjUkQu8DgJ8hW0_GoB21YdYj2EWfFDhyxFftChry3Ld86IjcyEPpIwqakaii`</details>
+> **参考情報**: 「「軽快に歩きたい人」に向けたモデルで、ウルトラライト (UL) スタイルにも通じる要素を持ちます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxyNQl_8U0McfqkK5TgF_ETj_LSt6OKUN91oySmOWQY9vEVM18VxDBrvT-bcFJEwdg_LVaNquPUjUkQu8DgJ8hW0_GoB21YdYj2EWfFDhyxFftChry3Ld86IjcyEPpIwqakaii`</details>
 
 **JK**: ウルトラライト？
 
@@ -242,7 +242,7 @@ Tags: Backpack, Guide
 
 **先生**: ははは。実際、パラゴン68Lは本体重量が約1.6kgしかない。バルトロ85の2.5kgと比べると、約1kg軽い。
 
-**参考情報**: 「パラゴン50Lは1,500gを切る重さです」「体が包み込まれるような優れた背負い心地で評価されており、快適さにもかかわらず1.5kgを下回る軽量性を実現しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJyIh5zI4LoxlGvh7gnfGjahduoHDl-BDY9IT6jIUJPRe5CR-BQQBgpdqpF2_q7KXsJdNaxfrQ1n22qKaG_ts8Kd0h8u8nWhe0Owi5ANyONMQQPn4=`</details>
+> **参考情報**: 「パラゴン50Lは1,500gを切る重さです」「体が包み込まれるような優れた背負い心地で評価されており、快適さにもかかわらず1.5kgを下回る軽量性を実現しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJyIh5zI4LoxlGvh7gnfGjahduoHDl-BDY9IT6jIUJPRe5CR-BQQBgpdqpF2_q7KXsJdNaxfrQ1n22qKaG_ts8Kd0h8u8nWhe0Owi5ANyONMQQPn4=`</details>
 
 **JK**: 1kgも！？それって結構違いますよね？
 
@@ -254,7 +254,7 @@ Tags: Backpack, Guide
 
 **先生**: いい質問だ。確かにトレードオフはある。最大の違いは**最大積載重量**だ。
 
-**参考情報**: 「The Gregory Baltoro is built for maximum support and comfort with very heavy loads, offering extensive features and organization at a higher weight. The Gregory Paragon focuses on providing comfortable carrying for moderate loads with a lighter overall weight」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2vv2e4lR0JkQufFdN6d1KorBabr1KN7jN3gjH2Bem-YImIX0NGlr8_m4AxVvKcowhmU7DXuVHAzibadGKQGfpWCOBcmNny_xRvig1cS9rBo4q5Jp_rlG-czmMNlVPYbJRfPlmeddDeKc3_wUbeFjnoPo=`</details>
+> **参考情報**: 「The Gregory Baltoro is built for maximum support and comfort with very heavy loads, offering extensive features and organization at a higher weight. The Gregory Paragon focuses on providing comfortable carrying for moderate loads with a lighter overall weight」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2vv2e4lR0JkQufFdN6d1KorBabr1KN7jN3gjH2Bem-YImIX0NGlr8_m4AxVvKcowhmU7DXuVHAzibadGKQGfpWCOBcmNny_xRvig1cS9rBo4q5Jp_rlG-czmMNlVPYbJRfPlmeddDeKc3_wUbeFjnoPo=`</details>
 
 | 項目 | バルトロ85 | パラゴン68 |
 |------|-----------|------------|
@@ -275,7 +275,7 @@ Tags: Backpack, Guide
 
 **先生**: パラゴンにはバルトロにない便利機能もある。**サイドアクセスジッパー**だ。
 
-**参考情報**: 「サイドにも長いファスナーが取り付けられており、荷室へのアクセスがしやすい設計です。カメラなど頻繁に取り出すものを収納するのに便利です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc7GUzoCXWtsB1S_eSeQAYpogb1Lmxi1g4D6zFBRhSe_PNEddy_GyMIYoxxGhT5ExjdLF7OF0_mQomYwam_9lbV4qtAZ6yhSnwdOtftEeb2BG-BfjQj46966MsFBfL9oQ-hFQsggBUNwruO0qkNl1PMsVXiTmBYnKDqFs=`</details>
+> **参考情報**: 「サイドにも長いファスナーが取り付けられており、荷室へのアクセスがしやすい設計です。カメラなど頻繁に取り出すものを収納するのに便利です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc7GUzoCXWtsB1S_eSeQAYpogb1Lmxi1g4D6zFBRhSe_PNEddy_GyMIYoxxGhT5ExjdLF7OF0_mQomYwam_9lbV4qtAZ6yhSnwdOtftEeb2BG-BfjQj46966MsFBfL9oQ-hFQsggBUNwruO0qkNl1PMsVXiTmBYnKDqFs=`</details>
 
 **JK**: サイドから開けられるんですか！？
 
@@ -287,7 +287,7 @@ Tags: Backpack, Guide
 
 ### パラゴンユーザーの声
 
-**参考情報**: 「箱から出してすぐに快適に使用できる「慣らし期間不要」な背負い心地が特徴です」「荷重が適切に腰に分散されるため、重い荷物でも軽く感じられ、40ポンドの荷物でも複数日の冬山山行で非常に快適だったという報告もあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUgMq6OAnFP8bxBeXSFPFQLNLh4cT2P9tItkMhODD-J9oO74-aQKeDGCW4yjMMDgCHd5RhrB3_Nsq5U1PkRyEC9IOukcl6WGY0_D0QSi-uqM0w_OF_VTTfYffAzc3QAu1hEx8pFI9kqYkPgn6Dag==`</details>
+> **参考情報**: 「箱から出してすぐに快適に使用できる「慣らし期間不要」な背負い心地が特徴です」「荷重が適切に腰に分散されるため、重い荷物でも軽く感じられ、40ポンドの荷物でも複数日の冬山山行で非常に快適だったという報告もあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUgMq6OAnFP8bxBeXSFPFQLNLh4cT2P9tItkMhODD-J9oO74-aQKeDGCW4yjMMDgCHd5RhrB3_Nsq5U1PkRyEC9IOukcl6WGY0_D0QSi-uqM0w_OF_VTTfYffAzc3QAu1hEx8pFI9kqYkPgn6Dag==`</details>
 
 **JK**: 実際に使ってる人はどう言ってるんですか？
 
@@ -329,13 +329,13 @@ Tags: Backpack, Guide
 
 **先生**: 最後はメイブンだ。パラゴンの女性版で、軽量性と女性専用設計を両立している。
 
-**参考情報**: 「グレゴリー メイブン 65（女性用）は、軽量でありながら多日間の登山やバックパッキングに対応できるよう設計された、機能性に優れたバックパックです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJg6yObHc5rJLa0jiWomDXJ1tiA1R105yoXVyRsPPu58tDvltHRYBtIVubjjpKIeigBJJMCNTSiR8Usq1y6-FAxZeGzufZtc3_O1G_nFQ2QW2svgIJINbEQo1aIggS8ZWKaQlvDF5aFHDYZoO-azDxXr105KNyPrF8dxGHYiTxmaqSpg==`</details>
+> **参考情報**: 「グレゴリー メイブン 65（女性用）は、軽量でありながら多日間の登山やバックパッキングに対応できるよう設計された、機能性に優れたバックパックです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJg6yObHc5rJLa0jiWomDXJ1tiA1R105yoXVyRsPPu58tDvltHRYBtIVubjjpKIeigBJJMCNTSiR8Usq1y6-FAxZeGzufZtc3_O1G_nFQ2QW2svgIJINbEQo1aIggS8ZWKaQlvDF5aFHDYZoO-azDxXr105KNyPrF8dxGHYiTxmaqSpg==`</details>
 
 **JK**: ディバとは何が違うんですか？
 
 **先生**: 簡単に言えば「重さに対する考え方」だ。ディバは「どんなに重くても快適に」、メイブンは「軽い荷物をさらに軽快に」というコンセプトだな。
 
-**参考情報**: 「女性の体型に合わせて、3Dコンフォートクレードル調整可能なヒップベルトと、穴あき二重密度のショルダーハーネスが採用されています。これにより、ホットスポット（特定の箇所に圧力が集中すること）をなくし、体にぴったりとフィットする快適さを提供します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJg6yObHc5rJLa0jiWomDXJ1tiA1R105yoXVyRsPPu58tDvltHRYBtIVubjjpKIeigBJJMCNTSiR8Usq1y6-FAxZeGzufZtc3_O1G_nFQ2QW2svgIJINbEQo1aIggS8ZWKaQlvDF5aFHDYZoO-azDxXr105KNyPrF8dxGHYiTxmaqSpg==`</details>
+> **参考情報**: 「女性の体型に合わせて、3Dコンフォートクレードル調整可能なヒップベルトと、穴あき二重密度のショルダーハーネスが採用されています。これにより、ホットスポット（特定の箇所に圧力が集中すること）をなくし、体にぴったりとフィットする快適さを提供します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJg6yObHc5rJLa0jiWomDXJ1tiA1R105yoXVyRsPPu58tDvltHRYBtIVubjjpKIeigBJJMCNTSiR8Usq1y6-FAxZeGzufZtc3_O1G_nFQ2QW2svgIJINbEQo1aIggS8ZWKaQlvDF5aFHDYZoO-azDxXr105KNyPrF8dxGHYiTxmaqSpg==`</details>
 
 ### メイブンの女性専用設計
 
@@ -349,7 +349,7 @@ Tags: Backpack, Guide
 
 ### メイブン65のスペック
 
-**参考情報**: 「XS/S: 63L, 1.53 kg (リッドレス使用時 1.42 kg)、S/M: 65L, 1.56 kg、最大積載重量は約23kg（50ポンド）です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjNXvIzyUAFyUo_-t-ihxh9uMYd_KMpVCLv3f64U-n71nBipxvMWlyVLz7DS0O66rPDHNNqogDNIuPyI1MdZi1_2gVnJg5YRFgaxxRfa8iaGAGU6zosfVkkFRYhkIas9fl6XeYKIW4wN68UGPf46XU6un4CqdMIfXCT-7a0_XZIQ==`</details>
+> **参考情報**: 「XS/S: 63L, 1.53 kg (リッドレス使用時 1.42 kg)、S/M: 65L, 1.56 kg、最大積載重量は約23kg（50ポンド）です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjNXvIzyUAFyUo_-t-ihxh9uMYd_KMpVCLv3f64U-n71nBipxvMWlyVLz7DS0O66rPDHNNqogDNIuPyI1MdZi1_2gVnJg5YRFgaxxRfa8iaGAGU6zosfVkkFRYhkIas9fl6XeYKIW4wN68UGPf46XU6un4CqdMIfXCT-7a0_XZIQ==`</details>
 
 #### 主なスペック
 - 容量: XS/S 63L、S/M 65L

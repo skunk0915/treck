@@ -31,7 +31,7 @@ Tags: Safety, Guide
 
 **先生**: いや、遭難原因の1位は「道迷い」で33.7%だ。2位の「滑落」は17.3%、3位の「転倒」が16.9%。道に迷うのは、難易度に関係なく誰にでも起こりうる。
 
-**参考情報**: 「2023年の山岳遭難は、発生件数3,126件、遭難者数3,568人と、いずれも統計開始以来過去最多を記録しました」<details><summary>出典</summary>`https://www.nippon.com/ja/japan-data/h01994/`</details>
+> **参考情報**: 「2023年の山岳遭難は、発生件数3,126件、遭難者数3,568人と、いずれも統計開始以来過去最多を記録しました」<details><summary>出典</summary>`https://www.nippon.com/ja/japan-data/h01994/`</details>
 
 **JK**: うわ…。でも、遭難しても警察が助けてくれるんですよね？それって無料でしょ？
 
@@ -59,7 +59,7 @@ Tags: Safety, Guide
 
 **JK**: ひゃ、150万!?
 
-**参考情報**: 「民間ヘリコプターの使用料は1時間あたり400,000円から600,000円」<details><summary>出典</summary>`https://sangakujro.com/support/qa/`</details>
+> **参考情報**: 「民間ヘリコプターの使用料は1時間あたり400,000円から600,000円」<details><summary>出典</summary>`https://sangakujro.com/support/qa/`</details>
 
 **先生**: さらに、地上からの民間救助隊が出動すると、救助隊員1人あたり1日3万〜5万円。5人体制で3日間捜索すれば、それだけで45万〜75万円だ。
 
@@ -101,7 +101,7 @@ Tags: Safety, Guide
 
 **先生**: 飛行時間5分につき5,000円。1時間の救助で約6万円だ。山梨県や静岡県でも、同様の措置が検討されている。
 
-**参考情報**: 「埼玉県では2018年1月より特定の山岳地域において、県の防災ヘリコプターによる救助に対して手数料を徴収する条例が施行されています。この手数料は飛行時間5分につき5,000円」<details><summary>出典</summary>`https://trafficnews.jp/post/79496`</details>
+> **参考情報**: 「埼玉県では2018年1月より特定の山岳地域において、県の防災ヘリコプターによる救助に対して手数料を徴収する条例が施行されています。この手数料は飛行時間5分につき5,000円」<details><summary>出典</summary>`https://trafficnews.jp/post/79496`</details>
 
 **JK**: 「税金で無料」って時代じゃなくなってきてるんですね…。
 
@@ -135,7 +135,7 @@ Tags: Safety, Guide
 
 **先生**: 月に1〜2回以上登山する人なら、年間保険の方が費用対効果が高い場合が多い。
 
-**参考情報**: 「ワンタイム保険は、日帰りから数日間の登山など、特定の期間だけ加入するタイプの保険です」<details><summary>出典</summary>`https://yamahack.com/4529`</details>
+> **参考情報**: 「ワンタイム保険は、日帰りから数日間の登山など、特定の期間だけ加入するタイプの保険です」<details><summary>出典</summary>`https://yamahack.com/4529`</details>
 
 | 項目 | ワンタイム保険 | 年間保険 |
 |------|--------------|---------|
@@ -165,7 +165,7 @@ Tags: Safety, Guide
 
 **先生**: そうだ。それらを行う場合は、「**運動等危険補償特約**」が付いた本格登山向けプランが必要だ。
 
-**参考情報**: 「ピッケル、アイゼン、ザイルなどの登山用具を使用する本格的な山岳登はんや山岳スキーを楽しむ方向けの保険です」<details><summary>出典</summary>`https://www.montbell.jp/generalpage/index.php?general_id=558`</details>
+> **参考情報**: 「ピッケル、アイゼン、ザイルなどの登山用具を使用する本格的な山岳登はんや山岳スキーを楽しむ方向けの保険です」<details><summary>出典</summary>`https://www.montbell.jp/generalpage/index.php?general_id=558`</details>
 
 **JK**: 冬山に挑戦したくなったら、ちゃんと確認しないとダメですね。
 
@@ -207,7 +207,7 @@ Tags: Safety, Guide
 
 **先生**: ただし、プランによって補償内容が大きく異なる。安心プラン、スタンダードプラン、シンプルプランがあるので、よく比較してほしい。
 
-**参考情報**: 「野外活動保険™（傷害総合保険）：トレッキング、ハイキング、キャンプ、ゲレンデスキーなど、幅広いアウトドア活動を対象」<details><summary>出典</summary>`https://www.montbell.jp/insurance/`</details>
+> **参考情報**: 「野外活動保険™（傷害総合保険）：トレッキング、ハイキング、キャンプ、ゲレンデスキーなど、幅広いアウトドア活動を対象」<details><summary>出典</summary>`https://www.montbell.jp/insurance/`</details>
 
 **JK**: モンベルクラブの年会費1,500円と保険料は別なんですか？
 
@@ -240,7 +240,7 @@ Tags: Safety, Guide
 
 **先生**: そうでもない。コンパスなどの電子申請システムを使えば、スマホから数分で提出できる。遭難時の捜索にも役立つし、一石二鳥だ。
 
-**参考情報**: 「やまきふ共済会は、一般社団法人山岳寄付基金が運営する山岳保険制度で、会費の一部を遭難対策費用や登山道整備に寄付する特徴があります」<details><summary>出典</summary>`https://climbing-net.com/feature/yamakifu/`</details>
+> **参考情報**: 「やまきふ共済会は、一般社団法人山岳寄付基金が運営する山岳保険制度で、会費の一部を遭難対策費用や登山道整備に寄付する特徴があります」<details><summary>出典</summary>`https://climbing-net.com/feature/yamakifu/`</details>
 
 ---
 
@@ -272,7 +272,7 @@ Tags: Safety, Guide
 
 **先生**: その通りだ。ココヘリと他の山岳保険を組み合わせて利用する人も多い。
 
-**参考情報**: 「山岳遭難捜索サービス「ココヘリ」と山岳遭難対策制度「jRO（日本山岳救助機構）」は、2022年7月に統合されました」<details><summary>出典</summary>`https://yamahack.com/5088`</details>
+> **参考情報**: 「山岳遭難捜索サービス「ココヘリ」と山岳遭難対策制度「jRO（日本山岳救助機構）」は、2022年7月に統合されました」<details><summary>出典</summary>`https://yamahack.com/5088`</details>
 
 ---
 
@@ -302,7 +302,7 @@ Tags: Safety, Guide
 
 **JK**: なんかすごい未来っぽい。
 
-**参考情報**: 「2024年12月11日から販売が開始された新しいタイプの登山専用保険です。YAMAPアプリで記録された登山中の歩行距離に応じて保険料が変動する、世界初の仕組みを採用しています」<details><summary>出典</summary>`https://yamap.com/magazine/56215`</details>
+> **参考情報**: 「2024年12月11日から販売が開始された新しいタイプの登山専用保険です。YAMAPアプリで記録された登山中の歩行距離に応じて保険料が変動する、世界初の仕組みを採用しています」<details><summary>出典</summary>`https://yamap.com/magazine/56215`</details>
 
 ---
 
@@ -320,7 +320,7 @@ Tags: Safety, Guide
 
 **先生**: 捜索が数日に及べば、すぐに超える可能性がある。本格的な山岳登攀をするなら、1,000万円クラスを検討してもいい。
 
-**参考情報**: 「最低でも300万円以上、できれば500万円程度の補償を推奨されています」<details><summary>出典</summary>`https://crexgroup.com/media/climbing-insurance/`</details>
+> **参考情報**: 「最低でも300万円以上、できれば500万円程度の補償を推奨されています」<details><summary>出典</summary>`https://crexgroup.com/media/climbing-insurance/`</details>
 
 ### ポイント2: 登山スタイルとの適合
 
@@ -387,7 +387,7 @@ Tags: Safety, Guide
 
 **先生**: 保険は「急激かつ偶然な外来の事故」を補償するものだ。自然と発生する症状は対象外になることが多い。
 
-**参考情報**: 「靴ずれ、凍傷（滑落などの事故が原因でない場合）、高山病、日焼け、野球肘、低温やけどなど、「急激かつ偶然な外来の事故」にあたらないもの」<details><summary>出典</summary>`https://www.montbell.jp/insurance/`</details>
+> **参考情報**: 「靴ずれ、凍傷（滑落などの事故が原因でない場合）、高山病、日焼け、野球肘、低温やけどなど、「急激かつ偶然な外来の事故」にあたらないもの」<details><summary>出典</summary>`https://www.montbell.jp/insurance/`</details>
 
 **JK**: 高山病も対象外かぁ…。予防が大事ってことですね。
 
@@ -407,7 +407,7 @@ Tags: Safety, Guide
 
 **先生**: その通りだ。
 
-**参考情報**: 「遭難者が自ら救助を要請しなかった場合でも、民法上の「事務管理」の規定により、遭難者のために有益な費用を支出した者は、その費用を本人に請求できるとされています」<details><summary>出典</summary>`https://atomfirm.com/media/32813`</details>
+> **参考情報**: 「遭難者が自ら救助を要請しなかった場合でも、民法上の「事務管理」の規定により、遭難者のために有益な費用を支出した者は、その費用を本人に請求できるとされています」<details><summary>出典</summary>`https://atomfirm.com/media/32813`</details>
 
 **JK**: うわ…。それに、もし私が意識不明とかになったら、家族に請求が行くんですよね。
 

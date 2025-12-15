@@ -44,7 +44,7 @@ Tags: Gloves, Guide
 - **ウールグローブ**: 天然素材で吸放湿性と抗菌防臭性に優れる
 - **トレックメッシュグローブ**: 通気性重視の暖かい季節向け
 
-**参考情報**: 「カリマー（Karrimor）は、トレッキングや登山に適した多様な種類のグローブを提供しています。これらのグローブは、素材や機能性によって様々なモデルがあり、季節やアクティビティに応じて選ぶことができます。」<details><summary>出典</summary>`https://www.karrimor.jp/c/accessories/gloves-mittens`</details>
+> **参考情報**: 「カリマー（Karrimor）は、トレッキングや登山に適した多様な種類のグローブを提供しています。これらのグローブは、素材や機能性によって様々なモデルがあり、季節やアクティビティに応じて選ぶことができます。」<details><summary>出典</summary>`https://www.karrimor.jp/c/accessories/gloves-mittens`</details>
 
 5種類もあるんですか！もう、どれ選べばいいかわからない...。
 
@@ -62,19 +62,19 @@ Tags: Gloves, Guide
 
 **先生**: ははは、違うぞ。これは「POLARTEC® Power Stretch® Pro™」という素材の略だ。ポーラテック社が開発した高機能ストレッチ素材で、伸縮性、保温性、通気性の三拍子が揃っている。外側は防風性と耐摩耗性に優れ、内側は湿気を肌から吸い上げて暖かくドライに保つ構造になっているんだ。
 
-**参考情報**: 「POLARTEC Power Stretch Proを採用しており、高い伸縮性、保温性、通気性を兼ね備えています。外側は防風性と耐摩耗性に優れ、内側は湿気を吸収して暖かくドライに保ちます。」<details><summary>出典</summary>`https://item.rakuten.co.jp/atease-style/501-902-84/`</details>
+> **参考情報**: 「POLARTEC Power Stretch Proを採用しており、高い伸縮性、保温性、通気性を兼ね備えています。外側は防風性と耐摩耗性に優れ、内側は湿気を吸収して暖かくドライに保ちます。」<details><summary>出典</summary>`https://item.rakuten.co.jp/atease-style/501-902-84/`</details>
 
 すごそう...！で、実際どんな感じなんですか？
 
 **先生**: 一番の特徴は「絶妙なフィット感」だ。縫い目の少ない指先形状で、手にぴったりと密着する。だからグローブを着けたままでもスマートフォンのタッチパネル操作がスムーズにできる。これが本当に便利でな、地図アプリや天気アプリをすぐ確認できるのは安心感がある。
 
-**参考情報**: 「縫い目の少ない指先形状により、フィット感が抜群です。これにより、グローブを装着したままでもスマートフォンなどのタッチパネル操作がスムーズに行えます。」<details><summary>出典</summary>`https://item.rakuten.co.jp/atease-style/501-902-84/`</details>
+> **参考情報**: 「縫い目の少ない指先形状により、フィット感が抜群です。これにより、グローブを装着したままでもスマートフォンなどのタッチパネル操作がスムーズに行えます。」<details><summary>出典</summary>`https://item.rakuten.co.jp/atease-style/501-902-84/`</details>
 
 えっ、手袋したままスマホ操作できるんですか！？それめっちゃいいじゃないですか！
 
 **先生**: ああ。それに、消臭効果のあるデオテープも採用されていて、汗の臭いも抑えてくれる。長時間の山行でも不快にならない工夫がされているんだ。
 
-**参考情報**: 「消臭効果のあるデオテープが採用されています。」<details><summary>出典</summary>`https://kojitusanso.jp/shop/g/g1100045312020/`</details>
+> **参考情報**: 「消臭効果のあるデオテープが採用されています。」<details><summary>出典</summary>`https://kojitusanso.jp/shop/g/g1100045312020/`</details>
 
 でも、スマホ操作できるって、なんか操作性悪そうじゃないですか？薄すぎて寒いとか...。
 
@@ -84,7 +84,7 @@ Tags: Gloves, Guide
 
 **先生**: いや、そうとも限らない。実はこのグローブ、インナーグローブとしても優秀なんだ。厚手のアウターグローブの下に着けることで、レイヤリング効果で保温性が格段に上がる。通気性もいいから、蒸れにくいのもポイントだ。
 
-**参考情報**: 「this versatile glove is suitable for a variety of uses, including everyday wear, commuting, cycling, motorbiking, and general outdoor activities, and can be worn alone or as an inner glove.」<details><summary>出典</summary>`https://www.shun-ishokuju.com/the-north-face-psp-glove-is-simple-yet-easy-to-operate-even-in-the-cold/`</details>
+> **参考情報**: 「this versatile glove is suitable for a variety of uses, including everyday wear, commuting, cycling, motorbiking, and general outdoor activities, and can be worn alone or as an inner glove.」<details><summary>出典</summary>`https://www.shun-ishokuju.com/the-north-face-psp-glove-is-simple-yet-easy-to-operate-even-in-the-cold/`</details>
 
 へぇ〜、賢い使い方！
 
@@ -96,7 +96,7 @@ Tags: Gloves, Guide
 - **価格**: 約4,840円（税込）
 - **カラー**: ブラック、ネイビー、シンダーなど
 
-**参考情報**: 「販売時の価格は、税込みで4,840円程度のようです。」<details><summary>出典</summary>`https://www.yodobashi.com/product/100000001008603048/`</details>
+> **参考情報**: 「販売時の価格は、税込みで4,840円程度のようです。」<details><summary>出典</summary>`https://www.yodobashi.com/product/100000001008603048/`</details>
 
 #### こんな人におすすめ
 
@@ -111,7 +111,7 @@ Tags: Gloves, Guide
 - 厳冬期の単体使用には保温性が不足する可能性がある
 - 手の入れ口がやや狭く、最初は装着に慣れが必要
 
-**参考情報**: 「一方で、手の入れ口がやや狭く感じるという声もありますが、慣れてしまえば気にならない程度とされています。」<details><summary>出典</summary>`https://www.shun-ishokuju.com/the-north-face-psp-glove-is-simple-yet-easy-to-operate-even-in-the-cold/`</details>
+> **参考情報**: 「一方で、手の入れ口がやや狭く感じるという声もありますが、慣れてしまえば気にならない程度とされています。」<details><summary>出典</summary>`https://www.shun-ishokuju.com/the-north-face-psp-glove-is-simple-yet-easy-to-operate-even-in-the-cold/`</details>
 
 手の入れ口が狭いって、使いづらくないですか？
 
@@ -129,7 +129,7 @@ Tags: Gloves, Guide
 
 **先生**: そうだ。以前販売されていたが、一時期ラインナップから消えていてな。それが2024年秋冬コレクションで2年ぶりに復活した。過去に使っていた人たちから「使い勝手が良かった」という声が多く、復活を望む声が強かったんだ。
 
-**参考情報**: 「ラインドシェルグローブは、2024年の秋冬コレクションで発売されたグローブの一つで、過去に人気を博したモデルが2年ぶりに復活したとされており、その使い勝手の良さから注目を集めています。」<details><summary>出典</summary>`https://kinarino.jp/cat4-%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB/43883-%E9%98%B2%E5%AF%92%E5%AF%BE%E7%AD%96%E3%81%A8%E3%80%81%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C%E3%81%AE%E4%B8%A1%E7%AB%8B%E3%80%82%E3%80%8Ekarrimor%EF%BC%88%E3%82%AB%E3%83%AA%E3%83%9E%E3%83%BC%EF%BC%89%E3%80%8F%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%96%E3%81%AE%E9%AD%85%E5%8A%9B`</details>
+> **参考情報**: 「ラインドシェルグローブは、2024年の秋冬コレクションで発売されたグローブの一つで、過去に人気を博したモデルが2年ぶりに復活したとされており、その使い勝手の良さから注目を集めています。」<details><summary>出典</summary>`https://kinarino.jp/cat4-%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB/43883-%E9%98%B2%E5%AF%92%E5%AF%BE%E7%AD%96%E3%81%A8%E3%80%81%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C%E3%81%AE%E4%B8%A1%E7%AB%8B%E3%80%82%E3%80%8Ekarrimor%EF%BC%88%E3%82%AB%E3%83%AA%E3%83%9E%E3%83%BC%EF%BC%89%E3%80%8F%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%96%E3%81%AE%E9%AD%85%E5%8A%9B`</details>
 
 へぇ〜、そんなに人気だったんだ！
 
@@ -137,13 +137,13 @@ Tags: Gloves, Guide
 
 **先生**: このグローブの最大の特徴は、手の甲側にストレッチ性のある防水透湿素材を使いつつ、裏地には起毛素材を施してある点だ。これにより、防風性と防滴性、そして保温性を兼ね備えている。さらに、手のひら部分にはグリップ性能に優れた合成皮革が使われていて、岩や鎖をしっかり掴める。
 
-**参考情報**: 「手の甲側にはストレッチ性のある防水透湿素材が使用されており、裏地には起毛素材が施されているため、保温性も確保されています。手のひら部分にはグリップ性能に優れた合皮が採用されており」<details><summary>出典</summary>`https://www.karrimor.jp/c/accessories/gloves-mittens/200226-01`</details>
+> **参考情報**: 「手の甲側にはストレッチ性のある防水透湿素材が使用されており、裏地には起毛素材が施されているため、保温性も確保されています。手のひら部分にはグリップ性能に優れた合皮が採用されており」<details><summary>出典</summary>`https://www.karrimor.jp/c/accessories/gloves-mittens/200226-01`</details>
 
 それって完全防水じゃないんですか？なんで？
 
 **先生**: いい疑問だ。実は縫い目にシームテープ加工がされていない。だから完全防水ではなく、あくまで「防滴」なんだ。これは欠点のように見えるが、実はメリットでもある。シームテープを省くことで、フィット感が高まり、指先の動きを妨げにくくなる。つまり、細かい作業がしやすいんだ。
 
-**参考情報**: 「縫い目にシームテープ加工はされていないため、完全防水ではありませんが、その分フィット感が高く、指先の動きを妨げにくい設計です。」<details><summary>出典</summary>`https://www.karrimor.jp/c/accessories/gloves-mittens/200226-01`</details>
+> **参考情報**: 「縫い目にシームテープ加工はされていないため、完全防水ではありませんが、その分フィット感が高く、指先の動きを妨げにくい設計です。」<details><summary>出典</summary>`https://www.karrimor.jp/c/accessories/gloves-mittens/200226-01`</details>
 
 なるほど...。じゃあ、雨の日には使えないんですか？
 
@@ -153,13 +153,13 @@ Tags: Gloves, Guide
 
 **先生**: もう一つ面白い工夫がある。袖口があえて緩めのフィット感で作られているんだ。これにより、時計の上からでも着用しやすい。登山中、頻繁に時刻や高度計をチェックするから、これは地味に便利なんだぞ。
 
-**参考情報**: 「袖口はあえて緩めのフィット感で作られており、時計の上からでも着用しやすい設計です。」<details><summary>出典</summary>`https://kinarino.jp/cat4-%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB/43883-%E9%98%B2%E5%AF%92%E5%AF%BE%E7%AD%96%E3%81%A8%E3%80%81%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C%E3%81%AE%E4%B8%A1%E7%AB%8B%E3%80%82%E3%80%8Ekarrimor%EF%BC%88%E3%82%AB%E3%83%AA%E3%83%9E%E3%83%BC%EF%BC%89%E3%80%8F%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%96%E3%81%AE%E9%AD%85%E5%8A%9B`</details>
+> **参考情報**: 「袖口はあえて緩めのフィット感で作られており、時計の上からでも着用しやすい設計です。」<details><summary>出典</summary>`https://kinarino.jp/cat4-%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB/43883-%E9%98%B2%E5%AF%92%E5%AF%BE%E7%AD%96%E3%81%A8%E3%80%81%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C%E3%81%AE%E4%B8%A1%E7%AB%8B%E3%80%82%E3%80%8Ekarrimor%EF%BC%88%E3%82%AB%E3%83%AA%E3%83%9E%E3%83%BC%EF%BC%89%E3%80%8F%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%96%E3%81%AE%E9%AD%85%E5%8A%9B`</details>
 
 あぁ、確かに！いちいち手袋脱いで時計見るのって面倒ですもんね。
 
 **先生**: あと、紛失を防ぐバックルも付いている。左右のグローブをまとめておけるから、休憩中に片方だけどこかに落とすリスクが減る。こういう細かい配慮が、カリマーらしい実用性の高さだな。
 
-**参考情報**: 「また、左右のグローブをまとめておけるバックルが付いており、紛失防止に役立ちます。」<details><summary>出典</summary>`https://kinarino.jp/cat4-%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB/43883-%E9%98%B2%E5%AF%92%E5%AF%BE%E7%AD%96%E3%81%A8%E3%80%81%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C%E3%81%AE%E4%B8%A1%E7%AB%8B%E3%80%82%E3%80%8Ekarrimor%EF%BC%88%E3%82%AB%E3%83%AA%E3%83%9E%E3%83%BC%EF%BC%89%E3%80%8F%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%96%E3%81%AE%E9%AD%85%E5%8A%9B`</details>
+> **参考情報**: 「また、左右のグローブをまとめておけるバックルが付いており、紛失防止に役立ちます。」<details><summary>出典</summary>`https://kinarino.jp/cat4-%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB/43883-%E9%98%B2%E5%AF%92%E5%AF%BE%E7%AD%96%E3%81%A8%E3%80%81%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C%E3%81%AE%E4%B8%A1%E7%AB%8B%E3%80%82%E3%80%8Ekarrimor%EF%BC%88%E3%82%AB%E3%83%AA%E3%83%9E%E3%83%BC%EF%BC%89%E3%80%8F%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%96%E3%81%AE%E9%AD%85%E5%8A%9B`</details>
 
 #### 主なスペック
 
@@ -169,7 +169,7 @@ Tags: Gloves, Guide
 - **価格**: 約6,930円
 - **カラー**: コヨーテ、ブラック
 
-**参考情報**: 「It is priced at approximately ¥6,930.」<details><summary>出典</summary>`https://www.karrimor.jp/c/accessories/gloves-mittens/200226-01`</details>
+> **参考情報**: 「It is priced at approximately ¥6,930.」<details><summary>出典</summary>`https://www.karrimor.jp/c/accessories/gloves-mittens/200226-01`</details>
 
 #### こんな人におすすめ
 
@@ -199,7 +199,7 @@ PSPグローブより少し高いんですね。
 
 **先生**: 素材自体はフリースだが、ストレッチ性が非常に高いのが特徴だ。手にぴったりとフィットして、指の動きを妨げない。さらに、掌側には滑り止め加工が施されていて、鎖やはしごなどをしっかり掴める。登山では安全性に直結する重要なポイントだ。
 
-**参考情報**: 「掌側には滑り止め加工が施されており、鎖やはしごなどを掴む際に役立ちます。両手の甲には再帰反射ロゴがあり、夜間の視認性を高めます。」<details><summary>出典</summary>`https://www.karrimor.jp/c/accessories/gloves-mittens/200161-01`</details>
+> **参考情報**: 「掌側には滑り止め加工が施されており、鎖やはしごなどを掴む際に役立ちます。両手の甲には再帰反射ロゴがあり、夜間の視認性を高めます。」<details><summary>出典</summary>`https://www.karrimor.jp/c/accessories/gloves-mittens/200161-01`</details>
 
 滑り止め、めっちゃ大事じゃないですか！
 
@@ -211,7 +211,7 @@ PSPグローブより少し高いんですね。
 
 **先生**: そうだ。手首の縫い目がアーチ状になっていて、手首部分をめくって腕時計を確認しやすい工夫がされている。細かいが、実際に使うと本当に便利なんだ。
 
-**参考情報**: 「手首の縫い目が工夫されており、腕時計を確認しやすいデザインになっています。」<details><summary>出典</summary>`https://www.karrimor.jp/c/accessories/gloves-mittens/200161-01`</details>
+> **参考情報**: 「手首の縫い目が工夫されており、腕時計を確認しやすいデザインになっています。」<details><summary>出典</summary>`https://www.karrimor.jp/c/accessories/gloves-mittens/200161-01`</details>
 
 カリマーって、本当に細かいところまで考えてますね...。
 
@@ -224,7 +224,7 @@ PSPグローブより少し高いんですね。
 - **機能**: 保温、通気性、滑り止め、再帰反射ロゴ、タッチパネル対応、時計確認しやすい縫製
 - **用途**: ハイキング単体使用〜冬季登山のインナーグローブまで幅広い
 
-**参考情報**: 「ハイキングでの単体使用から、冬季登山のインナーグローブとしても幅広く使えます。」<details><summary>出典</summary>`https://www.karrimor.jp/c/accessories/gloves-mittens/200161-01`</details>
+> **参考情報**: 「ハイキングでの単体使用から、冬季登山のインナーグローブとしても幅広く使えます。」<details><summary>出典</summary>`https://www.karrimor.jp/c/accessories/gloves-mittens/200161-01`</details>
 
 #### こんな人におすすめ
 
@@ -254,13 +254,13 @@ PSPグローブより少し高いんですね。
 
 **先生**: まず、保温性。ウールの繊維は複雑な構造をしていて、空気を多く含むことができる。この空気層が断熱材のように働いて、暖かさを保つんだ。次に吸放湿性。ウールは湿気を吸収しつつ、外に放出する性質があるから、蒸れにくい。最後に抗菌防臭性。ウール本来の性質で、汗の臭いを抑えてくれる。
 
-**参考情報**: 「主にウール（ウール80％、ナイロン20％）で構成されており、保温性、吸放湿性、抗菌防臭性に優れています。軽量なラムウールを使用しているため、比較的軽量なモデルです。」<details><summary>出典</summary>`https://www.karrimor.jp/c/accessories/gloves-mittens/200162-01`</details>
+> **参考情報**: 「主にウール（ウール80％、ナイロン20％）で構成されており、保温性、吸放湿性、抗菌防臭性に優れています。軽量なラムウールを使用しているため、比較的軽量なモデルです。」<details><summary>出典</summary>`https://www.karrimor.jp/c/accessories/gloves-mittens/200162-01`</details>
 
 へぇ〜、ウールってそんなに高機能だったんだ！
 
 **先生**: そうだ。カリマーのウールグローブは、軽量なラムウールやメリノウール100%のモデルもあって、薄手ながら暖かい。しかもタッチパネル操作にも対応している。
 
-**参考情報**: 「「ウールロゴグローブ」はメリノウール100%で、薄手ながら暖かく、スマートフォン操作も可能です」<details><summary>出典</summary>`https://happycamper.jp/_ct/17658113`</details>
+> **参考情報**: 「「ウールロゴグローブ」はメリノウール100%で、薄手ながら暖かく、スマートフォン操作も可能です」<details><summary>出典</summary>`https://happycamper.jp/_ct/17658113`</details>
 
 薄手で暖かいって、最高じゃないですか！
 
@@ -268,13 +268,13 @@ PSPグローブより少し高いんですね。
 
 **先生**: それに、デザインがシンプルだから、アウトドアだけでなく、普段使いや通勤・通学にも適している。街中で使っても浮かないのがいいところだ。
 
-**参考情報**: 「シンプルなデザインでアウトドアだけでなく、普段使いや通勤・通学時にも適しています。」<details><summary>出典</summary>`https://www.karrimor.jp/c/accessories/gloves-mittens/200162-01`</details>
+> **参考情報**: 「シンプルなデザインでアウトドアだけでなく、普段使いや通勤・通学時にも適しています。」<details><summary>出典</summary>`https://www.karrimor.jp/c/accessories/gloves-mittens/200162-01`</details>
 
 たしかに、派手すぎない方がいいですよね。
 
 **先生**: ああ。それに、ウールグローブは約35gと軽量だ。インナーグローブとして冬山で使うのもいいし、春秋の肌寒い時期に単体で使うのもいい。汎用性が高いんだ。
 
-**参考情報**: 「単体での使用はもちろん、冬山登山などでより高い保温性が必要な際のインナーグローブとしても活用できます。ハイキングや低山登山、肌寒い時期の普段使いにおすすめです。」<details><summary>出典</summary>`https://vague.style/item/item_202409/`</details>
+> **参考情報**: 「単体での使用はもちろん、冬山登山などでより高い保温性が必要な際のインナーグローブとしても活用できます。ハイキングや低山登山、肌寒い時期の普段使いにおすすめです。」<details><summary>出典</summary>`https://vague.style/item/item_202409/`</details>
 
 #### 主なスペック
 
@@ -283,7 +283,7 @@ PSPグローブより少し高いんですね。
 - **機能**: 保温、吸放湿性、抗菌防臭性、タッチパネル対応
 - **カラー**: シンプルなデザイン
 
-**参考情報**: 「軽量なラムウールを使用したモデルもあります」<details><summary>出典</summary>`https://www.karrimor.jp/c/accessories/gloves-mittens/200162-01`</details>
+> **参考情報**: 「軽量なラムウールを使用したモデルもあります」<details><summary>出典</summary>`https://www.karrimor.jp/c/accessories/gloves-mittens/200162-01`</details>
 
 #### こんな人におすすめ
 
@@ -316,13 +316,13 @@ PSPグローブより少し高いんですね。
 
 **先生**: メッシュ素材を使っているから、通気性に優れている。暑い時期でも蒸れにくく、快適に使える。ただし、保温性はほぼないから、あくまで夏や初秋の温暖な環境向けだ。
 
-**参考情報**: 「メッシュ素材を使用しており、通気性に優れていると推測されます。」<details><summary>出典</summary>`https://www.karrimor.jp/c/accessories/gloves-mittens`</details>
+> **参考情報**: 「メッシュ素材を使用しており、通気性に優れていると推測されます。」<details><summary>出典</summary>`https://www.karrimor.jp/c/accessories/gloves-mittens`</details>
 
 なるほど...。じゃあ、冬には絶対使えないですね。
 
 **先生**: そうだな。ただ、夏山専用のグローブを一つ持っておくと、手のひらの汗を吸ってくれたり、岩で擦りむいたりするのを防げたりして、意外と重宝するぞ。
 
-**参考情報**: 「暖かい季節のトレッキングや、グローブの蒸れが気になる場合に適しているでしょう」<details><summary>出典</summary>`https://shopping.yahoo.co.jp/search?p=karrimor%20trek%20mesh%20glove&sc_i=shp_pc_search_searchBox_2`</details>
+> **参考情報**: 「暖かい季節のトレッキングや、グローブの蒸れが気になる場合に適しているでしょう」<details><summary>出典</summary>`https://shopping.yahoo.co.jp/search?p=karrimor%20trek%20mesh%20glove&sc_i=shp_pc_search_searchBox_2`</details>
 
 #### 主なスペック
 
@@ -348,7 +348,7 @@ PSPグローブより少し高いんですね。
 
 **先生**: いい質問だ。服と同じように、グローブもレイヤリング（重ね着）することで、保温性や機能性を高めることができるんだ。例えば、ウールグローブをインナーに、その上からラインドシェルグローブを着用する。こうすると、ウールの保温性とラインドシェルの防風・防滴性が組み合わさって、厳冬期でも手を暖かく保てる。
 
-**参考情報**: 「これらのグローブは、レイヤリング（重ね着）のように組み合わせることで、より高い保温性や機能性を発揮することができます。例えば、ウールグローブをインナーに、その上からラインドシェルグローブを着用するといった使い方です。」<details><summary>出典</summary>`https://www.karrimor.jp/c/accessories/gloves-mittens`</details>
+> **参考情報**: 「これらのグローブは、レイヤリング（重ね着）のように組み合わせることで、より高い保温性や機能性を発揮することができます。例えば、ウールグローブをインナーに、その上からラインドシェルグローブを着用するといった使い方です。」<details><summary>出典</summary>`https://www.karrimor.jp/c/accessories/gloves-mittens`</details>
 
 えぇ〜、そんな使い方があるんですね！
 
@@ -370,13 +370,13 @@ PSPグローブより少し高いんですね。
 
 **先生**: まず、「手囲い」を測る。これは、利き手の親指を除いた一番幅広い部分、つまり指の付け根の関節の下あたりをメジャーで一周させた長さだ。
 
-**参考情報**: 「手囲いは、利き手の親指を除いた一番幅広い部分（通常、指の付け根の関節の下あたり）をメジャーで一周させて測ります」<details><summary>出典</summary>`https://www.nike.com/jp/help/a/glove-sizing`</details>
+> **参考情報**: 「手囲いは、利き手の親指を除いた一番幅広い部分（通常、指の付け根の関節の下あたり）をメジャーで一周させて測ります」<details><summary>出典</summary>`https://www.nike.com/jp/help/a/glove-sizing`</details>
 
 メジャーですか...。家にあるかな...。
 
 **先生**: なければ、紐や細長い紙で代用して、後で定規で測ればいい。ポイントは、メジャーを手袋と同じように肌にぴったり密着させること。ただし、きつく引っ張りすぎたり、緩めすぎたりしないように注意だ。
 
-**参考情報**: 「メジャーは手袋と同じように肌にぴったりと密着させますが、きつく引っ張りすぎたり、緩めすぎたりしないように注意してください」<details><summary>出典</summary>`https://www.dentsgloves.com/pages/size-guide`</details>
+> **参考情報**: 「メジャーは手袋と同じように肌にぴったりと密着させますが、きつく引っ張りすぎたり、緩めすぎたりしないように注意してください」<details><summary>出典</summary>`https://www.dentsgloves.com/pages/size-guide`</details>
 
 ### カリマーの標準サイズ
 
@@ -388,7 +388,7 @@ PSPグローブより少し高いんですね。
 | M      | 23-24       |
 | L      | 25-26       |
 
-**参考情報**: カリマーの公式サイトでは、以下の標準サイズガイドが提供されています:
+> **参考情報**: カリマーの公式サイトでは、以下の標準サイズガイドが提供されています:
 - **S:** 手囲い 21-22 cm
 - **M:** 手囲い 23-24 cm
 - **L:** 手囲い 25-26 cm
@@ -399,7 +399,7 @@ PSPグローブより少し高いんですね。
 
 **先生**: そうなんだ。カリマーの多くのグローブは、手囲いを基準としたユニセックスデザインになっている。男女兼用だ。
 
-**参考情報**: 「多くのカリマーグローブは、手囲いを基準としたユニセックスデザインであり、男女兼用の製品として販売されています」<details><summary>出典</summary>`https://item.rakuten.co.jp/sundaymountain/krm-200226/`</details>
+> **参考情報**: 「多くのカリマーグローブは、手囲いを基準としたユニセックスデザインであり、男女兼用の製品として販売されています」<details><summary>出典</summary>`https://item.rakuten.co.jp/sundaymountain/krm-200226/`</details>
 
 ### モデルによってサイズが違う？
 
@@ -407,13 +407,13 @@ PSPグローブより少し高いんですね。
 
 **先生**: よく覚えていたな。そうだ、例えば「ラインドシェルグローブ」では、Sサイズが手囲い17-18.5cm、Mサイズが19-20.5cm、Lサイズが21-22.5cmと、標準サイズとは少し違う。だから、購入前に必ず各製品のサイズ表を確認することが大切だ。
 
-**参考情報**: 「例えば、「lined shell glove」では、Sサイズが手囲い17-18.5cm、Mサイズが19-20.5cm、Lサイズが21-22.5cmとされています」<details><summary>出典</summary>`https://item.rakuten.co.jp/sundaymountain/krm-200226/`</details>
+> **参考情報**: 「例えば、「lined shell glove」では、Sサイズが手囲い17-18.5cm、Mサイズが19-20.5cm、Lサイズが21-22.5cmとされています」<details><summary>出典</summary>`https://item.rakuten.co.jp/sundaymountain/krm-200226/`</details>
 
 めんどくさい...！
 
 **先生**: ははは。でも、それで失敗を防げるならいいだろう？サイズが合わないグローブは、指の動きを妨げたり、血行を阻害したりして、快適性も安全性も損なわれる。少しの手間を惜しまないことだ。
 
-**参考情報**: 「グローブは、きつすぎず、ゆるすぎない、適度なフィット感が重要です。指の動きを妨げず、血行を阻害しないサイズを選びましょう」<details><summary>出典</summary>`https://www.dentsgloves.com/pages/size-guide`</details>
+> **参考情報**: 「グローブは、きつすぎず、ゆるすぎない、適度なフィット感が重要です。指の動きを妨げず、血行を阻害しないサイズを選びましょう」<details><summary>出典</summary>`https://www.dentsgloves.com/pages/size-guide`</details>
 
 ### 左右の手のサイズが違う場合は？
 
@@ -421,7 +421,7 @@ PSPグローブより少し高いんですね。
 
 **先生**: 大きい方の手に合わせてサイズを選ぶのが基本だ。小さい方の手は少しゆとりができるが、それでも大きい方がきつくなるよりはマシだ。
 
-**参考情報**: 「左右の手のサイズが異なる場合は、大きい方の手に合うサイズを選ぶのが良いでしょう」<details><summary>出典</summary>`https://www.nike.com/jp/help/a/glove-sizing`</details>
+> **参考情報**: 「左右の手のサイズが異なる場合は、大きい方の手に合うサイズを選ぶのが良いでしょう」<details><summary>出典</summary>`https://www.nike.com/jp/help/a/glove-sizing`</details>
 
 ---
 
@@ -435,7 +435,7 @@ PSPグローブより少し高いんですね。
 
 **先生**: モンベルの最大の強みは、日本人に合ったサイズ感だ。XSからXXLまでラインナップがあるモデルも多く、立体裁断で日本人の手に合いやすい。また、防滴、防風、防水など幅広い用途に対応したグローブが揃っている。
 
-**参考情報**: 「モンベルのグローブは、日本人に合ったサイズ感と豊富な種類が特徴です。XSからXXLまでラインナップがあるモデルも多く、手にフィットするグローブを見つけやすいでしょう。」<details><summary>出典</summary>`https://yamano-media.com/mountaineering-goods/30329/`</details>
+> **参考情報**: 「モンベルのグローブは、日本人に合ったサイズ感と豊富な種類が特徴です。XSからXXLまでラインナップがあるモデルも多く、手にフィットするグローブを見つけやすいでしょう。」<details><summary>出典</summary>`https://yamano-media.com/mountaineering-goods/30329/`</details>
 
 じゃあ、日本人にはモンベルの方がいいってことですか？
 
@@ -445,7 +445,7 @@ PSPグローブより少し高いんですね。
 
 **先生**: パタゴニアは、アメリカ発祥のブランドで、高い機能性とデザイン性、そして環境への配慮が特徴だ。オーガニックコットンやリサイクル素材を使ったり、修理サービスを提供したりしている。
 
-**参考情報**: 「パタゴニアはアメリカ発祥のアウトドアブランドで、高い機能性とデザイン性、そして環境への配慮が特徴です。」<details><summary>出典</summary>`https://kurashi-no.jp/I0049054`</details>
+> **参考情報**: 「パタゴニアはアメリカ発祥のアウトドアブランドで、高い機能性とデザイン性、そして環境への配慮が特徴です。」<details><summary>出典</summary>`https://kurashi-no.jp/I0049054`</details>
 
 環境配慮って、カッコいいですね！
 
@@ -455,7 +455,7 @@ PSPグローブより少し高いんですね。
 
 **先生**: カリマーは、保温性と操作性のバランスが良く、単体でもインナーグローブとしても使える汎用性の高いモデルが多い。また、イギリス発祥のブランドらしい堅牢さと実用性が魅力だ。価格も比較的手頃で、コスパが高い。
 
-**参考情報**: 「カリマー: 保温性と操作性のバランスが良く、単体でもインナーグローブとしても使える汎用性の高いモデルを求める方におすすめです。」<details><summary>出典</summary>`https://sakidori.co/article/1364961`</details>
+> **参考情報**: 「カリマー: 保温性と操作性のバランスが良く、単体でもインナーグローブとしても使える汎用性の高いモデルを求める方におすすめです。」<details><summary>出典</summary>`https://sakidori.co/article/1364961`</details>
 
 なるほど...。じゃあ、私にはカリマーが合ってるかも！
 
@@ -475,25 +475,25 @@ PSPグローブより少し高いんですね。
 
 **先生**: 例えば、「オクタ サーマル ネックウォーマー」は、8本足形状の極細異形断面中空糸「Octa®」を使用していて、温度が低い時には暖かい空気を蓄えて保温し、汗をかく状況では熱を放出して蒸れを防ぐ。
 
-**参考情報**: 「「Karrimor オクタ サーマル ネックウォーマー」は、8本足形状の極細異形断面中空糸「Octa®」を使用しており、温度が低い時には暖かい空気を蓄えて保温し、汗をかく状況では熱を放出し水分を吸収拡散することで蒸れを防ぎます。」<details><summary>出典</summary>`https://www.karrimor.jp/c/accessories/neck-warmer/101370-01`</details>
+> **参考情報**: 「「Karrimor オクタ サーマル ネックウォーマー」は、8本足形状の極細異形断面中空糸「Octa®」を使用しており、温度が低い時には暖かい空気を蓄えて保温し、汗をかく状況では熱を放出し水分を吸収拡散することで蒸れを防ぎます。」<details><summary>出典</summary>`https://www.karrimor.jp/c/accessories/neck-warmer/101370-01`</details>
 
 すごい素材ですね！
 
 **先生**: ああ。他にも、UPF50+の紫外線カット機能が付いた「UVネックゲイター」や、ウール素材のネックウォーマーなど、様々なモデルがある。用途に応じて選ぶといいぞ。
 
-**参考情報**: 「UVネックゲイターは、紫外線（UVA、UVB）を98％以上カットするUPF50+の性能を持ち、紫外線対策にもなります。」<details><summary>出典</summary>`https://www.karrimor.jp/c/accessories/neck-warmer/101246-09`</details>
+> **参考情報**: 「UVネックゲイターは、紫外線（UVA、UVB）を98％以上カットするUPF50+の性能を持ち、紫外線対策にもなります。」<details><summary>出典</summary>`https://www.karrimor.jp/c/accessories/neck-warmer/101246-09`</details>
 
 ### ナルゲンボトルとレインカバー
 
 **先生**: あと、カリマーとNalgeneのコラボレーションボトルもおすすめだ。BPAフリーで安全性が高く、温冷両用で使える。気密性が高いから、飲料以外にもコーヒー豆とかを保存するのにも使えるんだ。
 
-**参考情報**: 「Karrimor has collaborated with Nalgene to produce specialized bottles, often based on Nalgene's \"TRITAN\" model. These Karrimor-branded Nalgene bottles are made from safe, BPA-free raw resins and are manufactured without additives. They feature a unique cap system that ensures high airtightness even without a gasket. These bottles are versatile, capable of holding both hot and cold liquids, with the main body having a temperature resistance range of -20℃ to 100℃. Beyond beverages, their high airtightness makes them suitable for storing items like coffee beans, and they can even be used as a hot water bottle」<details><summary>出典</summary>`https://www.houyhnhnm.jp/feature/268823/`</details>
+> **参考情報**: 「Karrimor has collaborated with Nalgene to produce specialized bottles, often based on Nalgene's \"TRITAN\" model. These Karrimor-branded Nalgene bottles are made from safe, BPA-free raw resins and are manufactured without additives. They feature a unique cap system that ensures high airtightness even without a gasket. These bottles are versatile, capable of holding both hot and cold liquids, with the main body having a temperature resistance range of -20℃ to 100℃. Beyond beverages, their high airtightness makes them suitable for storing items like coffee beans, and they can even be used as a hot water bottle」<details><summary>出典</summary>`https://www.houyhnhnm.jp/feature/268823/`</details>
 
 コーヒー豆！？そんな使い方もあるんですね！
 
 **先生**: ああ。あと、レインカバーも25-40Lや60-80Lといった各種容量があって、固定ストラップとドローコードで、バックパックにしっかり固定できる。急な雨でも安心だ。
 
-**参考情報**: 「Karrimor offers rain covers for backpacks in various capacities, such as 25-40L and 60-80L」<details><summary>出典</summary>`https://item.rakuten.co.jp/sundaymountain/krm-502007/`</details>
+> **参考情報**: 「Karrimor offers rain covers for backpacks in various capacities, such as 25-40L and 60-80L」<details><summary>出典</summary>`https://item.rakuten.co.jp/sundaymountain/krm-502007/`</details>
 
 ---
 

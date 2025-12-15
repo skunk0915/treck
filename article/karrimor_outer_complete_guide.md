@@ -32,7 +32,7 @@ Tags: Outer, Guide
 
 **先生**: ああ。エベレスト遠征隊にも採用されるほどの高い機能性で知られている。特にバックパックが有名だが、近年はアパレルラインも充実していて、日本でも人気が高まっているんだ。
 
-**参考情報**: 「カリマーは、サイクルバッグメーカーとして創業し、登山家の要望に応える形でリュックサック製造を開始したイギリスのアウトドアブランドです。その製品はエベレスト遠征隊にも採用されるなど、高い機能性で知られています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGphRiGK9TLwXZ9gZN5LRTpFsIj3j4U43n-QE1VeYaJhVtcQN0793S7unsLbAkCsEHgU_8gLGvy7cElH0cZFEPNjJD96P6D3P1i7kAVOtwQ7pjEHyf14PzUuV4Q0QWSVcfcgwVjXCiraJ0=`</details>
+> **参考情報**: 「カリマーは、サイクルバッグメーカーとして創業し、登山家の要望に応える形でリュックサック製造を開始したイギリスのアウトドアブランドです。その製品はエベレスト遠征隊にも採用されるなど、高い機能性で知られています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGphRiGK9TLwXZ9gZN5LRTpFsIj3j4U43n-QE1VeYaJhVtcQN0793S7unsLbAkCsEHgU_8gLGvy7cElH0cZFEPNjJD96P6D3P1i7kAVOtwQ7pjEHyf14PzUuV4Q0QWSVcfcgwVjXCiraJ0=`</details>
 
 **JK**: でも、なんでアウターだけでこんなに種類があるんですか？
 
@@ -46,7 +46,7 @@ Tags: Outer, Guide
 
 **先生**: WTX™は「Weathertite Extreme（ウェザータイト エクストリーム）」の略で、カリマー独自の防水透湿素材だ。元々あったWeathertiteという素材の進化版でね、最低でも耐水圧20,000mm、透湿性20,000g/m²/24hという高い性能基準を満たしている。
 
-**参考情報**: 「WTX™ products are engineered to meet specific technical standards, including a minimum water pressure resistance of 20,000mm and moisture permeability of 20,000g/m²/24h, ensuring excellent waterproofing and breathability.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXiF6DDXxPErSbqmDemTp9ztY3fq_jOsXQqg9JQvVJz0mU86u3Hn465HhT45c5DDhITb6FaKTFHZLJgmtelmrx6iHI7CW---uGq4NbkhImW5KytbuQrVi2kIX4m0DngBKDaOE=`</details>
+> **参考情報**: 「WTX™ products are engineered to meet specific technical standards, including a minimum water pressure resistance of 20,000mm and moisture permeability of 20,000g/m²/24h, ensuring excellent waterproofing and breathability.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXiF6DDXxPErSbqmDemTp9ztY3fq_jOsXQqg9JQvVJz0mU86u3Hn465HhT45c5DDhITb6FaKTFHZLJgmtelmrx6iHI7CW---uGq4NbkhImW5KytbuQrVi2kIX4m0DngBKDaOE=`</details>
 
 **JK**: 数字だけ言われても…それってすごいんですか？
 
@@ -78,7 +78,7 @@ Tags: Outer, Guide
 
 **先生**: tritonシリーズは、90年代のカリマーアーカイブをベースにしながら、現代的なシルエットにアップデートされている。つまり、クラシックな雰囲気を残しつつ、今どきのスタイリッシュなデザインになっているわけだ。
 
-**参考情報**: 「カリマーの「トライトン（triton）ジャケット シェル」は、軽量で機能性の高いマウンテンパーカーとして、アウトドアからタウンユースまで幅広いシーンで活躍するジャケットです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXiF6DDXxPErSbqmDemTp9ztY3fq_jOsXQqg9JQvVJz0mU86u3Hn465HhT45c5DDhITb6FaKTFHZLJgmtelmrx6iHI7CW---uGq4NbkhImW5KytbuQrVi2kIX4m0DngBKDaOE=`</details>
+> **参考情報**: 「カリマーの「トライトン（triton）ジャケット シェル」は、軽量で機能性の高いマウンテンパーカーとして、アウトドアからタウンユースまで幅広いシーンで活躍するジャケットです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXiF6DDXxPErSbqmDemTp9ztY3fq_jOsXQqg9JQvVJz0mU86u3Hn465HhT45c5DDhITb6FaKTFHZLJgmtelmrx6iHI7CW---uGq4NbkhImW5KytbuQrVi2kIX4m0DngBKDaOE=`</details>
 
 **JK**: おしゃれなんですか？それなら嬉しい！
 
@@ -97,7 +97,7 @@ Tags: Outer, Guide
 - **重量**: 約480g
 - **価格**: 通常¥19,800〜¥20,900（税込）、セール時¥10,450〜¥13,860（税込）
 
-**参考情報**: 「裏地には通気性の良いメッシュ素材（起毛メッシュの場合もあり）が使われており、快適な着心地と適度な保温性を提供し、年間を通して着用しやすい設計となっています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2zVq_5dXwrGqM3r1MWnSZr-Kl18vRnV0Lm4evo0SB_QgaQ4hViSwX4J1miqPAy4tpMBcv00Oe6FMIDxkoXg-g5vqj0ubWB7jfruHxwAulDpjnocaWEFQ8ZuDqQYFDNsxru9ARzSWgNl98BavQuZY=`</details>
+> **参考情報**: 「裏地には通気性の良いメッシュ素材（起毛メッシュの場合もあり）が使われており、快適な着心地と適度な保温性を提供し、年間を通して着用しやすい設計となっています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2zVq_5dXwrGqM3r1MWnSZr-Kl18vRnV0Lm4evo0SB_QgaQ4hViSwX4J1miqPAy4tpMBcv00Oe6FMIDxkoXg-g5vqj0ubWB7jfruHxwAulDpjnocaWEFQ8ZuDqQYFDNsxru9ARzSWgNl98BavQuZY=`</details>
 
 **JK**: 2万円前後なんですね。ゴアテックスのジャケットより安い！
 
@@ -107,7 +107,7 @@ Tags: Outer, Guide
 
 **先生**: triton jktの機能面を見ていこう。まず、超撥水加工が施されていて、雨や汚れを弾く。防風性にも優れているから、風が強い稜線でも快適だ。
 
-**参考情報**: 「防風性、撥水性に優れており、一部のモデルでは超撥水加工が施されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuWGoskEnZ1MYx8ES5CL6OFYyjV7ORdHGkK_yz3_PCCsnf3fO1K8cMkZxIZlvP6TcCch2UERypr6t3zFp9F21sl0V-OivtsAA_6yPBFrF2taSY1hSl5AqGQ1OqliiyAS4=`</details>
+> **参考情報**: 「防風性、撥水性に優れており、一部のモデルでは超撥水加工が施されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuWGoskEnZ1MYx8ES5CL6OFYyjV7ORdHGkK_yz3_PCCsnf3fO1K8cMkZxIZlvP6TcCch2UERypr6t3zFp9F21sl0V-OivtsAA_6yPBFrF2taSY1hSl5AqGQ1OqliiyAS4=`</details>
 
 **JK**: でも、完全防水じゃないんですよね？
 
@@ -125,7 +125,7 @@ Tags: Outer, Guide
 
 **先生**: 女性は特に気になるだろうな。それから、フロントには大きめのジッパーポケットがあって、行動中にスマホや行動食を入れておける。一部のモデルには、抗菌メッシュ素材のウエストベンチレーションポケットもついている。
 
-**参考情報**: 「フロントには大きめのジッパーポケットや、抗菌メッシュ素材を採用したウエストベンチレーションポケットが備わっているモデルもあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh7_EuOaL2B5rM_2bAXmvR1kURlfZyhFoy7e1SSkv25mwO2KDVqvwPGEYGvO4L5rFZRvYcGfFMC4b8NAe8sbV4L2EJJWaLG_0GgVUb8r5YIK-BdP_5S8Cr6dA2g2ArsBKkl4I=`</details>
+> **参考情報**: 「フロントには大きめのジッパーポケットや、抗菌メッシュ素材を採用したウエストベンチレーションポケットが備わっているモデルもあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh7_EuOaL2B5rM_2bAXmvR1kURlfZyhFoy7e1SSkv25mwO2KDVqvwPGEYGvO4L5rFZRvYcGfFMC4b8NAe8sbV4L2EJJWaLG_0GgVUb8r5YIK-BdP_5S8Cr6dA2g2ArsBKkl4I=`</details>
 
 **JK**: ベンチレーションって、換気ってことですよね？
 
@@ -158,7 +158,7 @@ Tags: Outer, Guide
 - **重量**: 約320g
 - **価格**: 通常¥18,700（税込）、セール時¥9,350（税込）
 
-**参考情報**: 「Older models (from 2014) and "triton light jkt mix" variations use Taslan Nylon, which offers UV cut, windproofness, and durable water repellency, along with a cotton-like feel for a soft and comfortable fit」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKZR1DN53VqptZ8JoY_3zhyWXxQmdYKEKSRmqmd13iexAYbwi9n0uvAkM8q4glwqcneo1dQd6Ms_BIwiw1QrW8XA6j9_gFy7lrkT90-khR1rwra2W1Cd1GOf4li1eUvDkw-ECW19yDJ7kouz1a_Umw=`</details>
+> **参考情報**: 「Older models (from 2014) and "triton light jkt mix" variations use Taslan Nylon, which offers UV cut, windproofness, and durable water repellency, along with a cotton-like feel for a soft and comfortable fit」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKZR1DN53VqptZ8JoY_3zhyWXxQmdYKEKSRmqmd13iexAYbwi9n0uvAkM8q4glwqcneo1dQd6Ms_BIwiw1QrW8XA6j9_gFy7lrkT90-khR1rwra2W1Cd1GOf4li1eUvDkw-ECW19yDJ7kouz1a_Umw=`</details>
 
 **JK**: 320gって、めっちゃ軽いですね！普通のtritonより160gも軽い。
 
@@ -200,7 +200,7 @@ Tags: Outer, Guide
 
 **先生**: ソフトシェルは、ストレッチ性と通気性を重視したジャケットのことだ。「着たまま動ける」ことを最大の特徴としていて、登山やクライミングなど、体を大きく動かすアクティビティに適している。
 
-**参考情報**: 「カリマーの「arete（アレート）ジャケット」は、登山をはじめとする様々なアウトドアアクティビティに適したソフトシェルジャケットです。初期の認識ではハードシェルと思われがちですが、実際は高いストレッチ性と耐候性を兼ね備えたソフトシェルとして展開されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfaeKpTwUfSyJzPVTOXBoiQrpgdbJ2Qv2UWM0O6e_eW7VKOuvBWcqd2kBTApykghN9qWTYvciQaKAtLftue1gnR9KGtmVRvnOB1EYVAY88lUsXytyIiHBZvStDcHNb=`</details>
+> **参考情報**: 「カリマーの「arete（アレート）ジャケット」は、登山をはじめとする様々なアウトドアアクティビティに適したソフトシェルジャケットです。初期の認識ではハードシェルと思われがちですが、実際は高いストレッチ性と耐候性を兼ね備えたソフトシェルとして展開されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfaeKpTwUfSyJzPVTOXBoiQrpgdbJ2Qv2UWM0O6e_eW7VKOuvBWcqd2kBTApykghN9qWTYvciQaKAtLftue1gnR9KGtmVRvnOB1EYVAY88lUsXytyIiHBZvStDcHNb=`</details>
 
 ### TEXBRID®（テックスブリッド）- areteの秘密兵器
 
@@ -212,7 +212,7 @@ Tags: Outer, Guide
 
 **先生**: TEXBRID®は、形状回復性に優れた高伸縮機能糸でね、「伸びて戻る」性質を持っている。つまり、体を動かすときは生地が伸びてストレスフリー、動きを止めると元の形に戻るわけだ。
 
-**参考情報**: 「多くのモデルで「TEXBRID®（テックスブリッド）」という、形状回復性に優れた高伸縮機能糸が使用されており、伸びて戻る性質を持つため、身体を締め付けず快適な着心地を実現しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMyBQCZrPZraOdAIrbhYhjWgGz5EmQ4BXcRZkSKMFZPCiQiLhnbuYdwMDr5ez4H0l3reNY5ScREc8fRZRezAvu8yOCAoxoBzzmNf7FN0jT046mY5bLWFa0-wdVOksLj_wEHVY6h272xIBaLZLSmxb6gkpwg2fX3Z0=`</details>
+> **参考情報**: 「多くのモデルで「TEXBRID®（テックスブリッド）」という、形状回復性に優れた高伸縮機能糸が使用されており、伸びて戻る性質を持つため、身体を締め付けず快適な着心地を実現しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMyBQCZrPZraOdAIrbhYhjWgGz5EmQ4BXcRZkSKMFZPCiQiLhnbuYdwMDr5ez4H0l3reNY5ScREc8fRZRezAvu8yOCAoxoBzzmNf7FN0jT046mY5bLWFa0-wdVOksLj_wEHVY6h272xIBaLZLSmxb6gkpwg2fX3Z0=`</details>
 
 **JK**: へぇ、それって具体的にどう便利なんですか？
 
@@ -237,7 +237,7 @@ Tags: Outer, Guide
 - **設計**: 腕上げしやすいパターン設計、ダブルジッパー、フードアジャスト機能
 - **価格**: 約¥25,000前後（税込）
 
-**参考情報**: 「腕上げしやすいパターン設計が施されており、登山やクライミングなど腕を大きく動かすアクティビティでもストレスなく動けるよう設計されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMyBQCZrPZraOdAIrbhYhjWgGz5EmQ4BXcRZkSKMFZPCiQiLhnbuYdwMDr5ez4H0l3reNY5ScREc8fRZRezAvu8yOCAoxoBzzmNf7FN0jT046mY5bLWFa0-wdVOksLj_wEHVY6h272xIBaLZLSmxb6gkpwg2fX3Z0=`</details>
+> **参考情報**: 「腕上げしやすいパターン設計が施されており、登山やクライミングなど腕を大きく動かすアクティビティでもストレスなく動けるよう設計されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMyBQCZrPZraOdAIrbhYhjWgGz5EmQ4BXcRZkSKMFZPCiQiLhnbuYdwMDr5ez4H0l3reNY5ScREc8fRZRezAvu8yOCAoxoBzzmNf7FN0jT046mY5bLWFa0-wdVOksLj_wEHVY6h272xIBaLZLSmxb6gkpwg2fX3Z0=`</details>
 
 **JK**: パターン設計って何ですか？
 
@@ -267,7 +267,7 @@ Tags: Outer, Guide
 
 **先生**: そうだ。このモデル最大の特徴は、チェストポケットと一体化したベンチレーションポケットにある。ダブルスライダーになっていて、換気量を細かく調整できるんだ。
 
-**参考情報**: 「前身頃にはチェストポケットと一体化したベンチレーションポケットが配置されており、ダブルスライダーによって換気量を調整し、衣服内環境を快適に保ちます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIWw-dzTkwlwYcpy8LtL0TMqUh_NtMGjGIE7Uq8NZeQYa9SHGsZ4P-uYZ7wEf-7pxDnQKOPlucR0xB6YrF7DmAwX_QbAs5-EbFx8h6ino33wOxOzs3Oo-zL8npGjfCAOycc1Q=`</details>
+> **参考情報**: 「前身頃にはチェストポケットと一体化したベンチレーションポケットが配置されており、ダブルスライダーによって換気量を調整し、衣服内環境を快適に保ちます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIWw-dzTkwlwYcpy8LtL0TMqUh_NtMGjGIE7Uq8NZeQYa9SHGsZ4P-uYZ7wEf-7pxDnQKOPlucR0xB6YrF7DmAwX_QbAs5-EbFx8h6ino33wOxOzs3Oo-zL8npGjfCAOycc1Q=`</details>
 
 #### 主なスペック
 
@@ -287,7 +287,7 @@ Tags: Outer, Guide
 
 **先生**: 裏地に凹凸がある構造のことだ。肌との接触面積が減るから、汗をかいても生地が体にベタつきにくい。あと、凹凸の隙間に空気が入ることで、衣服内の空気循環が良くなる。
 
-**参考情報**: 「\"arete ventilation parka\"などのモデルでは、表裏ともに通気性の高い素材（PERTEX®QUANTUM AIRなど）が採用され、大きなベンチレーションポケットにより衣服内の通気性も確保されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM3an-fWEuVxJ5bumipwQZ99ccFNyCrLXQL6Vs10kAJfbmgkc6JhuWakHrwVdUXCoSYz8elBK46n4AKWY9ZEFvnLeyVAqQYLJs29deYrFZpqegZyTOx1owJvyRpO70QPXT2szcHJ_YyQazyvhUV9aszJuA6w==`</details>
+> **参考情報**: 「\"arete ventilation parka\"などのモデルでは、表裏ともに通気性の高い素材（PERTEX®QUANTUM AIRなど）が採用され、大きなベンチレーションポケットにより衣服内の通気性も確保されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM3an-fWEuVxJ5bumipwQZ99ccFNyCrLXQL6Vs10kAJfbmgkc6JhuWakHrwVdUXCoSYz8elBK46n4AKWY9ZEFvnLeyVAqQYLJs29deYrFZpqegZyTOx1owJvyRpO70QPXT2szcHJ_YyQazyvhUV9aszJuA6w==`</details>
 
 #### 使いどころ
 
@@ -299,7 +299,7 @@ Tags: Outer, Guide
 
 **先生**: ただし、氷点下になると単体では寒い。気温が0度近くなると、上にハードシェルを重ねるか、下に保温性のあるベースレイヤーを追加する必要がある。
 
-**参考情報**: 「低山ハイクから雪山登山まで、幅広いシーンでミドルレイヤーとしてもアウターレイヤーとしても使用できる汎用性の高さがあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeIl31yZSHqZmlyYr3PS5EFbtj_JHIY8d3BRWzq2Fxju7Omdtc9vsU_Rsw6L30YoWxVmsLv9956gCRT7_wsCfA9R23oma1QYxUtItVxwvwdAdFdwC5N3QWpuEzx1gkSvESr-TIOPVCfLwC_RIeKAOMYDjPDw==`</details>
+> **参考情報**: 「低山ハイクから雪山登山まで、幅広いシーンでミドルレイヤーとしてもアウターレイヤーとしても使用できる汎用性の高さがあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeIl31yZSHqZmlyYr3PS5EFbtj_JHIY8d3BRWzq2Fxju7Omdtc9vsU_Rsw6L30YoWxVmsLv9956gCRT7_wsCfA9R23oma1QYxUtItVxwvwdAdFdwC5N3QWpuEzx1gkSvESr-TIOPVCfLwC_RIeKAOMYDjPDw==`</details>
 
 #### こんな人におすすめ
 
@@ -324,7 +324,7 @@ Tags: Outer, Guide
 
 **先生**: それなら「wind shell hoodie」がぴったりだ。重量わずか130〜150gで、「常に呼吸するジャケット」をコンセプトに開発された超軽量ウィンドシェルだ。
 
-**参考情報**: 「PERTEX® QUANTUM AIR（ナイロン100%）が採用されており、「常に呼吸するジャケット」をコンセプトに開発され、高い通気性を維持しながらも、冷たい風を防ぐ適度な防風性を備えています。」<details><summary>出典</summary>`https://karrimor.jp/product/wind-shell-hoodie/`</details>
+> **参考情報**: 「PERTEX® QUANTUM AIR（ナイロン100%）が採用されており、「常に呼吸するジャケット」をコンセプトに開発され、高い通気性を維持しながらも、冷たい風を防ぐ適度な防風性を備えています。」<details><summary>出典</summary>`https://karrimor.jp/product/wind-shell-hoodie/`</details>
 
 ### wind shell hoodieの特徴
 
@@ -339,7 +339,7 @@ Tags: Outer, Guide
 - **機能**: 高通気性、適度な防風性、撥水性、パッカブル仕様
 - **特徴**: ワンハンドフードアジャストシステム、リフレクタープリント
 
-**参考情報**: 「コンパクトに収納できるパッカブル仕様で、チェストポケットなどに収納できるため携行性に優れています。収納袋を紛失する心配もありません」<details><summary>出典</summary>`https://karrimor.jp/product/wind-shell-hoodie/`</details>
+> **参考情報**: 「コンパクトに収納できるパッカブル仕様で、チェストポケットなどに収納できるため携行性に優れています。収納袋を紛失する心配もありません」<details><summary>出典</summary>`https://karrimor.jp/product/wind-shell-hoodie/`</details>
 
 **JK**: パッカブルって便利ですね。収納袋をなくす心配がないのは助かります。
 
@@ -351,7 +351,7 @@ Tags: Outer, Guide
 
 **先生**: 片手でフードの調整ができるシステムのことだ。強風の中でグローブをはめたまま調整することを想定している。
 
-**参考情報**: 「片手で操作できる独自のワンハンドフードアジャストシステムにより、強風時でもフードのフィット感を高め、フード先端のツバが垂れてこないように設計されています。」<details><summary>出典</summary>`https://karrimor.jp/product/wind-shell-hoodie/`</details>
+> **参考情報**: 「片手で操作できる独自のワンハンドフードアジャストシステムにより、強風時でもフードのフィット感を高め、フード先端のツバが垂れてこないように設計されています。」<details><summary>出典</summary>`https://karrimor.jp/product/wind-shell-hoodie/`</details>
 
 **JK**: それって地味にすごくないですか？普通のジャケットって、両手でヒモを引っ張らないとフードが締まらないですよね。
 
@@ -400,13 +400,13 @@ Tags: Outer, Guide
 
 **先生**: ハードシェルは、GORE-TEXなどの完全防水素材を使ったジャケットだ。雨、雪、風といった厳しい気象条件から体を確実に保護する「完全防御型シェル」と言える。
 
-**参考情報**: 「ハードシェルは、優れた防水性、防風性、耐久性を持つアウタージャケットです。GORE-TEX（ゴアテックス）などの防水透湿素材が使用されており、雨、雪、風といった厳しい気象条件から体を確実に保護する「完全防御型シェル」と言えます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCzLFRHYJ7SEzQhEBRYizF0weXXWMCi41tY_0QdAbas8aR5Ks0bcrDGjKFwmn4VG6K4MnjXqwvNa2FecMLpLdQqQ9394IbtS4fyg3x3ogPhHp9V6UmZfGpyeJSr4JfwMv6M4pDHezlLkQU9rVs_XGNLPZhi0Yubv_bYHhM`</details>
+> **参考情報**: 「ハードシェルは、優れた防水性、防風性、耐久性を持つアウタージャケットです。GORE-TEX（ゴアテックス）などの防水透湿素材が使用されており、雨、雪、風といった厳しい気象条件から体を確実に保護する「完全防御型シェル」と言えます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCzLFRHYJ7SEzQhEBRYizF0weXXWMCi41tY_0QdAbas8aR5Ks0bcrDGjKFwmn4VG6K4MnjXqwvNa2FecMLpLdQqQ9394IbtS4fyg3x3ogPhHp9V6UmZfGpyeJSr4JfwMv6M4pDHezlLkQU9rVs_XGNLPZhi0Yubv_bYHhM`</details>
 
 ### ソフトシェルとは
 
 **先生**: ソフトシェルは、ストレッチ性と通気性を重視したジャケットだ。「着たまま動ける」ことを最大の特徴としていて、撥水性と防風性はあるが、完全防水ではない。
 
-**参考情報**: 「ソフトシェルは、動きやすさ、通気性、ストレッチ性を重視したジャケットです。撥水性と防風性を備えていますが、完全防水ではない点がハードシェルとの大きな違いです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCzLFRHYJ7SEzQhEBRYizF0weXXWMCi41tY_0QdAbas8aR5Ks0bcrDGjKFwmn4VG6K4MnjXqwvNa2FecMLpLdQqQ9394IbtS4fyg3x3ogPhHp9V6UmZfGpyeJSr4JfwMv6M4pDHezlLkQU9rVs_XGNLPZhi0Yubv_bYHhM`</details>
+> **参考情報**: 「ソフトシェルは、動きやすさ、通気性、ストレッチ性を重視したジャケットです。撥水性と防風性を備えていますが、完全防水ではない点がハードシェルとの大きな違いです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCzLFRHYJ7SEzQhEBRYizF0weXXWMCi41tY_0QdAbas8aR5Ks0bcrDGjKFwmn4VG6K4MnjXqwvNa2FecMLpLdQqQ9394IbtS4fyg3x3ogPhHp9V6UmZfGpyeJSr4JfwMv6M4pDHezlLkQU9rVs_XGNLPZhi0Yubv_bYHhM`</details>
 
 ### 初心者への使い分け提案
 
@@ -417,7 +417,7 @@ Tags: Outer, Guide
 **春〜秋の日帰り登山や低山ハイクがメインの場合:**
 ソフトシェルから始めるのがおすすめだ。動きやすく、通気性がいいから、行動中の快適さを保てる。ただし、レインウェアは別途必ず持っていくこと。
 
-**参考情報**: 「初心者の場合、まずはどのようなアウトドア活動を想定しているかが重要です。日帰り登山や低山ハイク（春～秋）、または動きの多いアクティビティがメインの場合: まずは**ソフトシェル**の購入を検討するのが良いでしょう。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCzLFRHYJ7SEzQhEBRYizF0weXXWMCi41tY_0QdAbas8aR5Ks0bcrDGjKFwmn4VG6K4MnjXqwvNa2FecMLpLdQqQ9394IbtS4fyg3x3ogPhHp9V6UmZfGpyeJSr4JfwMv6M4pDHezlLkQU9rVs_XGNLPZhi0Yubv_bYHhM`</details>
+> **参考情報**: 「初心者の場合、まずはどのようなアウトドア活動を想定しているかが重要です。日帰り登山や低山ハイク（春～秋）、または動きの多いアクティビティがメインの場合: まずは**ソフトシェル**の購入を検討するのが良いでしょう。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCzLFRHYJ7SEzQhEBRYizF0weXXWMCi41tY_0QdAbas8aR5Ks0bcrDGjKFwmn4VG6K4MnjXqwvNa2FecMLpLdQqQ9394IbtS4fyg3x3ogPhHp9V6UmZfGpyeJSr4JfwMv6M4pDHezlLkQU9rVs_XGNLPZhi0Yubv_bYHhM`</details>
 
 **雪山登山や厳冬期の高山に挑戦したい場合:**
 ハードシェルが必須だ。ハードシェルがないと、命に関わる状況に陥る可能性がある。
@@ -442,7 +442,7 @@ Tags: Outer, Guide
 
 **先生**: 柔軟剤は撥水コーティングを損傷させる成分が入っている。撥水性がどんどん低下してしまうんだ。
 
-**参考情報**: 「洗濯前に、泥や汚れをブラシで払い落とし、全てのファスナーやフラップを閉じてください。通常の洗剤や柔軟剤は使用しないでください。これらの化学物質は、防水コーティングや繊維を損傷させる可能性があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx3KpHigrYSFSCG8HZAypTbk6cqZrBnmXwocxlD_tuJmamiEY3IbLoQgMUvNWbDKd1HYgriCSdvMbRsIV11UEyGJub3gDkG7-Y31im8F4BuyoqLwMSr65Zo6I0EgUnRSC3vXBfX_DeF-XQYs-bq47mSaLA5W6_fWrJk9h_Aa8TJY_E9xmD-_xq-DA7klrs7w9dkde2kQ==`</details>
+> **参考情報**: 「洗濯前に、泥や汚れをブラシで払い落とし、全てのファスナーやフラップを閉じてください。通常の洗剤や柔軟剤は使用しないでください。これらの化学物質は、防水コーティングや繊維を損傷させる可能性があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx3KpHigrYSFSCG8HZAypTbk6cqZrBnmXwocxlD_tuJmamiEY3IbLoQgMUvNWbDKd1HYgriCSdvMbRsIV11UEyGJub3gDkG7-Y31im8F4BuyoqLwMSr65Zo6I0EgUnRSC3vXBfX_DeF-XQYs-bq47mSaLA5W6_fWrJk9h_Aa8TJY_E9xmD-_xq-DA7klrs7w9dkde2kQ==`</details>
 
 ### 洗濯手順
 
@@ -464,7 +464,7 @@ Tags: Outer, Guide
 
 **先生**: 一部のモデルではそういった素材が使われている。ただし、適切なメンテナンスを行うことが前提だ。
 
-**参考情報**: 「撥水加工が100回の洗濯後も維持できるなど、耐久性の高さも評価されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHqQlcRVQNXlXn61xo7MgfLjZZvtmA6M1EXZTs1Vohr1DD4k2KT0AchRgYuMuAL-ew3hivAuvEdcicAeGac7duNmQ6yh0vxphBBEUlpvwbIT0-C7rFfxES1ReViEDp-9gpjh-OS9ogFFE7`</details>
+> **参考情報**: 「撥水加工が100回の洗濯後も維持できるなど、耐久性の高さも評価されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHqQlcRVQNXlXn61xo7MgfLjZZvtmA6M1EXZTs1Vohr1DD4k2KT0AchRgYuMuAL-ew3hivAuvEdcicAeGac7duNmQ6yh0vxphBBEUlpvwbIT0-C7rFfxES1ReViEDp-9gpjh-OS9ogFFE7`</details>
 
 ---
 

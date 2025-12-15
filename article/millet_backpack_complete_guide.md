@@ -31,7 +31,7 @@ Tags: Backpack, Guide
 
 **先生**: ミレーのバックパックが種類多いのは、登山には様々なスタイルがあるからだ。日帰りハイキング、小屋泊、テント泊、クライミング…それぞれに最適な設計がある。
 
-**参考情報**: 「1950年には、モーリス・エルゾーグとルイ・ラシュナルがアンナプルナに初登頂した際、ミレーのバックパックが使用された」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjvR6tYTnRZoa5WLQgVWIjpWkrLRklfGE-10W_5gxG6FRdgauEC9cd2D18MptLqc-PSiDRuNmU_jwGIK_wOowZm3xoEEMBgWBZaByomoalTcy36lAVg_ej26QJ3t3rFfLn1U6UF23gXhU_vJE=`</details>
+> **参考情報**: 「1950年には、モーリス・エルゾーグとルイ・ラシュナルがアンナプルナに初登頂した際、ミレーのバックパックが使用された」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjvR6tYTnRZoa5WLQgVWIjpWkrLRklfGE-10W_5gxG6FRdgauEC9cd2D18MptLqc-PSiDRuNmU_jwGIK_wOowZm3xoEEMBgWBZaByomoalTcy36lAVg_ej26QJ3t3rFfLn1U6UF23gXhU_vJE=`</details>
 
 **JK**: なるほど…。じゃあ私みたいな初心者はどれを選べばいいんですか？
 
@@ -59,13 +59,13 @@ Tags: Backpack, Guide
 
 **先生**: ああ、「ファーストクラスの背負い心地」と評されるほどだ。私も涸沢に行く時はよくサースフェー40+5を使っている。10月の涸沢は紅葉が最高なんだが、荷物も多くなる。でもこのザックなら8時間歩いても肩が痛くならない。
 
-**参考情報**: 「『ファーストクラスの背負い心地』と評されるほど、体にフィットし荷重を分散する安定感がある」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEWhOqBvsVRGCsEww4B76JX0OjCGPSSuXwHtd2HOKg3WqC24qbwOinFzjCOrFLnSDnt7m5csVgQmyK2OnWirTy_Zr1gXWo2IBFl7-MN3Wu938nIuw=`</details>
+> **参考情報**: 「『ファーストクラスの背負い心地』と評されるほど、体にフィットし荷重を分散する安定感がある」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEWhOqBvsVRGCsEww4B76JX0OjCGPSSuXwHtd2HOKg3WqC24qbwOinFzjCOrFLnSDnt7m5csVgQmyK2OnWirTy_Zr1gXWo2IBFl7-MN3Wu938nIuw=`</details>
 
 **JK**: 8時間！？そんなに歩くんですか…。私、3時間でも無理かも。
 
 **先生**: だからこそ、背負い心地が重要なんだ。サースフェーには「SAAS FEE BACK」という背面システムが搭載されている。これが身体のラインに沿うように設計されていて、クッション性の高いパッドが荷重を効果的に分散してくれる。
 
-**参考情報**: 「荷物の重さが腰と背中で約7割、肩で約3割という理想的なバランスで分散される」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDCtJve3tjmc8m72nb2tS4L0AaIeI_mQbfP8Oq_YvhiPUYqwkFuo5srM7_laADPqipvi78G3IThVODL06WqeqwgCnWUG-mmSduPY4wAwy9Ibdy1Wz1Bp13UriB8SqJPflqyXivLhxb57r6F8FxymeTQ7i4FtQ_F660HavehLdokUXH0-DP_FlVYRvO6ONDGEbGWTLidSPy26adPRUFc_xR2UbI92NwzJnwptdZZMpTXI22KnN-5l72W-nU63FYzh2NECyc2nkYsqG76E5U3N-h7ZL4ePpPGROBppDcYRSd55eIjZ2SZIbwUDU68TrUkVJaOSINNl_owEXeFPSKLdQTYMclDxk24YpQhR_WQpu8edajxrTcQAWuvrhZsgINvKI=`</details>
+> **参考情報**: 「荷物の重さが腰と背中で約7割、肩で約3割という理想的なバランスで分散される」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDCtJve3tjmc8m72nb2tS4L0AaIeI_mQbfP8Oq_YvhiPUYqwkFuo5srM7_laADPqipvi78G3IThVODL06WqeqwgCnWUG-mmSduPY4wAwy9Ibdy1Wz1Bp13UriB8SqJPflqyXivLhxb57r6F8FxymeTQ7i4FtQ_F660HavehLdokUXH0-DP_FlVYRvO6ONDGEbGWTLidSPy26adPRUFc_xR2UbI92NwzJnwptdZZMpTXI22KnN-5l72W-nU63FYzh2NECyc2nkYsqG76E5U3N-h7ZL4ePpPGROBppDcYRSd55eIjZ2SZIbwUDU68TrUkVJaOSINNl_owEXeFPSKLdQTYMclDxk24YpQhR_WQpu8edajxrTcQAWuvrhZsgINvKI=`</details>
 
 ### サースフェー NX 30+5 - 日帰り〜小屋泊の万能選手
 
@@ -154,7 +154,7 @@ Tags: Backpack, Guide
 
 **JK**: お、オシャレなコンセプト！ミレーっぽい！
 
-**参考情報**: 「シンプルな見た目ながら、優れた収納性と機能性から日常使いやビジネスシーンにもおすすめ」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEybDoS69prTm_BhQmLA0J-LrV11Tc80VfQzLo2Ak6rPyZyyuLQP3bMZdn1kLxpu90PcWis4ddDXJ11fCO6E76YOzC_aHzzbZzpRryXXOm0vYs19u-kijp6TgIc4jT_g==`</details>
+> **参考情報**: 「シンプルな見た目ながら、優れた収納性と機能性から日常使いやビジネスシーンにもおすすめ」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEybDoS69prTm_BhQmLA0J-LrV11Tc80VfQzLo2Ak6rPyZyyuLQP3bMZdn1kLxpu90PcWis4ddDXJ11fCO6E76YOzC_aHzzbZzpRryXXOm0vYs19u-kijp6TgIc4jT_g==`</details>
 
 ### クーラ 30 - 通勤から旅行、登山まで
 
@@ -174,13 +174,13 @@ Tags: Backpack, Guide
 
 **先生**: 鍵を取り付けられるジッパーのことだ。電車通勤で混雑する時や、海外旅行でのセキュリティ対策になる。
 
-**参考情報**: 「ロッカブルジッパー（鍵を取り付けられるジッパー）がメイン収納に採用されており、セキュリティ面でも安心感がある」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5AeemTZhmv9w0mjZh6tTZtSzhnSfOrtJ6eHTDtRfJHGp1E1rBzsrvAdaZrgAfGVxYF2Bpdnbb6tbDd8X2ln2H-RySbDO8Wnv2CKF9-RDoM6v8UzDN5CrTa7yEeIHSILU3XElTC3NHBe9-B1jaKC_Uvw6Gxg==`</details>
+> **参考情報**: 「ロッカブルジッパー（鍵を取り付けられるジッパー）がメイン収納に採用されており、セキュリティ面でも安心感がある」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5AeemTZhmv9w0mjZh6tTZtSzhnSfOrtJ6eHTDtRfJHGp1E1rBzsrvAdaZrgAfGVxYF2Bpdnbb6tbDd8X2ln2H-RySbDO8Wnv2CKF9-RDoM6v8UzDN5CrTa7yEeIHSILU3XElTC3NHBe9-B1jaKC_Uvw6Gxg==`</details>
 
 **JK**: あ、それは便利かも！満員電車で後ろが気になること、ありますもんね。
 
 **先生**: 他にも、サイドコンプレッションストラップで荷物が少ない時は薄くできるし、機内持ち込み可能なサイズだから、旅行にも使いやすい。
 
-**参考情報**: 「突然の雨でも荷物が濡れる心配がないレインカバーが標準装備」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_h0YWVN3Jm1n5RBP7veH7UcXyKGbt6ruCMDpiLLoJSxT8y22jB4gYun6RbAM9PrCXPPus9kNXXWADt5Fgotx42u4mi3Fvls1SUhzLQOERRMUmb5ypI548KDF6yz8jXBtz`</details>
+> **参考情報**: 「突然の雨でも荷物が濡れる心配がないレインカバーが標準装備」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_h0YWVN3Jm1n5RBP7veH7UcXyKGbt6ruCMDpiLLoJSxT8y22jB4gYun6RbAM9PrCXPPus9kNXXWADt5Fgotx42u4mi3Fvls1SUhzLQOERRMUmb5ypI548KDF6yz8jXBtz`</details>
 
 #### こんな人におすすめ
 - 通勤・通学にも使えるリュックが欲しい人
@@ -195,7 +195,7 @@ Tags: Backpack, Guide
 
 **先生**: クーラ40は1,220gとやや重くなるが、その分、背面にワイヤーフレームが内蔵されていて、重い荷物でも安定する。
 
-**参考情報**: 「40Lの容量で1週間程度の旅行に対応可能、長期旅行や荷物が多い通勤・出張に適した大容量モデル」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD31cDp11HMxGGQpT6ogd2LqUpYnF-PILyaV59cIO1kO38L1lxTM4X8D4OeLEb8FsrBs4uLigx8tBp2_TMiyxNfe73q26gkdnwaCxjny24SsgkPsZ5rpGrEW9N`</details>
+> **参考情報**: 「40Lの容量で1週間程度の旅行に対応可能、長期旅行や荷物が多い通勤・出張に適した大容量モデル」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD31cDp11HMxGGQpT6ogd2LqUpYnF-PILyaV59cIO1kO38L1lxTM4X8D4OeLEb8FsrBs4uLigx8tBp2_TMiyxNfe73q26gkdnwaCxjny24SsgkPsZ5rpGrEW9N`</details>
 
 **JK**: 2気室構造ってなんですか？
 
@@ -226,7 +226,7 @@ Tags: Backpack, Guide
 - 素材: 420Dナイロン100%（撥水加工）
 - 特徴: 15インチノートPC対応、取り外し可能なウエストストラップ
 
-**参考情報**: 「10年以上同じモデルを通勤や旅行、ハイキングなどで使用し、買い替える際に再びマルシェを選ぶユーザーもいるほど耐久性には定評がある」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJYUok-ZZtN7eRBD7_z-W3U6k-ee9kkbtL72sefnYh9Tu967OzVeiIGTt5hJQV8naDXaHjUE_SG8QMKf8WlQWsnCPaFrSLgoJGSOOnB3dGzXqwb0ueb40w0lCpVopTQtvTpt4EdCSa2s9Sftp_9obYxA==`</details>
+> **参考情報**: 「10年以上同じモデルを通勤や旅行、ハイキングなどで使用し、買い替える際に再びマルシェを選ぶユーザーもいるほど耐久性には定評がある」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJYUok-ZZtN7eRBD7_z-W3U6k-ee9kkbtL72sefnYh9Tu967OzVeiIGTt5hJQV8naDXaHjUE_SG8QMKf8WlQWsnCPaFrSLgoJGSOOnB3dGzXqwb0ueb40w0lCpVopTQtvTpt4EdCSa2s9Sftp_9obYxA==`</details>
 
 **JK**: 折り畳み傘が入るポケットがあるんですか？それ嬉しい！
 
@@ -254,7 +254,7 @@ Tags: Backpack, Guide
 
 **先生**: スキーやスノーシュー、アイスアックスなどを取り付けられるようになっている。ウビックには「Variloopシステム」という独自機構があって、様々なギアを効率的に装着できるんだ。
 
-**参考情報**: 「Variloop™システムにより、シュラフマットやトレッキングポール、ピッケル、スキーやスノーシューなどの様々なギアをバックパックの側面に固定して持ち運ぶことが可能」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA5uGUoyWPjExyiBGoB14mrWF0l9dgbz-aVt2HgZjhXAzVBjiiYOcVq44_hi9nNDSDjREeAKNMipLsZDjoRpAIZkLVbhI-NkGLNevBeoUu6UpuMGTw6hYH51O2QZKk9bexHWSX`</details>
+> **参考情報**: 「Variloop™システムにより、シュラフマットやトレッキングポール、ピッケル、スキーやスノーシューなどの様々なギアをバックパックの側面に固定して持ち運ぶことが可能」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA5uGUoyWPjExyiBGoB14mrWF0l9dgbz-aVt2HgZjhXAzVBjiiYOcVq44_hi9nNDSDjREeAKNMipLsZDjoRpAIZkLVbhI-NkGLNevBeoUu6UpuMGTw6hYH51O2QZKk9bexHWSX`</details>
 
 **JK**: へぇ〜。でも私、冬山は怖いのでやらないと思います…。
 
@@ -291,7 +291,7 @@ Tags: Backpack, Guide
 
 **先生**: そうだ。プロライター30+10は取り外し可能なハイウエストベルトを採用している。クライミング時にはベルトを外してハーネスだけにできる。
 
-**参考情報**: 「軽量でありながら耐久性の高い素材（引き裂きに強い3ラインハニカムナイロンや摩擦に強いコドラナイロン1000D）を採用し、軽量性と堅牢性のバランスを高い次元で実現」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMaA40wlAt3_0rXjw_zxiS_81g_A1SVYFAPSxJPJLl5FcyzmLsYVzLS9qJFEx03JQTahVHzcfubVnK1LSrD0ZYAWWZQa2R2s_Wn9MzramKXnfDL8iA2pIVeLb02IlHSnY55dPGsfDqFTyH6vQXJ0vx8wmONQ==`</details>
+> **参考情報**: 「軽量でありながら耐久性の高い素材（引き裂きに強い3ラインハニカムナイロンや摩擦に強いコドラナイロン1000D）を採用し、軽量性と堅牢性のバランスを高い次元で実現」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMaA40wlAt3_0rXjw_zxiS_81g_A1SVYFAPSxJPJLl5FcyzmLsYVzLS9qJFEx03JQTahVHzcfubVnK1LSrD0ZYAWWZQa2R2s_Wn9MzramKXnfDL8iA2pIVeLb02IlHSnY55dPGsfDqFTyH6vQXJ0vx8wmONQ==`</details>
 
 #### 主なスペック
 - 容量: 30+10L
@@ -328,7 +328,7 @@ Tags: Backpack, Guide
 
 **先生**: オスプレーはアメリカのブランドで、「軽量で背負い心地がいい」のが特徴だ。もともとカスタムメイドからスタートした会社で、フィッティングへのこだわりが強い。
 
-**参考情報**: 「オスプレーは1974年の創業以来、快適で機能的なパック作りを追求しており、創業者自身が登山家のためのオーダーメイドパックを製作していた歴史がある」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH4RDkXmkRzLc6ut-zWEjPqWMTp9MkeLo5OZP345pB-ieCy_ly7yXInmkir_xestsf55fakRKcpxMX0-PTXKu9lFiiG-M2D71muzdYT5jPtsefcg==`</details>
+> **参考情報**: 「オスプレーは1974年の創業以来、快適で機能的なパック作りを追求しており、創業者自身が登山家のためのオーダーメイドパックを製作していた歴史がある」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH4RDkXmkRzLc6ut-zWEjPqWMTp9MkeLo5OZP345pB-ieCy_ly7yXInmkir_xestsf55fakRKcpxMX0-PTXKu9lFiiG-M2D71muzdYT5jPtsefcg==`</details>
 
 **JK**: じゃあミレーより軽いんですか？
 
@@ -338,7 +338,7 @@ Tags: Backpack, Guide
 
 **先生**: グレゴリーは「バックパック界のロールスロイス」と呼ばれるブランドだ。特に腰部分の安定性が評価されている。
 
-**参考情報**: 「グレゴリーは『バックパック界のロールスロイス』と称されるほど、背負い心地の良さに定評がある」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuvybie0Rt2Riv1FlGIIyC8CKWccav7Iz32cs4AFE6ef9uTlMpl0nDHuquZ3yilbMERFPCflPtYsR43earBnptLJs1_1AGzApAyMCV_349Hs5yfRMkDib_wFg=`</details>
+> **参考情報**: 「グレゴリーは『バックパック界のロールスロイス』と称されるほど、背負い心地の良さに定評がある」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuvybie0Rt2Riv1FlGIIyC8CKWccav7Iz32cs4AFE6ef9uTlMpl0nDHuquZ3yilbMERFPCflPtYsR43earBnptLJs1_1AGzApAyMCV_349Hs5yfRMkDib_wFg=`</details>
 
 **JK**: ロールスロイス！？高いんですか？
 
@@ -348,7 +348,7 @@ Tags: Backpack, Guide
 
 **先生**: ドイターはドイツの老舗で、背面の通気性に特化している。背中とザックの間に空間を作る設計が得意だ。
 
-**参考情報**: 「ドイターは1898年創業、1984年に世界で初めてエアコンフォートシステム（背面通気システム）を開発し特許を取得」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVdiDMscW33v6tObzfAEJd_jwW0lvTmz6QRVVDaSj2IFa6CLIjiOaDiTZX-6cKaEUtYfw3fpYYQ_BV2ysi-hcT08Hndb58J2KMACkmWKoyoaNYdCD9HbaSHKXrTtxFO8ei2QpQkv3uMJ-UwsqbgXZ9zeMj9svF4H93`</details>
+> **参考情報**: 「ドイターは1898年創業、1984年に世界で初めてエアコンフォートシステム（背面通気システム）を開発し特許を取得」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVdiDMscW33v6tObzfAEJd_jwW0lvTmz6QRVVDaSj2IFa6CLIjiOaDiTZX-6cKaEUtYfw3fpYYQ_BV2ysi-hcT08Hndb58J2KMACkmWKoyoaNYdCD9HbaSHKXrTtxFO8ei2QpQkv3uMJ-UwsqbgXZ9zeMj9svF4H93`</details>
 
 **JK**: 蒸れにくいってことですか？
 

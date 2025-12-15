@@ -55,7 +55,7 @@ Tags: Pants, Guide
 
 **先生**: その通り。完全防水で、防風性、透湿性にも優れている。雪でも雨でも風でも、悪天候から確実に体を守ってくれるんだ。
 
-**参考情報**: 「3層構造のゴアテックス素材（N70p 3L GORE-TEX with GORE C-KNIT™ Backer Technology）が採用されており、防水性、防風性、透湿性を提供します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB1EWkHbSQnS25SPFcaR9lVdLifqGk7m_tyVBnrIZz9sW5d_MJhhoZuK0Rtx3Mik-b1MCjNkgwlwhKahWjFzCkHJGKsptwbiZHPMD5I-By9fZ9fE0-JNqK9DrvkFHW8gR9vwTutdQ=`</details>
+> **参考情報**: 「3層構造のゴアテックス素材（N70p 3L GORE-TEX with GORE C-KNIT™ Backer Technology）が採用されており、防水性、防風性、透湿性を提供します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB1EWkHbSQnS25SPFcaR9lVdLifqGk7m_tyVBnrIZz9sW5d_MJhhoZuK0Rtx3Mik-b1MCjNkgwlwhKahWjFzCkHJGKsptwbiZHPMD5I-By9fZ9fE0-JNqK9DrvkFHW8gR9vwTutdQ=`</details>
 
 **JK**: でも先生、ハードシェルって動きにくそうなイメージがあるんですけど…
 
@@ -73,7 +73,7 @@ Tags: Pants, Guide
 
 **先生**: ちなみに、重量は約308g（メンズMサイズ）で、ハードシェルパンツとしてはかなり軽量な部類だ。レインウェアとしても使えるから、夏山でも活躍する。
 
-**参考情報**: 「雪、雨、風といった悪天候から身体をドライに保ち、冬山から夏山までオールシーズン対応できる汎用性の高さが魅力です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFukmon9ZjlAt83LZC8v5TjaDC2aflsWpwyxCl0rHg-NNiCPrLXShJWXsSyhk2tqwWpGoSGBwOuV9ftBCfIazeDvCkhSFbvMdGRPiBsEImhC2UZQAt55vK1m6QGMZen-wIvsxvevUA=`</details>
+> **参考情報**: 「雪、雨、風といった悪天候から身体をドライに保ち、冬山から夏山までオールシーズン対応できる汎用性の高さが魅力です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFukmon9ZjlAt83LZC8v5TjaDC2aflsWpwyxCl0rHg-NNiCPrLXShJWXsSyhk2tqwWpGoSGBwOuV9ftBCfIazeDvCkhSFbvMdGRPiBsEImhC2UZQAt55vK1m6QGMZen-wIvsxvevUA=`</details>
 
 ### Betaパンツの機能詳細
 
@@ -132,7 +132,7 @@ Tags: Pants, Guide
 
 **先生**: まずGamma ARだ。ARは「All Round」の略で、Gammaシリーズの中で最も耐久性が高いモデルだ。
 
-**参考情報**: 「Burly™ ダブルウィーブ素材を使用しており、耐摩耗性、耐久性、伸縮性に優れています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhboqKzrekdlxPIAELQpGKyZIpcQLBEQHbqIp_SvNIaVmWguI2emXadWRK6Lctw4hpSXP7dl8ILqFd0fUrGnKlpJy2BMEOynfNoKDQSgQW5AkVTM6pLlCYvDBQMIZakANe8Lef59RPuPa26uvJJctlIEKs48xHi0Sae3abzOY=`</details>
+> **参考情報**: 「Burly™ ダブルウィーブ素材を使用しており、耐摩耗性、耐久性、伸縮性に優れています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhboqKzrekdlxPIAELQpGKyZIpcQLBEQHbqIp_SvNIaVmWguI2emXadWRK6Lctw4hpSXP7dl8ILqFd0fUrGnKlpJy2BMEOynfNoKDQSgQW5AkVTM6pLlCYvDBQMIZakANe8Lef59RPuPa26uvJJctlIEKs48xHi0Sae3abzOY=`</details>
 
 **JK**: 「Burlyダブルウィーブ」って何ですか？
 
@@ -142,7 +142,7 @@ Tags: Pants, Guide
 
 **先生**: ははは。それくらい頑丈だということだ。重量は約427-484g程度で、Gammaシリーズの中では一番重いが、その分しっかり守ってくれる。
 
-**参考情報**: 「岩場や氷上、様々な地形での使用を想定して設計されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5IHca0CFUDLF89f-1aJdIk9lNm1VuEvHiYSY9KaetBM6Mr0WKUtusrqAOrOuDlZ2DjCPsHGWaH-M0gLmBduDIktWzBLlqqu8sWpsR8XL2MrCBPs9vxWB7zRFRcmx6_Zz0Qyp88911pDPFhJE_UaE3KcBhyTOPCNDbDvdrHH8=`</details>
+> **参考情報**: 「岩場や氷上、様々な地形での使用を想定して設計されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5IHca0CFUDLF89f-1aJdIk9lNm1VuEvHiYSY9KaetBM6Mr0WKUtusrqAOrOuDlZ2DjCPsHGWaH-M0gLmBduDIktWzBLlqqu8sWpsR8XL2MrCBPs9vxWB7zRFRcmx6_Zz0Qyp88911pDPFhJE_UaE3KcBhyTOPCNDbDvdrHH8=`</details>
 
 **JK**: でも重いと疲れそう…
 
@@ -198,7 +198,7 @@ Tags: Pants, Guide
 
 **先生**: 次はGamma LTだ。LTは「Lightweight」の略で、Gamma ARより軽量な3シーズンモデルになる。
 
-**参考情報**: 「オールラウンドなマウンテンパンツで、様々なコンディションに対応します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjBflm8399wkZPEI9LJqPwDZCcnkICtFDs_yzZpXWGbb6Vsn0k2RizkOIx1MOQxLZdXzbAqJ9GNJ8tual8mS1VQl_nj3_ykk3IKxuntvtEsxmdaSuUeYR4DY6qFPCt1qTOmmzZg3FBkZ9UMRdS8YB-dbReUxl9`</details>
+> **参考情報**: 「オールラウンドなマウンテンパンツで、様々なコンディションに対応します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjBflm8399wkZPEI9LJqPwDZCcnkICtFDs_yzZpXWGbb6Vsn0k2RizkOIx1MOQxLZdXzbAqJ9GNJ8tual8mS1VQl_nj3_ykk3IKxuntvtEsxmdaSuUeYR4DY6qFPCt1qTOmmzZg3FBkZ9UMRdS8YB-dbReUxl9`</details>
 
 **JK**: 「3シーズン」って、冬は使えないってことですか？
 
@@ -251,7 +251,7 @@ Tags: Pants, Guide
 
 **先生**: 次はGamma Quick Dryだ。これは日本の夏山を涼しく快適に歩くことを考えて作られたモデルだ。
 
-**参考情報**: 「TerraTexと呼ばれる高性能ナイロン素材（ナイロン94%、エラスタン6%）を使用しており、優れた速乾性が最大の特徴です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWS5ekQw6BMJMp0beGhgRq3m0NqkJIuAWMcT8IGr9u_MtEe9gN3bFX2FOcaatLBJ53E0dxIC0yU5cvxbpbYTA9fpsMSPWTQBzPq8qWGiMi_O6w49OLAUpXZa_eCdJRZqskL6xIdqPEP5w5Wj8mAFDkfaj9dflVw_MI`</details>
+> **参考情報**: 「TerraTexと呼ばれる高性能ナイロン素材（ナイロン94%、エラスタン6%）を使用しており、優れた速乾性が最大の特徴です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWS5ekQw6BMJMp0beGhgRq3m0NqkJIuAWMcT8IGr9u_MtEe9gN3bFX2FOcaatLBJ53E0dxIC0yU5cvxbpbYTA9fpsMSPWTQBzPq8qWGiMi_O6w49OLAUpXZa_eCdJRZqskL6xIdqPEP5w5Wj8mAFDkfaj9dflVw_MI`</details>
 
 **JK**: 「TerraTex」…また新しい名前が出てきた…
 
@@ -300,7 +300,7 @@ Tags: Pants, Guide
 
 **先生**: 最後にGamma SL（現在はGamma Lightweightと呼ばれることも多い）だ。Gamma LTをさらに薄く軽量化した夏仕様モデルだな。
 
-**参考情報**: 「軽量で薄手のモデルで、暖かい季節のトレッキングやハイキング、タウンユースに適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPaVvr9Os2yP3upec_VCC841KUNRUgUB4bfRT3Eg1OyKVgZPc0QevJstMTGy1Kcjd0NjIpaXNk3cWUYn9Vofvqq_3uktUDSoImfoYGecvPSIeVkqnIqt8GjO712vyvGkJhncOsUd_WiMheVmV8j29BALdfxL9f`</details>
+> **参考情報**: 「軽量で薄手のモデルで、暖かい季節のトレッキングやハイキング、タウンユースに適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPaVvr9Os2yP3upec_VCC841KUNRUgUB4bfRT3Eg1OyKVgZPc0QevJstMTGy1Kcjd0NjIpaXNk3cWUYn9Vofvqq_3uktUDSoImfoYGecvPSIeVkqnIqt8GjO712vyvGkJhncOsUd_WiMheVmV8j29BALdfxL9f`</details>
 
 **JK**: Quick Dryとどう違うんですか？
 
@@ -328,7 +328,7 @@ Tags: Pants, Guide
 
 **先生**: ははは。ただ安いだけじゃなく、ちゃんと性能も良いぞ。
 
-**参考情報**: 「Aequora AirPerm™生地（ナイロン86%、エラスタン14%）を採用しています。この素材は軽量でありながら耐久性があり、優れたストレッチ性と通気性を持ち合わせています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpEJrc78GloUc0NLFN83kpHI8GVZCcfgPEOu6cMjWvf9aKmmF8hdQ1nLSD9sRkSERGWXbp4EhrCS4B-I20pwJjWj4jqZiBSot5YfiS06gpCzCotBUJwNh9FVf4vHLYiUIBAtaBPzkvxVTCiO43lAwo5rtQxdlnVw==`</details>
+> **参考情報**: 「Aequora AirPerm™生地（ナイロン86%、エラスタン14%）を採用しています。この素材は軽量でありながら耐久性があり、優れたストレッチ性と通気性を持ち合わせています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpEJrc78GloUc0NLFN83kpHI8GVZCcfgPEOu6cMjWvf9aKmmF8hdQ1nLSD9sRkSERGWXbp4EhrCS4B-I20pwJjWj4jqZiBSot5YfiS06gpCzCotBUJwNh9FVf4vHLYiUIBAtaBPzkvxVTCiO43lAwo5rtQxdlnVw==`</details>
 
 **JK**: 「Aequora AirPerm」…また新しい名前…
 
@@ -338,7 +338,7 @@ Tags: Pants, Guide
 
 **先生**: 良い質問だ。Gamma Quick Dryは「速乾性」と「ポケットの多さ」が強みで、Lefroyは「コストパフォーマンス」と「汎用性」が強みだ。デザイン的にもLefroyの方がシンプルで、旅行や普段使いに向いている。
 
-**参考情報**: 「汗をかいても肌にまとわりつきにくく、素早く乾くため、暑い季節や高負荷のアクティビティに適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ5U4gfgdodOfanczhfyH0GCAU8pm2tl7NPM-DzxM37PNy_TZiy2_zA6Kf97V31FV_KgG7ZmD5Ao_l4pDVT0aOQPpSL83uXFSPvaQ8O-b81hrGYEuXKyubd4ylijepv2KQr3DoGU2RUQ_nLuZi2uh-DqMzaMGevUy9BIXkwGUibmYf`</details>
+> **参考情報**: 「汗をかいても肌にまとわりつきにくく、素早く乾くため、暑い季節や高負荷のアクティビティに適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ5U4gfgdodOfanczhfyH0GCAU8pm2tl7NPM-DzxM37PNy_TZiy2_zA6Kf97V31FV_KgG7ZmD5Ao_l4pDVT0aOQPpSL83uXFSPvaQ8O-b81hrGYEuXKyubd4ylijepv2KQr3DoGU2RUQ_nLuZi2uh-DqMzaMGevUy9BIXkwGUibmYf`</details>
 
 ### Lefroyの弱点もチェック
 
@@ -346,7 +346,7 @@ Tags: Pants, Guide
 
 **先生**: いやいや、弱点もちゃんとあるぞ。
 
-**参考情報**: 「スリムフィットのため、一部のユーザーはクライミングなどの激しい動きにはやや窮屈に感じることがあるかもしれません。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgyHj6Xk4GbPa0skR1bqJy8PTSU79utV0UzuukTX9d-2leypL0LqROYUfsf2l47I-1EgKB4Hz73Of3-es4owR1YFl6p75jHnZDOeWjt43RjvYrbKgyeOeK-ixgcNMp44Toa8c9zkmSgXyVhAceSzq0i0mpP5qC49qFXbGmSFiQLCWKvPE-XEjOCuMm`</details>
+> **参考情報**: 「スリムフィットのため、一部のユーザーはクライミングなどの激しい動きにはやや窮屈に感じることがあるかもしれません。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgyHj6Xk4GbPa0skR1bqJy8PTSU79utV0UzuukTX9d-2leypL0LqROYUfsf2l47I-1EgKB4Hz73Of3-es4owR1YFl6p75jHnZDOeWjt43RjvYrbKgyeOeK-ixgcNMp44Toa8c9zkmSgXyVhAceSzq0i0mpP5qC49qFXbGmSFiQLCWKvPE-XEjOCuMm`</details>
 
 **JK**: スリムフィット…確かに、動きにくそう？
 
@@ -386,7 +386,7 @@ Tags: Pants, Guide
 
 **先生**: そうだな。これはアークテリクス全体に言えることだが、他のアウトドアブランドと比較して高価格帯なのは事実だ。
 
-**参考情報**: 「他のアウトドアブランドと比較して高価であると感じるユーザーが多く、購入をためらう一因となることがあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfSVJKBCBHlLBPLLiF6CsKshSgRntHI6O07SHCkTjor4SrRRs4JU6DUGw9CNOvlZ6qRy5Q2pnX1S8EjJGQ94Ug1KbujhBDRdNVYh1-D_pjr3k-IlfN1AV32zb95oQQVZtj75jFQ8SrVEtXO_WculW4tgrfIvg0aSB6Ae03_0cIvT6z96qope2DdHd6S6kVqjTu`</details>
+> **参考情報**: 「他のアウトドアブランドと比較して高価であると感じるユーザーが多く、購入をためらう一因となることがあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfSVJKBCBHlLBPLLiF6CsKshSgRntHI6O07SHCkTjor4SrRRs4JU6DUGw9CNOvlZ6qRy5Q2pnX1S8EjJGQ94Ug1KbujhBDRdNVYh1-D_pjr3k-IlfN1AV32zb95oQQVZtj75jFQ8SrVEtXO_WculW4tgrfIvg0aSB6Ae03_0cIvT6z96qope2DdHd6S6kVqjTu`</details>
 
 **JK**: 高すぎない？って正直思います。
 

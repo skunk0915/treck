@@ -48,7 +48,7 @@ Tags: Backpack, Guide
 
 **先生**: 手厳しいな。だが、丸みを帯びたデザインで意外とかわいらしいぞ。シンプルでカジュアルな服装にも合わせやすいと評判だ。
 
-**参考情報**: 「丸みを帯びたかわいらしいデザインで、シンプルなのでカジュアルな服装や普段使いにも合わせやすいです」<details><summary>出典</summary>`https://o-sen.net`</details>
+> **参考情報**: 「丸みを帯びたかわいらしいデザインで、シンプルなのでカジュアルな服装や普段使いにも合わせやすいです」<details><summary>出典</summary>`https://o-sen.net`</details>
 
 **JK**: へぇ、そうなんだ。具体的にどんな機能があるんですか？
 
@@ -62,7 +62,7 @@ Tags: Backpack, Guide
 
 **先生**: これが意外と重要なんだ。5kgを超える荷物を背負うと、ヒップベルトがないと肩がパンパンになる。特に下山時は、体に固定されていないとリュックがブレて歩きにくい。
 
-**参考情報**: 「パッド入りのヒップベルトは、長時間の使用でも安定したフィット感を提供します」<details><summary>出典</summary>`https://fashionwalker.com`</details>
+> **参考情報**: 「パッド入りのヒップベルトは、長時間の使用でも安定したフィット感を提供します」<details><summary>出典</summary>`https://fashionwalker.com`</details>
 
 **JK**: なるほど…。ポケットはどうですか？
 
@@ -74,7 +74,7 @@ Tags: Backpack, Guide
 
 **先生**: 正直に言うと、**それはデメリットの一つだ**。フタを開けて、さらに中身を取り出す必要があるから、頻繁にものを出し入れする人には向かないかもしれない。
 
-**参考情報**: 「メインポケットから荷物を取り出しにくいと感じる人もいます」<details><summary>出典</summary>`https://amelie-note.com`</details>
+> **参考情報**: 「メインポケットから荷物を取り出しにくいと感じる人もいます」<details><summary>出典</summary>`https://amelie-note.com`</details>
 
 **JK**: やっぱり…。他にデメリットはありますか？
 
@@ -119,7 +119,7 @@ Tags: Backpack, Guide
 
 **先生**: リュックの内部が上下に仕切られていて、荷物を分けて収納できる仕組みだ。内部のジッパーを開ければ1気室としても使える。
 
-**参考情報**: 「コンパクトながらも2気室構造を採用し、実用性と利便性を高めたライトトレッキング向けのリュックサック」<details><summary>出典</summary>`https://www.yamakei-online.com`</details>
+> **参考情報**: 「コンパクトながらも2気室構造を採用し、実用性と利便性を高めたライトトレッキング向けのリュックサック」<details><summary>出典</summary>`https://www.yamakei-online.com`</details>
 
 **JK**: へぇ！それ便利そう。どう使い分けるんですか？
 
@@ -143,13 +143,13 @@ Tags: Backpack, Guide
 
 **先生**: ああ。特に日本の夏は湿度が高いから、通気性は重要なポイントだ。
 
-**参考情報**: 「軽量で体にフィットし、背中に接する面がメッシュ生地で快適であると好評です」<details><summary>出典</summary>`https://review.rakuten.co.jp`</details>
+> **参考情報**: 「軽量で体にフィットし、背中に接する面がメッシュ生地で快適であると好評です」<details><summary>出典</summary>`https://review.rakuten.co.jp`</details>
 
 **JK**: デメリットはありますか？
 
 **先生**: 一部のユーザーから「ジッパーの開け閉めがしにくい」という声があるな。また、tatraと比べるとポケット数はやや少なめだ。
 
-**参考情報**: 「ジッパーの開け閉めがしにくいと感じるユーザーもいます」<details><summary>出典</summary>`https://kakaku.com`</details>
+> **参考情報**: 「ジッパーの開け閉めがしにくいと感じるユーザーもいます」<details><summary>出典</summary>`https://kakaku.com`</details>
 
 ### sectorのスペック
 
@@ -193,7 +193,7 @@ Tags: Backpack, Guide
 
 **先生**: ははは、簡単に言うと、背面にアルミプレートが入っていて、自分の背中のカーブに合わせて曲げられるんだ。これでフィット感が格段に良くなる。
 
-**参考情報**: 「新設計の『形状可変バックプレート』を背面に内蔵しており、背中のラインに合わせてアルミプレートを調節することで、高いフィット感を実現」<details><summary>出典</summary>`https://love-mountaineering.fc2.net`</details>
+> **参考情報**: 「新設計の『形状可変バックプレート』を背面に内蔵しており、背中のラインに合わせてアルミプレートを調節することで、高いフィット感を実現」<details><summary>出典</summary>`https://love-mountaineering.fc2.net`</details>
 
 **JK**: へぇ…でも、ちゃんと調整できます？私みたいな素人でも。
 
@@ -213,7 +213,7 @@ Tags: Backpack, Guide
 
 **先生**: ああ。正確には**背面長**が違うんだ。Mediumは背面長47cmで男性や高身長の人向け。Smallは背面長42cmで女性や小柄な人向け。
 
-**参考情報**: 「背面長に応じて『Type 1』（42cm、女性や小柄な方向け）と『Type 2』（47cm、男性や高身長の方向け）が選べます」<details><summary>出典</summary>`https://love-mountaineering.fc2.net`</details>
+> **参考情報**: 「背面長に応じて『Type 1』（42cm、女性や小柄な方向け）と『Type 2』（47cm、男性や高身長の方向け）が選べます」<details><summary>出典</summary>`https://love-mountaineering.fc2.net`</details>
 
 **JK**: 背面長って何ですか？
 

@@ -29,13 +29,13 @@ Tags: Guide, Food
 
 **先生**: 大きく違うのは「味・香り・栄養の保持力」だな。
 
-**参考情報**: 「フリーズドライ技術によって、素材の風味や色、栄養価が損なわれにくく、作りたての美味しさを手軽に楽しめる点が大きな特徴です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMSO-lVhLAcwWxs5BLMEovLtLCtIraMpKViur7-O_O-c3XcS2TB9SMp91dHs5BtjE4kfVU4fyR7ARJKZBJYmiZS6_JCdAoWx3LPXeHR0GzlnCu`</details>
+> **参考情報**: 「フリーズドライ技術によって、素材の風味や色、栄養価が損なわれにくく、作りたての美味しさを手軽に楽しめる点が大きな特徴です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMSO-lVhLAcwWxs5BLMEovLtLCtIraMpKViur7-O_O-c3XcS2TB9SMp91dHs5BtjE4kfVU4fyR7ARJKZBJYmiZS6_JCdAoWx3LPXeHR0GzlnCu`</details>
 
 **JK**: へー、栄養も残るんですね！
 
 **先生**: 一食分のフリーズドライ米は約80gだが、水で戻すと約260gになる。つまり3分の1以下の重さで持ち運べるということだ。
 
-**参考情報**: 「フリーズドライ食品は水分が除去されているため、非常に軽量でかさばらず、持ち運びが容易です。特にテント泊や縦走など、多くの食料を運ぶ必要がある場合に重宝されます。例えば、一食分のフリーズドライ米は約80gですが、水で戻すと約260gになります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnYG5mkmut56QT0VAMrZwsnB-RQV568fCWztJYffcIUWP0t_-DS6N61DZQwwfViWrKnQrm7i0SLVojTxuzBcyf4vqiRQHbxzI33PZZBrhsG1bYN-USmtYa3ubf51lz981ydGU=`</details>
+> **参考情報**: 「フリーズドライ食品は水分が除去されているため、非常に軽量でかさばらず、持ち運びが容易です。特にテント泊や縦走など、多くの食料を運ぶ必要がある場合に重宝されます。例えば、一食分のフリーズドライ米は約80gですが、水で戻すと約260gになります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnYG5mkmut56QT0VAMrZwsnB-RQV568fCWztJYffcIUWP0t_-DS6N61DZQwwfViWrKnQrm7i0SLVojTxuzBcyf4vqiRQHbxzI33PZZBrhsG1bYN-USmtYa3ubf51lz981ydGU=`</details>
 
 **JK**: わ、それは助かる！でも水は別に必要なんですよね？
 
@@ -51,7 +51,7 @@ Tags: Guide, Food
 
 **先生**: いい質問だ。生のお米のデンプンは「ベータ化」という消化しにくい状態なんだが、炊飯すると「アルファ化」という消化しやすい状態に変わる。
 
-**参考情報**: 「アルファ米は、生米のデンプンが消化しにくい「ベータ化」の状態であるのに対し、炊飯によって消化しやすい「アルファ化」の状態になったデンプンを、このアルファ化状態を保ったまま乾燥させる技術を利用しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI3YWAv-A2dSR1bUr-ZqlCfsyVtItvb_ENj9wgPpTto3UvKpuw7edElSmRiddQJ3kIIHRfCI-MS53XIK-3bbOD_wtLZ6ImcWLxWq9-aVbmJAmQHRvpiqXUrPPuO4k=`</details>
+> **参考情報**: 「アルファ米は、生米のデンプンが消化しにくい「ベータ化」の状態であるのに対し、炊飯によって消化しやすい「アルファ化」の状態になったデンプンを、このアルファ化状態を保ったまま乾燥させる技術を利用しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI3YWAv-A2dSR1bUr-ZqlCfsyVtItvb_ENj9wgPpTto3UvKpuw7edElSmRiddQJ3kIIHRfCI-MS53XIK-3bbOD_wtLZ6ImcWLxWq9-aVbmJAmQHRvpiqXUrPPuO4k=`</details>
 
 **JK**: ふむふむ…で、それを乾燥させたのがアルファ米？
 
@@ -63,7 +63,7 @@ Tags: Guide, Food
 
 **先生**: ごはんシリーズだけで12〜14種類ある。
 
-**参考情報**: 「尾西食品のアルファ米は、主に以下のシリーズと種類で展開されています。ごはんシリーズ: 最も代表的なラインナップで、様々な味のご飯があります。一般的には12種類から14種類が挙げられます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFocUKwwRoH238-yyDxUjJvse3H0gyyxQHfe7-owPnv_X5WjDVZoh630IREsgtNJsg-dUC-gpcjYv6eCDdfcrhXKWp52Mul1VaqubAiyKtiJlZBnTUtM2zKu_udNHHP0Oc5`</details>
+> **参考情報**: 「尾西食品のアルファ米は、主に以下のシリーズと種類で展開されています。ごはんシリーズ: 最も代表的なラインナップで、様々な味のご飯があります。一般的には12種類から14種類が挙げられます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFocUKwwRoH238-yyDxUjJvse3H0gyyxQHfe7-owPnv_X5WjDVZoh630IREsgtNJsg-dUC-gpcjYv6eCDdfcrhXKWp52Mul1VaqubAiyKtiJlZBnTUtM2zKu_udNHHP0Oc5`</details>
 
 **JK**: えー！そんなにあるんですか！? 選べない…。
 
@@ -87,13 +87,13 @@ Tags: Guide, Food
 
 **先生**: 他にもおかゆシリーズ（白がゆ・梅がゆ・塩こんぶがゆ）や、携帯おにぎりシリーズもある。
 
-**参考情報**: 「携帯おにぎりシリーズ: お湯または水を入れるだけで三角形のおにぎりができる製品です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp1iUA15Z5YTqrryWCS5Hy_ovWcpHwa08qwr_uqPmbK9L-umukjAkQglX6ZinjRCoAAkqIp8Qy1UkNpUhX1g_7HHDuy18J6T_yMTLRAQ52da3xP3YuoX6Q0Kmsf-NWjtNPxs7uU8XVk0xZ`</details>
+> **参考情報**: 「携帯おにぎりシリーズ: お湯または水を入れるだけで三角形のおにぎりができる製品です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp1iUA15Z5YTqrryWCS5Hy_ovWcpHwa08qwr_uqPmbK9L-umukjAkQglX6ZinjRCoAAkqIp8Qy1UkNpUhX1g_7HHDuy18J6T_yMTLRAQ52da3xP3YuoX6Q0Kmsf-NWjtNPxs7uU8XVk0xZ`</details>
 
 **JK**: おにぎりまで！？ しかもちゃんと三角形になるんですか？
 
 **先生**: 袋のまま調理することで、自然と三角形のおにぎり型に仕上がる仕組みだ。手を汚さずに食べられるから衛生的だぞ。
 
-**参考情報**: 「袋のまま調理することで、自然と三角形のおにぎり型に仕上がります。手を汚さずに食べられるため、衛生的です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-8vEboWyCbIFMOfO6xmMoJH7TKCc5rhOB3oBULfogBqZ2BUrYjaE5-tFGYZk-jhGB9nTwDBTZNtKx3E-j86VfF67LkoNTtcc3uVcEkpJvzz8jk_MvqFPyJA6H3EYzXw==`</details>
+> **参考情報**: 「袋のまま調理することで、自然と三角形のおにぎり型に仕上がります。手を汚さずに食べられるため、衛生的です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-8vEboWyCbIFMOfO6xmMoJH7TKCc5rhOB3oBULfogBqZ2BUrYjaE5-tFGYZk-jhGB9nTwDBTZNtKx3E-j86VfF67LkoNTtcc3uVcEkpJvzz8jk_MvqFPyJA6H3EYzXw==`</details>
 
 ### アルファ米の調理方法と時間
 
@@ -101,7 +101,7 @@ Tags: Guide, Food
 
 **先生**: お湯か水を注いで待つだけだ。お湯なら約15分、水なら約60分で完成する。
 
-**参考情報**: 「お湯または水を注ぐだけで、炊きたてのようなふっくらとしたご飯に戻ります。お湯であれば約15分、水であれば約60分で完成します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp1iUA15Z5YTqrryWCS5Hy_ovWcpHwa08qwr_uqPmbK9L-umukjAkQglX6ZinjRCoAAkqIp8Qy1UkNpUhX1g_7HHDuy18J6T_yMTLRAQ52da3xP3YuoX6Q0Kmsf-NWjtNPxs7uU8XVk0xZ`</details>
+> **参考情報**: 「お湯または水を注ぐだけで、炊きたてのようなふっくらとしたご飯に戻ります。お湯であれば約15分、水であれば約60分で完成します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp1iUA15Z5YTqrryWCS5Hy_ovWcpHwa08qwr_uqPmbK9L-umukjAkQglX6ZinjRCoAAkqIp8Qy1UkNpUhX1g_7HHDuy18J6T_yMTLRAQ52da3xP3YuoX6Q0Kmsf-NWjtNPxs7uU8XVk0xZ`</details>
 
 **JK**: 60分！？ 水だとめっちゃ時間かかりますね…。
 
@@ -111,7 +111,7 @@ Tags: Guide, Food
 
 **先生**: 正直、違いはある。
 
-**参考情報**: 「熱湯で調理した場合: ふっくらと柔らかく、炊きたてのご飯に近い食感になります。一般的に、熱湯で戻した方が美味しく感じられることが多いです。水で調理した場合: 少し硬めや、ややボソボソとした食感に感じられることがあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1287WHLuAuVU9cp7SZN59jahcDrBqBiBfOmMYUz5K0kWxopaWu3GkAo_0ZE7r0xraMvFNK_NQ0nQbUr3y8oOYah-F2G2_daIWxftGawhrqNQlkwX1lE7xDPJNP7JORO0iVrSpTJY=`</details>
+> **参考情報**: 「熱湯で調理した場合: ふっくらと柔らかく、炊きたてのご飯に近い食感になります。一般的に、熱湯で戻した方が美味しく感じられることが多いです。水で調理した場合: 少し硬めや、ややボソボソとした食感に感じられることがあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1287WHLuAuVU9cp7SZN59jahcDrBqBiBfOmMYUz5K0kWxopaWu3GkAo_0ZE7r0xraMvFNK_NQ0nQbUr3y8oOYah-F2G2_daIWxftGawhrqNQlkwX1lE7xDPJNP7JORO0iVrSpTJY=`</details>
 
 **JK**: やっぱりお湯の方がおいしいんですね。
 
@@ -123,7 +123,7 @@ Tags: Guide, Food
 
 **先生**: 製造から約5年だ。
 
-**参考情報**: 「製造から約5年という非常に長い賞味期限を持つ製品が多く、非常食・保存食として適しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFocUKwwRoH238-yyDxUjJvse3H0gyyxQHfe7-owPnv_X5WjDVZoh630IREsgtNJsg-dUC-gpcjYv6eCDdfcrhXKWp52Mul1VaqubAiyKtiJlZBnTUtM2zKu_udNHHP0Oc5`</details>
+> **参考情報**: 「製造から約5年という非常に長い賞味期限を持つ製品が多く、非常食・保存食として適しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFocUKwwRoH238-yyDxUjJvse3H0gyyxQHfe7-owPnv_X5WjDVZoh630IREsgtNJsg-dUC-gpcjYv6eCDdfcrhXKWp52Mul1VaqubAiyKtiJlZBnTUtM2zKu_udNHHP0Oc5`</details>
 
 **JK**: 5年！？ 防災用にも使えますね。
 
@@ -133,13 +133,13 @@ Tags: Guide, Food
 
 **先生**: 尾西食品はその点もしっかり対応している。
 
-**参考情報**: 「特定原材料等28品目を使用しないアレルギー対応製品や、ハラル認証を取得した製品も提供されており、様々な食事制限に対応しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFocUKwwRoH238-yyDxUjJvse3H0gyyxQHfe7-owPnv_X5WjDVZoh630IREsgtNJsg-dUC-gpcjYv6eCDdfcrhXKWp52Mul1VaqubAiyKtiJlZBnTUtM2zKu_udNHHP0Oc5`</details>
+> **参考情報**: 「特定原材料等28品目を使用しないアレルギー対応製品や、ハラル認証を取得した製品も提供されており、様々な食事制限に対応しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFocUKwwRoH238-yyDxUjJvse3H0gyyxQHfe7-owPnv_X5WjDVZoh630IREsgtNJsg-dUC-gpcjYv6eCDdfcrhXKWp52Mul1VaqubAiyKtiJlZBnTUtM2zKu_udNHHP0Oc5`</details>
 
 **JK**: へー、国産米100%とかも書いてありましたよね？
 
 **先生**: そうだ。国産のうるち米を100%使用して、独自の製法で炊きたてに近い味と食感を再現している。
 
-**参考情報**: 「国産のうるち米を100%使用し、独自の製法で炊きたてに近い味と食感を再現しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFocUKwwRoH238-yyDxUjJvse3H0gyyxQHfe7-owPnv_X5WjDVZoh630IREsgtNJsg-dUC-gpcjYv6eCDdfcrhXKWp52Mul1VaqubAiyKtiJlZBnTUtM2zKu_udNHHP0Oc5`</details>
+> **参考情報**: 「国産のうるち米を100%使用し、独自の製法で炊きたてに近い味と食感を再現しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFocUKwwRoH238-yyDxUjJvse3H0gyyxQHfe7-owPnv_X5WjDVZoh630IREsgtNJsg-dUC-gpcjYv6eCDdfcrhXKWp52Mul1VaqubAiyKtiJlZBnTUtM2zKu_udNHHP0Oc5`</details>
 
 ### 携帯おにぎりの作り方
 
@@ -153,7 +153,7 @@ Tags: Guide, Food
 4. お湯の場合は15分、水の場合は60分待つ
 5. 待機時間が経過したら、袋の切り口に沿って袋を切り開き、そのまま食べる
 
-**参考情報**: 「袋のチャックをしっかり閉め、全体にお湯（または水）が行き渡るように20回ほどよく振ります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-8vEboWyCbIFMOfO6xmMoJH7TKCc5rhOB3oBULfogBqZ2BUrYjaE5-tFGYZk-jhGB9nTwDBTZNtKx3E-j86VfF67LkoNTtcc3uVcEkpJvzz8jk_MvqFPyJA6H3EYzXw==`</details>
+> **参考情報**: 「袋のチャックをしっかり閉め、全体にお湯（または水）が行き渡るように20回ほどよく振ります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-8vEboWyCbIFMOfO6xmMoJH7TKCc5rhOB3oBULfogBqZ2BUrYjaE5-tFGYZk-jhGB9nTwDBTZNtKx3E-j86VfF67LkoNTtcc3uVcEkpJvzz8jk_MvqFPyJA6H3EYzXw==`</details>
 
 **JK**: 振るんですね！普通のアルファ米と違う。
 
@@ -165,7 +165,7 @@ Tags: Guide, Food
 
 **先生**: 1食あたり265円〜339円程度だ。
 
-**参考情報**: 「「尾西の白飯」は1食あたり265円から339円程度で販売されています。セール品では275円という価格も見られます。50食セットなどの大容量パックを購入すると、1食あたりの価格が下がり、例えば「尾西アルファ米 白米 50食」は約12,210円で、1食あたり約244円となります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmP9Nn_XRaWRLoIoeS-JcoVez8o-TMzzKPTRvmxoRSyzapj1eyqBFN21zVM092Ap2iGs2RH5-HsH-4efVPBM5kOpKmWkRP22Y65LxC1UG9xIV2GQ==`</details>
+> **参考情報**: 「「尾西の白飯」は1食あたり265円から339円程度で販売されています。セール品では275円という価格も見られます。50食セットなどの大容量パックを購入すると、1食あたりの価格が下がり、例えば「尾西アルファ米 白米 50食」は約12,210円で、1食あたり約244円となります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmP9Nn_XRaWRLoIoeS-JcoVez8o-TMzzKPTRvmxoRSyzapj1eyqBFN21zVM092Ap2iGs2RH5-HsH-4efVPBM5kOpKmWkRP22Y65LxC1UG9xIV2GQ==`</details>
 
 **JK**: 50食セットだと1食244円！まとめ買いが賢いですね。
 
@@ -183,7 +183,7 @@ Tags: Guide, Food
 
 ### 味噌汁のラインナップ
 
-**参考情報**: 「アマノフーズの味噌汁は、特に「いつものおみそ汁」シリーズが有名で、具材に合わせて最適な味噌とだしを厳選して使用しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVTK6OJBRCIuEvVPfBnVeX3S2M_9GZvMu0ey9mVbC15gmxSPPc-XpmMwaIE60uPjIVOU3UVEIDgRQ8AdeMHlRq8H_Q2-U02gnVOoctZdPft51OUpY_UjiR_7NSsvpGLdNLaw==`</details>
+> **参考情報**: 「アマノフーズの味噌汁は、特に「いつものおみそ汁」シリーズが有名で、具材に合わせて最適な味噌とだしを厳選して使用しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVTK6OJBRCIuEvVPfBnVeX3S2M_9GZvMu0ey9mVbC15gmxSPPc-XpmMwaIE60uPjIVOU3UVEIDgRQ8AdeMHlRq8H_Q2-U02gnVOoctZdPft51OUpY_UjiR_7NSsvpGLdNLaw==`</details>
 
 **先生**: バリエーションを見てみよう：
 
@@ -211,13 +211,13 @@ Tags: Guide, Food
 
 **先生**: いい指摘だ。塩分が気になる人向けに、減塩タイプも用意されている。
 
-**参考情報**: 「減塩タイプ: 塩分が気になる方のために、定番の具材（ナス、なめこ、長ねぎなど）の味噌汁には、通常品より塩分を25%カットした減塩タイプも用意されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0cQVHOhtxLqG_Y1Sw9hSEcNRFNxNuFOm8febSXiL_537j3blSz3ieMqIIxf8W0dQCIZ6xvX7Xr09p8CHdzLmbwu2_OY6UeHpUV-CzcNsvzjZADr6L0fjVlCtaQrTgD1k=`</details>
+> **参考情報**: 「減塩タイプ: 塩分が気になる方のために、定番の具材（ナス、なめこ、長ねぎなど）の味噌汁には、通常品より塩分を25%カットした減塩タイプも用意されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0cQVHOhtxLqG_Y1Sw9hSEcNRFNxNuFOm8febSXiL_537j3blSz3ieMqIIxf8W0dQCIZ6xvX7Xr09p8CHdzLmbwu2_OY6UeHpUV-CzcNsvzjZADr6L0fjVlCtaQrTgD1k=`</details>
 
 **JK**: 25%カットなら嬉しいかも。
 
 **先生**: 他にも「まごころ一杯」シリーズは国産野菜にこだわっていて、十割糀みそをブレンドした味わいが特徴だ。
 
-**参考情報**: 「「まごころ一杯」シリーズ: 国産野菜にこだわり、十割糀（こうじ）みそをブレンドした、まろやかでコクのある味わいが特徴です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA-WdtaF71uj_XaA3J-NxARUgyGaK0lKjeAz7tEYgdl_JhrqvoNz2VjxZ4UTCRbYOLtD6ZT2MQqI2oevK8Eozq7WNhCeFH0K2fmB7oQuF1ESFY8mIoFgfAga_bK0rBYo4QXVlY88wJm-0ltcHPqA==`</details>
+> **参考情報**: 「「まごころ一杯」シリーズ: 国産野菜にこだわり、十割糀（こうじ）みそをブレンドした、まろやかでコクのある味わいが特徴です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA-WdtaF71uj_XaA3J-NxARUgyGaK0lKjeAz7tEYgdl_JhrqvoNz2VjxZ4UTCRbYOLtD6ZT2MQqI2oevK8Eozq7WNhCeFH0K2fmB7oQuF1ESFY8mIoFgfAga_bK0rBYo4QXVlY88wJm-0ltcHPqA==`</details>
 
 ### スープのラインナップ
 
@@ -225,7 +225,7 @@ Tags: Guide, Food
 
 **先生**: かなり充実している。特に「ごはんがうまい！スープ」シリーズは登山者に人気だ。
 
-**参考情報**: 「「Theうまみ」スープシリーズ: 素材本来の旨みを引き出すことに重点を置いており、特に「ごはんがうまい！スープ」は、白ごはんとの相性を考えて作られており、そのまま飲むだけでなくごはんにかけても美味しくいただけます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnGhHZumgyd8uhiagIDZqOoqwCaGCEOkVscLHs0gl66Cb_q8evYf0kU5Q3qF2pi3fLvLfihW85xufF8XQ5FNovN71YtLAShU0nqd_aAb8k0hTUDLL_3GDKn84F4OzTOIol7A==`</details>
+> **参考情報**: 「「Theうまみ」スープシリーズ: 素材本来の旨みを引き出すことに重点を置いており、特に「ごはんがうまい！スープ」は、白ごはんとの相性を考えて作られており、そのまま飲むだけでなくごはんにかけても美味しくいただけます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnGhHZumgyd8uhiagIDZqOoqwCaGCEOkVscLHs0gl66Cb_q8evYf0kU5Q3qF2pi3fLvLfihW85xufF8XQ5FNovN71YtLAShU0nqd_aAb8k0hTUDLL_3GDKn84F4OzTOIol7A==`</details>
 
 **先生**: 種類はこんな感じだ：
 
@@ -250,7 +250,7 @@ Tags: Guide, Food
 
 #### 丼もの（ご飯にかけるタイプ）
 
-**参考情報**: 「とろっと卵の親子丼の具: ふんわりとした卵と鶏肉が特徴で、かつおと昆布の合わせだしで仕上げられています。七種具材の中華丼の具: エビや白菜など7種の具材が入っており、ごま油の風味が食欲をそそります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyMPdraPsKi20liTzqdNmoaA112ZKNefxUh47tqKZsi2aBL7pTKz-OHaqliIIyK-SpF03v2QP_JuEOEH8ZgSZip_cZx56DxbOjfLtaEDWc5rbf9Smw6AXq37tFjGJw2QnaRz97AWUqTA==`</details>
+> **参考情報**: 「とろっと卵の親子丼の具: ふんわりとした卵と鶏肉が特徴で、かつおと昆布の合わせだしで仕上げられています。七種具材の中華丼の具: エビや白菜など7種の具材が入っており、ごま油の風味が食欲をそそります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyMPdraPsKi20liTzqdNmoaA112ZKNefxUh47tqKZsi2aBL7pTKz-OHaqliIIyK-SpF03v2QP_JuEOEH8ZgSZip_cZx56DxbOjfLtaEDWc5rbf9Smw6AXq37tFjGJw2QnaRz97AWUqTA==`</details>
 
 - とろっと卵の親子丼の具
 - 甘とろ卵の牛とじ丼の具
@@ -261,7 +261,7 @@ Tags: Guide, Food
 
 #### カレー
 
-**参考情報**: 「野菜と鶏肉のカレー: ゴロっとした野菜と柔らかな鶏肉が楽しめる、スパイス香る本格派カレーです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyMPdraPsKi20liTzqdNmoaA112ZKNefxUh47tqKZsi2aBL7pTKz-OHaqliIIyK-SpF03v2QP_JuEOEH8ZgSZip_cZx56DxbOjfLtaEDWc5rbf9Smw6AXq37tFjGJw2QnaRz97AWUqTA==`</details>
+> **参考情報**: 「野菜と鶏肉のカレー: ゴロっとした野菜と柔らかな鶏肉が楽しめる、スパイス香る本格派カレーです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyMPdraPsKi20liTzqdNmoaA112ZKNefxUh47tqKZsi2aBL7pTKz-OHaqliIIyK-SpF03v2QP_JuEOEH8ZgSZip_cZx56DxbOjfLtaEDWc5rbf9Smw6AXq37tFjGJw2QnaRz97AWUqTA==`</details>
 
 - 野菜と鶏肉のカレー: ゴロっとした野菜と柔らかな鶏肉が楽しめる本格派
 - ひきわり豆のトマトカレー: まろやかな口当たりで豆の風味が特徴
@@ -270,7 +270,7 @@ Tags: Guide, Food
 
 #### リゾット
 
-**参考情報**: 「ビストロリゾット4種セット: 4種類の味が楽しめるリゾットで、チーズ好きには特におすすめです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJBIPFguKC6OjeR758EOcL4j7TYK_T2obrgwktIpTh24EsqgK_7pC9NSZcVJZa7dNyWiqKjXuE5XhsdPAKeIU0h_Y5qWjezNzl6d3VruiZbF-X`</details>
+> **参考情報**: 「ビストロリゾット4種セット: 4種類の味が楽しめるリゾットで、チーズ好きには特におすすめです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJBIPFguKC6OjeR758EOcL4j7TYK_T2obrgwktIpTh24EsqgK_7pC9NSZcVJZa7dNyWiqKjXuE5XhsdPAKeIU0h_Y5qWjezNzl6d3VruiZbF-X`</details>
 
 - トマトとチーズのリゾット
 - 3種のチーズリゾット
@@ -283,7 +283,7 @@ Tags: Guide, Food
 
 #### 雑炊
 
-**参考情報**: 「炙りたらこ雑炊: 直火であぶったたらこの旨味が絶品で、魚介と野菜のだし、ふんわり卵がマッチしています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJBIPFguKC6OjeR758EOcL4j7TYK_T2obrgwktIpTh24EsqgK_7pC9NSZcVJZa7dNyWiqKjXuE5XhsdPAKeIU0h_Y5qWjezNzl6d3VruiZbF-X`</details>
+> **参考情報**: 「炙りたらこ雑炊: 直火であぶったたらこの旨味が絶品で、魚介と野菜のだし、ふんわり卵がマッチしています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJBIPFguKC6OjeR758EOcL4j7TYK_T2obrgwktIpTh24EsqgK_7pC9NSZcVJZa7dNyWiqKjXuE5XhsdPAKeIU0h_Y5qWjezNzl6d3VruiZbF-X`</details>
 
 - 炙りたらこ雑炊: 直火であぶったたらこの旨味が絶品
 - ほぐし身入り さけ雑炊
@@ -294,7 +294,7 @@ Tags: Guide, Food
 
 #### シチュー・パスタ
 
-**参考情報**: 「5種具材のビーフシチュー / 彩野菜のクリームシチュー: 本格的な味わいで、山でも温かいシチューを楽しめます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJBIPFguKC6OjeR758EOcL4j7TYK_T2obrgwktIpTh24EsqgK_7pC9NSZcVJZa7dNyWiqKjXuE5XhsdPAKeIU0h_Y5qWjezNzl6d3VruiZbF-X`</details>
+> **参考情報**: 「5種具材のビーフシチュー / 彩野菜のクリームシチュー: 本格的な味わいで、山でも温かいシチューを楽しめます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJBIPFguKC6OjeR758EOcL4j7TYK_T2obrgwktIpTh24EsqgK_7pC9NSZcVJZa7dNyWiqKjXuE5XhsdPAKeIU0h_Y5qWjezNzl6d3VruiZbF-X`</details>
 
 - 5種具材のビーフシチュー
 - 彩野菜のクリームシチュー
@@ -309,7 +309,7 @@ Tags: Guide, Food
 
 **先生**: 味噌汁なら1食あたり約40円〜125円程度だ。
 
-**参考情報**: 「フリーズドライの味噌汁は、非常に手頃な価格帯で提供されています。例えば、8食入り20セット（計160食）の味噌汁は約6,600円で、1食あたり約41円となります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzE6rd2k58vRD7QYLAOIOGG7oPE_KwItkoL5Et9u__rA-hS8rpJ8z-YcmaGQowvgEKQ19wst7bRJcYT8pEwUaaY1bTx6TAV7kLieOTAROLb6xIjsXlAls06prX5KjEGNtcQqGtQBql`</details>
+> **参考情報**: 「フリーズドライの味噌汁は、非常に手頃な価格帯で提供されています。例えば、8食入り20セット（計160食）の味噌汁は約6,600円で、1食あたり約41円となります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzE6rd2k58vRD7QYLAOIOGG7oPE_KwItkoL5Et9u__rA-hS8rpJ8z-YcmaGQowvgEKQ19wst7bRJcYT8pEwUaaY1bTx6TAV7kLieOTAROLb6xIjsXlAls06prX5KjEGNtcQqGtQBql`</details>
 
 **JK**: 1食41円！？ 安いですね！
 
@@ -325,7 +325,7 @@ Tags: Guide, Food
 
 ### アルファ米の製造方法
 
-**参考情報**: 「炊飯/蒸米工程: 米を炊き上げる、または連続蒸米機で蒸気炊飯することでアルファ化させます。乾燥工程: 炊き上がったご飯を熱風で急速に乾燥させ、アルファ化デンプンを保ちつつ水分を除去します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI3YWAv-A2dSR1bUr-ZqlCfsyVtItvb_ENj9wgPpTto3UvKpuw7edElSmRiddQJ3kIIHRfCI-MS53XIK-3bbOD_wtLZ6ImcWLxWq9-aVbmJAmQHRvpiqXUrPPuO4k=`</details>
+> **参考情報**: 「炊飯/蒸米工程: 米を炊き上げる、または連続蒸米機で蒸気炊飯することでアルファ化させます。乾燥工程: 炊き上がったご飯を熱風で急速に乾燥させ、アルファ化デンプンを保ちつつ水分を除去します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI3YWAv-A2dSR1bUr-ZqlCfsyVtItvb_ENj9wgPpTto3UvKpuw7edElSmRiddQJ3kIIHRfCI-MS53XIK-3bbOD_wtLZ6ImcWLxWq9-aVbmJAmQHRvpiqXUrPPuO4k=`</details>
 
 **先生**: アルファ米は以下の工程で作られる：
 
@@ -340,7 +340,7 @@ Tags: Guide, Food
 
 ### フリーズドライ米の製造方法
 
-**参考情報**: 「フリーズドライ米は、調理済みの食品を凍結させ、その後真空状態で水分を昇華させる（氷が直接水蒸気になる）「凍結乾燥」という技術を利用しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHid02OJ7Ik9wdCYLxfjcEwE_X281x6yqcMRSfKjO7YSaHhoYiySRleAIVswOeoVe6UxtFq5ExiCbJSCMSWxqCbm3dfZ_LyQZH7UfLcvN8bY_5-U6yamLTizfOsdqEnvaJWf7qf5wBsD9W5_LIsbaeQGE58OCgeEfQIdY6E9ZDHIghudy07kpXy5ea9NBcVNGdyAaI10_ZP2BrjHCEVnI39MsDEIa3sKAXfAXf9fBiQ_vDcHYPIjG3MrrgIWKtz93RaqIpHpcM2tfz01I_D2aQ07-tbV_ulnAheQFFOaZOW0SEa-STO9s7iMw28nrwYfNwONYtLd8NuTJMXINldhfCT_2_9QSBnD1ozW892X90JDDyZWZRCZtPz11ep60Pp-1g=`</details>
+> **参考情報**: 「フリーズドライ米は、調理済みの食品を凍結させ、その後真空状態で水分を昇華させる（氷が直接水蒸気になる）「凍結乾燥」という技術を利用しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHid02OJ7Ik9wdCYLxfjcEwE_X281x6yqcMRSfKjO7YSaHhoYiySRleAIVswOeoVe6UxtFq5ExiCbJSCMSWxqCbm3dfZ_LyQZH7UfLcvN8bY_5-U6yamLTizfOsdqEnvaJWf7qf5wBsD9W5_LIsbaeQGE58OCgeEfQIdY6E9ZDHIghudy07kpXy5ea9NBcVNGdyAaI10_ZP2BrjHCEVnI39MsDEIa3sKAXfAXf9fBiQ_vDcHYPIjG3MrrgIWKtz93RaqIpHpcM2tfz01I_D2aQ07-tbV_ulnAheQFFOaZOW0SEa-STO9s7iMw28nrwYfNwONYtLd8NuTJMXINldhfCT_2_9QSBnD1ozW892X90JDDyZWZRCZtPz11ep60Pp-1g=`</details>
 
 **先生**: 一方、フリーズドライは：
 
@@ -348,7 +348,7 @@ Tags: Guide, Food
 2. 急速冷凍: -30℃〜-40℃などの低温で急速に凍結
 3. 真空乾燥（昇華）: 凍結した米を真空状態に置き、水分を昇華させる
 
-**参考情報**: 「調理済みの米を-30℃～-40℃などの低温で急速に凍結させます。真空乾燥（昇華）: 凍結した米を真空状態に置き、水分を昇華させることで乾燥させます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHid02OJ7Ik9wdCYLxfjcEwE_X281x6yqcMRSfKjO7YSaHhoYiySRleAIVswOeoVe6UxtFq5ExiCbJSCMSWxqCbm3dfZ_LyQZH7UfLcvN8bY_5-U6yamLTizfOsdqEnvaJWf7qf5wBsD9W5_LIsbaeQGE58OCgeEfQIdY6E9ZDHIghudy07kpXy5ea9NBcVNGdyAaI10_ZP2BrjHCEVnI39MsDEIa3sKAXfAXf9fBiQ_vDcHYPIjG3MrrgIWKtz93RaqIpHpcM2tfz01I_D2aQ07-tbV_ulnAheQFFOaZOW0SEa-STO9s7iMw28nrwYfNwONYtLd8NuTJMXINldhfCT_2_9QSBnD1ozW892X90JDDyZWZRCZtPz11ep60Pp-1g=`</details>
+> **参考情報**: 「調理済みの米を-30℃～-40℃などの低温で急速に凍結させます。真空乾燥（昇華）: 凍結した米を真空状態に置き、水分を昇華させることで乾燥させます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHid02OJ7Ik9wdCYLxfjcEwE_X281x6yqcMRSfKjO7YSaHhoYiySRleAIVswOeoVe6UxtFq5ExiCbJSCMSWxqCbm3dfZ_LyQZH7UfLcvN8bY_5-U6yamLTizfOsdqEnvaJWf7qf5wBsD9W5_LIsbaeQGE58OCgeEfQIdY6E9ZDHIghudy07kpXy5ea9NBcVNGdyAaI10_ZP2BrjHCEVnI39MsDEIa3sKAXfAXf9fBiQ_vDcHYPIjG3MrrgIWKtz93RaqIpHpcM2tfz01I_D2aQ07-tbV_ulnAheQFFOaZOW0SEa-STO9s7iMw28nrwYfNwONYtLd8NuTJMXINldhfCT_2_9QSBnD1ozW892X90JDDyZWZRCZtPz11ep60Pp-1g=`</details>
 
 **JK**: 凍らせてから乾燥させる…なんか科学の実験みたいですね。
 
@@ -356,7 +356,7 @@ Tags: Guide, Food
 
 ### 両者の比較
 
-**参考情報**: 「アルファ米は、炊きたてに近い、もちもちとした粒感としっかりとした食感を保ちます。お湯で約15分、水で約60分と、フリーズドライ米に比べて時間を要します。フリーズドライ米は、お湯で約3分、水でも約5分と、非常に短時間で戻すことができます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHid02OJ7Ik9wdCYLxfjcEwE_X281x6yqcMRSfKjO7YSaHhoYiySRleAIVswOeoVe6UxtFq5ExiCbJSCMSWxqCbm3dfZ_LyQZH7UfLcvN8bY_5-U6yamLTizfOsdqEnvaJWf7qf5wBsD9W5_LIsbaeQGE58OCgeEfQIdY6E9ZDHIghudy07kpXy5ea9NBcVNGdyAaI10_ZP2BrjHCEVnI39MsDEIa3sKAXfAXf9fBiQ_vDcHYPIjG3MrrgIWKtz93RaqIpHpcM2tfz01I_D2aQ07-tbV_ulnAheQFFOaZOW0SEa-STO9s7iMw28nrwYfNwONYtLd8NuTJMXINldhfCT_2_9QSBnD1ozW892X90JDDyZWZRCZtPz11ep60Pp-1g=`</details>
+> **参考情報**: 「アルファ米は、炊きたてに近い、もちもちとした粒感としっかりとした食感を保ちます。お湯で約15分、水で約60分と、フリーズドライ米に比べて時間を要します。フリーズドライ米は、お湯で約3分、水でも約5分と、非常に短時間で戻すことができます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHid02OJ7Ik9wdCYLxfjcEwE_X281x6yqcMRSfKjO7YSaHhoYiySRleAIVswOeoVe6UxtFq5ExiCbJSCMSWxqCbm3dfZ_LyQZH7UfLcvN8bY_5-U6yamLTizfOsdqEnvaJWf7qf5wBsD9W5_LIsbaeQGE58OCgeEfQIdY6E9ZDHIghudy07kpXy5ea9NBcVNGdyAaI10_ZP2BrjHCEVnI39MsDEIa3sKAXfAXf9fBiQ_vDcHYPIjG3MrrgIWKtz93RaqIpHpcM2tfz01I_D2aQ07-tbV_ulnAheQFFOaZOW0SEa-STO9s7iMw28nrwYfNwONYtLd8NuTJMXINldhfCT_2_9QSBnD1ozW892X90JDDyZWZRCZtPz11ep60Pp-1g=`</details>
 
 **先生**: 比較表にまとめよう。
 
@@ -374,7 +374,7 @@ Tags: Guide, Food
 
 **先生**: ただし価格はアルファ米の約2倍になる。
 
-**参考情報**: 「アルファ米と比較して、フリーズドライ米は価格が2倍近くになることもあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtMq6kIKmXPmAY2Kk5MBkeuaUt4VQJYhQDtKGuZsJClg0aEb5m4N2UZQ-D3tIVGj-Pv2e3vy-eB6LShK09Knm_y1qSIJcwjnT51BVVrO9rO7jk6r5BS5C7WxRpNBvHxnG3Y8o4gs0pxvs=`</details>
+> **参考情報**: 「アルファ米と比較して、フリーズドライ米は価格が2倍近くになることもあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtMq6kIKmXPmAY2Kk5MBkeuaUt4VQJYhQDtKGuZsJClg0aEb5m4N2UZQ-D3tIVGj-Pv2e3vy-eB6LShK09Knm_y1qSIJcwjnT51BVVrO9rO7jk6r5BS5C7WxRpNBvHxnG3Y8o4gs0pxvs=`</details>
 
 **JK**: うーん、どっちがいいか迷いますね…。
 
@@ -414,7 +414,7 @@ Tags: Guide, Food
 
 #### 4. 味・香り・栄養価の保持
 
-**参考情報**: 「フリーズドライ製法は、食材を凍結させて真空乾燥させるため、元の食品の味、香り、栄養素が残りやすいとされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnYG5mkmut56QT0VAMrZwsnB-RQV568fCWztJYffcIUWP0t_-DS6N61DZQwwfViWrKnQrm7i0SLVojTxuzBcyf4vqiRQHbxzI33PZZBrhsG1bYN-USmtYa3ubf51lz981ydGU=`</details>
+> **参考情報**: 「フリーズドライ製法は、食材を凍結させて真空乾燥させるため、元の食品の味、香り、栄養素が残りやすいとされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnYG5mkmut56QT0VAMrZwsnB-RQV568fCWztJYffcIUWP0t_-DS6N61DZQwwfViWrKnQrm7i0SLVojTxuzBcyf4vqiRQHbxzI33PZZBrhsG1bYN-USmtYa3ubf51lz981ydGU=`</details>
 
 **先生**: 乾燥食品とは思えないほど、味が良い。
 
@@ -432,7 +432,7 @@ Tags: Guide, Food
 
 #### 2. 塩分量が多い製品がある
 
-**参考情報**: 「一部のフリーズドライ食品は塩分量が多めに含まれている場合があり、行動中に多く摂取する場合は意識的な水分補給が重要です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEauIC65XipYhkRqWfefF2_1ByV83fmb2TwoFVtq5uYLMWpufFh2WcebzjAwfmmxypZY3XNAtOAgo4R0sz05rwoFz3dsUX5_GrS0q82RAEXRzyiqzPdMCdjsbr1AwZBhhp7nplfDXNXQhJD-KKXp9C-XftAlLpqWEZmWDrNJsokfE=`</details>
+> **参考情報**: 「一部のフリーズドライ食品は塩分量が多めに含まれている場合があり、行動中に多く摂取する場合は意識的な水分補給が重要です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEauIC65XipYhkRqWfefF2_1ByV83fmb2TwoFVtq5uYLMWpufFh2WcebzjAwfmmxypZY3XNAtOAgo4R0sz05rwoFz3dsUX5_GrS0q82RAEXRzyiqzPdMCdjsbr1AwZBhhp7nplfDXNXQhJD-KKXp9C-XftAlLpqWEZmWDrNJsokfE=`</details>
 
 **先生**: 行動中に多く摂取する場合は、意識的に水分補給をしないといけない。
 
@@ -460,7 +460,7 @@ Tags: Guide, Food
 
 #### カレーやシチュー
 
-**参考情報**: 「フリーズドライのご飯（アルファ米など）に、レトルトカレーやフリーズドライのカレー・シチューを組み合わせると、手軽に満足感のある一品になります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXJO6dr7Fx3y_9KgmFNNdcPwAVMvh3zV2Otm3_riWBPfHpYyllFfVw1YpPdyuj0Rn5UShMUfnHQ_BCTHL83-CtTkGe2kA6O9aEcrVw2nQWC4Gy7Wf5tnfz_A==`</details>
+> **参考情報**: 「フリーズドライのご飯（アルファ米など）に、レトルトカレーやフリーズドライのカレー・シチューを組み合わせると、手軽に満足感のある一品になります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXJO6dr7Fx3y_9KgmFNNdcPwAVMvh3zV2Otm3_riWBPfHpYyllFfVw1YpPdyuj0Rn5UShMUfnHQ_BCTHL83-CtTkGe2kA6O9aEcrVw2nQWC4Gy7Wf5tnfz_A==`</details>
 
 **先生**: 尾西のアルファ米にアマノフーズのカレーをかける。これが私の定番だ。
 
@@ -476,7 +476,7 @@ Tags: Guide, Food
 
 #### 味噌クリームうどん
 
-**参考情報**: 「あさりの味噌汁のフリーズドライに牛乳、おろしにんにく、とろけるチーズ、そして自然解凍した冷凍うどんを加えて温めれば、もちもち食感の味噌クリームうどんが作れます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGT8Bzt5KnfsbdLJArrC9ZWfGjxsMzbKzZTWrjkTsYqS0vjgdSpTMKwmFSdULes_uUDhATP5Lr_iSX5ncS8KxVdnWhY0wXQz-YE3MhYfyXT5z2F5h6Al1iihQ9PxH4YFOncEBCUbViu_8WfYR3rcvw`</details>
+> **参考情報**: 「あさりの味噌汁のフリーズドライに牛乳、おろしにんにく、とろけるチーズ、そして自然解凍した冷凍うどんを加えて温めれば、もちもち食感の味噌クリームうどんが作れます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGT8Bzt5KnfsbdLJArrC9ZWfGjxsMzbKzZTWrjkTsYqS0vjgdSpTMKwmFSdULes_uUDhATP5Lr_iSX5ncS8KxVdnWhY0wXQz-YE3MhYfyXT5z2F5h6Al1iihQ9PxH4YFOncEBCUbViu_8WfYR3rcvw`</details>
 
 **JK**: え、味噌汁がうどんのスープになるんですか！？
 
@@ -486,7 +486,7 @@ Tags: Guide, Food
 
 #### スープをベースにした雑炊・クッパ
 
-**参考情報**: 「フリーズドライのスープや粉末スープをご飯や餅と合わせると、体が温まる一品になります。例えば、卵スープにご飯やちくわを加えたり、キムチクッパの素にご飯を加えてキムチクッパにしたりできます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGO45ehcQH4r8G673DTRErpoKG9bHYOTCNN8RKBioexXqBs4MK6nc74ZzRm-WDv7R9nvRnZ_9u4kAS45ZiGvuZWJlWjSUsfaHrYQ8lWmKFVwrJZfQ==`</details>
+> **参考情報**: 「フリーズドライのスープや粉末スープをご飯や餅と合わせると、体が温まる一品になります。例えば、卵スープにご飯やちくわを加えたり、キムチクッパの素にご飯を加えてキムチクッパにしたりできます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGO45ehcQH4r8G673DTRErpoKG9bHYOTCNN8RKBioexXqBs4MK6nc74ZzRm-WDv7R9nvRnZ_9u4kAS45ZiGvuZWJlWjSUsfaHrYQ8lWmKFVwrJZfQ==`</details>
 
 **先生**: 卵スープにご飯やちくわを加えたり、キムチクッパの素にご飯を加えたりもできる。
 
@@ -494,7 +494,7 @@ Tags: Guide, Food
 
 #### ちょい足しアイテム
 
-**参考情報**: 「チーズ、にんにく、スパイス、缶詰など、風味を豊かにする「ちょい足し」アイテムを持っていくと、さらにアレンジの幅が広がります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuJoETlvtqzodTi61JpXA9GNcQJiqVPNnXS0YBSwmX28Uo8ayJzdPwHwz2TM92DTgoObrAXEHqdJx2ht51nYSTAkOgvN3gfFnPYtUAI8HHcLR5CRPAJfDvOJ8ztC_xxDbCEu0-6ew=`</details>
+> **参考情報**: 「チーズ、にんにく、スパイス、缶詰など、風味を豊かにする「ちょい足し」アイテムを持っていくと、さらにアレンジの幅が広がります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuJoETlvtqzodTi61JpXA9GNcQJiqVPNnXS0YBSwmX28Uo8ayJzdPwHwz2TM92DTgoObrAXEHqdJx2ht51nYSTAkOgvN3gfFnPYtUAI8HHcLR5CRPAJfDvOJ8ztC_xxDbCEu0-6ew=`</details>
 
 **先生**: チーズ、にんにく、スパイス、缶詰…こういう「ちょい足し」アイテムを持っていくと、アレンジの幅が広がる。
 
@@ -502,7 +502,7 @@ Tags: Guide, Food
 
 #### タンパク質追加
 
-**参考情報**: 「フリーズドライのサラダチキンは、お湯や水で戻すだけで手軽にタンパク質を摂取でき、フリーズドライのご飯と組み合わせるのもおすすめです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz_Dtb9cgONiuQ_0tZWKGUBZSqMsW_EgGLkKB7cvK-nEzgahpJhiFh9Rlz4yL6A2gpZOGfnJQTg3SQpxIXEIg3h6rA1-jo9h1A6KWD4WHg4OT2TUzCOyGFRrbVrQs1OQPfxU1mOMFzuR1rDznB_g==`</details>
+> **参考情報**: 「フリーズドライのサラダチキンは、お湯や水で戻すだけで手軽にタンパク質を摂取でき、フリーズドライのご飯と組み合わせるのもおすすめです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz_Dtb9cgONiuQ_0tZWKGUBZSqMsW_EgGLkKB7cvK-nEzgahpJhiFh9Rlz4yL6A2gpZOGfnJQTg3SQpxIXEIg3h6rA1-jo9h1A6KWD4WHg4OT2TUzCOyGFRrbVrQs1OQPfxU1mOMFzuR1rDznB_g==`</details>
 
 **先生**: フリーズドライのサラダチキンも出ている。タンパク質を手軽に補えるぞ。
 

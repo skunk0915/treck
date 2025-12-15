@@ -32,7 +32,7 @@ Tags: Pants, Guide
 
 **先生**: いや、それが全然違うんだ。たとえば、真夏の低山を軽快に歩きたい時と、秋冬の寒い時期にしっかり保温したい時、さらに雨の中でも行動し続けたい時…それぞれ求められる機能が全く異なる。
 
-**参考情報**: 「登山機能性だけでなく、スリムなシルエットにもこだわったハイキングパンツ。立体裁断と4方向ストレッチ性により、動きやすさと快適性を提供します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE3I9xFdLv9f_xBvumBJ_ddaSsTT8PQ0kJRlj2GznegLYylybLXWBa9-6P04NF46IgYwxmBMAr5AhzFgCiYjxn4UZeBrmWNO47HfbIItjwsJLRbvdqwH5CRBAPsl97aKvbdmsl0mM=`</details>
+> **参考情報**: 「登山機能性だけでなく、スリムなシルエットにもこだわったハイキングパンツ。立体裁断と4方向ストレッチ性により、動きやすさと快適性を提供します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE3I9xFdLv9f_xBvumBJ_ddaSsTT8PQ0kJRlj2GznegLYylybLXWBa9-6P04NF46IgYwxmBMAr5AhzFgCiYjxn4UZeBrmWNO47HfbIItjwsJLRbvdqwH5CRBAPsl97aKvbdmsl0mM=`</details>
 
 **JK**: へぇ…じゃあ、一本で全部済ませようとするのは甘いってことですか？
 
@@ -59,7 +59,7 @@ Tags: Pants, Guide
 
 **先生**: 普通はそう思うだろう。だが、このティフォン 50000は違う。レインウェアとは思えないくらいしなやかで、ストレッチも効いている。
 
-**参考情報**: 「レインウェアとは思えないほどのしなやかさとストレッチ性が最大の魅力の一つです。生地自体に備わった高い伸縮性と立体裁断により、足上げなどの大きな動きでもつっぱり感が少なく、ストレスフリーな行動を可能にします。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGURsLVOmJjqfy933T2uLJAJaYiQS6adan8xoU7tpk89WltcTkiISiYIzaPUL9b7CA152in5ZO2voEywDJWfT2kP0CEWrpwiSuceXO3Jyeu0UW4FDLIQzCdOtIt3NBPMrg6MQYDwxs=`</details>
+> **参考情報**: 「レインウェアとは思えないほどのしなやかさとストレッチ性が最大の魅力の一つです。生地自体に備わった高い伸縮性と立体裁断により、足上げなどの大きな動きでもつっぱり感が少なく、ストレスフリーな行動を可能にします。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGURsLVOmJjqfy933T2uLJAJaYiQS6adan8xoU7tpk89WltcTkiISiYIzaPUL9b7CA152in5ZO2voEywDJWfT2kP0CEWrpwiSuceXO3Jyeu0UW4FDLIQzCdOtIt3NBPMrg6MQYDwxs=`</details>
 
 **JK**: えっ、レインウェアなのに動きやすいんですか？それってちょっと信じられないんですけど…
 
@@ -73,7 +73,7 @@ Tags: Pants, Guide
 
 **先生**: 分かりやすく言うと、耐水圧20,000mmは「かなり強い雨でも水を通さない」レベル。そして透湿性50,000gは一般的なレインウェアの約2倍。つまり、蒸れにくさが段違いなんだ。
 
-**参考情報**: 「TYPHON 50000は、ミレーが独自に開発した防水透湿素材で、業界トップクラスの透湿性と登山に適した20,000mm以上の耐水圧を誇ります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmWcGcR1XDD7U09fzGNYExoH_NPmQ6utQgIiUOvI1r0tpxkavzmr8it-EWHAn7aC4giG2zbO8g4NslV3vC0XR9YUn0fUjmZ78frKGBtuPgbRyEoakwA0UjwhM7c0vavhOPN04pRTQ=`</details>
+> **参考情報**: 「TYPHON 50000は、ミレーが独自に開発した防水透湿素材で、業界トップクラスの透湿性と登山に適した20,000mm以上の耐水圧を誇ります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmWcGcR1XDD7U09fzGNYExoH_NPmQ6utQgIiUOvI1r0tpxkavzmr8it-EWHAn7aC4giG2zbO8g4NslV3vC0XR9YUn0fUjmZ78frKGBtuPgbRyEoakwA0UjwhM7c0vavhOPN04pRTQ=`</details>
 
 **JK**: へぇ！じゃあ汗かいてもベタベタしにくいってことですね！それは嬉しい！
 
@@ -83,7 +83,7 @@ Tags: Pants, Guide
 
 **先生**: まあ、そこは認めざるを得ない。ティフォンシリーズは決して安くはない。ただ、晴れの日でも雨の日でも使える「全天候型」だから、レインパンツとトレッキングパンツを別々に買うより結果的にコスパが良いという考え方もある。
 
-**参考情報**: 「この素材は晴れの日でも雨の日でも快適に着用できる「全天候型ウェア」として設計されており、レインウェアという概念を超えた汎用性の高いアイテムです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd0obM8K8qYpbdjs4ZQzJBpaDILh_V26oducTRH0CtaLMGP27kHIP2Oe7koGLOhSjGocWzbrTkxTxwfSLQXLlxUCwjRrti626XROPen4fcxXovkicrH_kO`</details>
+> **参考情報**: 「この素材は晴れの日でも雨の日でも快適に着用できる「全天候型ウェア」として設計されており、レインウェアという概念を超えた汎用性の高いアイテムです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd0obM8K8qYpbdjs4ZQzJBpaDILh_V26oducTRH0CtaLMGP27kHIP2Oe7koGLOhSjGocWzbrTkxTxwfSLQXLlxUCwjRrti626XROPen4fcxXovkicrH_kO`</details>
 
 **JK**: なるほど、一本二役ってことですね！あと、着脱はしやすいんですか？山で急に雨降ってきた時とか焦りそう…
 
@@ -122,7 +122,7 @@ Tags: Pants, Guide
 
 **先生**: 厚手のダブルウィーブストレッチ素材を使っていて、保温性と動きやすさを両立したモデルだ。秋から春にかけての低山ハイキングにぴったりだな。
 
-**参考情報**: 「保温性に優れた厚手のダブルウィーブストレッチ素材を採用しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEAjBiQBe2wzHz-cv9kuxAK2Zb0yZDFOog5JImxy0C0rXNmR9G8HaRe38_pydowAAuaD2MZqp6XSBUl9kSvU21MXVtKJjt1rjfTq-eeMmhBBv5iEWjcFbqiZdu857kpbsGZX6vDjXqV4kSfeY=`</details>
+> **参考情報**: 「保温性に優れた厚手のダブルウィーブストレッチ素材を採用しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEAjBiQBe2wzHz-cv9kuxAK2Zb0yZDFOog5JImxy0C0rXNmR9G8HaRe38_pydowAAuaD2MZqp6XSBUl9kSvU21MXVtKJjt1rjfTq-eeMmhBBv5iEWjcFbqiZdu857kpbsGZX6vDjXqV4kSfeY=`</details>
 
 **JK**: 厚手ってことは、もこもこして動きにくそう…
 
@@ -136,7 +136,7 @@ Tags: Pants, Guide
 
 **先生**: 非常に高い。ある登山者は「秋から春にかけて履くなら最高傑作」と評していたな。
 
-**参考情報**: 「秋から春にかけて履くなら「最高傑作」と評しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEk9QMWmJRN1dPB-YaD98qI2-H5PjR5Pwr9ZMdvjOn3xqYy_0VKNk3bUAat1iLUFTnlWyl_XZG0BfYuwwx3o4PVM-M9g43bEirfbt5L2lU6rU4K4N-0qz0apA0myHeoqJz9n6rvuGHgZSvkojmat9QgVF4xHwPN8rt3PguzukyU8opCdydFZ_0_9aIDykk0zxDdQBySbxFTsMN2H4hGDuCVna-GlxW-hX_KYmilDX5vlVsX4Bvb5hOFQ0C_O6XLcKhwtC6IHheUgiyJvI8Sm5VH`</details>
+> **参考情報**: 「秋から春にかけて履くなら「最高傑作」と評しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEk9QMWmJRN1dPB-YaD98qI2-H5PjR5Pwr9ZMdvjOn3xqYy_0VKNk3bUAat1iLUFTnlWyl_XZG0BfYuwwx3o4PVM-M9g43bEirfbt5L2lU6rU4K4N-0qz0apA0myHeoqJz9n6rvuGHgZSvkojmat9QgVF4xHwPN8rt3PguzukyU8opCdydFZ_0_9aIDykk0zxDdQBySbxFTsMN2H4hGDuCVna-GlxW-hX_KYmilDX5vlVsX4Bvb5hOFQ0C_O6XLcKhwtC6IHheUgiyJvI8Sm5VH`</details>
 
 **JK**: 最高傑作！すごい！でも暑くなりすぎたりしないんですか？
 
@@ -181,13 +181,13 @@ Tags: Pants, Guide
 
 **先生**: 夏には「ワナカ」シリーズがおすすめだ。「ライト＆ファスト」をコンセプトにした軽量モデルで、春夏のアクティビティに特化している。
 
-**参考情報**: 「「ライト＆ファスト（軽快かつ迅速）」をコンセプトにしており、ミニマルな装備で軽快な山行を楽しむスタイルに適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiubQpp6PCk-2HM5kPnuAgWAwPxqrkpG-O8t9npw7Kr5Ls-mTTXPlCgI3F3AfvpUszujpMYHQTzqL41NZgxn_vbf9Yr7hlaHBqgcOaMpZ-eG-DQPLyskFj33y2r8krMPQs3jP4F_M8LD0beJ_kOn5LGnraQhk=`</details>
+> **参考情報**: 「「ライト＆ファスト（軽快かつ迅速）」をコンセプトにしており、ミニマルな装備で軽快な山行を楽しむスタイルに適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiubQpp6PCk-2HM5kPnuAgWAwPxqrkpG-O8t9npw7Kr5Ls-mTTXPlCgI3F3AfvpUszujpMYHQTzqL41NZgxn_vbf9Yr7hlaHBqgcOaMpZ-eG-DQPLyskFj33y2r8krMPQs3jP4F_M8LD0beJ_kOn5LGnraQhk=`</details>
 
 **JK**: ライト＆ファスト！なんかカッコいい！具体的にどんな感じなんですか？
 
 **先生**: まず素材が「ドライナミックライト4WAYストレッチ」という軽量素材を使っている。ポリエステル89%、ポリウレタン11%の配合で、非常に軽くて伸縮性に優れている。
 
-**参考情報**: 「ダイナミックな動きを可能にする優れたストレッチ性が最大の特長です。膝や腰周りも適度に伸びるため、運動中のストレスが少なく、快適な履き心地を提供します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbHRdeGgkOjb5K7_Jk2Uf5BFMdW_dSjvXVtkBLaePXCfTvbKjreuum38bHKwuB3TzKd2zlD_VoWwjgzGwoWoRpowCGjgP5r-PtZS1YpLHop4BU7ZJpTQQQSI0q5hwM3KvcHHE_8HSYa0vfWQ==`</details>
+> **参考情報**: 「ダイナミックな動きを可能にする優れたストレッチ性が最大の特長です。膝や腰周りも適度に伸びるため、運動中のストレスが少なく、快適な履き心地を提供します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbHRdeGgkOjb5K7_Jk2Uf5BFMdW_dSjvXVtkBLaePXCfTvbKjreuum38bHKwuB3TzKd2zlD_VoWwjgzGwoWoRpowCGjgP5r-PtZS1YpLHop4BU7ZJpTQQQSI0q5hwM3KvcHHE_8HSYa0vfWQ==`</details>
 
 **JK**: 軽くて伸びる！それだけでもう好きです！
 
@@ -248,7 +248,7 @@ Tags: Pants, Guide
 
 **先生**: 裏起毛の二重織りストレッチ素材を使っていて、肌触りが良くて非常に暖かい。モンテローザよりも保温性に振った設計だ。
 
-**参考情報**: 「肌触りの良い裏起毛の二重織りストレッチ素材を使用しており、優れた保温性で冬の様々なシーンで快適さを提供します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs0sMZNhF5lAbbIzL--e_ees-uJZbzsz6gcMP0nm4JJKNWICdN1aEOltWIZiJhwe0EswlJzFNHgqZV915W0xzphCDm9NFEQXoFno7BjKcj7zyfOdFSUrJDN4sorxoH7eBOKmYZ8bJW`</details>
+> **参考情報**: 「肌触りの良い裏起毛の二重織りストレッチ素材を使用しており、優れた保温性で冬の様々なシーンで快適さを提供します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs0sMZNhF5lAbbIzL--e_ees-uJZbzsz6gcMP0nm4JJKNWICdN1aEOltWIZiJhwe0EswlJzFNHgqZV915W0xzphCDm9NFEQXoFno7BjKcj7zyfOdFSUrJDN4sorxoH7eBOKmYZ8bJW`</details>
 
 **JK**: 裏起毛！それは暖かそう！でも、それだけ暖かいと動きにくくならないですか？
 
@@ -338,7 +338,7 @@ Tags: Pants, Guide
 
 **先生**: 確かに高価だが、それだけの機能がある。特筆すべきは「JP」の表記で、これは日本人の体型に合わせたカッティングとサイズ展開になっているんだ。
 
-**参考情報**: 「多彩な斜面をアグレッシブに楽しむスキーヤーのために設計された、機動性と快適性に優れたスキーパンツのフラッグシップモデルです。日本人の体型に合わせたカッティングとサイズ展開が特徴です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2-vluEmIyM7khUq40OwT92N6VYfYiiNCxNDNFoLwFdxMiqCeZhkKLrD87U5kv8Fpq2snUMX3m1D4ocn6HWfV7Xg_adtsmS3HYheB43WMA-u9I5I7Sg8DmY_ZvyEgOBIYR4IdaN3j_HkNer1UK`</details>
+> **参考情報**: 「多彩な斜面をアグレッシブに楽しむスキーヤーのために設計された、機動性と快適性に優れたスキーパンツのフラッグシップモデルです。日本人の体型に合わせたカッティングとサイズ展開が特徴です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2-vluEmIyM7khUq40OwT92N6VYfYiiNCxNDNFoLwFdxMiqCeZhkKLrD87U5kv8Fpq2snUMX3m1D4ocn6HWfV7Xg_adtsmS3HYheB43WMA-u9I5I7Sg8DmY_ZvyEgOBIYR4IdaN3j_HkNer1UK`</details>
 
 **JK**: えっ、日本人向けに作られてるんですか？ミレーってフランスのブランドなのに！
 
@@ -360,7 +360,7 @@ Tags: Pants, Guide
 
 **先生**: いい質問だ。ミレーはユーロサイズ表記だから、日本のサイズとは異なる。基本的には**ユーロサイズSが日本のMに相当する**と覚えておけばいい。
 
-**参考情報**: 「ユーロサイズSが日本のMサイズに相当するなど、普段着用している日本のサイズよりもワンサイズ小さいユーロサイズを選ぶのが一般的です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBUSF_0lV-kNWuhh35KOpg0mlF8qHDFNllkZLNjuwEDXajudMXHWe2k7zO6IrCM89mp9WZFWCgte9x_O-ccKq8do8yqR3986RXw6RBUdWr_WdzclNT9nTbOntxBoA-x6Y-jkH-3qLx0su7GC6YlJ5k`</details>
+> **参考情報**: 「ユーロサイズSが日本のMサイズに相当するなど、普段着用している日本のサイズよりもワンサイズ小さいユーロサイズを選ぶのが一般的です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBUSF_0lV-kNWuhh35KOpg0mlF8qHDFNllkZLNjuwEDXajudMXHWe2k7zO6IrCM89mp9WZFWCgte9x_O-ccKq8do8yqR3986RXw6RBUdWr_WdzclNT9nTbOntxBoA-x6Y-jkH-3qLx0su7GC6YlJ5k`</details>
 
 **JK**: えっ、じゃあ私が普段M着てるなら、ミレーはSを選べばいいってこと？
 
@@ -400,7 +400,7 @@ Tags: Pants, Guide
 
 **先生**: 適切な方法で洗えば問題ない。むしろ汚れたまま放置する方が機能低下につながるから、定期的な洗濯は重要だ。
 
-**参考情報**: 「必ずアウトドアウェア専用の中性洗剤を使用してください。通常の家庭用洗剤に多い漂白剤、柔軟剤、蛍光増白剤が含まれる洗剤は、生地の機能性（防水透湿性や撥水性）を損なう可能性があるため避けてください。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7Vfgr0XrnGaalKaPf-OpJNbnZCqkmAzsCyhEuXxj0a5HjQ3Vl4jo15s5QwqOMy2bQtpaYAFy1pDqm_AOYReB-hWr592ddBi0UEtQY7DnZ9pnCrZDETKjz7C_3pErpXvh5WQ9ygZ_tTgIv0xFjp4vlDwVQPg==`</details>
+> **参考情報**: 「必ずアウトドアウェア専用の中性洗剤を使用してください。通常の家庭用洗剤に多い漂白剤、柔軟剤、蛍光増白剤が含まれる洗剤は、生地の機能性（防水透湿性や撥水性）を損なう可能性があるため避けてください。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7Vfgr0XrnGaalKaPf-OpJNbnZCqkmAzsCyhEuXxj0a5HjQ3Vl4jo15s5QwqOMy2bQtpaYAFy1pDqm_AOYReB-hWr592ddBi0UEtQY7DnZ9pnCrZDETKjz7C_3pErpXvh5WQ9ygZ_tTgIv0xFjp4vlDwVQPg==`</details>
 
 **JK**: 柔軟剤ダメなんですか！？いい匂いにしたいのに…
 

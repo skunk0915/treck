@@ -25,7 +25,7 @@ Tags: Snow Peak, Camping Gear, Guide
 
 **先生**: ああ、おそらくスノーピークのIGT（アイアングリルテーブル）システムのことだな。アウトドアシーンで高いカスタマイズ性と機能性を発揮するモジュール式のテーブルシステムだ。
 
-**参考情報**: 「アイアングリルテーブル（IGT）」システムは、アウトドアシーンで高いカスタマイズ性と機能性を発揮するモジュール式のテーブルシステムです。フレーム、脚、各種ユニット、アクセサリーを自由に組み合わせて、多様な使い方に対応できるのが最大の特徴です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEMhhh99rXjh-2iRV6E-DPHwBOEjAl-9Y_uZqSvVF61JUg5J0Xs7qQdwzBqMRKjE_LJN5rx54K8NqN9lub2ondo2JJ0tcObZM8x-4fVguXtd50YDCVmyXd73NwQOj71w==`</details>
+> **参考情報**: 「アイアングリルテーブル（IGT）」システムは、アウトドアシーンで高いカスタマイズ性と機能性を発揮するモジュール式のテーブルシステムです。フレーム、脚、各種ユニット、アクセサリーを自由に組み合わせて、多様な使い方に対応できるのが最大の特徴です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEMhhh99rXjh-2iRV6E-DPHwBOEjAl-9Y_uZqSvVF61JUg5J0Xs7qQdwzBqMRKjE_LJN5rx54K8NqN9lub2ondo2JJ0tcObZM8x-4fVguXtd50YDCVmyXd73NwQOj71w==`</details>
 
 **JK**: モジュール式？なんだかロボットみたいでカッコいい！
 
@@ -43,7 +43,7 @@ Tags: Snow Peak, Camping Gear, Guide
 
 **先生**: まずIGTを理解する上で重要なのが「IGT規格」だ。これはスノーピークが提唱する、IGTフレームにはまるオプションパーツのサイズ規格のことだ。
 
-**参考情報**: 「IGT規格とは、スノーピークが提唱する、IGTフレームにはまるオプションパーツのサイズ規格を指します。一般的に「1ユニット」は250mm×360mmとされており、この規格に準じた様々なギアを組み込むことができます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyVRdW_ldxRrvc6QDhonKPESwBgBa2MFVSqRHig5FYxHZ9yDc3sesK9wXEuC_yLSGZjhgpGU2GsxAiIlfRHpMMFCK22M7TN3f8QzIeInCt5usLZ5Pat14sQpjFF45uaekMfacA6Qng`</details>
+> **参考情報**: 「IGT規格とは、スノーピークが提唱する、IGTフレームにはまるオプションパーツのサイズ規格を指します。一般的に「1ユニット」は250mm×360mmとされており、この規格に準じた様々なギアを組み込むことができます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyVRdW_ldxRrvc6QDhonKPESwBgBa2MFVSqRHig5FYxHZ9yDc3sesK9wXEuC_yLSGZjhgpGU2GsxAiIlfRHpMMFCK22M7TN3f8QzIeInCt5usLZ5Pat14sQpjFF45uaekMfacA6Qng`</details>
 
 **JK**: 1ユニットが250mm×360mm…って、具体的にどのくらいの大きさですか？
 
@@ -74,7 +74,7 @@ Tags: Snow Peak, Camping Gear, Guide
 
 **先生**: そうだ。このフレームは脚が付属していない。だから好みの高さの脚を別途購入する必要がある。その分、自由度が高いんだ。
 
-**参考情報**: 「CK-149は3ユニット、CK-150は4ユニットのスペースを持ちます。アルミニウム合金製で、軽量かつ耐久性に優れています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzNil53bCSSjkvT9IG-q71mwtdOMoA9Mn0mmRV51VqNdIAr28f7ax3yzUAVXq-2VfQVUQfzBz0qgDzVpaUETnORdoLZCo2Rn67Pz_Wq7DFqE_cVPneQv6S-FMbH0bco6Eao8TxZSJ6j-BoNRU=`</details>
+> **参考情報**: 「CK-149は3ユニット、CK-150は4ユニットのスペースを持ちます。アルミニウム合金製で、軽量かつ耐久性に優れています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzNil53bCSSjkvT9IG-q71mwtdOMoA9Mn0mmRV51VqNdIAr28f7ax3yzUAVXq-2VfQVUQfzBz0qgDzVpaUETnORdoLZCo2Rn67Pz_Wq7DFqE_cVPneQv6S-FMbH0bco6Eao8TxZSJ6j-BoNRU=`</details>
 
 ### エントリーIGT
 
@@ -86,7 +86,7 @@ Tags: Snow Peak, Camping Gear, Guide
 |:------|:------|:---------|:-----|:----|
 | エントリーIGT | 865mm×440mm | 3ユニット | 400mm（固定） | 6.5kg |
 
-**参考情報**: 「キャンプ初心者にもおすすめのローテーブルで、IGTロースタイルセット ブラックとほぼ同サイズながら価格が異なります。脚が付属しているため、別途購入する必要がありません。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMLjDL4YRDAbslq7C6SyVnuDm3gUy-bvqjV8Hxu0PEZt_NJ-8fLMJSU_9HBHgGjyXK9FpjLiQfwgT8UDLTLqUkRB3iY_fruChKmriAH-ZnsOj_S8k-oij2qGvsPCyj4cy4xXHT61JuYEI5BVetxKhPqybviKbtlX_ZEDl6ag==`</details>
+> **参考情報**: 「キャンプ初心者にもおすすめのローテーブルで、IGTロースタイルセット ブラックとほぼ同サイズながら価格が異なります。脚が付属しているため、別途購入する必要がありません。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMLjDL4YRDAbslq7C6SyVnuDm3gUy-bvqjV8Hxu0PEZt_NJ-8fLMJSU_9HBHgGjyXK9FpjLiQfwgT8UDLTLqUkRB3iY_fruChKmriAH-ZnsOj_S8k-oij2qGvsPCyj4cy4xXHT61JuYEI5BVetxKhPqybviKbtlX_ZEDl6ag==`</details>
 
 **JK**: お！脚が付いてるんですね！これなら楽そう！
 
@@ -102,7 +102,7 @@ Tags: Snow Peak, Camping Gear, Guide
 |:------|:------|:---------|:-----|:----|
 | IGTスリム | 940mm×403mm | 3ユニット | 408mm | 7.4kg |
 
-**参考情報**: 「高級チーク材の天板を用いた、キャンプギアらしい高級感のあるローテーブルです。6枚のウッドパネルを取り外してインサートを組み込むことができます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf27Jk1tir3XPISRCtvAeb0Bk8PevURd2_tBmdpchZgnwZR45DidLP3az10ubRdX9sf-Re5hGRrimuPt_mCK401CcmAHcrmVfDMeV76hyE-Qe__bH6HKnAQmsLbKKLfywOcQn4LFgUmNBOh-bB8WOQbJZcFaZlNZl3siukUQ==`</details>
+> **参考情報**: 「高級チーク材の天板を用いた、キャンプギアらしい高級感のあるローテーブルです。6枚のウッドパネルを取り外してインサートを組み込むことができます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf27Jk1tir3XPISRCtvAeb0Bk8PevURd2_tBmdpchZgnwZR45DidLP3az10ubRdX9sf-Re5hGRrimuPt_mCK401CcmAHcrmVfDMeV76hyE-Qe__bH6HKnAQmsLbKKLfywOcQn4LFgUmNBOh-bB8WOQbJZcFaZlNZl3siukUQ==`</details>
 
 **JK**: チーク材！？ めっちゃオシャレじゃないですか！これ欲しい！
 
@@ -112,7 +112,7 @@ Tags: Snow Peak, Camping Gear, Guide
 
 **先生**: 2024年の新製品として注目なのがセパレートIGTだ。
 
-**参考情報**: 「2024年新製品で、分解してコンパクトに収納できるのが特徴です。3ユニットと2ユニットのサイズ展開があり、連結フレームとアルミレールで構成されます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj3WM7Ih4gVQNgNgO_3Q45nujzT6B31CI8hlcXx4kgCb0E46e_hQGLTANI8Fezxp1rkAVBA3DnlnIHTdYp9fxXvWAwgq2ymB8mL_sEd0K20YlGgVtGFcmkj3PxOVDL`</details>
+> **参考情報**: 「2024年新製品で、分解してコンパクトに収納できるのが特徴です。3ユニットと2ユニットのサイズ展開があり、連結フレームとアルミレールで構成されます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj3WM7Ih4gVQNgNgO_3Q45nujzT6B31CI8hlcXx4kgCb0E46e_hQGLTANI8Fezxp1rkAVBA3DnlnIHTdYp9fxXvWAwgq2ymB8mL_sEd0K20YlGgVtGFcmkj3PxOVDL`</details>
 
 **JK**: 分解できるんですか！？車の荷物が多くて困ってたから、それ助かる〜！
 
@@ -135,7 +135,7 @@ Tags: Snow Peak, Camping Gear, Guide
 | 660mm | ミドルスタイル | 標準的なダイニングテーブルの高さ。チェアに座っての作業向け |
 | 830mm | ハイスタイル | 立ち作業に最適。料理の準備やアクティブな調理向け |
 
-**参考情報**: 「脚セットは通常2本1組で販売されており、テーブルの高さを決める重要なパーツです。300mm（グラウンドスタイル）、400mm（ロースタイル）、660mm（ミドルスタイル）、830mm（ハイスタイル）の4種類があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn7FTfZACXGLYp9xIjLr1x4Nv898tMcF1zCdn-lZnDiJAET5tAeiUeFI1um32q5MwlK1M7ikwjZDkhC5YnpiAV0zS-5gMPkqT0o4B0R8tmQ5ph3UUmFva_CENRXCUFSYH-QaIKjOYDqCASFtDmqA59TFC7B9Oy`</details>
+> **参考情報**: 「脚セットは通常2本1組で販売されており、テーブルの高さを決める重要なパーツです。300mm（グラウンドスタイル）、400mm（ロースタイル）、660mm（ミドルスタイル）、830mm（ハイスタイル）の4種類があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn7FTfZACXGLYp9xIjLr1x4Nv898tMcF1zCdn-lZnDiJAET5tAeiUeFI1um32q5MwlK1M7ikwjZDkhC5YnpiAV0zS-5gMPkqT0o4B0R8tmQ5ph3UUmFva_CENRXCUFSYH-QaIKjOYDqCASFtDmqA59TFC7B9Oy`</details>
 
 **JK**: えっと…400mmがローチェアに合うってことは、私がよく見る焚き火スタイルはこれかな？
 
@@ -165,13 +165,13 @@ Tags: Snow Peak, Camping Gear, Guide
 | 重量 | 約1.9kg（収納ケース除く） |
 | 推奨ガス | ギガパワーガスプロイソ（金缶） |
 
-**参考情報**: 「IGTにセットすると天板とフラットになり、調理スペースを広く使え、見た目もすっきりします。バーナーヘッドが本体に窪んで配置されているため、風の影響を受けにくく、効率よく調理が可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrygyPiiGvFs3oCnYBQbgRXMSKSZJrFavJ-O__GQaCg_XYQ_Q5suMOTC9ATjrF_3x9kL5J1oC5Ua01ZIMVNtTdBHwaeZNyHoA6BPigURHfFi7nZ6b2T5_4_QdJM-qR1fsN7CM_GQ==`</details>
+> **参考情報**: 「IGTにセットすると天板とフラットになり、調理スペースを広く使え、見た目もすっきりします。バーナーヘッドが本体に窪んで配置されているため、風の影響を受けにくく、効率よく調理が可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrygyPiiGvFs3oCnYBQbgRXMSKSZJrFavJ-O__GQaCg_XYQ_Q5suMOTC9ATjrF_3x9kL5J1oC5Ua01ZIMVNtTdBHwaeZNyHoA6BPigURHfFi7nZ6b2T5_4_QdJM-qR1fsN7CM_GQ==`</details>
 
 **JK**: 天板とフラットになるのカッコいい！でも3,000kcal/hって家のコンロより弱くないですか？
 
 **先生**: 鋭いな。確かに一般的な家庭用ガスコンロよりやや低めだ。
 
-**参考情報**: 「出力は3,000kcal/hで、一般的な家庭用ガスコンロよりやや低めですが、焼き、煮る、蒸すなど一通りの調理に対応できます。ただし、強火での炒め物や、ダッチオーブンでのピザ焼きなどには火力不足を感じる場合があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbaQ4JqgMwcn8EFhQ_TEItPvosz4Pl2uDOJ3m2-fScU3ljCbmXTNnhMrXo5Lq81aGrtXZ8YXG0TKmnHCNALFSDY4AduYetbW-dxOscc7uu5aknRAFJdLZPxSm_nd-GXrgZZA==`</details>
+> **参考情報**: 「出力は3,000kcal/hで、一般的な家庭用ガスコンロよりやや低めですが、焼き、煮る、蒸すなど一通りの調理に対応できます。ただし、強火での炒め物や、ダッチオーブンでのピザ焼きなどには火力不足を感じる場合があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbaQ4JqgMwcn8EFhQ_TEItPvosz4Pl2uDOJ3m2-fScU3ljCbmXTNnhMrXo5Lq81aGrtXZ8YXG0TKmnHCNALFSDY4AduYetbW-dxOscc7uu5aknRAFJdLZPxSm_nd-GXrgZZA==`</details>
 
 **JK**: じゃあ中華料理みたいに強火でガンガン炒めるのは無理ってこと？
 
@@ -191,7 +191,7 @@ Tags: Snow Peak, Camping Gear, Guide
 
 **先生**: 慣れれば1分もかからない。
 
-**参考情報**: 「脚を取り付けて、カセットコンロのように卓上で使用できます。IGTへの組み込みでは、脚を取り外し、IGTフレームにセットします。ガスカートリッジはIGTのレール部分に器具栓ホルダーを使って吊り下げて使用します。慣れれば1分未満で組み立てが可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeZJKLm4lYmcrNTOyUiS_XUe-LT_xhNJ5NTPI9qDjoItUMrlzhOyrENcYh6Ei5jBk0ECEPJSWE68KigF250kjv2u-hyyK3NkQBmv-G1FR2gmyIQzWT7pBVkVnR51-cYA==`</details>
+> **参考情報**: 「脚を取り付けて、カセットコンロのように卓上で使用できます。IGTへの組み込みでは、脚を取り外し、IGTフレームにセットします。ガスカートリッジはIGTのレール部分に器具栓ホルダーを使って吊り下げて使用します。慣れれば1分未満で組み立てが可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeZJKLm4lYmcrNTOyUiS_XUe-LT_xhNJ5NTPI9qDjoItUMrlzhOyrENcYh6Ei5jBk0ECEPJSWE68KigF250kjv2u-hyyK3NkQBmv-G1FR2gmyIQzWT7pBVkVnR51-cYA==`</details>
 
 #### 主な使い方
 
@@ -210,7 +210,7 @@ Tags: Snow Peak, Camping Gear, Guide
 
 **先生**: かつて販売されていた「ギガパワープレートバーナーLI（GS-400）」という名機がある。現在は廃盤だが、中古市場でも人気だ。
 
-**参考情報**: 「「LI」はLiquid Injection（液体噴射）を意味し、ガスカートリッジを逆さまにして液体のままガスを供給する液出し方式に対応しています。これにより、気温の低い環境やガスの残量が少なくなっても安定した高火力を維持できるのが最大の特長です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3mdpgbyLcpMkbZ8JgiP6Nf-DOvQf5NWOqqtjNatvo0qm-et43NcF3KosTO7gHnzRZAS1WFuhtS0k-y0K-UBB8-g1ski4hk22E2CXfyMtG5HPpSUtSr26q3DVwfB6Dk0wLAfwTlqyBrxw=`</details>
+> **参考情報**: 「「LI」はLiquid Injection（液体噴射）を意味し、ガスカートリッジを逆さまにして液体のままガスを供給する液出し方式に対応しています。これにより、気温の低い環境やガスの残量が少なくなっても安定した高火力を維持できるのが最大の特長です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3mdpgbyLcpMkbZ8JgiP6Nf-DOvQf5NWOqqtjNatvo0qm-et43NcF3KosTO7gHnzRZAS1WFuhtS0k-y0K-UBB8-g1ski4hk22E2CXfyMtG5HPpSUtSr26q3DVwfB6Dk0wLAfwTlqyBrxw=`</details>
 
 **JK**: 液出し？なんか難しそう…。
 
@@ -244,7 +244,7 @@ Tags: Snow Peak, Camping Gear, Guide
 
 ### ウッドテーブル（竹）
 
-**参考情報**: 「スノーピークの純正品では「ウッドテーブル S竹」が代表的で、IGT規格の基準にもなっているシンプルな天板です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlH0y-uLdvxnM7gkh6O2aXyGfaB2z7Zu-oCCk_EvKo1KqLjIaQfSZSRElAH7VX9rjMRqaYbwAiGP_CSAKuPuCJQmETwCVLqjuogaZEKlHzaqR7xuRvk03XkrHx`</details>
+> **参考情報**: 「スノーピークの純正品では「ウッドテーブル S竹」が代表的で、IGT規格の基準にもなっているシンプルな天板です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlH0y-uLdvxnM7gkh6O2aXyGfaB2z7Zu-oCCk_EvKo1KqLjIaQfSZSRElAH7VX9rjMRqaYbwAiGP_CSAKuPuCJQmETwCVLqjuogaZEKlHzaqR7xuRvk03XkrHx`</details>
 
 **先生**: 竹製の天板は自然な風合いが魅力だ。テーブル全体の雰囲気を暖かく演出してくれる。
 
@@ -254,13 +254,13 @@ Tags: Snow Peak, Camping Gear, Guide
 
 ### ステンレストレー
 
-**参考情報**: 「IGTシリーズの天板として使用できるほか、TAKIBI Myテーブルの棚板としても利用可能です。熱いものを直接置くことができるため、調理後の鍋やフライパンの一時置きにも便利です。また、裏返して配膳用のトレーとしても使用できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsUdx_SJEXyPEymEEFzBWWwbRtQRjNG80zQwSDF6s7qZt65u6j48dymweY1VwPDcQ52dWSG8TfRbAUV3hYhauKO06k7E8enHQTDl_aw_Ru7FaeeT42jOs2Lz4e1AJX3YhhqqRbB4OYcg==`</details>
+> **参考情報**: 「IGTシリーズの天板として使用できるほか、TAKIBI Myテーブルの棚板としても利用可能です。熱いものを直接置くことができるため、調理後の鍋やフライパンの一時置きにも便利です。また、裏返して配膳用のトレーとしても使用できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsUdx_SJEXyPEymEEFzBWWwbRtQRjNG80zQwSDF6s7qZt65u6j48dymweY1VwPDcQ52dWSG8TfRbAUV3hYhauKO06k7E8enHQTDl_aw_Ru7FaeeT42jOs2Lz4e1AJX3YhhqqRbB4OYcg==`</details>
 
 **JK**: 裏返して配膳用トレーにもなるんですか！便利〜！
 
 ### メッシュトレー
 
-**参考情報**: 「洗った食器や調理器具をそのまま収納して乾かすことができる深型タイプが主流です。1ユニット分のサイズが多く、IGTフレームやハンギングラックフレームにセットして使用します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3ldEhV_zeuo1lq3FTLXNvi4uVbuEKo0FMSs_rm7cy5tGOQD6BDoUYfOJXviIj4vyU7vWK1JDjj3sPpb02vaDsohbgbMAeQhhTyht2drcQNWZ65NyU5XPlS_rK0Atj2zG0c9JikVKW5y4xBhA=`</details>
+> **参考情報**: 「洗った食器や調理器具をそのまま収納して乾かすことができる深型タイプが主流です。1ユニット分のサイズが多く、IGTフレームやハンギングラックフレームにセットして使用します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3ldEhV_zeuo1lq3FTLXNvi4uVbuEKo0FMSs_rm7cy5tGOQD6BDoUYfOJXviIj4vyU7vWK1JDjj3sPpb02vaDsohbgbMAeQhhTyht2drcQNWZ65NyU5XPlS_rK0Atj2zG0c9JikVKW5y4xBhA=`</details>
 
 **JK**: 食器を乾かせるのいいですね！キャンプって洗い物の置き場に困るんですよ。
 
@@ -274,7 +274,7 @@ Tags: Snow Peak, Camping Gear, Guide
 
 **先生**: マルチファンクションテーブルを使えば、IGTフレームを拡張・連結できる。
 
-**参考情報**: 「マルチファンクションテーブルのピンをIGTフレームの短辺にある2つの穴に差し込むことで接続します。テーブルの脚を差し込む台座に、別のテーブルのピンを差し込むことで、テーブル同士を無限に連結させることができます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBRd7lO4uScCFvZV0XjZlsFKVQ9NsEShrHP0-3pZoyWQWKrS8SNx2A8rHpbYiMqTNsAorMOOy0lww-UaptjGJCisHQFW8ALXmex63H5aByEAgQT3UZAos_aTVbJln5MY-jajcdVA==`</details>
+> **参考情報**: 「マルチファンクションテーブルのピンをIGTフレームの短辺にある2つの穴に差し込むことで接続します。テーブルの脚を差し込む台座に、別のテーブルのピンを差し込むことで、テーブル同士を無限に連結させることができます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBRd7lO4uScCFvZV0XjZlsFKVQ9NsEShrHP0-3pZoyWQWKrS8SNx2A8rHpbYiMqTNsAorMOOy0lww-UaptjGJCisHQFW8ALXmex63H5aByEAgQT3UZAos_aTVbJln5MY-jajcdVA==`</details>
 
 **JK**: わ、無限に連結！？もうキャンプ場全部テーブルにできますね（笑）
 
@@ -300,7 +300,7 @@ Tags: Snow Peak, Camping Gear, Guide
 
 **先生**: いい質問だ。実はスノーピーク純正品以外にも、多くのサードパーティ製IGT互換製品がある。
 
-**参考情報**: 「ラーテルワークスのウッドパネルテーブルは、機能性、デザイン性、コストパフォーマンスに優れており、特にウッドパネルテーブル120は広々使えるサイズでファミリーキャンプにおすすめです。天然木とアルミフレームの組み合わせが美しいデザインも特徴です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVqPCQ_KgpapNYRWYdMA97RLvSjJCb3kaWBZWp19unxf_Br8TWBN31p_DdUNbL5irYGwM5aHJI1WS-V1_drBLf8rgW9-r8DJpGqKNt3mBMFHp4L_GnkO7xjMsURucGa6eJepd_ZdOy`</details>
+> **参考情報**: 「ラーテルワークスのウッドパネルテーブルは、機能性、デザイン性、コストパフォーマンスに優れており、特にウッドパネルテーブル120は広々使えるサイズでファミリーキャンプにおすすめです。天然木とアルミフレームの組み合わせが美しいデザインも特徴です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVqPCQ_KgpapNYRWYdMA97RLvSjJCb3kaWBZWp19unxf_Br8TWBN31p_DdUNbL5irYGwM5aHJI1WS-V1_drBLf8rgW9-r8DJpGqKNt3mBMFHp4L_GnkO7xjMsURucGa6eJepd_ZdOy`</details>
 
 ### 主なサードパーティブランド
 
@@ -321,7 +321,7 @@ Tags: Snow Peak, Camping Gear, Guide
 
 ### SOTOのバーナーも使える！
 
-**参考情報**: 「SOTOのシングルバーナーをIGTフレームにビルトインできるプレートがサードパーティから提供されています。イワタニのタフまるJr.を組み込める互換テーブルやユニットも存在します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx22E92Pl4x-Y_3cX881QvXMcMLHTM4ejevXtgdYB5bjYl09NIt1oRj0gbTrgsDJii0usiu51q061lGdhg2aoRmaRz3Lty2uxqIhLsqVZQBQrcnBWwif_S5zo2_Ez4b59_5SGkyogXZJKhgszee-g=`</details>
+> **参考情報**: 「SOTOのシングルバーナーをIGTフレームにビルトインできるプレートがサードパーティから提供されています。イワタニのタフまるJr.を組み込める互換テーブルやユニットも存在します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx22E92Pl4x-Y_3cX881QvXMcMLHTM4ejevXtgdYB5bjYl09NIt1oRj0gbTrgsDJii0usiu51q061lGdhg2aoRmaRz3Lty2uxqIhLsqVZQBQrcnBWwif_S5zo2_Ez4b59_5SGkyogXZJKhgszee-g=`</details>
 
 **JK**: えっ、SOTOのバーナーも使えるんですか！？
 
@@ -339,7 +339,7 @@ Tags: Snow Peak, Camping Gear, Guide
 
 ### パターン1: お手軽スタート「エントリーIGT」
 
-**参考情報**: 「エントリーIGTは、フレーム、脚、木製天板などがセットになっており、IGTの基本を手軽に体験できるモデルです。組み立てが簡単で、純正品の中では比較的手頃な価格帯です。フラットバーナーとセットになった商品もあり、IGTデビューに最適とされています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjHyIhlEIXnU1WubuM4tpVAE0pYR1ZLIUFsiqOEvkF7UU5ZskcQYa72xS4YUP7ltAqXmIZ4ltDz-Xxg_Huqzht86KmFCBMtULbiGgAu-1XCz6wz7y8HyrB3bC0tmi4QGtqaoDqBHMf`</details>
+> **参考情報**: 「エントリーIGTは、フレーム、脚、木製天板などがセットになっており、IGTの基本を手軽に体験できるモデルです。組み立てが簡単で、純正品の中では比較的手頃な価格帯です。フラットバーナーとセットになった商品もあり、IGTデビューに最適とされています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjHyIhlEIXnU1WubuM4tpVAE0pYR1ZLIUFsiqOEvkF7UU5ZskcQYa72xS4YUP7ltAqXmIZ4ltDz-Xxg_Huqzht86KmFCBMtULbiGgAu-1XCz6wz7y8HyrB3bC0tmi4QGtqaoDqBHMf`</details>
 
 #### こんな人におすすめ
 
@@ -403,7 +403,7 @@ Tags: Snow Peak, Camping Gear, Guide
 
 ### デメリット
 
-**参考情報**: 「価格の高さ: 本体フレームや多数のオプションパーツを揃えると、全体的に高額になりがちです。「IGT沼」: カスタマイズの自由度が高く、魅力的なオプションが豊富なため、次々と追加購入したくなる「IGT沼」と呼ばれる状態に陥るユーザーも少なくありません。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2aW-MoQFljl5gEYsSFmYz0MQKyvTCu1qDfIRqT-A9LI7zIcMJFS5t4HFTjMZpS_gu6gx3pp5-jdS3fM-Ejuj2g2Clbtdn27D86uyLH32cgH15xNENxSPJq_BmScEUpWtSVA2YF5OE`</details>
+> **参考情報**: 「価格の高さ: 本体フレームや多数のオプションパーツを揃えると、全体的に高額になりがちです。「IGT沼」: カスタマイズの自由度が高く、魅力的なオプションが豊富なため、次々と追加購入したくなる「IGT沼」と呼ばれる状態に陥るユーザーも少なくありません。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2aW-MoQFljl5gEYsSFmYz0MQKyvTCu1qDfIRqT-A9LI7zIcMJFS5t4HFTjMZpS_gu6gx3pp5-jdS3fM-Ejuj2g2Clbtdn27D86uyLH32cgH15xNENxSPJq_BmScEUpWtSVA2YF5OE`</details>
 
 1. **価格の高さ**: 本体フレームや多数のオプションパーツを揃えると、かなり高額になりがち
 2. **「IGT沼」の危険性**: カスタマイズの自由度が高すぎて、次々と追加購入したくなる
@@ -421,7 +421,7 @@ Tags: Snow Peak, Camping Gear, Guide
 
 **先生**: 最後に、IGTを使う上での注意点をまとめておこう。
 
-**参考情報**: 「サードパーティ製品を使用する場合、サイズが完全に合わない、またはわずかな隙間ができるといった互換性の問題が生じる可能性があるので、購入前にレビューなどで確認することが重要です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8djqR6YeffMD8vhYNmLtC_hj3T8XC9WDlGOuFGlqKIUiAZ0p-ItHXJYGswUXFn3RNEpxIS0K00FaiY0ppFvb3BOpFwS-otB-Ry6hwgknahYhDxZZXWtT5iKK9jZpnJovPZE_oEqg=`</details>
+> **参考情報**: 「サードパーティ製品を使用する場合、サイズが完全に合わない、またはわずかな隙間ができるといった互換性の問題が生じる可能性があるので、購入前にレビューなどで確認することが重要です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8djqR6YeffMD8vhYNmLtC_hj3T8XC9WDlGOuFGlqKIUiAZ0p-ItHXJYGswUXFn3RNEpxIS0K00FaiY0ppFvb3BOpFwS-otB-Ry6hwgknahYhDxZZXWtT5iKK9jZpnJovPZE_oEqg=`</details>
 
 #### 注意点
 
@@ -484,4 +484,4 @@ Tags: Snow Peak, Camping Gear, Guide
 
 ---
 
-**参考情報**: 「キッチンスペース、ダイニングテーブル、または収納スペースとして、キャンプスタイルや人数に合わせて柔軟にレイアウトを変更できます。ソロキャンプから大人数でのバーベキューまで、様々なシーンで活用が可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEMhhh99rXjh-2iRV6E-DPHwBOEjAl-9Y_uZqSvVF61JUg5J0Xs7qQdwzBqMRKjE_LJN5rx54K8NqN9lub2ondo2JJ0tcObZM8x-4fVguXtd50YDCVmyXd73NwQOj71w==`</details>
+> **参考情報**: 「キッチンスペース、ダイニングテーブル、または収納スペースとして、キャンプスタイルや人数に合わせて柔軟にレイアウトを変更できます。ソロキャンプから大人数でのバーベキューまで、様々なシーンで活用が可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEMhhh99rXjh-2iRV6E-DPHwBOEjAl-9Y_uZqSvVF61JUg5J0Xs7qQdwzBqMRKjE_LJN5rx54K8NqN9lub2ondo2JJ0tcObZM8x-4fVguXtd50YDCVmyXd73NwQOj71w==`</details>

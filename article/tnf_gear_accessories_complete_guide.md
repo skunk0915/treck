@@ -52,7 +52,7 @@ Tags: Camping, Gear, Guide
 
 **先生**: 別売りのEvacargo 2やEvacargo 4という寝室テントと連結できるんだ。最大3つのプライベートルームを追加できる。
 
-**参考情報**: 「単体で大型シェルターとして機能し、Evacargo 2やEvacargo 4と連結することで、最大3つのプライベートルームを追加できる高い拡張性を持っています。」
+> **参考情報**: 「単体で大型シェルターとして機能し、Evacargo 2やEvacargo 4と連結することで、最大3つのプライベートルームを追加できる高い拡張性を持っています。」
 <details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEql26KT_rzKKtpNRfdsvW5Sew1j4STHf1h5mow3fFgpQPh3zHk2_IsrsnCNb7KG7956kYfd_0EBKn2glnzwcX0mtKUx5PBgsyAy2_1uoyoMUxgrplow9DOl_q841l1wA==`</details>
 
 **JK**: なるほど！でも、基本のシェルターだけでも使えるんですよね？
@@ -94,7 +94,7 @@ Tags: Camping, Gear, Guide
 
 **先生**: 簡単に言うと、三角形を組み合わせた構造で、最小限の材料で最大限の強度を発揮する理論だ。このテントは**風速約26m/s**にも耐えられる。
 
-**参考情報**: 「6本のポールとテンション構造により、風速約26m/sの強風にも耐えられる高い耐風性を誇ります。」
+> **参考情報**: 「6本のポールとテンション構造により、風速約26m/sの強風にも耐えられる高い耐風性を誇ります。」
 <details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTcIZ0Ht_sk8IH0a9P3_DOKYvpjJ2ifSvu2dBJlt7EiKNuDUchPp7Q3X2Rg38CabJbu4_9aiUpCvqVO8VzL_XooYCP6sjk33BB5Ulj7lV7iPRmcHMDi0fBoY1hBOfDLOoL-lzz6pxDY-WFFDXZNgX5706JTCDt4gyNyTKXIGBQlsYJfPWQy69YGdYxAQKJ3CcbwkoQpRu1gs1NgeHOtqe7dUJlDHe4dpRqlKdVlg3AGZbctuOyCoFjrsSH4TquLq3FQYUCdLrvDKJfIUX3H8oH4jaypAR3LOjqHC2uW2EziZhMvwZgJ1y6E39T2aw2GrmzzMDok5y7CNbyJHGXxkY6ch8RtGsgqpXiHdEJspdY0NmZxkHK6nND-oUa`</details>
 
 **JK**: 26m/sって…台風レベルですよね？すごい！でも設営が難しそう…。
@@ -135,7 +135,7 @@ Tags: Camping, Gear, Guide
 
 **先生**: それなら「ホームステッドシェルター」はどうだ。フロアレスの自立型大型シェルターで、キッチンスペースや日除けとして使える。
 
-**参考情報**: 「3方向がメッシュ素材のスクリーンになっており、虫の侵入を防ぎながら心地よい風を取り込めます。」
+> **参考情報**: 「3方向がメッシュ素材のスクリーンになっており、虫の侵入を防ぎながら心地よい風を取り込めます。」
 <details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiuhgZmq0aVWq3c0ZyCn1QZicfRmsZ1fGNWjTV1AsSPX07t5kgz0g2hyvAh4liqK_GRk1DxE2NsF3uzLGJ-2GKZ6JTN83chBosN60vWZJYZGfblMzYCrtvuEBdqpk=`</details>
 
 **JK**: メッシュで虫を防げるのは嬉しいです！夏のキャンプにいいかも。
@@ -154,7 +154,7 @@ Tags: Camping, Gear, Guide
 
 **先生**: もうひとつ紹介しよう。「ホームステッド スーパードーム4」は、大きなメッシュの天窓が特徴だ。
 
-**参考情報**: 「クイーンサイズのベッドが入る広さを誇り、ラグジュアリーなキャンプ体験ができます。」
+> **参考情報**: 「クイーンサイズのベッドが入る広さを誇り、ラグジュアリーなキャンプ体験ができます。」
 <details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5aIwq2Is7_xJQME2VuEm2bAkPBzvT2H5Ktz9_ExC3WRdRLWccW7K_lpCcOxHhWsZbtf1KwrP-CCU6XrwJnX_nWZibwHEWAmeGsq_EjNVhuLzf9mJbq5sl4J90wAtWDGhZVAh5IUhGR8OeqfvZ`</details>
 
 **JK**: 天窓！？テントの中から星空が見えるってことですか！？
@@ -179,7 +179,7 @@ Tags: Camping, Gear, Guide
 
 **先生**: キャンプや車中泊なら「エコトレイルベッド」がおすすめだ。長方形の封筒型で、自宅のベッドで寝るような感覚だ。
 
-**参考情報**: 「リサイクルポリエステル化繊綿は、雨や結露などで濡れても保温力を失いにくいため、手入れがしやすく、キャンプや車中泊などに適しています。」
+> **参考情報**: 「リサイクルポリエステル化繊綿は、雨や結露などで濡れても保温力を失いにくいため、手入れがしやすく、キャンプや車中泊などに適しています。」
 <details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbuydWoVqQFEsGG2c3cbtkFqKQx6jO78pQdyMnQbZNTrc8xKWLZUGzk9ktcUydB-xO7Tlg86-oYqfTP6R7nYFzy1skEeQ1xiOQ6DDbs-G5sy2pZeVFu3hFlmlP3zftLEMu7PMVagf0BkVOv1Ed`</details>
 
 **JK**: え、そうなんですか？普通の寝袋ってミイラみたいな形してますよね？
@@ -205,7 +205,7 @@ Tags: Camping, Gear, Guide
 
 **先生**: 登山でコンパクトさを重視するなら「エコトレイルシンセティック」だ。ゆとりのあるマミー型で、窮屈さを感じにくい。
 
-**参考情報**: 「ゆとりのある大きめのマミー型シュラフです。マミー型特有の窮屈さを感じにくいように作られています。」
+> **参考情報**: 「ゆとりのある大きめのマミー型シュラフです。マミー型特有の窮屈さを感じにくいように作られています。」
 <details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbuydWoVqQFEsGG2c3cbtkFqKQx6jO78pQdyMnQbZNTrc8xKWLZUGzk9ktcUydB-xO7Tlg86-oYqfTP6R7nYFzy1skEeQ1xiOQ6DDbs-G5sy2pZeVFu3hFlmlP3zftLEMu7PMVagf0BkVOv1Ed`</details>
 
 **JK**: J型ジッパーってどんなものですか？
@@ -220,7 +220,7 @@ Tags: Camping, Gear, Guide
 
 **先生**: インフェルノシリーズだな。Summit Seriesの一部で、**-40℃**まで対応するモデルもある。
 
-**参考情報**: 「800フィルパワーのProDown™を使用しており、責任ある羽毛基準（RDS）の認証を受けています。このProDown™は、湿った状態でもロフトと保温性を維持する撥水加工が施されています。」
+> **参考情報**: 「800フィルパワーのProDown™を使用しており、責任ある羽毛基準（RDS）の認証を受けています。このProDown™は、湿った状態でもロフトと保温性を維持する撥水加工が施されています。」
 <details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbuOXd9X5b996lNm9nKF7DFVGd09G77eVnbQaZmLTakM-yS1caLl7OPdXXmS-_mZ3vau1T7M3LP2Rx4DAwtKdXP44NhzAT2AgYDVN790jf0LxGAc7IzUdAPEWsfV9u2gUAI7lPxKZQA4l4mLD5QKLNpY4dwAAxOKT-qhpfwMDgxgc=`</details>
 
 **JK**: マイナス40度!? 南極とか行く人向けですか？
@@ -247,7 +247,7 @@ Tags: Camping, Gear, Guide
 
 **先生**: まずは「ホライズンハット」だ。ノースフェイスの帽子といえばこれ、という定番モデルだ。
 
-**参考情報**: 「軽量で通気性が高く、長時間の着用でも快適な定番人気モデルです。UVカット機能（UPF15〜30）と撥水性を備え、登山やキャンプ、フェス、日常使いなど幅広いシーンで活躍します。」
+> **参考情報**: 「軽量で通気性が高く、長時間の着用でも快適な定番人気モデルです。UVカット機能（UPF15〜30）と撥水性を備え、登山やキャンプ、フェス、日常使いなど幅広いシーンで活躍します。」
 <details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvGpqH2zgLg_hCVQbhcN5AqtMHzgU1wAKQiq35VRbomOfxNu03OxwgsKF-kC8RSm2bbmi84japYrMGOjLCzwUilE-VI8dzZgxdsbeUNP_GJrj7ejFdTBJ0mIOzSMfKENRT9ZDMEA==`</details>
 
 **JK**: UVカットに撥水性もあるんですね！軽いのも嬉しい。
@@ -262,7 +262,7 @@ Tags: Camping, Gear, Guide
 
 **先生**: 「サンシールドハット」だな。取り外し可能なシールドが付いていて、首周りまで日差しから守れる。虫よけ加工もされている。
 
-**参考情報**: 「取り外し可能なシールドが特徴で、頭部だけでなく首周りまで日差しから保護します。虫よけ加工や遮熱効果のあるシートが内蔵されており、UVケア機能も備えています。」
+> **参考情報**: 「取り外し可能なシールドが特徴で、頭部だけでなく首周りまで日差しから保護します。虫よけ加工や遮熱効果のあるシートが内蔵されており、UVケア機能も備えています。」
 <details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6yF2velY6MQGvOAd2sQ3eJ2WFQQXUaiFT5UmeQdhKUEHywj2GB8FvcX0SNDqZHZhJIUj9JZSVA8gUE8uerE7-CSOgHBNT4b0UI1kPQNiwF8GpxVgBvVmnssqvZNcwGjNmN3-iQPbpEtMM8Z0d4RQGjYLz0w==`</details>
 
 **JK**: 虫よけまで！？夏山で重宝しそう！
@@ -273,7 +273,7 @@ Tags: Camping, Gear, Guide
 
 **先生**: 真夏の登山には「ブリマーハット」がいい。頭部にメッシュパネルがあって通気性抜群だ。
 
-**参考情報**: 「頭部にメッシュパネルを配置し、優れた通気性を持つ夏用トレッキングハットです。バイザーにはワイヤーが入っており、UVカット機能も搭載しています。」
+> **参考情報**: 「頭部にメッシュパネルを配置し、優れた通気性を持つ夏用トレッキングハットです。バイザーにはワイヤーが入っており、UVカット機能も搭載しています。」
 <details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEK7KxpUNiKi1mO8y1tFTJ3dAJ9YJl31oLXeeoRrSCzGJu4rFB5uRu6-gCTw5J5EhqFPwBsRa3hXGnMaQTQE6_-wXIzbu_sHOFPKue3DNLTP3wk8hg=`</details>
 
 ---
@@ -284,7 +284,7 @@ Tags: Camping, Gear, Guide
 
 **先生**: 「FL ハイカーハット」はFUTURELIGHT™という防水透湿素材を使っている。キャップタイプなら「ヴィンテージゴアテックスキャップ」がいい。GORE-TEX素材で防水性が高い。
 
-**参考情報**: 「GORE-TEX PRODUCTSファブリクスを使用し、防水性・透湿性・デザイン性を兼ね備えたベースボールキャップタイプです。雨天時のトレッキングなどでも高い防水性を発揮します。」
+> **参考情報**: 「GORE-TEX PRODUCTSファブリクスを使用し、防水性・透湿性・デザイン性を兼ね備えたベースボールキャップタイプです。雨天時のトレッキングなどでも高い防水性を発揮します。」
 <details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF455eHgzH0hjiJzWV9HfslX5CUCbpKFzlVpbs7qn3wda6aMpbqPE3t6ltDNbX16ubDbm-hMvIZZvfA0jkKkHo0ew9U4PfWOLrb1hjH16qz01Qx68UbWYM-aYdH4_9XW9N0rsy2R172GNYMqQl8a1E=`</details>
 
 ---
@@ -301,7 +301,7 @@ Tags: Camping, Gear, Guide
 
 > **Image Prompt:** 冬の登山道でイーチップグローブを着用しながらスマートフォンで写真を撮る登山者。
 
-**参考情報**: 「すべての指でタッチスクリーン操作が可能な点です。U/R POWERED伝導性テクノロジーにより、グローブを着用したままスマートフォンの操作がスムーズに行えます。」
+> **参考情報**: 「すべての指でタッチスクリーン操作が可能な点です。U/R POWERED伝導性テクノロジーにより、グローブを着用したままスマートフォンの操作がスムーズに行えます。」
 <details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2hfeAiblML76kGWUFPUtqh-LqSHxs09Itjc4_7VGYAVeFLSgGcWgAbeWSa3tnVRo2zS2pSOznqrQNc-E3HWeL8_fq0XVd0UMM0K_kdg7z0eCU7DdSaURkOT7TVtHCgGtrmDxPL0Le2aNdicZOX9KSDNvPprj45mZQfuU7XBKiusF5KA==`</details>
 
 **JK**: 全部の指でタッチできるんですか！？普通のスマホ対応手袋って、人差し指だけとかじゃないですか？
@@ -321,7 +321,7 @@ Tags: Camping, Gear, Guide
 
 **先生**: より保温力が欲しいなら「デナリイーチップグローブ」だ。
 
-**参考情報**: 「甲側には毛足の長いフリース素材（バーサミッドエコフリースやポーラテックハイロフトフリースなど）が配されており、優れた保温性を発揮します。」
+> **参考情報**: 「甲側には毛足の長いフリース素材（バーサミッドエコフリースやポーラテックハイロフトフリースなど）が配されており、優れた保温性を発揮します。」
 <details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsH7BJlHURg2C-u2ECaZk08AD2AtSeaQaHA0gDPt6dz1cCOtH6JkWfmon-3yFzs9P3w_CdWkZ-1nZ5ZMyXqhlRBmmDOBA2_O2eM6UH-8nNe5vAh5MoHKqDu6Mst2XFz8UpTT-zrp08QEAtqfhPMjtG5SV8rQk-Vatyzw==`</details>
 
 **JK**: 普通のイーチップと何が違うんですか？
@@ -340,7 +340,7 @@ Tags: Camping, Gear, Guide
 
 **先生**: いい質問だ。厳冬期の高山では**レイヤリング**が基本になる。
 
-**参考情報**: 「登山用グローブは、インナー（吸汗速乾）、ミドル（保温）、アウター（防風・防水）の3層構造で選ぶのが理想的です。」
+> **参考情報**: 「登山用グローブは、インナー（吸汗速乾）、ミドル（保温）、アウター（防風・防水）の3層構造で選ぶのが理想的です。」
 <details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYYIvW9N5xBUU78fTmTBJBDXl53efHExhmiskGelsogYyAETsxtJl5UB1pPgPk2jFuBWqTL-55qW6Db_pmoMEw2AQKKuxiIVdE-3-oW2TNAMUaVw==`</details>
 
 **先生**: イーチップやデナリイーチップをインナーやミドルとして使い、その上にマウンテンシェルグローブのような防水アウターを重ねる。
@@ -359,7 +359,7 @@ Tags: Camping, Gear, Guide
 
 ### 光電子®素材で薄いのに暖かい「マイクロストレッチネックゲイター」
 
-**参考情報**: 「薄手で軽量ながら、光電子®素材により高い保温性があります。」
+> **参考情報**: 「薄手で軽量ながら、光電子®素材により高い保温性があります。」
 <details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO5eatjKTjpMQmdtvVau3lzx_8gRM0mQY2KELsATUpljnmtbIdP33zfY7dxW8ySKtbOpmL8jKdgj_5ySgQ_PfSDI2cKWfnDAIcc9uAzLR3icVF8hIVrxSHLw6hDpTcyiySDPq4`</details>
 
 **JK**: 光電子って何ですか？
@@ -370,7 +370,7 @@ Tags: Camping, Gear, Guide
 
 ### 呼気で濡れにくい「ミッドウェイトネックゲイター」
 
-**参考情報**: 「保温性と通気性のバランスが良く、冬のランニングや登山にも適した中厚手のモデルです。」
+> **参考情報**: 「保温性と通気性のバランスが良く、冬のランニングや登山にも適した中厚手のモデルです。」
 <details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMCW9p9I8gn34zda5hJVXVhTsLjcKiQ_u4Erky_WaL6822eLBl0j6QHvQ6PhcNWxEZDsxJ4YR9FDH5G0N64zTMsRiPnCfiUUCoqYt5Vlx--R7x0KA=`</details>
 
 **JK**: 口元が濡れにくいのはいいですね！ネックウォーマーって呼吸で濡れてきますもんね。
@@ -379,7 +379,7 @@ Tags: Camping, Gear, Guide
 
 ### 縫い目がない快適ビーニー「カプッチョリッド」
 
-**参考情報**: 「縫い目のないホールガーメント製法で仕上げられたビーニーです。これにより、ごわつきがなく、快適なフィット感が得られます。」
+> **参考情報**: 「縫い目のないホールガーメント製法で仕上げられたビーニーです。これにより、ごわつきがなく、快適なフィット感が得られます。」
 <details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTFXpFkpYXhdNjoDKV-74h6kJkTrD_P0-70I-elcC90YzxSTYxpkfQOCT9izg3IHALK0Udzw3eHSdiuNItXLdmryLL4oE-l-e-cVjRRxp87XFlfAgkOjwHqoy4agc9i4ieQN0AhzFjSfjKUopdXdUDnLsyGbYldwfme2hwST6rng==`</details>
 
 **JK**: 縫い目がないって、どうやって作るんですか？
@@ -390,7 +390,7 @@ Tags: Camping, Gear, Guide
 
 ### ショート丈でおしゃれ「フィッシャーマンビーニー」
 
-**参考情報**: 「ショート丈のフィッシャーマンビーニーは、上質な糸と高級感のあるネップ糸を採用しており、上品かつカジュアルな雰囲気を演出します。」
+> **参考情報**: 「ショート丈のフィッシャーマンビーニーは、上質な糸と高級感のあるネップ糸を採用しており、上品かつカジュアルな雰囲気を演出します。」
 <details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgM94MLmeg1BuGvSAoU2BxzEUR0OaZKunyuEj63qrAcxjydVW8PTMitNRHuc7Z6IoV2z450tEJWtIYtzdqeCmYr7DHZxL_iWNR_094-AcN0yiCpHP6zm96fYBU-LpJUVX6mtdEXy_HCdVeJeorNhRi`</details>
 
 **JK**: これ、おしゃれですね！普段使いにも良さそう。

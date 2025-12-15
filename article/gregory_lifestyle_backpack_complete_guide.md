@@ -27,7 +27,7 @@ Tags: Backpack, Guide
 
 **先生**: 「カバート」は「秘密の」とか「隠された」という意味だ。つまり「**ビジネスバッグに見えないビジネスバッグ**」というコンセプトなんだ。
 
-**参考情報**: 「カバートクラシックシリーズは、「ビジネスバッグに見えないビジネスバッグ」をコンセプトにしており、カジュアルな見た目ながらビジネスに必要な機能性を備えたモデルが多数展開されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNfZ3ZMk75TKht5lr-ZDQBpovIvpHrmliA1iQW797dZlvc2Rkb3qogh0IJinYZ6smpENESpePJJJMWdUGrlmwxqGD8v5hAgml5TBIU8ivoodXas__MWqhaIzwo3us9kZ2n7akwppHwVfMKJA==`</details>
+> **参考情報**: 「カバートクラシックシリーズは、「ビジネスバッグに見えないビジネスバッグ」をコンセプトにしており、カジュアルな見た目ながらビジネスに必要な機能性を備えたモデルが多数展開されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNfZ3ZMk75TKht5lr-ZDQBpovIvpHrmliA1iQW797dZlvc2Rkb3qogh0IJinYZ6smpENESpePJJJMWdUGrlmwxqGD8v5hAgml5TBIU8ivoodXas__MWqhaIzwo3us9kZ2n7akwppHwVfMKJA==`</details>
 
 **JK**: へぇ〜！見た目はカジュアルだけど中身はバリバリビジネス仕様ってことですか。
 
@@ -58,7 +58,7 @@ Tags: Backpack, Guide
 
 **先生**: そうだ。改良を重ねて4代目になったモデルということだな。容量は約22Lで、通勤にちょうどいいサイズだ。
 
-**参考情報**: 「カバートミッションデイは、カバートクラシックシリーズの中でも特に人気のあるモデルです。快適な背負い心地と整理しやすい収納が魅力で、プロフェッショナルなデイパックとして設計されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6grP1I0zYSV2pF7uZgGZ4jbuDSBKBkJyPtUiqYpXk8B9_Hw9sUAEP0xWz99ZyBI99B92uHx5yukaSxd-cShVJQG-zZzQAeQ784rCdbxY7F0qwTkMSPuoiLRkGuvchz7Sg0Rn2gjnaJB0UbbFpSZBgDR-xYbgv`</details>
+> **参考情報**: 「カバートミッションデイは、カバートクラシックシリーズの中でも特に人気のあるモデルです。快適な背負い心地と整理しやすい収納が魅力で、プロフェッショナルなデイパックとして設計されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6grP1I0zYSV2pF7uZgGZ4jbuDSBKBkJyPtUiqYpXk8B9_Hw9sUAEP0xWz99ZyBI99B92uHx5yukaSxd-cShVJQG-zZzQAeQ784rCdbxY7F0qwTkMSPuoiLRkGuvchz7Sg0Rn2gjnaJB0UbbFpSZBgDR-xYbgv`</details>
 
 **JK**: 22Lって大きいんですか？小さいんですか？
 
@@ -109,7 +109,7 @@ Tags: Backpack, Guide
 - PC収納: 15インチまで対応（止水ファスナー付き）
 - 価格: 税込39,600円〜41,800円
 
-**参考情報**: 「グレゴリー カバートミッションデイ V4の価格は、カラーによって異なりますが、一般的に税込39,600円から41,800円程度で販売されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErugDRXxqcIELSxFo7Fxgr-bAqcbxnioPxpG7eKBLxeLxLcsJ-Epg70af7e1qTCfwfbTpdm2cpPqY7Fky2EgMtqr6eGKiFCI-RqKD4x4zmOmLKKWivLQ3xACWY4IiRHlQirJh-sM7nLs7pSqS-vV8GE3PEdIrzJwDEcM7j`</details>
+> **参考情報**: 「グレゴリー カバートミッションデイ V4の価格は、カラーによって異なりますが、一般的に税込39,600円から41,800円程度で販売されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErugDRXxqcIELSxFo7Fxgr-bAqcbxnioPxpG7eKBLxeLxLcsJ-Epg70af7e1qTCfwfbTpdm2cpPqY7Fky2EgMtqr6eGKiFCI-RqKD4x4zmOmLKKWivLQ3xACWY4IiRHlQirJh-sM7nLs7pSqS-vV8GE3PEdIrzJwDEcM7j`</details>
 
 #### こんな人におすすめ
 - 毎日の通勤でリュックを使いたい人
@@ -140,7 +140,7 @@ Tags: Backpack, Guide
 
 **先生**: 一番の違いは形状だな。ソリッドデイは「**レクタングラー型**」、つまり長方形のスッキリしたデザインだ。
 
-**参考情報**: 「レクタングラー型（長方形）のスタイリッシュなデザインが特徴のビジネスリュックです。見た目はシンプルですが、高い収納性と機能性を備えています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ091f_uIRABwwULs0gZE0bUJ1b0mSgdwucEQkYZ8aRZSXUoRVTsynQ8j6J0jyhJjJt7P6XCAqv2VPeynoZxqKYhJbyX7Fvye4Q18m0Eh9XtQz0cXY_PsNM1kwOVV84IVmV4CsBLVrn-FtoZQniFkCeoEMEE0q-N_jOMzEBQ==`</details>
+> **参考情報**: 「レクタングラー型（長方形）のスタイリッシュなデザインが特徴のビジネスリュックです。見た目はシンプルですが、高い収納性と機能性を備えています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ091f_uIRABwwULs0gZE0bUJ1b0mSgdwucEQkYZ8aRZSXUoRVTsynQ8j6J0jyhJjJt7P6XCAqv2VPeynoZxqKYhJbyX7Fvye4Q18m0Eh9XtQz0cXY_PsNM1kwOVV84IVmV4CsBLVrn-FtoZQniFkCeoEMEE0q-N_jOMzEBQ==`</details>
 
 **JK**: あ、なんかオシャレ！ミッションデイより都会っぽい感じがします。
 
@@ -193,7 +193,7 @@ Tags: Backpack, Guide
 
 **先生**: リュック、ショルダーバッグ、ブリーフケースの3つの持ち方ができる。
 
-**参考情報**: 「カバートエクステンデッドミッションは、荷物が多く、移動や出張が多いビジネスパーソンにおすすめの3WAYビジネスバッグです。バックパック、ショルダーバッグ、ブリーフケースとして使い分けが可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw21MB_7TH75nATlAjzh2Sj5d3bo8rFIEbGREZOUU9mTYt-p55W6peEOTk3_mcvp6e9Yp4mpoRxi2T04F4gQgiMznZe5SWIavPtb4sDb_AmS8LXId_f2dKWU6W6D02fo6yT0tIsu5wyg==`</details>
+> **参考情報**: 「カバートエクステンデッドミッションは、荷物が多く、移動や出張が多いビジネスパーソンにおすすめの3WAYビジネスバッグです。バックパック、ショルダーバッグ、ブリーフケースとして使い分けが可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw21MB_7TH75nATlAjzh2Sj5d3bo8rFIEbGREZOUU9mTYt-p55W6peEOTk3_mcvp6e9Yp4mpoRxi2T04F4gQgiMznZe5SWIavPtb4sDb_AmS8LXId_f2dKWU6W6D02fo6yT0tIsu5wyg==`</details>
 
 **JK**: えっ、すごい！通勤はリュックで、客先ではブリーフケースで持てるってことですか？
 
@@ -243,7 +243,7 @@ Tags: Backpack, Guide
 
 **先生**: そうだ。容量は26〜30Lで、カバートシリーズの中では最も大きい。これも3WAYで使える。
 
-**参考情報**: 「1泊から2泊程度の出張におすすめされています。仕事用のアイテムと着替えなどの私物を分けて収納できるよう、内部に仕切りが設けられています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_fQLqzyTbhamsopTPE7hclh5l1VWLpqp15KkIsH5gYrYbZAKJJQoAMOJred1lPRqVppq49L7zVbnlD1OdjCkNO-4idJS45jDQPEaiYkO-4ggnTUQTCZuaftgQTWx95rw=`</details>
+> **参考情報**: 「1泊から2泊程度の出張におすすめされています。仕事用のアイテムと着替えなどの私物を分けて収納できるよう、内部に仕切りが設けられています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_fQLqzyTbhamsopTPE7hclh5l1VWLpqp15KkIsH5gYrYbZAKJJQoAMOJred1lPRqVppq49L7zVbnlD1OdjCkNO-4idJS45jDQPEaiYkO-4ggnTUQTCZuaftgQTWx95rw=`</details>
 
 ### ビジネスと私物を分ける設計
 
@@ -293,7 +293,7 @@ Tags: Backpack, Guide
 
 **JK**: えっ！カバートミッションデイの半分くらいじゃないですか！
 
-**参考情報**: 「グレゴリーの「マトリックス デイパック」は、通勤、ビジネス、タウンユースなど、幅広いシーンでの使用に適したバックパックです。自転車通勤者や、クラシックなデイパックの機能性を重視するアクティブなユーザーに特におすすめされています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOjTgSx9aCaRRkNn57VJY3z9wQdIynPQlLYoGnEXJ1m_KBFOeJ4LAiY4mcG8esAwJWSb05yARybC3FTM_B0WOjfN7pOPs-4vT0QfGEXdU9sVzAcrWF9YODVGVDsIY-pN5H0GKTrUAQd0oJ-80CTbY=`</details>
+> **参考情報**: 「グレゴリーの「マトリックス デイパック」は、通勤、ビジネス、タウンユースなど、幅広いシーンでの使用に適したバックパックです。自転車通勤者や、クラシックなデイパックの機能性を重視するアクティブなユーザーに特におすすめされています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOjTgSx9aCaRRkNn57VJY3z9wQdIynPQlLYoGnEXJ1m_KBFOeJ4LAiY4mcG8esAwJWSb05yARybC3FTM_B0WOjfN7pOPs-4vT0QfGEXdU9sVzAcrWF9YODVGVDsIY-pN5H0GKTrUAQd0oJ-80CTbY=`</details>
 
 ### 自転車通勤者にうれしい機能
 
@@ -337,7 +337,7 @@ Tags: Backpack, Guide
 
 **JK**: アセンド…「上昇」って意味ですよね？なんかカッコいい！
 
-**参考情報**: 「グレゴリー定番のティアドロップ型デイパックを、上質なナイロンツイルでアップデートしています。優れた耐久性と柔軟性を兼ね備えた高密度のナイロンツイルを使用しており、ハイエンドな雰囲気を漂わせています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8HAuRPR4SyhWREPvYziz-arxC-GxsLFrkfMBt0tigq9UP4Daq62v9Jg2ec1kZKaBiW0TOjtzovjw9HslKJPc7dzW4bpJ37YNDB5IrzOYSQlPG8v9Up-ssqDC_S97AXwSHmcpS9xKPiw==`</details>
+> **参考情報**: 「グレゴリー定番のティアドロップ型デイパックを、上質なナイロンツイルでアップデートしています。優れた耐久性と柔軟性を兼ね備えた高密度のナイロンツイルを使用しており、ハイエンドな雰囲気を漂わせています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8HAuRPR4SyhWREPvYziz-arxC-GxsLFrkfMBt0tigq9UP4Daq62v9Jg2ec1kZKaBiW0TOjtzovjw9HslKJPc7dzW4bpJ37YNDB5IrzOYSQlPG8v9Up-ssqDC_S97AXwSHmcpS9xKPiw==`</details>
 
 **先生**: このモデルは「**210Dヘビーツイルナイロン**」という素材を使っている。テフロンコーティングも施されていて、高級感がある。
 
@@ -387,7 +387,7 @@ Tags: Backpack, Guide
 
 **先生**: それなら「**スケッチ3**」がいいだろう。これはウエストバッグ、というよりボディバッグだな。
 
-**参考情報**: 「グレゴリーの「アセンド スケッチ SKETCH3」は、ライフスタイルに溶け込む多用途なウエストバッグ、またはボディバッグとして展開されています。普段使いはもちろん、旅行時のサブバッグ、朝のランニングなど、幅広いシーンでの使用が想定されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjjhTknm48nro6T_vQKTq6EvhvKatXd6ZjriQ6YmRzI1VoqSHBrwoL8EcSEvi9SerNYx8yE_K4GqVlrvEPZ4SrAzig0X1Kjc1ksdtZWrXU-Z9Vdh4BZBbB5N8tO-TQeRDVRme3`</details>
+> **参考情報**: 「グレゴリーの「アセンド スケッチ SKETCH3」は、ライフスタイルに溶け込む多用途なウエストバッグ、またはボディバッグとして展開されています。普段使いはもちろん、旅行時のサブバッグ、朝のランニングなど、幅広いシーンでの使用が想定されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjjhTknm48nro6T_vQKTq6EvhvKatXd6ZjriQ6YmRzI1VoqSHBrwoL8EcSEvi9SerNYx8yE_K4GqVlrvEPZ4SrAzig0X1Kjc1ksdtZWrXU-Z9Vdh4BZBbB5N8tO-TQeRDVRme3`</details>
 
 **JK**: 3L…小さいですね！
 
@@ -420,7 +420,7 @@ Tags: Backpack, Guide
 
 **先生**: いい質問だ。コーデュラナイロンは米国インビスタ社が製造する高機能素材で、一般的なナイロンと比べて**摩擦、引き裂き、擦り切れに対する強度が約7倍**と言われている。
 
-**参考情報**: 「コーデュラナイロンは、米国インビスタ社が製造する高機能素材で、一般的なナイロンと比較して摩擦、引き裂き、擦り切れに対する強度が非常に高く、約7倍の強度を持つとされています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOze7_xNLZtijlb8dncIlsl_669yFBvZihHHQ7Y9YvxZT1Z-UyHsgKYqduyR12_vWKV6AFlY8YYZP6bBuwM9W-UsX6dpEwQL_jz0d-QVqo_R3cyxxzMc4IPx0XrR8hBnehxFwqwuNa-eK4M7rDog==`</details>
+> **参考情報**: 「コーデュラナイロンは、米国インビスタ社が製造する高機能素材で、一般的なナイロンと比較して摩擦、引き裂き、擦り切れに対する強度が非常に高く、約7倍の強度を持つとされています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOze7_xNLZtijlb8dncIlsl_669yFBvZihHHQ7Y9YvxZT1Z-UyHsgKYqduyR12_vWKV6AFlY8YYZP6bBuwM9W-UsX6dpEwQL_jz0d-QVqo_R3cyxxzMc4IPx0XrR8hBnehxFwqwuNa-eK4M7rDog==`</details>
 
 **JK**: 7倍？！すごいですね！
 
@@ -446,7 +446,7 @@ Tags: Backpack, Guide
 
 **先生**: 洗濯機での丸洗いは推奨されていない。撥水コーティングが剥がれる原因になるからな。手洗いならできる。
 
-**参考情報**: 「グレゴリーの公式情報によると、ビニール袋に密閉して保管したり、無理に折りたたんだりせず、長期間保管する場合は定期的に状態を確認し、必要に応じて陰干しを行うことが推奨されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT1tTCz8rxwDBSwPcTP1Wa0WiHLNou6ugVY26HwG9Umm6BqF5Z0zsBTae1H-7QgpoyrKhiNLERrN-wKNu4qkbRTLedTXBy6I0KZI6d3yxsTiI_ULQjo4nNzYhl-ywx5ksp`</details>
+> **参考情報**: 「グレゴリーの公式情報によると、ビニール袋に密閉して保管したり、無理に折りたたんだりせず、長期間保管する場合は定期的に状態を確認し、必要に応じて陰干しを行うことが推奨されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT1tTCz8rxwDBSwPcTP1Wa0WiHLNou6ugVY26HwG9Umm6BqF5Z0zsBTae1H-7QgpoyrKhiNLERrN-wKNu4qkbRTLedTXBy6I0KZI6d3yxsTiI_ULQjo4nNzYhl-ywx5ksp`</details>
 
 ### 日常のお手入れ
 

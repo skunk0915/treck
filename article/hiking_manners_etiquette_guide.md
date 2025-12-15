@@ -49,7 +49,7 @@ Tags: Hiking, Guide
 
 **先生**: 理由は2つある。まず、登りの人は体力的にきつく、一度止まるとペースが乱れやすい。もう1つは、下りの人の方が先に相手に気づきやすく、安全な場所を見つけやすいからだ。
 
-**参考情報**: 「登山道でのすれ違いは、基本的に登っている人が優先されます。登りの人は体力的にきつく、ペースを乱したくないためです。また、下りの人の方が先に相手に気づきやすく、安全な場所を見つけやすいためでもあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSu4NOBcPU3clWyV8Eoz-RhTdsKG-isXUahZ7099oygjtWM5x75D7FusugOkDTZJiuSW_rSeGsYcWqAiNxgDcAZ7egzNkBajbtrPB3SpHsfvcI-q4RNPxjTxfRbdGKKxdmA0e_s7WmGH6MMvYWBCDNzGVBoQ==`</details>
+> **参考情報**: 「登山道でのすれ違いは、基本的に登っている人が優先されます。登りの人は体力的にきつく、ペースを乱したくないためです。また、下りの人の方が先に相手に気づきやすく、安全な場所を見つけやすいためでもあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSu4NOBcPU3clWyV8Eoz-RhTdsKG-isXUahZ7099oygjtWM5x75D7FusugOkDTZJiuSW_rSeGsYcWqAiNxgDcAZ7egzNkBajbtrPB3SpHsfvcI-q4RNPxjTxfRbdGKKxdmA0e_s7WmGH6MMvYWBCDNzGVBoQ==`</details>
 
 **JK**: なるほど、下りの人の方が視界が広いってことですね。
 
@@ -65,7 +65,7 @@ Tags: Hiking, Guide
 
 **先生**: 谷側は絶対にダメだ。すれ違いの時に押されたり、バランスを崩したりすると転落の危険がある。必ず山側だ。
 
-**参考情報**: 「道を譲る際は、足場がしっかり確保できる安全な場所を選び、山側に寄って待ちましょう。谷側に寄ると、すれ違いの際に転落の危険があるためです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmgf3AIHa2mok_POiqWvM4zEGqPgtqehlEbevZLu5xhv-9N6xED4ywG30-tDswVd8687Rp2-rVAhLeZkGPgmI4r6gxQyBblGr3Nmf7YLBIOI10IjlHte53zZ4di-NYc0jiGWiuDXbRXjAP54AN3xlonBDo`</details>
+> **参考情報**: 「道を譲る際は、足場がしっかり確保できる安全な場所を選び、山側に寄って待ちましょう。谷側に寄ると、すれ違いの際に転落の危険があるためです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmgf3AIHa2mok_POiqWvM4zEGqPgtqehlEbevZLu5xhv-9N6xED4ywG30-tDswVd8687Rp2-rVAhLeZkGPgmI4r6gxQyBblGr3Nmf7YLBIOI10IjlHte53zZ4di-NYc0jiGWiuDXbRXjAP54AN3xlonBDo`</details>
 
 **JK**: 怖い...！絶対覚えます。
 
@@ -77,7 +77,7 @@ Tags: Hiking, Guide
 
 **先生**: 無理な追い越しは危険だからやめた方がいい。ただ、相手が道を譲ってくれた場合は「ありがとうございます」と言ってから、ゆっくり追い抜くんだ。
 
-**参考情報**: 「それぞれのペースが異なるのは当然なので、焦って無理な追い越しは避けましょう。相手が『お先にどうぞ』と言ってくれた場合は、『ありがとうございます』と声をかけてゆっくり追い抜くのがマナーです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSu4NOBcPU3clWyV8Eoz-RhTdsKG-isXUahZ7099oygjtWM5x75D7FusugOkDTZJiuSW_rSeGsYcWqAiNxgDcAZ7egzNkBajbtrPB3SpHsfvcI-q4RNPxjTxfRbdGKKxdmA0e_s7WmGH6MMvYWBCDNzGVBoQ==`</details>
+> **参考情報**: 「それぞれのペースが異なるのは当然なので、焦って無理な追い越しは避けましょう。相手が『お先にどうぞ』と言ってくれた場合は、『ありがとうございます』と声をかけてゆっくり追い抜くのがマナーです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSu4NOBcPU3clWyV8Eoz-RhTdsKG-isXUahZ7099oygjtWM5x75D7FusugOkDTZJiuSW_rSeGsYcWqAiNxgDcAZ7egzNkBajbtrPB3SpHsfvcI-q4RNPxjTxfRbdGKKxdmA0e_s7WmGH6MMvYWBCDNzGVBoQ==`</details>
 
 **JK**: 焦っちゃダメなんですね。
 
@@ -107,13 +107,13 @@ Tags: Hiking, Guide
 
 **先生**: まず「情報交換」だ。挨拶をきっかけに、道の状況や危険な場所、天気の変化などを教えてもらえることがある。
 
-**参考情報**: 「挨拶をきっかけに、道の状況や花の開花状況、危険な場所などの情報を交換することができます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWG4GP3zO9z4tWH4U-AheDk2SHybOWYhr76BDbZoEpXJQok4FNdGPGXBmLyK6zvxg1s8ej-BqTnKM2OI91K8p6rJ7OUMqLebb0laRe5x7rZmkWXmI73S5E5vJd`</details>
+> **参考情報**: 「挨拶をきっかけに、道の状況や花の開花状況、危険な場所などの情報を交換することができます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWG4GP3zO9z4tWH4U-AheDk2SHybOWYhr76BDbZoEpXJQok4FNdGPGXBmLyK6zvxg1s8ej-BqTnKM2OI91K8p6rJ7OUMqLebb0laRe5x7rZmkWXmI73S5E5vJd`</details>
 
 **JK**: あー、確かに「この先、道が崩れてるよ」とか教えてもらえたら助かりますね。
 
 **先生**: そしてもっと重要なのが「安全確保」だ。万が一遭難した時、すれ違った人の目撃情報が救助の手がかりになる。
 
-**参考情報**: 「挨拶を交わすことでお互いの存在を認識し、万が一の遭難時に目撃情報として役立つことがあります。服装や疲労の様子、すれ違った場所などの情報が救助活動の迅速化につながる可能性があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyBnXuPQ0htl80EFj4OhaRS6mxijm3acxtRw6IEF4zfKxirHGupPIhcTMc2GVaqH95q3MIPqsAph30zTd6R2qznKxvICQS48EpN2YrL2ZnDgc8RSr1cGcYNpyCwT3CaJ-tlvVn`</details>
+> **参考情報**: 「挨拶を交わすことでお互いの存在を認識し、万が一の遭難時に目撃情報として役立つことがあります。服装や疲労の様子、すれ違った場所などの情報が救助活動の迅速化につながる可能性があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyBnXuPQ0htl80EFj4OhaRS6mxijm3acxtRw6IEF4zfKxirHGupPIhcTMc2GVaqH95q3MIPqsAph30zTd6R2qznKxvICQS48EpN2YrL2ZnDgc8RSr1cGcYNpyCwT3CaJ-tlvVn`</details>
 
 **JK**: えっ、そんな深い意味が...！じゃあ挨拶しないと、遭難した時に誰も覚えてくれないってことですか？
 
@@ -149,7 +149,7 @@ Tags: Hiking, Guide
 
 **先生**: 全部だ。小さなゴミも、食べ残しも、何も山に残さない。
 
-**参考情報**: 「登山中に出たゴミは、小さなものも含めてすべて持ち帰りましょう。自然保護のため、食べ物の残りカスなども含め、何も山に残さないことが基本です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdxQjks_K0Bhar4j_UgDcdXe_AUdeGqhznSOGZm_MmaDunDuiascSvNLf1W1iIHR0rWXPMrRxPHZ1-7GdDr9HMXooHmguVGfb6fGbPn1tCLRHbZw6fgobciEcjYdUbeA==`</details>
+> **参考情報**: 「登山中に出たゴミは、小さなものも含めてすべて持ち帰りましょう。自然保護のため、食べ物の残りカスなども含め、何も山に残さないことが基本です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdxQjks_K0Bhar4j_UgDcdXe_AUdeGqhznSOGZm_MmaDunDuiascSvNLf1W1iIHR0rWXPMrRxPHZ1-7GdDr9HMXooHmguVGfb6fGbPn1tCLRHbZw6fgobciEcjYdUbeA==`</details>
 
 **JK**: カップラーメンの残り汁とかは...？
 
@@ -185,7 +185,7 @@ Tags: Hiking, Guide
 
 **先生**: それは絶対にダメだ。理由は複数ある。
 
-**参考情報**: 「登山道を外れて歩くことは、滑落などの事故につながる危険性があるだけでなく、植生を破壊したり、野生動物の生息地を乱したりする原因となります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD1cwhtgCr3knQvo4mnJ-s1qDT3Dd76pfW3r5ZoZzXP3B4eeYMLPv68gHTFb3Uk_9Zcdf5AuYKiTrCyn5pk4iZK92_2uakQXCIP0m7NKlq_J-1QAitvdcOnNXV603QOrf1orgs-OQ7xPhdIUGdHh6S`</details>
+> **参考情報**: 「登山道を外れて歩くことは、滑落などの事故につながる危険性があるだけでなく、植生を破壊したり、野生動物の生息地を乱したりする原因となります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD1cwhtgCr3knQvo4mnJ-s1qDT3Dd76pfW3r5ZoZzXP3B4eeYMLPv68gHTFb3Uk_9Zcdf5AuYKiTrCyn5pk4iZK92_2uakQXCIP0m7NKlq_J-1QAitvdcOnNXV603QOrf1orgs-OQ7xPhdIUGdHh6S`</details>
 
 **JK**: えー、植物踏むくらい大したことないんじゃ...？
 
@@ -203,7 +203,7 @@ Tags: Hiking, Guide
 
 **先生**: 状況による。周りに人がいなければ問題ないが、他の登山者がいる場合は控えめにした方がいい。
 
-**参考情報**: 「大声で話したり、スピーカーで音楽を流したりすることは、他の登山者の静けさを楽しむ権利を侵害し、野生動物にもストレスを与えます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF79FvtDQqoUwKERUzjGS4xWiZfFDP7cqPH8etlU_jhB4cSJbTTzNdOqs4-20u4IFXpHyjJvHo37RPa_tP8gwj3nwMZk8xw_KpLUNuInuz1pW5CEv9NUrBPT4eYkzQrz7OWNec_WjbJfQ==`</details>
+> **参考情報**: 「大声で話したり、スピーカーで音楽を流したりすることは、他の登山者の静けさを楽しむ権利を侵害し、野生動物にもストレスを与えます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF79FvtDQqoUwKERUzjGS4xWiZfFDP7cqPH8etlU_jhB4cSJbTTzNdOqs4-20u4IFXpHyjJvHo37RPa_tP8gwj3nwMZk8xw_KpLUNuInuz1pW5CEv9NUrBPT4eYkzQrz7OWNec_WjbJfQ==`</details>
 
 **JK**: スピーカーで音楽流すのは？
 
@@ -233,7 +233,7 @@ Tags: Hiking, Guide
 
 ### 予約と到着時間
 
-**参考情報**: 「山小屋は原則として予約が必要です。もしキャンセルや到着が遅れる場合は必ず連絡を入れましょう。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvZSH2286SdtblMp7OovBauKZrvuRH3JrHS826ckwNuVP5m7eGq-cbc8BxkmqcqQs_JkUocwuN7-XyQsMV6cygP0r1ls5v_Q1VWvERC0h0akbAEOJqADq3wTNlJGUbZFg=`</details>
+> **参考情報**: 「山小屋は原則として予約が必要です。もしキャンセルや到着が遅れる場合は必ず連絡を入れましょう。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvZSH2286SdtblMp7OovBauKZrvuRH3JrHS826ckwNuVP5m7eGq-cbc8BxkmqcqQs_JkUocwuN7-XyQsMV6cygP0r1ls5v_Q1VWvERC0h0akbAEOJqADq3wTNlJGUbZFg=`</details>
 
 **先生**: まず、山小屋は基本的に予約が必要だ。
 
@@ -259,7 +259,7 @@ Tags: Hiking, Guide
 
 ### 宿泊スペースでのマナー
 
-**参考情報**: 「部屋の中では大きな声で話したり騒いだりせず、疲れている人や翌日早朝に出発する人のために配慮が必要です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvZSH2286SdtblMp7OovBauKZrvuRH3JrHS826ckwNuVP5m7eGq-cbc8BxkmqcqQs_JkUocwuN7-XyQsMV6cygP0r1ls5v_Q1VWvERC0h0akbAEOJqADq3wTNlJGUbZFg=`</details>
+> **参考情報**: 「部屋の中では大きな声で話したり騒いだりせず、疲れている人や翌日早朝に出発する人のために配慮が必要です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvZSH2286SdtblMp7OovBauKZrvuRH3JrHS826ckwNuVP5m7eGq-cbc8BxkmqcqQs_JkUocwuN7-XyQsMV6cygP0r1ls5v_Q1VWvERC0h0akbAEOJqADq3wTNlJGUbZFg=`</details>
 
 **JK**: 部屋は個室ですか？
 
@@ -283,7 +283,7 @@ Tags: Hiking, Guide
 
 ### 水回り・トイレのマナー
 
-**参考情報**: 「山小屋では水や電気は貴重です。節水を心がけましょう。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjiMoGEWPRfD0TvdtQsCN_6UC5bgK444r7bMWtU-GaVeUqvZuXuAN5D6N6pU3Mg7nR-PfKEJIFaw6G9GGwxyD5kMPpGyaIj8OobZYRu59xhypisHhVlqoWF7yCgzUffEvRYZUYuwlF-mPLiV0IXwj90fCTwAs7Qpk_hlISs62kmY38UikqsweEJL0Bo3eP7TAGAIwR6OZYkhYtU8yMcnDPFRSeu0tvbMQC8ah8Idk0o9a-p21D7e6SfiA7xUJpIy5sddyb2bo9Wy8z4IndNSLxycnkjaEXgPd_xrc34P3D7eAdZ2OYswKPqI6NQS8=`</details>
+> **参考情報**: 「山小屋では水や電気は貴重です。節水を心がけましょう。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjiMoGEWPRfD0TvdtQsCN_6UC5bgK444r7bMWtU-GaVeUqvZuXuAN5D6N6pU3Mg7nR-PfKEJIFaw6G9GGwxyD5kMPpGyaIj8OobZYRu59xhypisHhVlqoWF7yCgzUffEvRYZUYuwlF-mPLiV0IXwj90fCTwAs7Qpk_hlISs62kmY38UikqsweEJL0Bo3eP7TAGAIwR6OZYkhYtU8yMcnDPFRSeu0tvbMQC8ah8Idk0o9a-p21D7e6SfiA7xUJpIy5sddyb2bo9Wy8z4IndNSLxycnkjaEXgPd_xrc34P3D7eAdZ2OYswKPqI6NQS8=`</details>
 
 **JK**: 山小屋って普通にシャワーとか浴びれるんですか？
 
@@ -313,7 +313,7 @@ Tags: Hiking, Guide
 
 ### テント設営のルール
 
-**参考情報**: 「テントは必ず指定されたテント場に設営しましょう。指定地以外での設営は原則として違法です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWw5F9TAwtKbDHSS-mOvZ5oSETbSFTf7EzpDvaqfdXdkKoYDuKeZHjHePFc6qtO3Dfi5Xy8wDI9xmRsK7py6EvU_ET9EDKpKvorUGYgBqH9CWq6_BpkJW-zDpwh_Q49gQi_HYzpbr8PTqPIdw-LqMQbxpKbHY-vA==`</details>
+> **参考情報**: 「テントは必ず指定されたテント場に設営しましょう。指定地以外での設営は原則として違法です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWw5F9TAwtKbDHSS-mOvZ5oSETbSFTf7EzpDvaqfdXdkKoYDuKeZHjHePFc6qtO3Dfi5Xy8wDI9xmRsK7py6EvU_ET9EDKpKvorUGYgBqH9CWq6_BpkJW-zDpwh_Q49gQi_HYzpbr8PTqPIdw-LqMQbxpKbHY-vA==`</details>
 
 **JK**: どこでもテント張っていいんですか？景色のいいところとか。
 
@@ -333,7 +333,7 @@ Tags: Hiking, Guide
 
 ### 静粛性とマナー
 
-**参考情報**: 「テント場に明確な消灯時間はありませんが、20時以降は就寝する人が増えるため、静かに過ごしましょう。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHjwWEV80Qv5dm1VnkbvPEq1n4RhHGTjJ5X9lkWgbII0lYaczPsZ25RJF2ItRmpbRz8wmmgW7fXBKrSKDt_KWzj8hU8VkagdTQXR2yUhuSVEJrWN6_TYHFqvLu32-Cx44Bv4zHq8SGSjM4KvAVd8MKfzY=`</details>
+> **参考情報**: 「テント場に明確な消灯時間はありませんが、20時以降は就寝する人が増えるため、静かに過ごしましょう。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHjwWEV80Qv5dm1VnkbvPEq1n4RhHGTjJ5X9lkWgbII0lYaczPsZ25RJF2ItRmpbRz8wmmgW7fXBKrSKDt_KWzj8hU8VkagdTQXR2yUhuSVEJrWN6_TYHFqvLu32-Cx44Bv4zHq8SGSjM4KvAVd8MKfzY=`</details>
 
 **JK**: テント場って消灯時間あるんですか？
 
@@ -371,7 +371,7 @@ Tags: Hiking, Guide
 
 ### 基本的なトイレマナー
 
-**参考情報**: 「多くの山小屋や休憩所にはトイレが設置されています。利用する際は、山特有のトイレ事情（バイオトイレや汲み取り式など）を理解し、トイレットペーパーを流せない場合は備え付けのゴミ箱を使用する、小銭を用意して利用料を支払うなどの配慮が必要です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJyx_9Q_KKR7eqO_CDEWywu9VGAMIEaOMLUmqqiJw-ABKn4YoTuzNSg-hoMyy-Npu9EV7vSd8FVayiXl6vIkqhlLwnyYlQtJUrQygPWM8HnPBSsOKhofVgNhv93QlQ8QnvAsL9gST25HMIS5d4z4_LUE7msss=`</details>
+> **参考情報**: 「多くの山小屋や休憩所にはトイレが設置されています。利用する際は、山特有のトイレ事情（バイオトイレや汲み取り式など）を理解し、トイレットペーパーを流せない場合は備え付けのゴミ箱を使用する、小銭を用意して利用料を支払うなどの配慮が必要です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJyx_9Q_KKR7eqO_CDEWywu9VGAMIEaOMLUmqqiJw-ABKn4YoTuzNSg-hoMyy-Npu9EV7vSd8FVayiXl6vIkqhlLwnyYlQtJUrQygPWM8HnPBSsOKhofVgNhv93QlQ8QnvAsL9gST25HMIS5d4z4_LUE7msss=`</details>
 
 **先生**: 山小屋や休憩所のトイレを利用するのが基本だ。ただし、山のトイレはバイオトイレや汲み取り式など、街とは仕組みが違うことが多い。
 
@@ -381,7 +381,7 @@ Tags: Hiking, Guide
 
 ### 携帯トイレの重要性
 
-**参考情報**: 「携帯トイレは、山でトイレがない場所での排泄を可能にし、自然環境への負荷を軽減するために重要なアイテムです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiVwoM-qj1yO11g7EjP1Q17gMTaHcSwima0qDpz3WeLHvbZcZWkKZN0DtT4JcrggBttbCgwyxbM-n110sazKJ_-2cWt9iLkCYAPizz_GLw-I3VMKs2zUsZUuLTT3JVbeJIdcHTdg==`</details>
+> **参考情報**: 「携帯トイレは、山でトイレがない場所での排泄を可能にし、自然環境への負荷を軽減するために重要なアイテムです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiVwoM-qj1yO11g7EjP1Q17gMTaHcSwima0qDpz3WeLHvbZcZWkKZN0DtT4JcrggBttbCgwyxbM-n110sazKJ_-2cWt9iLkCYAPizz_GLw-I3VMKs2zUsZUuLTT3JVbeJIdcHTdg==`</details>
 
 **JK**: トイレがない場所だったらどうするんですか...？
 
@@ -395,7 +395,7 @@ Tags: Hiking, Guide
 
 **先生**: 便袋を広げてセットし、用を足したら凝固剤を振りかけて固める。袋をしっかり結んで、防臭袋に入れて密閉。使用済みの携帯トイレはザックの外ポケットなどに収納して持ち帰る。
 
-**参考情報**: 「多くの登山口や主要な下山ポイントには回収ボックスが設置されていますが、ない場合は自宅に持ち帰り、自治体のルールに従って可燃ごみとして処分します。山中や既存のトイレに放置してはいけません。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiVwoM-qj1yO11g7EjP1Q17gMTaHcSwima0qDpz3WeLHvbZcZWkKZN0DtT4JcrggBttbCgwyxbM-n110sazKJ_-2cWt9iLkCYAPizz_GLw-I3VMKs2zUsZUuLTT3JVbeJIdcHTdg==`</details>
+> **参考情報**: 「多くの登山口や主要な下山ポイントには回収ボックスが設置されていますが、ない場合は自宅に持ち帰り、自治体のルールに従って可燃ごみとして処分します。山中や既存のトイレに放置してはいけません。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiVwoM-qj1yO11g7EjP1Q17gMTaHcSwima0qDpz3WeLHvbZcZWkKZN0DtT4JcrggBttbCgwyxbM-n110sazKJ_-2cWt9iLkCYAPizz_GLw-I3VMKs2zUsZUuLTT3JVbeJIdcHTdg==`</details>
 
 **JK**: 持ち帰るんですか...！
 
@@ -403,7 +403,7 @@ Tags: Hiking, Guide
 
 ### 野外排泄（最終手段）
 
-**参考情報**: 「近くにトイレや携帯トイレブースがなく、どうしても我慢できない場合に、登山道から離れた目立たない場所で用を足すことを、男性は『キジ撃ち』、女性は『お花摘み』と呼びます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ4e08DoL5jio7_EyBuNhnAYYV5Q3HEZ9w-1cWc184gEY9Iam9tP7lnfBnKW7YraPnBbVorq5h-dIjb1rPJiRZQ6iYI0EXpCpgBH8W4_KXtdG0SoGGo5lVPqqTW5fRMNwkNNuIIphz3HixWOMdOM93X8n9u1eHhJj2vo8=`</details>
+> **参考情報**: 「近くにトイレや携帯トイレブースがなく、どうしても我慢できない場合に、登山道から離れた目立たない場所で用を足すことを、男性は『キジ撃ち』、女性は『お花摘み』と呼びます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ4e08DoL5jio7_EyBuNhnAYYV5Q3HEZ9w-1cWc184gEY9Iam9tP7lnfBnKW7YraPnBbVorq5h-dIjb1rPJiRZQ6iYI0EXpCpgBH8W4_KXtdG0SoGGo5lVPqqTW5fRMNwkNNuIIphz3HixWOMdOM93X8n9u1eHhJj2vo8=`</details>
 
 **JK**: もし携帯トイレもなくて、我慢できなくなったら...？
 
@@ -413,7 +413,7 @@ Tags: Hiking, Guide
 
 **先生**: 登山道から見えない場所で、水源から30m以上離れ、穴を深く掘って用を足す。使用済みトイレットペーパーは必ず持ち帰ること。
 
-**参考情報**: 「標高2500m以上の樹林限界以上の場所では、排泄物がほとんど分解されずに残ってしまうため、野外排泄は避けるべきです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtOEYRgHeUcKyExOvbd6drxN2FmCwABK_zFj_KdcrFztn6LXiY6Wq8IqVUbo4BC9qKnUOlZJEJ-Egq8tOOopzM3n29L69UvnFzBYo_XXwHDfkYyF2a-K9gjl8p13ijlBdN9R7zzczkx1GZE8ulxGFRWOL1r-Oa`</details>
+> **参考情報**: 「標高2500m以上の樹林限界以上の場所では、排泄物がほとんど分解されずに残ってしまうため、野外排泄は避けるべきです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtOEYRgHeUcKyExOvbd6drxN2FmCwABK_zFj_KdcrFztn6LXiY6Wq8IqVUbo4BC9qKnUOlZJEJ-Egq8tOOopzM3n29L69UvnFzBYo_XXwHDfkYyF2a-K9gjl8p13ijlBdN9R7zzczkx1GZE8ulxGFRWOL1r-Oa`</details>
 
 **JK**: 高山帯でもいいんですか？
 
@@ -429,7 +429,7 @@ Tags: Hiking, Guide
 
 ### 石突きカバーの装着
 
-**参考情報**: 「トレッキングポールの先端にある金属製の石突きは鋭利なため、カバーを装着せずに使用すると、登山道や木の根、植物などを傷つけてしまいます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsN_-PVxSUajP1TeHFlUaf_v4-7TJEzJ51IgNxejurvDDzhqc5XBalKLu_7d_FLlJWOpRNWWr_CFFcW1AhPhCsGzDsSlL-j6goFzNWnSuvD3vQtdNNAoB-lRN9d671P-GwAgTtj0hmq-drmEsqz2cw`</details>
+> **参考情報**: 「トレッキングポールの先端にある金属製の石突きは鋭利なため、カバーを装着せずに使用すると、登山道や木の根、植物などを傷つけてしまいます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsN_-PVxSUajP1TeHFlUaf_v4-7TJEzJ51IgNxejurvDDzhqc5XBalKLu_7d_FLlJWOpRNWWr_CFFcW1AhPhCsGzDsSlL-j6goFzNWnSuvD3vQtdNNAoB-lRN9d671P-GwAgTtj0hmq-drmEsqz2cw`</details>
 
 **JK**: 石突きカバーって、先っぽのゴムのことですか？
 
@@ -471,7 +471,7 @@ Tags: Hiking, Guide
 
 ### クマとの遭遇対策
 
-**参考情報**: 「クマは人の気配を察すると自ら離れていくことが多いため、熊鈴やラジオ、ホイッスルなどを活用して音を出しながら歩きましょう。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFHnrE2g9-dffBgGtyKYvJkfbB1XAC0lc3LWIK_YUE3hZFURQY1rj46GIS57WXrVv2KLmHFis6kj8LkdVngZZUJXYT9ks3D2aRm8_cAyrXET0mmmb2E7rLFph9g3A=`</details>
+> **参考情報**: 「クマは人の気配を察すると自ら離れていくことが多いため、熊鈴やラジオ、ホイッスルなどを活用して音を出しながら歩きましょう。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFHnrE2g9-dffBgGtyKYvJkfbB1XAC0lc3LWIK_YUE3hZFURQY1rj46GIS57WXrVv2KLmHFis6kj8LkdVngZZUJXYT9ks3D2aRm8_cAyrXET0mmmb2E7rLFph9g3A=`</details>
 
 **先生**: まず予防として、熊鈴やラジオ、ホイッスルで音を出しながら歩く。クマは人の気配を察すると自ら離れていくことが多い。
 
@@ -481,7 +481,7 @@ Tags: Hiking, Guide
 
 **JK**: もし会っちゃったらどうすればいいんですか？
 
-**参考情報**: 「パニックになって走り出すと、クマは本能的に追いかけてくる可能性があるため、最も危険な行動です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFHnrE2g9-dffBgGtyKYvJkfbB1XAC0lc3LWIK_YUE3hZFURQY1rj46GIS57WXrVv2KLmHFis6kj8LkdVngZZUJXYT9ks3D2aRm8_cAyrXET0mmmb2E7rLFph9g3A=`</details>
+> **参考情報**: 「パニックになって走り出すと、クマは本能的に追いかけてくる可能性があるため、最も危険な行動です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFHnrE2g9-dffBgGtyKYvJkfbB1XAC0lc3LWIK_YUE3hZFURQY1rj46GIS57WXrVv2KLmHFis6kj8LkdVngZZUJXYT9ks3D2aRm8_cAyrXET0mmmb2E7rLFph9g3A=`</details>
 
 **先生**: まず**絶対に走って逃げない**こと。これが最も重要だ。
 
@@ -499,7 +499,7 @@ Tags: Hiking, Guide
 
 ### サルとの遭遇対策
 
-**参考情報**: 「サルを刺激しないよう、近づかず、目を合わせないようにしましょう。目を合わせると敵意と捉えられることがあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtAWddtLcC70FUTPNBhSaSsKZrS8r3w9OQwUZf4z9QEK8aFq8J4qIELDyYNiYhWOBQjKalzBPICYqAWk2PfgfhFIUrdZ6FtJsnVNWLWcDJda2T3HsfGuyjKrLysbWw6L0BrA==`</details>
+> **参考情報**: 「サルを刺激しないよう、近づかず、目を合わせないようにしましょう。目を合わせると敵意と捉えられることがあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtAWddtLcC70FUTPNBhSaSsKZrS8r3w9OQwUZf4z9QEK8aFq8J4qIELDyYNiYhWOBQjKalzBPICYqAWk2PfgfhFIUrdZ6FtJsnVNWLWcDJda2T3HsfGuyjKrLysbWw6L0BrA==`</details>
 
 **JK**: サルはどうですか？
 
@@ -511,7 +511,7 @@ Tags: Hiking, Guide
 
 ### 野生動物への餌やり禁止
 
-**参考情報**: 「餌をもらうことに慣れた動物は人里に出没するようになり、人に危害を加える可能性があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxKaShGMDktTck30Jx18mfpFw3AFWu9jieIh-SKMVJvEws9Y7ygeYoEyWSsZO8cXX4tPX3FWG8PfcTxGXV2cGEGldwx3iNatfDcNZ1iw9ZzEUWGKnairc7sNtjLS4cOEGEAjdayVixMfs6TherpGnk7XaT`</details>
+> **参考情報**: 「餌をもらうことに慣れた動物は人里に出没するようになり、人に危害を加える可能性があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxKaShGMDktTck30Jx18mfpFw3AFWu9jieIh-SKMVJvEws9Y7ygeYoEyWSsZO8cXX4tPX3FWG8PfcTxGXV2cGEGldwx3iNatfDcNZ1iw9ZzEUWGKnairc7sNtjLS4cOEGEAjdayVixMfs6TherpGnk7XaT`</details>
 
 **JK**: 可愛い動物がいたら、お菓子あげたくなっちゃいますよね。
 
@@ -535,7 +535,7 @@ Tags: Hiking, Guide
 
 ### リーダーの役割
 
-**参考情報**: 「グループ登山ではリーダーを立てることが安全確保のために不可欠です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5PWmBZhVf2g_HRwDat35PREejy6792jPskOQccZMNNEjzFdmM3JNmTmWizgjdtH7zXtY2wMIOgvGgv0sL0nPlqLI2onPCCLpBsKKlZ9iW8FdhfQ==`</details>
+> **参考情報**: 「グループ登山ではリーダーを立てることが安全確保のために不可欠です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5PWmBZhVf2g_HRwDat35PREejy6792jPskOQccZMNNEjzFdmM3JNmTmWizgjdtH7zXtY2wMIOgvGgv0sL0nPlqLI2onPCCLpBsKKlZ9iW8FdhfQ==`</details>
 
 **先生**: まず、グループ登山では**リーダーを立てる**ことが重要だ。
 
@@ -549,7 +549,7 @@ Tags: Hiking, Guide
 
 ### 列の組み方
 
-**参考情報**: 「体力や経験の少ないメンバーは、先頭を歩く人（サブリーダーまたはリーダー）のすぐ後ろ、一般的には2番目に配置するのが良いとされています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYb3oJhkkLgZgx1w5Gz51tBRcYDI8llCyryyXzYFjg__gNgbarpBlgIaFu-CgA_DgQ0yHJ6s_CLTHvPPCbh2TH_cEEOGvKk_gkQ2KY3MBx5pFHHNTg7HIVATtPIlTLPspaXLW8BtzQ3zL2N-wn_Rg2GSk=`</details>
+> **参考情報**: 「体力や経験の少ないメンバーは、先頭を歩く人（サブリーダーまたはリーダー）のすぐ後ろ、一般的には2番目に配置するのが良いとされています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYb3oJhkkLgZgx1w5Gz51tBRcYDI8llCyryyXzYFjg__gNgbarpBlgIaFu-CgA_DgQ0yHJ6s_CLTHvPPCbh2TH_cEEOGvKk_gkQ2KY3MBx5pFHHNTg7HIVATtPIlTLPspaXLW8BtzQ3zL2N-wn_Rg2GSk=`</details>
 
 **JK**: 列の並び順って決まってるんですか？
 
@@ -579,7 +579,7 @@ Tags: Hiking, Guide
 
 ### 早めの行動と下山時刻
 
-**参考情報**: 「下山が日没にならないよう、早朝から出発し、遅くとも15時までには下山を終えるような計画を立てましょう。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGENadm0oZldZsmaCJ1hua4SqELqWO4oqTEhxjKlmTrGbdqSlX6zm2OaYRXrv45uXgZ2kLnPnJUzTpGCz4W0vMU6P3d_FAAxQ9QeOONvj4zjIlWUlH6iMNPwDGxxQSOAzxhYJC4ws64DnvDcqMYFTZOWw==`</details>
+> **参考情報**: 「下山が日没にならないよう、早朝から出発し、遅くとも15時までには下山を終えるような計画を立てましょう。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGENadm0oZldZsmaCJ1hua4SqELqWO4oqTEhxjKlmTrGbdqSlX6zm2OaYRXrv45uXgZ2kLnPnJUzTpGCz4W0vMU6P3d_FAAxQ9QeOONvj4zjIlWUlH6iMNPwDGxxQSOAzxhYJC4ws64DnvDcqMYFTZOWw==`</details>
 
 **JK**: 何時に山に入ればいいんですか？
 

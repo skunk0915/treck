@@ -62,7 +62,7 @@ Tags: Climbing Gear, Guide
 
 **先生**: 基本はそうだ。ただ、外でも雨の心配がない日帰りのスポートクライミングなら、Protectでも問題ない場合もある。
 
-**参考情報**: 「コアとシースの両方に撥水加工が施されており、撥水性、防塵性、耐摩耗性に優れています。」<details><summary>出典</summary>`https://greenfield.style/`</details>
+> **参考情報**: 「コアとシースの両方に撥水加工が施されており、撥水性、防塵性、耐摩耗性に優れています。」<details><summary>出典</summary>`https://greenfield.style/`</details>
 
 ---
 
@@ -106,7 +106,7 @@ Tags: Climbing Gear, Guide
 - ジム専用で使うならClassicの方がコスパが良い
 - アルパインルートでは8mm台のトリプル認証ロープも検討を
 
-**参考情報**: 「The 9.5 Crag Dry Rope is a single rope designed for sport and classic climbing, known for balancing a small diameter with low weight and high performance.」<details><summary>出典</summary>`https://mammut1862.com.au/`</details>
+> **参考情報**: 「The 9.5 Crag Dry Rope is a single rope designed for sport and classic climbing, known for balancing a small diameter with low weight and high performance.」<details><summary>出典</summary>`https://mammut1862.com.au/`</details>
 
 ---
 
@@ -147,7 +147,7 @@ Tags: Climbing Gear, Guide
 - 雨天や湿った環境での使用には不向き
 - 太めなのでアルパインや長いアプローチには重い
 
-**参考情報**: 「しなやかな感触、優れた耐久性、および幅広いクライミングでの汎用性が高く評価されています。」<details><summary>出典</summary>`https://outdoorgearlab.com/`</details>
+> **参考情報**: 「しなやかな感触、優れた耐久性、および幅広いクライミングでの汎用性が高く評価されています。」<details><summary>出典</summary>`https://outdoorgearlab.com/`</details>
 
 ---
 
@@ -183,7 +183,7 @@ Tags: Climbing Gear, Guide
 - 細いロープはビレイ操作に慣れが必要
 - 初心者には不向き
 
-**参考情報**: 「アイスクライミングや高難度登山に最適な軽量オールラウンドロープです。」<details><summary>出典</summary>`https://berjayanews.com/`</details>
+> **参考情報**: 「アイスクライミングや高難度登山に最適な軽量オールラウンドロープです。」<details><summary>出典</summary>`https://berjayanews.com/`</details>
 
 ---
 
@@ -201,7 +201,7 @@ Tags: Climbing Gear, Guide
 
 **先生**: そうだな。ヘビーユーザーには特におすすめだ。
 
-**参考情報**: 「クライミングジムでの使用を想定して設計されており、非常に頑丈な構造で高い耐摩耗性を誇ります。」<details><summary>出典</summary>`https://scalerbee.com/`</details>
+> **参考情報**: 「クライミングジムでの使用を想定して設計されており、非常に頑丈な構造で高い耐摩耗性を誇ります。」<details><summary>出典</summary>`https://scalerbee.com/`</details>
 
 ---
 
@@ -223,7 +223,7 @@ Tags: Climbing Gear, Guide
 
 **先生**: 正直、高い。でもアルパインで命を預ける場面では、この投資は十分価値がある。
 
-**参考情報**: 「アラミドシースによる耐切断性が革命的と評されています。」<details><summary>出典</summary>`https://climbing.com/`</details>
+> **参考情報**: 「アラミドシースによる耐切断性が革命的と評されています。」<details><summary>出典</summary>`https://climbing.com/`</details>
 
 ---
 
@@ -251,7 +251,7 @@ Tags: Climbing Gear, Guide
 
 **先生**: コア（芯）が損傷している、外皮がひどく摩耗している、大きな墜落を経験した、化学薬品に触れた場合は即交換だ。
 
-**参考情報**: 「ロープが切れてからでは手遅れのため、使用状況を鑑みて早期の交換を検討することが重要です。」<details><summary>出典</summary>`https://shopinfo.jp/`</details>
+> **参考情報**: 「ロープが切れてからでは手遅れのため、使用状況を鑑みて早期の交換を検討することが重要です。」<details><summary>出典</summary>`https://shopinfo.jp/`</details>
 
 #### メンテナンス方法
 
@@ -267,7 +267,7 @@ Tags: Climbing Gear, Guide
 
 **先生**: 風通しの良い日陰で**置き干し**。絶対に掛け干しや直射日光、乾燥機はダメだ。ロープの弾力性に影響する。
 
-**参考情報**: 「清潔なロープは寿命が長く、機能性が向上するだけでなく、感触や見た目、使いやすさも良くなります。」<details><summary>出典</summary>`https://mammut.jp/`</details>
+> **参考情報**: 「清潔なロープは寿命が長く、機能性が向上するだけでなく、感触や見た目、使いやすさも良くなります。」<details><summary>出典</summary>`https://mammut.jp/`</details>
 
 ---
 
@@ -322,7 +322,7 @@ Tags: Climbing Gear, Guide
 
 - 長時間のハンギング（懸垂下降やルート開拓）では、細めのレッグループが食い込む可能性あり
 
-**参考情報**: 「A standout feature across the Ophir and Togir lines is the presence of Slide-Bloc buckles, often with three or four on the harness.」<details><summary>出典</summary>`https://rei.com/`</details>
+> **参考情報**: 「A standout feature across the Ophir and Togir lines is the presence of Slide-Bloc buckles, often with three or four on the harness.」<details><summary>出典</summary>`https://rei.com/`</details>
 
 ---
 
@@ -373,7 +373,7 @@ Tags: Climbing Gear, Guide
 
 - インドアのみなら機能過剰かも
 
-**参考情報**: 「The Togir 2.0 is considered light enough without feeling bulky when climbing.」<details><summary>出典</summary>`https://climbinggearreviews.com/`</details>
+> **参考情報**: 「The Togir 2.0 is considered light enough without feeling bulky when climbing.」<details><summary>出典</summary>`https://climbinggearreviews.com/`</details>
 
 ---
 
@@ -391,7 +391,7 @@ Tags: Climbing Gear, Guide
 
 **先生**: そうだ。自分で判断しづらい摩耗をビジュアルで教えてくれる。これはマムートの安全へのこだわりを象徴する機能だと思う。
 
-**参考情報**: 「A critical safety feature is the indicator thread or wear indicator in the tie-in loop and belay loop, which reveals red thread when the harness is wearing out.」<details><summary>出典</summary>`https://rei.com/`</details>
+> **参考情報**: 「A critical safety feature is the indicator thread or wear indicator in the tie-in loop and belay loop, which reveals red thread when the harness is wearing out.」<details><summary>出典</summary>`https://rei.com/`</details>
 
 ---
 
@@ -449,7 +449,7 @@ Tags: Climbing Gear, Guide
 - アンカー構築に使いたい人
 - 確実なロック機構が欲しい人
 
-**参考情報**: 「This design helps prevent the carabiner from snagging on ropes or gear during clipping and unclipping, leading to a smoother and safer experience.」<details><summary>出典</summary>`https://backcountry.com/`</details>
+> **参考情報**: 「This design helps prevent the carabiner from snagging on ropes or gear during clipping and unclipping, leading to a smoother and safer experience.」<details><summary>出典</summary>`https://backcountry.com/`</details>
 
 ---
 
@@ -481,7 +481,7 @@ Tags: Climbing Gear, Guide
 
 **先生**: ストレートゲート側がボルトから外しにくいという声はある。ただ、価格が手頃で初心者からベテランまで使えるモデルだ。
 
-**参考情報**: 「厚みのあるドッグボーンとクリップしやすいカラビナが特徴で、予算に優しく、初心者からベテランまで幅広いクライマーにおすすめ。」<details><summary>出典</summary>`https://squamishclimbingmagazine.ca/`</details>
+> **参考情報**: 「厚みのあるドッグボーンとクリップしやすいカラビナが特徴で、予算に優しく、初心者からベテランまで幅広いクライマーにおすすめ。」<details><summary>出典</summary>`https://squamishclimbingmagazine.ca/`</details>
 
 ---
 
@@ -497,7 +497,7 @@ Tags: Climbing Gear, Guide
 
 **JK**: あー、なるほど！被りで使う人向けってことですね。
 
-**参考情報**: 「丈夫でクリップしやすい、ドッグボーンが硬く、ハングする際に掴みやすい。」<details><summary>出典</summary>`https://backcountry.com/`</details>
+> **参考情報**: 「丈夫でクリップしやすい、ドッグボーンが硬く、ハングする際に掴みやすい。」<details><summary>出典</summary>`https://backcountry.com/`</details>
 
 ---
 
@@ -515,7 +515,7 @@ Tags: Climbing Gear, Guide
 
 **JK**: なるほど、軽さとのトレードオフってことですね。
 
-**参考情報**: 「非常に軽量でコンパクトなカラビナとダイニーマスリングの組み合わせにより、重量とパフォーマンスの最適なバランスを実現。」<details><summary>出典</summary>`https://expertvoice.com/`</details>
+> **参考情報**: 「非常に軽量でコンパクトなカラビナとダイニーマスリングの組み合わせにより、重量とパフォーマンスの最適なバランスを実現。」<details><summary>出典</summary>`https://expertvoice.com/`</details>
 
 ---
 
@@ -529,7 +529,7 @@ Tags: Climbing Gear, Guide
 
 **先生**: ただし、軽量タイプに比べるとやや重くてかさばる。安全性と軽量性のどちらを優先するかで選ぶといい。
 
-**参考情報**: 「摩耗が危険なレベルに達すると赤い芯が見えるようになっています。」<details><summary>出典</summary>`https://yedler.com/`</details>
+> **参考情報**: 「摩耗が危険なレベルに達すると赤い芯が見えるようになっています。」<details><summary>出典</summary>`https://yedler.com/`</details>
 
 ---
 
@@ -581,7 +581,7 @@ Tags: Climbing Gear, Guide
 
 **先生**: リードクライマーにロープを送り出すことだ。Smart 2.0は慣れるまで少しコツがいる。あと、推奨カラビナとして**Smart HMSカラビナ**を使うと最適な性能が発揮される。
 
-**参考情報**: 「The Smart 2.0 is designed to be easy to operate with no moving parts or levers, akin to a hybrid between a traditional tube-style device and an assisted braking device like a GriGri.」<details><summary>出典</summary>`https://outdoorgearlab.com/`</details>
+> **参考情報**: 「The Smart 2.0 is designed to be easy to operate with no moving parts or levers, akin to a hybrid between a traditional tube-style device and an assisted braking device like a GriGri.」<details><summary>出典</summary>`https://outdoorgearlab.com/`</details>
 
 ---
 

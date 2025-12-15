@@ -33,7 +33,7 @@ Tags: Beginner, Hiking, Know-how, Guide
 
 **先生**: いい質問だ。目安は**「隣の人と話しながらでも息が切れない程度」**。これが理想的なペースだ。
 
-**参考情報**: 「登山中は、隣の人と話しながらでも息が切れない程度のペースが理想的です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzA75PxjqC0M4a3X9SxeXIP4s1yj9wKnobSzn3l7m3IAOjVz7bpimHv2ngq60hIdQKGNsYzN997s2a4eXM9JJ7rLQF8rLcw-IFRgbM0y4ADry1--3j0w==`</details>
+> **参考情報**: 「登山中は、隣の人と話しながらでも息が切れない程度のペースが理想的です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzA75PxjqC0M4a3X9SxeXIP4s1yj9wKnobSzn3l7m3IAOjVz7bpimHv2ngq60hIdQKGNsYzN997s2a4eXM9JJ7rLQF8rLcw-IFRgbM0y4ADry1--3j0w==`</details>
 
 **JK**: 話しながら？ それって超ゆっくりじゃないですか。
 
@@ -51,7 +51,7 @@ Tags: Beginner, Hiking, Know-how, Guide
 
 **先生**: 上げるとしても、**「きつさを感じる一歩手前」のペース**を超えないことだ。これが登山中ずっと意識すべき最重要ポイントだな。
 
-**参考情報**: 「常に『きつさを感じる一歩手前』のペースを意識しましょう。これは体力の消耗を防ぎ、長時間歩き続けるための理想的な感覚です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3SO8e48ht1r4mZgJsd0z58kSLxH_PbPTRLfK6F6dhX4dND-ueddMqT_KjMfa5PpioSZvb3LS-5bYYsUpwjZTyebiOjMDyTUhzLd4Z96XQu54dJ1W9Kr1O64zsjKirOE0rkjPg2H86ZUca1vHSA6MrvEiY8srYza-LDQb1jA02cCz3So-kp84zAUFWeJnefCHr4o2XCQKWxqnRd0uNmw8NcjXkwWC8dcpbh_H0J9FfeeqMgdyPoExK6olNRbbjuNo3bhObUxf-_gS8_oYPtbshYI21`</details>
+> **参考情報**: 「常に『きつさを感じる一歩手前』のペースを意識しましょう。これは体力の消耗を防ぎ、長時間歩き続けるための理想的な感覚です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3SO8e48ht1r4mZgJsd0z58kSLxH_PbPTRLfK6F6dhX4dND-ueddMqT_KjMfa5PpioSZvb3LS-5bYYsUpwjZTyebiOjMDyTUhzLd4Z96XQu54dJ1W9Kr1O64zsjKirOE0rkjPg2H86ZUca1vHSA6MrvEiY8srYza-LDQb1jA02cCz3So-kp84zAUFWeJnefCHr4o2XCQKWxqnRd0uNmw8NcjXkwWC8dcpbh_H0J9FfeeqMgdyPoExK6olNRbbjuNo3bhObUxf-_gS8_oYPtbshYI21`</details>
 
 **JK**: 「一歩手前」かぁ……。でもそれって、調子いいときはもっと行けちゃいそうですよね？
 
@@ -79,7 +79,7 @@ Tags: Beginner, Hiking, Know-how, Guide
 
 **先生**: そうだ。長時間バテずに歩ける心拍数の目安は、**最大心拍数の70%〜75%**と言われている。
 
-**参考情報**: 「長時間バテずに歩ける目安として、最大心拍数の約70%〜75%を目標にすると良いとされています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaL9ha0jkHv_IVZP9FOX3v-UFCzDA-HmJiUg4ulsBQJOhNG_fSyXGa0hee2-ZoEelY2kYmLybu4asYHbvwaFH_B94SgZtR9YgVcqfZdjnAZw1MLn7Sd92SbU75IEddZks6YuUhxJfTy-ngH2v5rvPTbu7_4ZsJsMSlcbY=`</details>
+> **参考情報**: 「長時間バテずに歩ける目安として、最大心拍数の約70%〜75%を目標にすると良いとされています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaL9ha0jkHv_IVZP9FOX3v-UFCzDA-HmJiUg4ulsBQJOhNG_fSyXGa0hee2-ZoEelY2kYmLybu4asYHbvwaFH_B94SgZtR9YgVcqfZdjnAZw1MLn7Sd92SbU75IEddZks6YuUhxJfTy-ngH2v5rvPTbu7_4ZsJsMSlcbY=`</details>
 
 **JK**: 最大心拍数ってどうやって分かるんですか？
 
@@ -89,7 +89,7 @@ Tags: Beginner, Hiking, Know-how, Guide
 
 **先生**: 最近はスマートウォッチで簡単に心拍数を測れる。リアルタイムで確認しながら歩けば、「今ちょっと早いかな」「もう少しペース落とそう」と判断できるようになる。
 
-**参考情報**: 「スマートウォッチなどの心拍計を活用することで、リアルタイムで自身の心拍数を確認し、ペースを調整するのに役立ちます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRPc_LWa689C7pnFs12G4FqJwrwFl9bWh1OKwOJ_aEGahhOfeuCtZ0v65Bghq0b8JfyPFWuE8paaxwdzH2ljIDXTpCaL90jVOh-41jdwcr7PB6IvIKLDjXMz0SGvt0TCEd58VdGwS-ANnuAHc=`</details>
+> **参考情報**: 「スマートウォッチなどの心拍計を活用することで、リアルタイムで自身の心拍数を確認し、ペースを調整するのに役立ちます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRPc_LWa689C7pnFs12G4FqJwrwFl9bWh1OKwOJ_aEGahhOfeuCtZ0v65Bghq0b8JfyPFWuE8paaxwdzH2ljIDXTpCaL90jVOh-41jdwcr7PB6IvIKLDjXMz0SGvt0TCEd58VdGwS-ANnuAHc=`</details>
 
 **JK**: ちょっと欲しくなってきた……。でも高そう。
 
@@ -107,7 +107,7 @@ Tags: Beginner, Hiking, Know-how, Guide
 
 **先生**: 嘘というより、昔の常識が更新されたと言った方が正確だな。乳酸は「疲労物質」ではなく、実は**エネルギー源として再利用される**ということが分かってきた。
 
-**参考情報**: 「乳酸が『疲労物質』であり、筋肉の疲労や筋肉痛の主な原因であるという長年の定説は、最近の研究では大部分が否定されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElgJetnrN8suD2Sl2kWRQbwx2q1ZLlZBA6vL9RkYvL0X4E8K8fA-DeHYyK4NYAS_IyT-q9DkVBr8lcQ-wTpO4S9pkMcKWlFKd9Ttrf95XeE_KuAsYoto46ihy2pDCcVcGw_IfZ9JhEb59pZ74=`</details>
+> **参考情報**: 「乳酸が『疲労物質』であり、筋肉の疲労や筋肉痛の主な原因であるという長年の定説は、最近の研究では大部分が否定されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElgJetnrN8suD2Sl2kWRQbwx2q1ZLlZBA6vL9RkYvL0X4E8K8fA-DeHYyK4NYAS_IyT-q9DkVBr8lcQ-wTpO4S9pkMcKWlFKd9Ttrf95XeE_KuAsYoto46ihy2pDCcVcGw_IfZ9JhEb59pZ74=`</details>
 
 **JK**: マジですか……。じゃあ本当の疲れの原因って何なんですか？
 
@@ -121,7 +121,7 @@ Tags: Beginner, Hiking, Know-how, Guide
 4. **神経系の疲労** — 脳と筋肉の信号伝達が鈍くなる
 5. **脱水と電解質不足** — 汗で水分とミネラルが失われる
 
-**参考情報**: 「筋肉疲労は複合的な現象であり、乳酸だけが原因ではありません。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-D4dBnU8Bn0ndxAGuTIf4IqD940jSE_XL5f4ofelZkT43t6R_2YbLxGaMNYlQ01XaFfk58SDBDxogwZvyRvlDjwQnBg2TxsstqvzoSEh2RUfjRN4I0hxdo6LFEbJeH4Q5AcN05Y4=`</details>
+> **参考情報**: 「筋肉疲労は複合的な現象であり、乳酸だけが原因ではありません。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-D4dBnU8Bn0ndxAGuTIf4IqD940jSE_XL5f4ofelZkT43t6R_2YbLxGaMNYlQ01XaFfk58SDBDxogwZvyRvlDjwQnBg2TxsstqvzoSEh2RUfjRN4I0hxdo6LFEbJeH4Q5AcN05Y4=`</details>
 
 **JK**: うわ、めっちゃいろいろあるんですね……。
 
@@ -139,7 +139,7 @@ Tags: Beginner, Hiking, Know-how, Guide
 
 **先生**: **乳酸閾値（LT: Lactate Threshold）**とは、運動強度を上げていったときに、血中の乳酸濃度が急激に上昇し始めるポイントのことだ。
 
-**参考情報**: 「登山では、乳酸閾値を超えないペース（乳酸レベルが大幅に上昇しないペース）で歩くことで、疲労を防ぎ、長時間の活動が可能になります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErbSE-vVAigIsWHWvSZQp9FyikGKz_lBnCL5NSXAItjeyqmNZf4vkHtx-krlMxJvBzXI4o5GIzNBQ7sXHURVdWK9-ffurE1QG21WA2gtfkRuzl9uRrNuMW1pD9142khCkLnKC1GDrEmBH44SQIxmrCL27mwek0c8G59nEzL-AKIQTHsg==`</details>
+> **参考情報**: 「登山では、乳酸閾値を超えないペース（乳酸レベルが大幅に上昇しないペース）で歩くことで、疲労を防ぎ、長時間の活動が可能になります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErbSE-vVAigIsWHWvSZQp9FyikGKz_lBnCL5NSXAItjeyqmNZf4vkHtx-krlMxJvBzXI4o5GIzNBQ7sXHURVdWK9-ffurE1QG21WA2gtfkRuzl9uRrNuMW1pD9142khCkLnKC1GDrEmBH44SQIxmrCL27mwek0c8G59nEzL-AKIQTHsg==`</details>
 
 **JK**: 急激に上昇……？
 
@@ -167,7 +167,7 @@ Tags: Beginner, Hiking, Know-how, Guide
 
 **先生**: 標準コースタイムは、**40〜50歳代の経験者が10kg程度の荷物を背負い、無理のないペースで歩く場合**を想定している。
 
-**参考情報**: 「標準コースタイムは、40～50歳代の経験者で、10kg程度の荷物を背負い、無理のないペースで歩く場合を想定しています。休憩時間を含まない、純粋な歩行時間のみです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdN2giypwTFkq7kiVa8AA2ofOkDDOWWH286USHaOSv_TytW2MWCjU78R1OvndZyvM3kn4QnOd1IoGSCI9vBcLLUETTnTlOE-EiO-EzzExuMFsn9jft0kqjjYSiL7vBYfLbsrcdrtyHQHh9WfzYfpo14b0=`</details>
+> **参考情報**: 「標準コースタイムは、40～50歳代の経験者で、10kg程度の荷物を背負い、無理のないペースで歩く場合を想定しています。休憩時間を含まない、純粋な歩行時間のみです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdN2giypwTFkq7kiVa8AA2ofOkDDOWWH286USHaOSv_TytW2MWCjU78R1OvndZyvM3kn4QnOd1IoGSCI9vBcLLUETTnTlOE-EiO-EzzExuMFsn9jft0kqjjYSiL7vBYfLbsrcdrtyHQHh9WfzYfpo14b0=`</details>
 
 **JK**: え、休憩入ってないんですか⁉
 
@@ -177,7 +177,7 @@ Tags: Beginner, Hiking, Know-how, Guide
 
 **先生**: 初心者がよくやる失敗だな。さらに、体力に自信がない人は**コースタイムの1.2倍**で計画するのが安全だ。
 
-**参考情報**: 「体力に自信がない場合は1.2倍、経験豊富で速く歩ける場合は0.9倍など、自分に合った倍率で調整します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFFKjZme9f_E3kivP7nkI07GL5WrCLcUGwvmjFFRdu7uLHk8g0t3eX3iV9EQo2l61MPLHPwBY2iqMxm0aDCDfEbkyth9khK1qoqMpY40YgjaDuDyV3X2eciFmF`</details>
+> **参考情報**: 「体力に自信がない場合は1.2倍、経験豊富で速く歩ける場合は0.9倍など、自分に合った倍率で調整します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFFKjZme9f_E3kivP7nkI07GL5WrCLcUGwvmjFFRdu7uLHk8g0t3eX3iV9EQo2l61MPLHPwBY2iqMxm0aDCDfEbkyth9khK1qoqMpY40YgjaDuDyV3X2eciFmF`</details>
 
 **JK**: 1.2倍……。コースタイム5時間なら6時間ってことですね。
 
@@ -193,7 +193,7 @@ Tags: Beginner, Hiking, Know-how, Guide
 
 **先生**: それがまさに落とし穴だ。登山の鉄則は**「疲れてから休むのではなく、疲れる前に休む」**だ。
 
-**参考情報**: 「『疲れてから休むのではなく、疲れる前に休む』ことが重要です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRqvQPuQCUFXaPSxnnDkTHbY_E8rmXiDLEE6I40jhQgxTwogHjnWeCfxiKQ2vLZ6hKYjv68RB1_Y51yb5LOR-a2jIO3bnhcosKsg0-vqaSChtmuT6fNwA37mYnD1HywbgG7zC9og==`</details>
+> **参考情報**: 「『疲れてから休むのではなく、疲れる前に休む』ことが重要です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRqvQPuQCUFXaPSxnnDkTHbY_E8rmXiDLEE6I40jhQgxTwogHjnWeCfxiKQ2vLZ6hKYjv68RB1_Y51yb5LOR-a2jIO3bnhcosKsg0-vqaSChtmuT6fNwA37mYnD1HywbgG7zC9og==`</details>
 
 **JK**: 疲れる前に休むって……まだ元気なのに休むんですか？
 
@@ -215,7 +215,7 @@ Tags: Beginner, Hiking, Know-how, Guide
 
 **先生**: 実はそうでもない。**長すぎる休憩は体が冷えて、逆に動きが悪くなる**んだ。特に冬場はすぐに筋肉が固くなる。
 
-**参考情報**: 「長すぎる休憩は体が冷えたり、リズムが崩れたりするため、逆効果になることもあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4t-XkFqgZu--XEU0EE5Vl17NmIKy5f92hrTfoV_VZr8xJKrKVQ8QZSifTVsoCXmYryMg-tCeDtHq-VkdV3_k2Rm4BjBKttOF3dCXzp7-MXJ4dr_4oIlZ-m-q8RXyaTDjTHeueI_HQY7N8Rr7S1LqSREKTpUMWSvHCcD9bZ50_Z1f8BwzEiWhzsUDTH_sSsIbQagKPoIFbybZA3ghIabELj_P3YWxeCtSTYVONBt-CR7aV_kjwXpFYcPMMr0m7XAgBbpxLCqO9nuhc2RohglEuPTvFAPs_TW8=`</details>
+> **参考情報**: 「長すぎる休憩は体が冷えたり、リズムが崩れたりするため、逆効果になることもあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4t-XkFqgZu--XEU0EE5Vl17NmIKy5f92hrTfoV_VZr8xJKrKVQ8QZSifTVsoCXmYryMg-tCeDtHq-VkdV3_k2Rm4BjBKttOF3dCXzp7-MXJ4dr_4oIlZ-m-q8RXyaTDjTHeueI_HQY7N8Rr7S1LqSREKTpUMWSvHCcD9bZ50_Z1f8BwzEiWhzsUDTH_sSsIbQagKPoIFbybZA3ghIabELj_P3YWxeCtSTYVONBt-CR7aV_kjwXpFYcPMMr0m7XAgBbpxLCqO9nuhc2RohglEuPTvFAPs_TW8=`</details>
 
 **JK**: じゃあ適度に休むのがベストってことですね。
 
@@ -229,7 +229,7 @@ Tags: Beginner, Hiking, Know-how, Guide
 
 **先生**: 簡単に言うと、**登山中にエネルギー不足で動けなくなる状態**だ。「ハンガーノック」とも呼ばれる。
 
-**参考情報**: 「シャリバテもハンガーノックも、登山中に体がエネルギー不足に陥り、疲労感、脱力感、集中力の低下などを引き起こす状態を指す登山用語です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC2T-DZVTwAS6n0aB1ud2fPNoh_SjA0HuJr9ikTwBxDxAczHlIUxYlJrXK83btOavBpfmAoCWVqGno3ZON8jHNJmnx91t0KqgIm-Ffraoi8ZpRmuS9B3eprN3JBG2QMBImx0KJfvu49VXp84zaDdHsHcTHBpvZ-BUseA22`</details>
+> **参考情報**: 「シャリバテもハンガーノックも、登山中に体がエネルギー不足に陥り、疲労感、脱力感、集中力の低下などを引き起こす状態を指す登山用語です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC2T-DZVTwAS6n0aB1ud2fPNoh_SjA0HuJr9ikTwBxDxAczHlIUxYlJrXK83btOavBpfmAoCWVqGno3ZON8jHNJmnx91t0KqgIm-Ffraoi8ZpRmuS9B3eprN3JBG2QMBImx0KJfvu49VXp84zaDdHsHcTHBpvZ-BUseA22`</details>
 
 **JK**: えー、怖い……。どうなるんですか？
 
@@ -247,7 +247,7 @@ Tags: Beginner, Hiking, Know-how, Guide
 
 **先生**: 大事なのは**「空腹になる前に食べる」**ことだ。お腹が空いたと感じてからでは遅い。
 
-**参考情報**: 「シャリバテを防ぐためには、『空腹になってから食べる』のではなく、『空腹になる前に先回りして補給する』ことが非常に重要です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkRpjxzkXLxVsuJT1Ew1PBn1ye2bSSWvK7TJsAA_OmAm7oSTt_YTA1Rn5NskZTLUznLrwdrmfvyd5-fxL0YwOZ2VpsJ9hgcI8g4E-7sZwfJvk4-QUNMYqD2d1nKaNFjxY2nD5ugtvwpsr4`</details>
+> **参考情報**: 「シャリバテを防ぐためには、『空腹になってから食べる』のではなく、『空腹になる前に先回りして補給する』ことが非常に重要です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkRpjxzkXLxVsuJT1Ew1PBn1ye2bSSWvK7TJsAA_OmAm7oSTt_YTA1Rn5NskZTLUznLrwdrmfvyd5-fxL0YwOZ2VpsJ9hgcI8g4E-7sZwfJvk4-QUNMYqD2d1nKaNFjxY2nD5ugtvwpsr4`</details>
 
 **JK**: 先回りして食べる……？
 
@@ -262,7 +262,7 @@ Tags: Beginner, Hiking, Know-how, Guide
 | タンパク質 | 疲労回復、腹持ちが良い | 魚肉ソーセージ、ゆで卵 |
 | 塩分・ミネラル | 足のつり予防 | 塩飴、塩タブレット、梅干し |
 
-**参考情報**: 「行動食を選ぶ際は、高カロリーであること、軽量で持ち運びやすいこと、手軽に食べられること、保存性が高いことを考慮すると良いでしょう。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkRpjxzkXLxVsuJT1Ew1PBn1ye2bSSWvK7TJsAA_OmAm7oSTt_YTA1Rn5NskZTLUznLrwdrmfvyd5-fxL0YwOZ2VpsJ9hgcI8g4E-7sZwfJvk4-QUNMYqD2d1nKaNFjxY2nD5ugtvwpsr4`</details>
+> **参考情報**: 「行動食を選ぶ際は、高カロリーであること、軽量で持ち運びやすいこと、手軽に食べられること、保存性が高いことを考慮すると良いでしょう。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkRpjxzkXLxVsuJT1Ew1PBn1ye2bSSWvK7TJsAA_OmAm7oSTt_YTA1Rn5NskZTLUznLrwdrmfvyd5-fxL0YwOZ2VpsJ9hgcI8g4E-7sZwfJvk4-QUNMYqD2d1nKaNFjxY2nD5ugtvwpsr4`</details>
 
 **JK**: 羊羹って意外ですね。和菓子なのに。
 
@@ -280,13 +280,13 @@ Tags: Beginner, Hiking, Know-how, Guide
 
 **先生**: 面倒でもやった方がいい。**登山前のウォーミングアップは怪我予防と疲労軽減に直結する**。
 
-**参考情報**: 「ウォーミングアップやストレッチを行うことで、筋肉の柔軟性を高め、関節の可動域を広げ、怪我のリスクを減らすことができます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3MHuv7_lzlcuFwkGs1AL5DWbYuRyM5gbHhyI3X1VeiWIr0TxxYnsbOVTpZjoaxAaF-ZjikspwWK1nVRGM67zzK2MBsYaF4ZsegqBoUhVlT2w6vw0poZFSz9Jv_ClBFAu6FEJ1bMr_H0Ako7WBicJZHA6_O6JWlY_X7xijxLI=`</details>
+> **参考情報**: 「ウォーミングアップやストレッチを行うことで、筋肉の柔軟性を高め、関節の可動域を広げ、怪我のリスクを減らすことができます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3MHuv7_lzlcuFwkGs1AL5DWbYuRyM5gbHhyI3X1VeiWIr0TxxYnsbOVTpZjoaxAaF-ZjikspwWK1nVRGM67zzK2MBsYaF4ZsegqBoUhVlT2w6vw0poZFSz9Jv_ClBFAu6FEJ1bMr_H0Ako7WBicJZHA6_O6JWlY_X7xijxLI=`</details>
 
 **JK**: どんなストレッチがいいんですか？
 
 **先生**: 登山前は**動的ストレッチ**が効果的だ。ラジオ体操のように体を動かしながら行うタイプだな。
 
-**参考情報**: 「登山前には10～20分程度のウォーミングアップが推奨されます。筋肉を温め、柔軟性を高めるためには、『動的ストレッチ』が効果的です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaUu3OI1J_2BXg0zOnRxG40w5wt7nyxSMdJZL0O4uGM_EJqx9irqqFqCHS0_2DawVsrRJ6pgu6IS8A5xa56KJC9Nsl8if6456u6Mk8q8d2HtTt7Q==`</details>
+> **参考情報**: 「登山前には10～20分程度のウォーミングアップが推奨されます。筋肉を温め、柔軟性を高めるためには、『動的ストレッチ』が効果的です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaUu3OI1J_2BXg0zOnRxG40w5wt7nyxSMdJZL0O4uGM_EJqx9irqqFqCHS0_2DawVsrRJ6pgu6IS8A5xa56KJC9Nsl8if6456u6Mk8q8d2HtTt7Q==`</details>
 
 **JK**: ラジオ体操って、おじいちゃんがやってるやつじゃないですか……。
 
@@ -312,7 +312,7 @@ Tags: Beginner, Hiking, Know-how, Guide
 
 **先生**: 歩幅は**靴一足分程度**を目安にする。大股で歩くと足への負担が大きくなり、疲労が早く溜まる。
 
-**参考情報**: 「歩幅は小さく、靴一足分程度の間隔でちょこちょこと歩くようにすると、バランスが崩れにくく、体への負担も軽減されます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzA75PxjqC0M4a3X9SxeXIP4s1yj9wKnobSzn3l7m3IAOjVz7bpimHv2ngq60hIdQKGNsYzN997s2a4eXM9JJ7rLQF8rLcw-IFRgbM0y4ADry1--3j0w==`</details>
+> **参考情報**: 「歩幅は小さく、靴一足分程度の間隔でちょこちょこと歩くようにすると、バランスが崩れにくく、体への負担も軽減されます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzA75PxjqC0M4a3X9SxeXIP4s1yj9wKnobSzn3l7m3IAOjVz7bpimHv2ngq60hIdQKGNsYzN997s2a4eXM9JJ7rLQF8rLcw-IFRgbM0y4ADry1--3j0w==`</details>
 
 **JK**: 小股だと時間かかりそうで不安です。
 
@@ -330,7 +330,7 @@ Tags: Beginner, Hiking, Know-how, Guide
 
 **先生**: 姿勢も大事だ。**上体はまっすぐ起こし、やや前傾**を保つ。猫背になると肺が圧迫されて呼吸がしにくくなるし、背中の筋肉に負担がかかる。
 
-**参考情報**: 「上体はまっすぐに起こし、やや前傾姿勢を保ちます。猫背になると疲労がたまりやすいため、視線は少し前に向け、頭から足までが一直線になるように意識しましょう。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1C68sTgGfqMiuTIn1DFe1LjaDuoqVmJdWS20l6J2fla2KYsNBh4IPkffpLgB_qprcREh8TRTrJz9DPOi0W1998ucX7Re1fsxozaNMEENDMV06C9DlDV3N1uF8sK34pG1uZFi9qQW0qDs9tneQjeN2sB-8HX_nl7ZD2z4=`</details>
+> **参考情報**: 「上体はまっすぐに起こし、やや前傾姿勢を保ちます。猫背になると疲労がたまりやすいため、視線は少し前に向け、頭から足までが一直線になるように意識しましょう。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1C68sTgGfqMiuTIn1DFe1LjaDuoqVmJdWS20l6J2fla2KYsNBh4IPkffpLgB_qprcREh8TRTrJz9DPOi0W1998ucX7Re1fsxozaNMEENDMV06C9DlDV3N1uF8sK34pG1uZFi9qQW0qDs9tneQjeN2sB-8HX_nl7ZD2z4=`</details>
 
 **JK**: 視線はどこを見ればいいんですか？
 
@@ -342,7 +342,7 @@ Tags: Beginner, Hiking, Know-how, Guide
 
 **先生**: 急斜面では**ジグザグに歩く**のが有効だ。斜めに横切るように歩くことで、実質的な勾配が緩やかになる。
 
-**参考情報**: 「急な斜面では、斜めに横切るようにジグザグに歩く『ジグザグ歩行』を取り入れると、勾配が緩やかになり、体力の消耗を抑えられます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsa8RkJYEWtNJn9-RSCAOyshNBfh4Nj8GatgY93a25Fjvk7ve_7gjNjT5tukjBMC-X9a1zbcJ6liJ4SswUSHyRohktrC8t4q0UwPNCseY1XJQNJ6R723l794sJlMc=`</details>
+> **参考情報**: 「急な斜面では、斜めに横切るようにジグザグに歩く『ジグザグ歩行』を取り入れると、勾配が緩やかになり、体力の消耗を抑えられます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsa8RkJYEWtNJn9-RSCAOyshNBfh4Nj8GatgY93a25Fjvk7ve_7gjNjT5tukjBMC-X9a1zbcJ6liJ4SswUSHyRohktrC8t4q0UwPNCseY1XJQNJ6R723l794sJlMc=`</details>
 
 **JK**: なるほど、遠回りに見えて楽なんですね。
 
@@ -354,7 +354,7 @@ Tags: Beginner, Hiking, Know-how, Guide
 
 **先生**: それは多くの登山者が経験する悩みだな。実は**下りの方が膝への負担は大きい**んだ。
 
-**参考情報**: 「下りでは、重力の影響で無意識のうちにスピードが出やすくなりますが、これは膝への負担を増大させます。登りよりも下りの方が脚にかかる負荷が大きいため、意識的にペースを落とし、ゆっくりと歩くことが重要です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvhuH62Q6vSoVzlwiZX7tjcoKzT3koYam5kNLjWEt88GNeWxNdVoTGtGXXJmQwC2Og4KbZinZ97jyvZMDd5H8VfXIGBC8VceBFeyydDmZpHVfeRc_aRGVdGwfT`</details>
+> **参考情報**: 「下りでは、重力の影響で無意識のうちにスピードが出やすくなりますが、これは膝への負担を増大させます。登りよりも下りの方が脚にかかる負荷が大きいため、意識的にペースを落とし、ゆっくりと歩くことが重要です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvhuH62Q6vSoVzlwiZX7tjcoKzT3koYam5kNLjWEt88GNeWxNdVoTGtGXXJmQwC2Og4KbZinZ97jyvZMDd5H8VfXIGBC8VceBFeyydDmZpHVfeRc_aRGVdGwfT`</details>
 
 **JK**: えー、下りの方が楽そうなのに。
 
@@ -370,7 +370,7 @@ Tags: Beginner, Hiking, Know-how, Guide
 
 **先生**: 着地するとき、**膝を軽く曲げてクッションにする**。膝を伸ばしたまま着地すると「ドスン」と衝撃が直撃する。
 
-**参考情報**: 「着地の際に膝を伸ばしたままだと、衝撃が直接膝に伝わり『ドスン着地』となり、大腿四頭筋に大きな負担がかかります。膝を軽く曲げて着地することで、衝撃を吸収し、脚全体で分散させることができます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDRKKkwqZgCp-1OJMWQK0X0ibLsmDaXu-A-cJsRIl5K7a44lGe58eLhoxob3AE15ACKTbYwZbaNkPIwKag6qias18BdeMcP-wpKJqtYUbCtNGmbsI=`</details>
+> **参考情報**: 「着地の際に膝を伸ばしたままだと、衝撃が直接膝に伝わり『ドスン着地』となり、大腿四頭筋に大きな負担がかかります。膝を軽く曲げて着地することで、衝撃を吸収し、脚全体で分散させることができます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDRKKkwqZgCp-1OJMWQK0X0ibLsmDaXu-A-cJsRIl5K7a44lGe58eLhoxob3AE15ACKTbYwZbaNkPIwKag6qias18BdeMcP-wpKJqtYUbCtNGmbsI=`</details>
 
 #### ② 小股で歩く
 
@@ -396,7 +396,7 @@ Tags: Beginner, Hiking, Know-how, Guide
 
 **先生**: 慣れればどれも自然にできるようになる。あとは**トレッキングポールを使う**のも効果的だ。腕に体重を分散できるから、膝への負担が大幅に減る。
 
-**参考情報**: 「トレッキングポールを使用することで、体重の一部を腕に分散させることができ、脚や膝にかかる負担を大幅に軽減できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVAq1aRs6yGj2u8tq0eayTHhJIvQCniqNVG9GYY9DVTsj-MdoY9hkuLQavuZSK_elzVgPWPSyxM7HNRSUY_OctN12lgafy-VSMQENJSZ81tP_tPmDXnc7l89mbzwE=`</details>
+> **参考情報**: 「トレッキングポールを使用することで、体重の一部を腕に分散させることができ、脚や膝にかかる負担を大幅に軽減できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVAq1aRs6yGj2u8tq0eayTHhJIvQCniqNVG9GYY9DVTsj-MdoY9hkuLQavuZSK_elzVgPWPSyxM7HNRSUY_OctN12lgafy-VSMQENJSZ81tP_tPmDXnc7l89mbzwE=`</details>
 
 **JK**: ポール、買おうかな……。
 

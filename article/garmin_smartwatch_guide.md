@@ -31,7 +31,7 @@ Tags: Guide, Electronics
 
 **先生**: スマホのGPSは街中では十分だが、山間部や谷筋、樹林帯では精度が落ちることがある。ガーミンの上位モデルはマルチGNSSとマルチバンドに対応していて、複数の衛星システムを使い分けることで精度を高めている。
 
-**参考情報**: 「GNSSマルチバンドテクノロジーに対応しており、L1信号とL5信号の両方を受信可能です。これにより、山間部や都市部のビル群など、GPS信号が捕捉しにくい場所でも高い精度で位置情報を取得できます。」<details><summary>出典</summary>`https://funq.jp/`</details>
+> **参考情報**: 「GNSSマルチバンドテクノロジーに対応しており、L1信号とL5信号の両方を受信可能です。これにより、山間部や都市部のビル群など、GPS信号が捕捉しにくい場所でも高い精度で位置情報を取得できます。」<details><summary>出典</summary>`https://funq.jp/`</details>
 
 **JK**: マルチ何とか…呪文みたいですね。
 
@@ -65,7 +65,7 @@ Tags: Guide, Electronics
 
 **先生**: エントリーモデルのInstinct Eで約5万円台、上位のInstinct 3 Dual Powerでも約7万円台だ。Fenixシリーズが14〜17万円することを考えると、手が届きやすい。
 
-**参考情報**: 「Instinctシリーズは、コストパフォーマンスに優れ、頑丈さと優れたバッテリー持続時間を重視したアウトドアGPSウォッチです。」<details><summary>出典</summary>`https://toablog.jp/`</details>
+> **参考情報**: 「Instinctシリーズは、コストパフォーマンスに優れ、頑丈さと優れたバッテリー持続時間を重視したアウトドアGPSウォッチです。」<details><summary>出典</summary>`https://toablog.jp/`</details>
 
 **JK**: デザインはどうなんですか？正直、ちょっとゴツくないですか？
 
@@ -75,7 +75,7 @@ Tags: Guide, Electronics
 
 **先生**: 君のような人にはInstinct 2Sがある。40mmケースで重量42g、女性や手首の細い人にフィットしやすい設計だ。
 
-**参考情報**: 「Instinct 2Sは、40.0 x 40.0 x 13.3mmの本体サイズと42gの軽量性が特徴で、女性や手首の細い人にもフィットしやすい設計です。」<details><summary>出典</summary>`https://funq.jp/`</details>
+> **参考情報**: 「Instinct 2Sは、40.0 x 40.0 x 13.3mmの本体サイズと42gの軽量性が特徴で、女性や手首の細い人にもフィットしやすい設計です。」<details><summary>出典</summary>`https://funq.jp/`</details>
 
 **JK**: おお、そういうのもあるんですね！じゃあ画面はどうなんですか？カラーできれいなやつがいいな。
 
@@ -85,7 +85,7 @@ Tags: Guide, Electronics
 
 **先生**: 2025年に発売されたInstinct 3シリーズからAMOLEDモデルも加わった。鮮やかなカラー表示ができるようになったぞ。
 
-**参考情報**: 「Garmin has unveiled the Instinct 3 series at CES 2025...This new lineup introduces significant enhancements, including the option for both solar charging and, for the first time in the Instinct series, an AMOLED display.」<details><summary>出典</summary>`https://www.tomsguide.com/`</details>
+> **参考情報**: 「Garmin has unveiled the Instinct 3 series at CES 2025...This new lineup introduces significant enhancements, including the option for both solar charging and, for the first time in the Instinct series, an AMOLED display.」<details><summary>出典</summary>`https://www.tomsguide.com/`</details>
 
 **JK**: おお！進化してますね！
 
@@ -97,7 +97,7 @@ Tags: Guide, Electronics
 
 **先生**: 2023年発売で、50mmケース、重量67g。バッテリーはスマートウォッチモードで最大40日、GPSモードで最大60時間。ソーラー充電を活用すればさらに延びる。
 
-**参考情報**: 「Instinct 2Xは、スマートウォッチモードで最大40日間、ソーラー充電を活用すれば無制限のバッテリー持続時間を実現します。」<details><summary>出典</summary>`https://news.mynavi.jp/`</details>
+> **参考情報**: 「Instinct 2Xは、スマートウォッチモードで最大40日間、ソーラー充電を活用すれば無制限のバッテリー持続時間を実現します。」<details><summary>出典</summary>`https://news.mynavi.jp/`</details>
 
 **JK**: 40日って…もう月イチ充電でいいじゃないですか。
 
@@ -160,7 +160,7 @@ Tags: Guide, Electronics
 
 **先生**: ははは。だがその価値はある。まずFenixは**カラー地図表示ができる**。国土地理院の地形図ベースの日本詳細地形図がプリロードされていて、等高線、登山道、POI（地点情報）がすべて手元で確認できる。
 
-**参考情報**: 「Fenixシリーズは、高機能と多機能を兼ね備えたガーミンのフラッグシップモデルで、プロフェッショナルな登山家やマルチスポーツアスリートに人気です。」<details><summary>出典</summary>`https://futaritozan.com/`</details>
+> **参考情報**: 「Fenixシリーズは、高機能と多機能を兼ね備えたガーミンのフラッグシップモデルで、プロフェッショナルな登山家やマルチスポーツアスリートに人気です。」<details><summary>出典</summary>`https://futaritozan.com/`</details>
 
 **JK**: へー、時計で地図が見られるんですか。スマホ出さなくていいのは楽かも。
 
@@ -178,7 +178,7 @@ Tags: Guide, Electronics
 
 **先生**: 音声コマンドにも対応していて、「ナビゲーションを開始」と話しかければ操作できる。音声メモも録音できるから、山頂で感動したことをメモするのにも使える。
 
-**参考情報**: 「Fenix 8は、鮮やかで視認性の高いAMOLED（有機EL）ディスプレイを搭載したモデルが新たに加わりました。スピーカーとデュアルマイクが内蔵され、音声コマンド、通話、音声メモなどが可能です。」<details><summary>出典</summary>`https://www.garmin.co.jp/`</details>
+> **参考情報**: 「Fenix 8は、鮮やかで視認性の高いAMOLED（有機EL）ディスプレイを搭載したモデルが新たに加わりました。スピーカーとデュアルマイクが内蔵され、音声コマンド、通話、音声メモなどが可能です。」<details><summary>出典</summary>`https://www.garmin.co.jp/`</details>
 
 **JK**: なんか未来っぽい…！
 
@@ -202,7 +202,7 @@ Tags: Guide, Electronics
 
 **先生**: GPSを使い続けてその時間だからな。テント泊2泊3日の縦走でも余裕だ。
 
-**参考情報**: 「Fenix 8シリーズは、2024年8月29日に発売されました。Fenix 8 AMOLED Sapphire Editionの価格は149,600円～178,000円程度です。」<details><summary>出典</summary>`https://kakakumag.com/`</details>
+> **参考情報**: 「Fenix 8シリーズは、2024年8月29日に発売されました。Fenix 8 AMOLED Sapphire Editionの価格は149,600円～178,000円程度です。」<details><summary>出典</summary>`https://kakakumag.com/`</details>
 
 ### Fenixシリーズの注意点
 
@@ -261,7 +261,7 @@ Tags: Guide, Electronics
 
 **先生**: 前モデルのEnduro 2と比べて200%以上の向上だ。1週間かかる北アルプス全山縦走でも、充電なしで記録を取り続けられる。
 
-**参考情報**: 「Garmin Enduro 3は、第3世代ソーラー充電技術『Power Sapphireレンズ』により、バッテリー性能が大幅に向上しています。GPSモードでの稼働時間は、ソーラー充電を活用した場合、最大約320時間を実現。これは前モデル（Enduro 2）と比較して約200%以上の向上です。」<details><summary>出典</summary>`https://www.garmin.co.jp/`</details>
+> **参考情報**: 「Garmin Enduro 3は、第3世代ソーラー充電技術『Power Sapphireレンズ』により、バッテリー性能が大幅に向上しています。GPSモードでの稼働時間は、ソーラー充電を活用した場合、最大約320時間を実現。これは前モデル（Enduro 2）と比較して約200%以上の向上です。」<details><summary>出典</summary>`https://www.garmin.co.jp/`</details>
 
 **JK**: そんな長期間山にいる人いるんですか…？
 
@@ -275,7 +275,7 @@ Tags: Guide, Electronics
 
 **先生**: チタンベゼルとPower Sapphireガラスで堅牢性を保ちつつ、UltraFitナイロンバンドで快適性を確保している。長時間装着しても疲れにくい設計だ。
 
-**参考情報**: 「アメリカ国防総省が定めるミルスペック（MIL-STD-810）に準拠した堅牢性を持ちながら、本体のみで57g、ナイロンバンドを含めても63gという軽量設計です。」<details><summary>出典</summary>`https://www.garmin.co.jp/`</details>
+> **参考情報**: 「アメリカ国防総省が定めるミルスペック（MIL-STD-810）に準拠した堅牢性を持ちながら、本体のみで57g、ナイロンバンドを含めても63gという軽量設計です。」<details><summary>出典</summary>`https://www.garmin.co.jp/`</details>
 
 ### Enduroシリーズの注意点
 
@@ -326,13 +326,13 @@ Tags: Guide, Electronics
 
 **先生**: その通り。気圧の変化から標高を測定する。例えば「あと標高差300m登れば山頂」といった判断に使える。累積の登り・下りも表示されるから、ペース配分にも役立つ。
 
-**参考情報**: 「気圧高度計は、標高が上がるにつれて気圧が低下する原理を利用しています。現在地の標高や、設定した基準地点からの高度変化を測定できます。」<details><summary>出典</summary>`https://www.garmin.com/`</details>
+> **参考情報**: 「気圧高度計は、標高が上がるにつれて気圧が低下する原理を利用しています。現在地の標高や、設定した基準地点からの高度変化を測定できます。」<details><summary>出典</summary>`https://www.garmin.com/`</details>
 
 **JK**: 気圧計は何に使うんですか？
 
 **先生**: 天気の予測だ。急激に気圧が下がると、荒天が近づいている可能性が高い。山の天気は急変するから、早めに判断して引き返す根拠になる。
 
-**参考情報**: 「気圧計は、周囲の気圧を測定することで天候の変化を予測するのに役立ちます。急激な気圧の低下は天候の悪化（荒天など）を示唆するため、早めの行動判断に繋がります。」<details><summary>出典</summary>`https://www.garmin.com/`</details>
+> **参考情報**: 「気圧計は、周囲の気圧を測定することで天候の変化を予測するのに役立ちます。急激な気圧の低下は天候の悪化（荒天など）を示唆するため、早めの行動判断に繋がります。」<details><summary>出典</summary>`https://www.garmin.com/`</details>
 
 **JK**: なるほど、安全登山に直結する機能なんですね。
 
@@ -344,7 +344,7 @@ Tags: Guide, Electronics
 
 **先生**: 登山はマラソンと違って長時間の運動だ。**110〜120bpm程度なら快適に長時間歩ける**が、**150bpmを超えるとオーバーペース**の兆候だ。
 
-**参考情報**: 「心拍数に基づき、オーバーペースになっていないかを確認し、適切な休憩タイミングやペース配分が可能です。例えば、心拍数110-120bpm程度であれば長時間快適に歩ける一方、150bpmを超えるとオーバーペースの兆候とされています。」<details><summary>出典</summary>`https://haute-chrono.com/`</details>
+> **参考情報**: 「心拍数に基づき、オーバーペースになっていないかを確認し、適切な休憩タイミングやペース配分が可能です。例えば、心拍数110-120bpm程度であれば長時間快適に歩ける一方、150bpmを超えるとオーバーペースの兆候とされています。」<details><summary>出典</summary>`https://haute-chrono.com/`</details>
 
 **JK**: 私、登り始めるとすぐゼーハー言っちゃうんですよね…。
 
@@ -362,9 +362,9 @@ Tags: Guide, Electronics
 
 **先生**: ただ、正直に言っておかなければならないことがある。**ガーミンのSpO2測定は医療目的ではない**。高高度では精度が落ちるという研究報告もある。
 
-**参考情報**: 「GarminデバイスのSpO2測定機能は、医療目的での使用を意図したものではなく、一般的なフィットネスおよびウェルネスの範囲での利用を目的としています。」<details><summary>出典</summary>`https://www.garmin.com/`</details>
+> **参考情報**: 「GarminデバイスのSpO2測定機能は、医療目的での使用を意図したものではなく、一般的なフィットネスおよびウェルネスの範囲での利用を目的としています。」<details><summary>出典</summary>`https://www.garmin.com/`</details>
 
-**参考情報**: 「ある研究では、Garmin Fenix 5X Plusが4559mの高度で医療用デバイスや動脈血ガス分析と比較してSpO2を過大評価する可能性があり、その妥当性は低いと結論付けられています。」<details><summary>出典</summary>`https://pubmed.ncbi.nlm.nih.gov/`</details>
+> **参考情報**: 「ある研究では、Garmin Fenix 5X Plusが4559mの高度で医療用デバイスや動脈血ガス分析と比較してSpO2を過大評価する可能性があり、その妥当性は低いと結論付けられています。」<details><summary>出典</summary>`https://pubmed.ncbi.nlm.nih.gov/`</details>
 
 **JK**: え！じゃあ当てにならないんですか？
 
@@ -394,7 +394,7 @@ Tags: Guide, Electronics
 
 **先生**: 残念ながら**直接連携はできない**。ただし、GPXファイルを介してデータのやり取りは可能だ。
 
-**参考情報**: 「GarminとYAMAPは直接連携できませんが、GPXファイルを利用してデータ転送が可能です。」<details><summary>出典</summary>`https://haute-chrono.com/`</details>
+> **参考情報**: 「GarminとYAMAPは直接連携できませんが、GPXファイルを利用してデータ転送が可能です。」<details><summary>出典</summary>`https://haute-chrono.com/`</details>
 
 **JK**: GPXファイル？
 
@@ -415,7 +415,7 @@ Tags: Guide, Electronics
 
 **先生**: ヤマレコも同様だ。ヤマレコはGarmin対応GPXの出力にも対応している。
 
-**参考情報**: 「ヤマレコはGarmin対応GPXファイルの書き出しに対応しており、複数日や複数トラックへの対応も考慮されています。」<details><summary>出典</summary>`https://www.yamareco.com/`</details>
+> **参考情報**: 「ヤマレコはGarmin対応GPXファイルの書き出しに対応しており、複数日や複数トラックへの対応も考慮されています。」<details><summary>出典</summary>`https://www.yamareco.com/`</details>
 
 **JK**: なるほど、完全に独立してるわけじゃないんですね。ちょっと面倒だけど、できないよりマシかな。
 
@@ -435,7 +435,7 @@ Tags: Guide, Electronics
 
 **JK**: やっぱりそこですよね…学生には厳しい。
 
-**参考情報**: 「ガーミンのスマートウォッチは、特に登山向けの高性能モデルになると高価になる傾向があります。」<details><summary>出典</summary>`https://yamano-media.com/`</details>
+> **参考情報**: 「ガーミンのスマートウォッチは、特に登山向けの高性能モデルになると高価になる傾向があります。」<details><summary>出典</summary>`https://yamano-media.com/`</details>
 
 ### 2. 多機能すぎて使いこなせない
 
@@ -453,13 +453,13 @@ Tags: Guide, Electronics
 
 **先生**: 最初は戸惑うかもしれないが、使い込めば問題ない。
 
-**参考情報**: 「Garmin Connectアプリは詳細なデータを提供しますが、UI（ユーザーインターフェース）が直感的ではなく、情報が多すぎて見づらいと感じるユーザーもいます。」<details><summary>出典</summary>`https://smartwatch-numa.com/`</details>
+> **参考情報**: 「Garmin Connectアプリは詳細なデータを提供しますが、UI（ユーザーインターフェース）が直感的ではなく、情報が多すぎて見づらいと感じるユーザーもいます。」<details><summary>出典</summary>`https://smartwatch-numa.com/`</details>
 
 ### 4. YAMAP・ヤマレコと直接連携できない
 
 **先生**: さっき説明した通りだ。GPX経由の手間がかかる。
 
-**参考情報**: 「YAMAPやヤマレコといった日本の主要な登山アプリとの直接的な連携はできない場合が多く、登山計画のデータをGarminにダウンロードする際に手間がかかることがあります。」<details><summary>出典</summary>`https://yamano-media.com/`</details>
+> **参考情報**: 「YAMAPやヤマレコといった日本の主要な登山アプリとの直接的な連携はできない場合が多く、登山計画のデータをGarminにダウンロードする際に手間がかかることがあります。」<details><summary>出典</summary>`https://yamano-media.com/`</details>
 
 ### 5. サイズが大きい
 

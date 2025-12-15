@@ -34,7 +34,7 @@ Tags: Apparel, Guide
 
 **先生**: それが大問題なんだよ。一般的なインナーは汗を「吸う」だけで終わり。でも登山用ベースレイヤーは汗を「吸って、外に出して、乾かす」まで面倒を見てくれる。この違いが命に関わることもある。
 
-**参考情報**: 「登山では、気象条件や運動量に応じてウェアを重ね着する「レイヤリング」が基本です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaLpHKXlkXYEeD4lJX_JefVepvdMjSUV15WzIOIEB_7QVBOD3IkuOy1HWVrKUpGSnA7QpqfzDpvrnDYXTCzErMxPruWbI8Dpx3lQ3wqbKMJ9bbGle_lDexyYnCJcbayZXI89Hbx09jRWcGbVI=`</details>
+> **参考情報**: 「登山では、気象条件や運動量に応じてウェアを重ね着する「レイヤリング」が基本です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaLpHKXlkXYEeD4lJX_JefVepvdMjSUV15WzIOIEB_7QVBOD3IkuOy1HWVrKUpGSnA7QpqfzDpvrnDYXTCzErMxPruWbI8Dpx3lQ3wqbKMJ9bbGle_lDexyYnCJcbayZXI89Hbx09jRWcGbVI=`</details>
 
 **JK**: 命って大げさじゃないですか…？
 
@@ -86,7 +86,7 @@ Tags: Apparel, Guide
 
 **先生**: 繊維の中に微多孔質の粒子を練り込んでいて、これが繊維の表面積を増やすことで蒸発を早めるんだ。
 
-**参考情報**: 「FlashDry技術は、繊維に微多孔質粒子を埋め込むことで繊維表面積を拡大し、蒸発を促進します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWtQg0Ft39KTq3S0gfGnjJxSSy_3Zd3haffbISXVo_LhotVU0oUUst_Hpp4Y9FzaWJpe8mg1dTOMabwTbED9d0rsiwOMlTrABVO-3CP1ObgF6y8fL3Rgcjj8N6O_vkbdaYdjiObA931v892lSVdGncU8tX3p7lb14itwycfVMNsqKvpJyW4uUq63rIlDMC4eBa7K9hNTJqxlatOr15cejj0nQ=`</details>
+> **参考情報**: 「FlashDry技術は、繊維に微多孔質粒子を埋め込むことで繊維表面積を拡大し、蒸発を促進します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWtQg0Ft39KTq3S0gfGnjJxSSy_3Zd3haffbISXVo_LhotVU0oUUst_Hpp4Y9FzaWJpe8mg1dTOMabwTbED9d0rsiwOMlTrABVO-3CP1ObgF6y8fL3Rgcjj8N6O_vkbdaYdjiObA931v892lSVdGncU8tX3p7lb14itwycfVMNsqKvpJyW4uUq63rIlDMC4eBa7K9hNTJqxlatOr15cejj0nQ=`</details>
 
 **JK**: びこうしつ…？もうちょっと簡単に言ってもらっていいですか？
 
@@ -100,7 +100,7 @@ Tags: Apparel, Guide
 
 **先生**: 次に**Dry Dot**。これはより本格的な登山向けのテクノロジーだ。
 
-**参考情報**: 「肌に触れる面はっ水性のある糸を使用したドライ層、表面は汗を素早く拡散・乾燥させる吸水層で構成されたダブルニット構造です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeK8P6Ary9jiyvq_WVHJv17I0qecNy151GnPZCH3VBhuFAx3ZSHFkK31ocWe8sBdLASh9loCHRruJ1wBPWLlEJyXP3dCmDzARJuOJ3qWTyYd43JzN6HzY1ZrnIlMc6aj3ii5oR43-w0z0=`</details>
+> **参考情報**: 「肌に触れる面はっ水性のある糸を使用したドライ層、表面は汗を素早く拡散・乾燥させる吸水層で構成されたダブルニット構造です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeK8P6Ary9jiyvq_WVHJv17I0qecNy151GnPZCH3VBhuFAx3ZSHFkK31ocWe8sBdLASh9loCHRruJ1wBPWLlEJyXP3dCmDzARJuOJ3qWTyYd43JzN6HzY1ZrnIlMc6aj3ii5oR43-w0z0=`</details>
 
 **JK**: ダブルニット構造…また呪文きた。
 
@@ -120,7 +120,7 @@ Tags: Apparel, Guide
 
 **先生**: もう一つ重要なのが**ポリプロピレン**を使った構造だ。
 
-**参考情報**: 「肌面には水分を含まないポリプロピレン、表側には吸汗速乾性を持つポリエステルを配置したダブルフェイス構造。身体から出た汗を素早くウェア表面へシフトさせ、肌に水分を残しません。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELHzL2wCYe9cvD4ZSt6tKHT9vwWkCIbWIYPMCx2ROGXGq0BfbgUqmC50isMv2q4NdGjfNkeqaAdGBezgTMPTTVntY-K78qvSMt5E1ViIxPqfq7OH2y8xYiOS0r9TtYiAAZVG0Yc_PsQw==`</details>
+> **参考情報**: 「肌面には水分を含まないポリプロピレン、表側には吸汗速乾性を持つポリエステルを配置したダブルフェイス構造。身体から出た汗を素早くウェア表面へシフトさせ、肌に水分を残しません。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELHzL2wCYe9cvD4ZSt6tKHT9vwWkCIbWIYPMCx2ROGXGq0BfbgUqmC50isMv2q4NdGjfNkeqaAdGBezgTMPTTVntY-K78qvSMt5E1ViIxPqfq7OH2y8xYiOS0r9TtYiAAZVG0Yc_PsQw==`</details>
 
 **JK**: ポリプロピレンって…なんかプラスチックっぽい名前ですね。
 
@@ -136,7 +136,7 @@ Tags: Apparel, Guide
 
 **先生**: おばあちゃん、正しいぞ。**メリノウール**は最高級の天然素材だ。
 
-**参考情報**: 「100%メリノウールを使用しており、柔らかく肌触りが良いのが特徴です。人間の髪の毛よりも細い17～25マイクロメートルの繊維が、肌へのチクチク感を軽減します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2c4I1lIjPwm5ilPyoSOKxNHt9OrKwu9pr-s1z7HPxBndbj2uQD28beecEfdLsbAeuhhZdZRiZZKU4PNgdryxCX0tZDNEwmAZFDrhvNHAfWXE6gHg-5xFEDNduYz4ZOoAk7eQLe1CXbnTJPQ6cDiJo77f6LQ==`</details>
+> **参考情報**: 「100%メリノウールを使用しており、柔らかく肌触りが良いのが特徴です。人間の髪の毛よりも細い17～25マイクロメートルの繊維が、肌へのチクチク感を軽減します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2c4I1lIjPwm5ilPyoSOKxNHt9OrKwu9pr-s1z7HPxBndbj2uQD28beecEfdLsbAeuhhZdZRiZZKU4PNgdryxCX0tZDNEwmAZFDrhvNHAfWXE6gHg-5xFEDNduYz4ZOoAk7eQLe1CXbnTJPQ6cDiJo77f6LQ==`</details>
 
 **JK**: ウールってチクチクするイメージあるんですけど…。
 
@@ -178,7 +178,7 @@ Tags: Apparel, Guide
 
 **先生**: トレイルランニングや夏の登山で最も使いやすいのがこれだ。
 
-**参考情報**: 「THE NORTH FACE独自の「DRY DOTテクノロジー」や「FLASHDRY」を採用しており、肌面にはっ水糸を使用することで、汗を素早く生地表面に吸い上げて拡散し、ドライ感を保ちます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY1qd0Ocw11bVnemOuNpMYS8z4Z2FtD7UQkB3ivH3WIHtWYw_1V0PZkBR6gINWqRxQVe92WeRwLF1fhmyz6pXasVxCFoJAwp4JjiL8zU1iOIFbbLiSAFWl`</details>
+> **参考情報**: 「THE NORTH FACE独自の「DRY DOTテクノロジー」や「FLASHDRY」を採用しており、肌面にはっ水糸を使用することで、汗を素早く生地表面に吸い上げて拡散し、ドライ感を保ちます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY1qd0Ocw11bVnemOuNpMYS8z4Z2FtD7UQkB3ivH3WIHtWYw_1V0PZkBR6gINWqRxQVe92WeRwLF1fhmyz6pXasVxCFoJAwp4JjiL8zU1iOIFbbLiSAFWl`</details>
 
 **JK**: ドライドットって、さっき説明してた二層構造のやつですよね？
 
@@ -210,7 +210,7 @@ Tags: Apparel, Guide
 
 **先生**: 汗冷え対策を徹底したいならこのモデルだ。
 
-**参考情報**: 「吸汗性と通気性に優れ、汗を素早く吸収して乾かすため、汗冷えしにくいのが特徴です。ストレッチ性も高く、ハードな登山にもおすすめです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWifIKI3WXQE47FJejiik1DUO6XEMBQFD_5Efm6gUu0DKIheBJ5QIHiH4APHlAaeOqx4hnnkel6DBg0u-cCPui4eTmaKa5Ae2tkEB6K-4S_RP7Sl0EkOa1bGdvjQHQWlOCcv4Tto0tYp1emmcl`</details>
+> **参考情報**: 「吸汗性と通気性に優れ、汗を素早く吸収して乾かすため、汗冷えしにくいのが特徴です。ストレッチ性も高く、ハードな登山にもおすすめです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWifIKI3WXQE47FJejiik1DUO6XEMBQFD_5Efm6gUu0DKIheBJ5QIHiH4APHlAaeOqx4hnnkel6DBg0u-cCPui4eTmaKa5Ae2tkEB6K-4S_RP7Sl0EkOa1bGdvjQHQWlOCcv4Tto0tYp1emmcl`</details>
 
 #### 主なスペック
 
@@ -256,7 +256,7 @@ Tags: Apparel, Guide
 
 **先生**: まずは一番スタンダードなモデルから。
 
-**参考情報**: 「肌面には水分を含まないポリプロピレン、表側には吸汗速乾性を持つポリエステルを配置。通気性の高いグリッド状組織デザインと、疎水と吸水という異なる性質を組み合わせたダブルフェイス構造を採用し、運動時の快適さを向上させます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELHzL2wCYe9cvD4ZSt6tKHT9vwWkCIbWIYPMCx2ROGXGq0BfbgUqmC50isMv2q4NdGjfNkeqaAdGBezgTMPTTVntY-K78qvSMt5E1ViIxPqfq7OH2y8xYiOS0r9TtYiAAZVG0Yc_PsQw==`</details>
+> **参考情報**: 「肌面には水分を含まないポリプロピレン、表側には吸汗速乾性を持つポリエステルを配置。通気性の高いグリッド状組織デザインと、疎水と吸水という異なる性質を組み合わせたダブルフェイス構造を採用し、運動時の快適さを向上させます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELHzL2wCYe9cvD4ZSt6tKHT9vwWkCIbWIYPMCx2ROGXGq0BfbgUqmC50isMv2q4NdGjfNkeqaAdGBezgTMPTTVntY-K78qvSMt5E1ViIxPqfq7OH2y8xYiOS0r9TtYiAAZVG0Yc_PsQw==`</details>
 
 #### 主なスペック
 
@@ -287,7 +287,7 @@ Tags: Apparel, Guide
 
 **先生**: より本格的な登山をするなら、このモデルがおすすめだ。
 
-**参考情報**: 「行動時間や運動量が多い遠征、および気温や天候変化が激しい高所での着用を想定した高機能テクニカルベースレイヤーです。汗冷えを防ぎ、肌を常にドライで快適に保つことを目的としています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKeTuMSh0raiQ_bhh8qZ2izM6zUVGKAF3qJGzdVCVe4mb3eQQFvFaAEYoka52V4J59N3GswZ3sqhgavu1PzH-3EBDwQ2BNncXSuxOk3jzvkDNSC4pJJcVRgFvkU5gqZs4Y7iyIayFyEA==`</details>
+> **参考情報**: 「行動時間や運動量が多い遠征、および気温や天候変化が激しい高所での着用を想定した高機能テクニカルベースレイヤーです。汗冷えを防ぎ、肌を常にドライで快適に保つことを目的としています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKeTuMSh0raiQ_bhh8qZ2izM6zUVGKAF3qJGzdVCVe4mb3eQQFvFaAEYoka52V4J59N3GswZ3sqhgavu1PzH-3EBDwQ2BNncXSuxOk3jzvkDNSC4pJJcVRgFvkU5gqZs4Y7iyIayFyEA==`</details>
 
 **JK**: エクスペディションって遠征のことですよね。なんか本格的…。
 
@@ -324,7 +324,7 @@ Tags: Apparel, Guide
 
 **先生**: 厳冬期の登山や、極端に寒がりな人向けの最強保温モデルがこれだ。
 
-**参考情報**: 「特殊な起毛加工によりかさ高を持たせ、たっぷりと空気を含むことで高い保温力を発揮します。さらに、遠赤外線効果で身体を温める光電子®繊維（アクリルとウールの混紡バルキー糸）が使用されており、効率的な保温効果が期待できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDizuR5dtzFZ4q5gOetIfoe-yHdKvZ14SSXRdQuAzhWEF1chkWrbeeQexzdfKPCvllCU87yeSYikS6nbz2BRgzjehx2RzZa29fXRnV3cDLMXcOntppCQ2sKRt1vjWDT-WwAQ0SkNytoQ==`</details>
+> **参考情報**: 「特殊な起毛加工によりかさ高を持たせ、たっぷりと空気を含むことで高い保温力を発揮します。さらに、遠赤外線効果で身体を温める光電子®繊維（アクリルとウールの混紡バルキー糸）が使用されており、効率的な保温効果が期待できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDizuR5dtzFZ4q5gOetIfoe-yHdKvZ14SSXRdQuAzhWEF1chkWrbeeQexzdfKPCvllCU87yeSYikS6nbz2BRgzjehx2RzZa29fXRnV3cDLMXcOntppCQ2sKRt1vjWDT-WwAQ0SkNytoQ==`</details>
 
 **JK**: 光電子…なんかSFっぽい！
 
@@ -355,7 +355,7 @@ Tags: Apparel, Guide
 
 **先生**: 化繊が苦手な人や、長期縦走する人にはこのメリノウールモデルがおすすめだ。
 
-**参考情報**: 「メリノウールの繊維が持つ「クリンプ」と呼ばれる縮れが多くの空気を閉じ込めるため、高い保温性を発揮し、寒い時期の登山などに適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeqTMuhqyuqKsKn5esJ7lnqzy7equE91VrgTEMyzbeWQUv5I-Pg6Zrl_0jE-6F3fpkbN85moDQrHCSkLYq_f1RFgfLME-q_B4hrX-prVbhrNycqj-NlpJb-u2z1nR9ZQjinK4=`</details>
+> **参考情報**: 「メリノウールの繊維が持つ「クリンプ」と呼ばれる縮れが多くの空気を閉じ込めるため、高い保温性を発揮し、寒い時期の登山などに適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeqTMuhqyuqKsKn5esJ7lnqzy7equE91VrgTEMyzbeWQUv5I-Pg6Zrl_0jE-6F3fpkbN85moDQrHCSkLYq_f1RFgfLME-q_B4hrX-prVbhrNycqj-NlpJb-u2z1nR9ZQjinK4=`</details>
 
 #### 主なスペック
 
@@ -418,7 +418,7 @@ Tags: Apparel, Guide
 
 **先生**: だから高山に行く時は、両方持っていって使い分けるのがベストだ。
 
-**参考情報**: 「ショートスリーブは、主に春から秋にかけての運動量が多い時期や、発汗量の多いアクティビティに適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWifIKI3WXQE47FJejiik1DUO6XEMBQFD_5Efm6gUu0DKIheBJ5QIHiH4APHlAaeOqx4hnnkel6DBg0u-cCPui4eTmaKa5Ae2tkEB6K-4S_RP7Sl0EkOa1bGdvjQHQWlOCcv4Tto0tYp1emmcl`</details>
+> **参考情報**: 「ショートスリーブは、主に春から秋にかけての運動量が多い時期や、発汗量の多いアクティビティに適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWifIKI3WXQE47FJejiik1DUO6XEMBQFD_5Efm6gUu0DKIheBJ5QIHiH4APHlAaeOqx4hnnkel6DBg0u-cCPui4eTmaKa5Ae2tkEB6K-4S_RP7Sl0EkOa1bGdvjQHQWlOCcv4Tto0tYp1emmcl`</details>
 
 ---
 
@@ -469,7 +469,7 @@ Tags: Apparel, Guide
 
 **先生**: ここ数年のノースフェイスの動向についても触れておこう。
 
-**参考情報**: 「2024年および2025年のザ・ノース・フェイスのベースレイヤー製品は、汗処理機能の進化に注力しており、水分を吸収しない疎水性素材や、糸の段階から撥水加工を施したポリエステル糸を肌面に使用した「汗処理重視」の製品が増えています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbXr2TyKlTtlomEAfEmSPR4np2_u-e6yEorsLzCzoXsRiMw3eoX83Srb8h8GIdJeDJsK95jLFdw02Om632qoNkgh0L_Vr2mcRayMcG2o-2HI_i549HboF9_kcBqdX18qTTOvE6i1Ds_oS3j4MWMHiJtPpUUL7kRIX9QSg0kxAma2QxPytFjUKD`</details>
+> **参考情報**: 「2024年および2025年のザ・ノース・フェイスのベースレイヤー製品は、汗処理機能の進化に注力しており、水分を吸収しない疎水性素材や、糸の段階から撥水加工を施したポリエステル糸を肌面に使用した「汗処理重視」の製品が増えています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbXr2TyKlTtlomEAfEmSPR4np2_u-e6yEorsLzCzoXsRiMw3eoX83Srb8h8GIdJeDJsK95jLFdw02Om632qoNkgh0L_Vr2mcRayMcG2o-2HI_i549HboF9_kcBqdX18qTTOvE6i1Ds_oS3j4MWMHiJtPpUUL7kRIX9QSg0kxAma2QxPytFjUKD`</details>
 
 **JK**: 最新トレンドとかあるんですか？
 

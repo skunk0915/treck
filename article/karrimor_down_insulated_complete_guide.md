@@ -71,7 +71,7 @@ Tags: Wear, Down, Guide
 | 700FP | 高品質 | featherlite down parka |
 | 650FP | 良質 | nevis、eday、global |
 
-**参考情報**: 「超軽量で耐久性のある極薄シェル素材に、最高クラスの1000FPダウンを封入したモデルです。」<details><summary>出典</summary>`https://goout.jp`</details>
+> **参考情報**: 「超軽量で耐久性のある極薄シェル素材に、最高クラスの1000FPダウンを封入したモデルです。」<details><summary>出典</summary>`https://goout.jp`</details>
 
 **JK**: 1000FPって希少なんですか？
 
@@ -107,7 +107,7 @@ Tags: Wear, Down, Guide
 - 価格：52,800円（税込）
 - カラー：K.Orange、Steel Blue、Black
 
-**参考情報**: 「積雪期に身体を保護する高い保温性を持つダウンジャケットです。800フィルパワーのダウンが封入されており、山行時に便利な軽量素材が採用されています。」<details><summary>出典</summary>`https://digitalpr.jp`</details>
+> **参考情報**: 「積雪期に身体を保護する高い保温性を持つダウンジャケットです。800フィルパワーのダウンが封入されており、山行時に便利な軽量素材が採用されています。」<details><summary>出典</summary>`https://digitalpr.jp`</details>
 
 **JK**: 5万円超え…高いですね。
 
@@ -159,7 +159,7 @@ Tags: Wear, Down, Guide
 - 素材：10D×30Dリサイクルナイロンリップストップ
 - 価格：46,200円（税込）
 
-**参考情報**: 「軽量でコンパクト性に優れ、通年で使用可能なダウンジャケットです。ポーランド産の900フィルパワーダウンが封入されており、インナーダウンとしても活用できる想定で、着ぶくれを防ぎつつ高い保温性を実現しています。」<details><summary>出典</summary>`https://karrimor.jp`</details>
+> **参考情報**: 「軽量でコンパクト性に優れ、通年で使用可能なダウンジャケットです。ポーランド産の900フィルパワーダウンが封入されており、インナーダウンとしても活用できる想定で、着ぶくれを防ぎつつ高い保温性を実現しています。」<details><summary>出典</summary>`https://karrimor.jp`</details>
 
 **JK**: ちなみに、デザイン的な特徴はありますか？
 
@@ -210,7 +210,7 @@ Tags: Wear, Down, Guide
 - 価格：39,600円（税込）
 - カラー：Black、Khaki、Stone
 
-**参考情報**: 「表生地には100回の洗濯でもはっ水性能を維持する『ダントツ撥水』加工が施されており、マットな生地感と左腕のワッペンがデザインのアクセントになっています。」<details><summary>出典</summary>`https://karrimor.jp`</details>
+> **参考情報**: 「表生地には100回の洗濯でもはっ水性能を維持する『ダントツ撥水』加工が施されており、マットな生地感と左腕のワッペンがデザインのアクセントになっています。」<details><summary>出典</summary>`https://karrimor.jp`</details>
 
 **JK**: 39,600円！4万円切ってるんですね。これなら買えるかも…！
 
@@ -258,7 +258,7 @@ Tags: Wear, Down, Guide
 - 素材：20Dリップストップナイロン
 - 価格：32,400〜35,200円
 
-**参考情報**: 「保温性とコンパクト性に優れたカリマーの定番ライトダウンパーカーです。700FPのダウンを210g充填し、軽量性と携帯性を両立しています。」<details><summary>出典</summary>`https://goout.jp`</details>
+> **参考情報**: 「保温性とコンパクト性に優れたカリマーの定番ライトダウンパーカーです。700FPのダウンを210g充填し、軽量性と携帯性を両立しています。」<details><summary>出典</summary>`https://goout.jp`</details>
 
 **JK**: デメリットはありますか？
 
@@ -310,7 +310,7 @@ Tags: Wear, Down, Guide
 - 重量：約200g（Mサイズ）
 - 素材：7Dリップストップナイロン
 
-**参考情報**: 「超軽量で耐久性のある極薄シェル素材に、最高クラスの1000FPダウンを封入したモデルです。腕の可動域にこだわった立体裁断が施されています。」<details><summary>出典</summary>`https://goout.jp`</details>
+> **参考情報**: 「超軽量で耐久性のある極薄シェル素材に、最高クラスの1000FPダウンを封入したモデルです。腕の可動域にこだわった立体裁断が施されています。」<details><summary>出典</summary>`https://goout.jp`</details>
 
 **JK**: 価格は…？
 
@@ -358,7 +358,7 @@ Tags: Wear, Down, Guide
 - 透湿度：10,000g/m²/24h
 - 特徴：防水シーム処理、ロールアップ式フード
 
-**参考情報**: 「表地には防水透湿素材『Weathertite 2L』または『WEATHERTITE』が採用されており、突然の雨や雪にも対応します。」<details><summary>出典</summary>`https://brownfloor.jp`</details>
+> **参考情報**: 「表地には防水透湿素材『Weathertite 2L』または『WEATHERTITE』が採用されており、突然の雨や雪にも対応します。」<details><summary>出典</summary>`https://brownfloor.jp`</details>
 
 #### こんな人におすすめ
 - 天候が変わりやすい山域での登山が多い人
@@ -394,7 +394,7 @@ Tags: Wear, Down, Guide
 - 価格：34,980円（税込）
 - 特徴：撥水加工、ダブルジップ、ラウンドテール
 
-**参考情報**: 「ダイヤキルトは見た目のデザインだけでなく、横方向のダウンパック構造に比べて羽の偏りを防ぎ、横方向のつっぱりを軽減する効果があります。」<details><summary>出典</summary>`https://gizmodo.jp`</details>
+> **参考情報**: 「ダイヤキルトは見た目のデザインだけでなく、横方向のダウンパック構造に比べて羽の偏りを防ぎ、横方向のつっぱりを軽減する効果があります。」<details><summary>出典</summary>`https://gizmodo.jp`</details>
 
 **JK**: 34,980円！意外とお手頃ですね。
 
@@ -482,7 +482,7 @@ Tags: Wear, Down, Guide
 - サイズ：ユニセックス S、M、L、XL
 - 特徴：ストレッチ素材、ダブルフラップ、インナーカフ、抗菌ポケット
 
-**参考情報**: 「カリマー最強のオーバーダウンと評されており、防水性のある生地を使用し、あらゆる状況下で保温性を維持します。背中には通気性とストレッチ性を持つ素材が採用されており、ウェア内の湿気を快適に保ちます。」<details><summary>出典</summary>`https://yamahack.com`</details>
+> **参考情報**: 「カリマー最強のオーバーダウンと評されており、防水性のある生地を使用し、あらゆる状況下で保温性を維持します。背中には通気性とストレッチ性を持つ素材が採用されており、ウェア内の湿気を快適に保ちます。」<details><summary>出典</summary>`https://yamahack.com`</details>
 
 **JK**: 55,000円…やっぱり高いですね。
 

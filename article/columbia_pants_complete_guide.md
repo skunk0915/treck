@@ -79,7 +79,7 @@ Tags: Pants, Guide
 
 **先生**: そうだ。そして、防汚性も侮れない。泥が跳ねても、生地に染み込まずに表面で水滴のように転がる。帰宅後の洗濯も楽になる。
 
-**参考情報**: 「オムニシールドは、液体（170°F未満）が生地に染み込むのを防ぎ、水や汚れをはじきます。これにより、液体が生地の表面で水滴となって転がり落ち、シミになるのを防ぎます。」（出典: https://www.columbia.com/omni-shield-technology/）
+> **参考情報**: 「オムニシールドは、液体（170°F未満）が生地に染み込むのを防ぎ、水や汚れをはじきます。これにより、液体が生地の表面で水滴となって転がり落ち、シミになるのを防ぎます。」（出典: https://www.columbia.com/omni-shield-technology/）
 
 ### オムニテック (Omni-Tech)
 
@@ -105,7 +105,7 @@ Tags: Pants, Guide
 
 **先生**: 要は、自分がどんな環境で使うか次第だ。雨が多い梅雨時期の登山や、雪山での使用を考えているなら、オムニテックを選ぶべきだ。
 
-**参考情報**: 「Omni-Tech employs a multi-layered construction to keep water out. It features an exterior Omni-Shield layer that repels most water, preventing it from saturating the fabric. Beneath this, a microporous membrane acts as the primary barrier, completely blocking water molecules from penetrating the garment.」（出典: https://www.youtube.com/watch?v=omnitech-demo）
+> **参考情報**: 「Omni-Tech employs a multi-layered construction to keep water out. It features an exterior Omni-Shield layer that repels most water, preventing it from saturating the fabric. Beneath this, a microporous membrane acts as the primary barrier, completely blocking water molecules from penetrating the garment.」（出典: https://www.youtube.com/watch?v=omnitech-demo）
 
 ### オムニヒート (Omni-Heat)
 
@@ -131,7 +131,7 @@ Tags: Pants, Guide
 
 **先生**: ざっくり言うとそうだ。ただ、適度に動く登山やスノーシューでは、オムニヒートの保温効果は非常に高い。実際に、真冬の山でオムニヒートのパンツを履いたところ、従来のパンツよりも明らかに暖かかった。
 
-**参考情報**: 「Users have praised these pants for their warmth, flexibility, and suitability for activities like snowshoeing and cross-country skiing, even in very cold temperatures.」（出典: https://www.zappos.com/columbia-kick-turner-insulated-pants/）
+> **参考情報**: 「Users have praised these pants for their warmth, flexibility, and suitability for activities like snowshoeing and cross-country skiing, even in very cold temperatures.」（出典: https://www.zappos.com/columbia-kick-turner-insulated-pants/）
 
 ### その他のオムニ技術
 
@@ -210,7 +210,7 @@ Tags: Pants, Guide
 
 **先生**: シルバーリッジには、残念ながらオムニシールドが搭載されていない。撥水加工も最小限だ。
 
-**参考情報**: 「They have light weather resistance, meaning they are not water-resistant and can wet through easily. However, their thin fabric allows them to dry quickly.」（出典: https://www.cleverhiker.com/columbia-silver-ridge-pants/）
+> **参考情報**: 「They have light weather resistance, meaning they are not water-resistant and can wet through easily. However, their thin fabric allows them to dry quickly.」（出典: https://www.cleverhiker.com/columbia-silver-ridge-pants/）
 
 **JK**: じゃあ、雨が降ったらどうするんですか?
 
@@ -281,7 +281,7 @@ Tags: Pants, Guide
 
 **先生**: 速乾性と軽量性を追求した結果、生地の厚さを犠牲にしている。ナイロンは熱に弱いから、火には十分注意が必要だ。
 
-**参考情報**: 「生地が薄いため、焚き火やタバコの火などには注意が必要で、簡単に穴が開く可能性があるとの指摘があります。」（出典: https://review.rakuten.co.jp/columbia-time-to-trail/）
+> **参考情報**: 「生地が薄いため、焚き火やタバコの火などには注意が必要で、簡単に穴が開く可能性があるとの指摘があります。」（出典: https://review.rakuten.co.jp/columbia-time-to-trail/）
 
 **JK**: キャンプで焚き火するときは別のパンツにした方がいいってことですね。
 
@@ -323,7 +323,7 @@ Tags: Pants, Guide
 
 **先生**: 登山では「濡れ=命の危険」と考えるべきだ。だからこそ、レインパンツは必携装備なんだ。
 
-**参考情報**: 「Omni-Tech gear is specifically designed to block out rain while providing sufficient ventilation to regulate body temperature. It has been tested and proven to perform effectively in wet conditions, offering guaranteed waterproof and breathable protection.」（出典: https://www.columbia.com/omni-tech-technology/）
+> **参考情報**: 「Omni-Tech gear is specifically designed to block out rain while providing sufficient ventilation to regulate body temperature. It has been tested and proven to perform effectively in wet conditions, offering guaranteed waterproof and breathable protection.」（出典: https://www.columbia.com/omni-tech-technology/）
 
 #### 主なスペック
 
@@ -390,7 +390,7 @@ Tags: Pants, Guide
 
 **先生**: 使用者のレビューでは、マイナス10度以下でも暖かかったという声が多い。特に「Kick Turner™ Insulated Pants」は、スノーシューやクロスカントリースキーで絶賛されている。
 
-**参考情報**: 「Users have praised these pants for their warmth, flexibility, and suitability for activities like snowshoeing and cross-country skiing, even in very cold temperatures.」（出典: https://www.zappos.com/columbia-kick-turner-insulated-pants/）
+> **参考情報**: 「Users have praised these pants for their warmth, flexibility, and suitability for activities like snowshoeing and cross-country skiing, even in very cold temperatures.」（出典: https://www.zappos.com/columbia-kick-turner-insulated-pants/）
 
 **JK**: すごい! じゃあ、冬はそれ一択ですね。
 
@@ -461,7 +461,7 @@ Tags: Pants, Guide
 
 **先生**: そうだ。ただ、雪山ではハードシェルが必須になる。雪が溶けて水になり、パンツを濡らすからだ。
 
-**参考情報**: 「ソフトシェルパンツは、その名の通り「柔らかい」シェル素材で作られており、高いストレッチ性と快適な着心地が特徴です。一方、ハードシェルパンツは、厳しい気象条件下での使用を想定して設計されており、高い防水性と防風性が最大の特長です。」（出典: https://campify.jp/softshell-vs-hardshell-pants/）
+> **参考情報**: 「ソフトシェルパンツは、その名の通り「柔らかい」シェル素材で作られており、高いストレッチ性と快適な着心地が特徴です。一方、ハードシェルパンツは、厳しい気象条件下での使用を想定して設計されており、高い防水性と防風性が最大の特長です。」（出典: https://campify.jp/softshell-vs-hardshell-pants/）
 
 ---
 
@@ -513,7 +513,7 @@ Tags: Pants, Guide
 7. **脱水は軽めに**。強い脱水は避け、バスタオルで挟んで水分を吸い取る。
 8. **陰干しする**。直射日光は避ける。
 
-**参考情報**: 「撥水機能付きウェア専用洗剤の使用を推奨します。柔軟剤は撥水性能を著しく低下させる原因となるため、絶対に使用しないでください。」（出典: https://www.yamakei-online.com/outdoor-gear-wash/）
+> **参考情報**: 「撥水機能付きウェア専用洗剤の使用を推奨します。柔軟剤は撥水性能を著しく低下させる原因となるため、絶対に使用しないでください。」（出典: https://www.yamakei-online.com/outdoor-gear-wash/）
 
 **JK**: 柔軟剤がダメなんですか? いつも使ってるのに...。
 
@@ -523,7 +523,7 @@ Tags: Pants, Guide
 
 **先生**: オムニヒート製品は、さらに注意が必要だ。ドライクリーニングは避け、必ず水洗いすること。揉んだり擦ったりする過度な物理作用も避けるべきだ。
 
-**参考情報**: 「コロンビアのオムニヒート製品は、ドット状のアルミニウムがプリントされているため、ドライクリーニングは避け、水洗いを推奨しています。」（出典: https://columbia.zendesk.com/omni-heat-care/）
+> **参考情報**: 「コロンビアのオムニヒート製品は、ドット状のアルミニウムがプリントされているため、ドライクリーニングは避け、水洗いを推奨しています。」（出典: https://columbia.zendesk.com/omni-heat-care/）
 
 ### 撥水機能の復活方法
 
@@ -547,7 +547,7 @@ Tags: Pants, Guide
 
 **先生**: ああ。撥水加工の成分は、使用や洗濯で「寝てしまう」んだ。熱を加えることで、その成分が再び「起き上がり」、撥水性が戻る。
 
-**参考情報**: 「撥水機能の復活には「熱を加えること」が最も効果的な方法です。乾燥機、アイロン、ドライヤーを使用して、低温設定で熱を加えると撥水性が回復します。」（出典: https://daily-cleaners.com/how-to-restore-water-repellency/）
+> **参考情報**: 「撥水機能の復活には「熱を加えること」が最も効果的な方法です。乾燥機、アイロン、ドライヤーを使用して、低温設定で熱を加えると撥水性が回復します。」（出典: https://daily-cleaners.com/how-to-restore-water-repellency/）
 
 **JK**: すごい! じゃあ、買い替えなくても済むんですね。
 
@@ -573,7 +573,7 @@ Tags: Pants, Guide
 
 **先生**: パタゴニアは、廃棄漁網からリサイクルナイロンを作る「NetPlus®」技術や、PFCフリーのDWR加工（環境に優しい撥水加工）、Fair Trade認証（公正な労働条件）など、業界トップレベルの取り組みをしている。
 
-**参考情報**: 「Patagonia is a leader in sustainability, often using NetPlus® postconsumer recycled nylon made from discarded fishing nets and PFC-free DWR finishes.」（出典: https://www.patagonia.com/netplus-technology/）
+> **参考情報**: 「Patagonia is a leader in sustainability, often using NetPlus® postconsumer recycled nylon made from discarded fishing nets and PFC-free DWR finishes.」（出典: https://www.patagonia.com/netplus-technology/）
 
 **JK**: へぇ〜、すごいですね。でも、それって機能とは関係ないですよね?
 
@@ -599,7 +599,7 @@ Tags: Pants, Guide
 
 **先生**: そうだ。ただし、価格はコロンビアより1〜2割高い。同じ機能でも、ブランド料が上乗せされている感がある。
 
-**参考情報**: 「North Face pants generally fall into a mid-to-premium price range, often being more expensive than Columbia but potentially less than Patagonia.」（出典: https://www.quora.com/columbia-north-face-comparison/）
+> **参考情報**: 「North Face pants generally fall into a mid-to-premium price range, often being more expensive than Columbia but potentially less than Patagonia.」（出典: https://www.quora.com/columbia-north-face-comparison/）
 
 ### まとめ
 

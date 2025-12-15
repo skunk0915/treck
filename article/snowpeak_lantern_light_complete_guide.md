@@ -31,7 +31,7 @@ Tags: Lantern, Guide
 
 **先生**: はは、そう思うだろう。だがガスランタンには独特の魅力がある。特にギガパワーBFランタンの**170W相当**という明るさはLEDで実現するのは難しい。焚火の代わりにノクターンやニクスで炎を眺める、という楽しみ方もある。
 
-**参考情報**: 「スノーピークのランタンは大きく分けてガス式とLED式の2種類があります。LEDは電池または充電式で、ガス式はガスカートリッジを使用します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUcM2rSoVfeyDM6slcAUUBrOYypyzt2mTuuZUfls_AYA-A1gCpim63Z7ixELRAl8Lq6KYeSmp1XChg61OIcujB10o31ATbk0kkM9Je0z5JdTJHoFz0-WlvrdNWuw==`</details>
+> **参考情報**: 「スノーピークのランタンは大きく分けてガス式とLED式の2種類があります。LEDは電池または充電式で、ガス式はガスカートリッジを使用します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUcM2rSoVfeyDM6slcAUUBrOYypyzt2mTuuZUfls_AYA-A1gCpim63Z7ixELRAl8Lq6KYeSmp1XChg61OIcujB10o31ATbk0kkM9Je0z5JdTJHoFz0-WlvrdNWuw==`</details>
 
 ### スノーピークランタンの主なラインナップ
 
@@ -59,7 +59,7 @@ Tags: Lantern, Guide
 
 **先生**: デザインだけじゃなく機能も優れている。最大の特徴は**ゆらぎモード**だ。風や周囲の音に反応して光がゆらめく。本物のキャンドルのような揺らぎを再現している。
 
-**参考情報**: 「風や音に反応して光がゆらめき、まるで本物のろうそくの炎のように見えるモードです。これにより、癒やし効果や自然な雰囲気を楽しめます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEkjNXF-fXsbq_vWzsn5A71NaFTeQgG9h7EAQDCxdmkv_LZXWbWds8Wynzq4RrQx-IAMPmRXs5uVJH2yi05ta4qcZyQ2hGxZAhmHF8R3dK9THx2ldT9l-hB05REXhBwOXR41n9TZ65eNnzHUBnSS_c998hIxe6DzzX4WzrNyEcOjljdGo=`</details>
+> **参考情報**: 「風や音に反応して光がゆらめき、まるで本物のろうそくの炎のように見えるモードです。これにより、癒やし効果や自然な雰囲気を楽しめます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEkjNXF-fXsbq_vWzsn5A71NaFTeQgG9h7EAQDCxdmkv_LZXWbWds8Wynzq4RrQx-IAMPmRXs5uVJH2yi05ta4qcZyQ2hGxZAhmHF8R3dK9THx2ldT9l-hB05REXhBwOXR41n9TZ65eNnzHUBnSS_c998hIxe6DzzX4WzrNyEcOjljdGo=`</details>
 
 **JK**: えー！LEDなのに揺らぐんですか？それすごい！
 
@@ -105,7 +105,7 @@ Tags: Lantern, Guide
 
 **先生**: 2024年3月に発売された充電式モデルだ。**USB-C充電**に対応していて、電池交換の手間がなくなった。
 
-**参考情報**: 「リチャージャブルバッテリーを内蔵した充電式モデルです。USB Type-C端子を介して充電が可能で、自宅や車内での充電が手軽に行えます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhxaXGEj6gmCo56I77I2j4aIYIoPgKg0Bv0IZQ11RfdLHWOk0QhMFUElxI03HQt9i2_I0K9lvMHZ11TqTKsw65Rzp8SX21BhBKZ-lFyg6NaVWks-HHuamn3AuYM4wzePO1zxPKpUM=`</details>
+> **参考情報**: 「リチャージャブルバッテリーを内蔵した充電式モデルです。USB Type-C端子を介して充電が可能で、自宅や車内での充電が手軽に行えます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhxaXGEj6gmCo56I77I2j4aIYIoPgKg0Bv0IZQ11RfdLHWOk0QhMFUElxI03HQt9i2_I0K9lvMHZ11TqTKsw65Rzp8SX21BhBKZ-lFyg6NaVWks-HHuamn3AuYM4wzePO1zxPKpUM=`</details>
 
 **JK**: 充電式いいですね！ゴミも減るし。
 
@@ -131,7 +131,7 @@ Tags: Lantern, Guide
 
 **先生**: **上下に独立した光源**を持っている。上部ライトで天井を照らして間接照明にし、下部ライトでテーブルを直接照らす。つまり1台で2台分の役割を果たせる。
 
-**参考情報**: 「上下に光源を備えたユニークな設計が特徴です。大型のテントにも対応する高輝度でありながら、間接照明のような柔らかな光で空間を包み込みます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm_IvvFLJ9fgfgtEByRifXjPbbNYb8zQiu0mYalb3DrdNIhtCNQNhpq98FUytJzbnMm-AcrLN_buyjiZFJEnB149TRf7uxP2zOlrbuqCukUE6TKQMDSvRDULquVXfZorA=`</details>
+> **参考情報**: 「上下に光源を備えたユニークな設計が特徴です。大型のテントにも対応する高輝度でありながら、間接照明のような柔らかな光で空間を包み込みます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm_IvvFLJ9fgfgtEByRifXjPbbNYb8zQiu0mYalb3DrdNIhtCNQNhpq98FUytJzbnMm-AcrLN_buyjiZFJEnB149TRf7uxP2zOlrbuqCukUE6TKQMDSvRDULquVXfZorA=`</details>
 
 **JK**: えー、すごい！でも天井を照らすって意味あるんですか？
 
@@ -175,7 +175,7 @@ Tags: Lantern, Guide
 
 **先生**: 普通のLEDは白や暖色の単色だが、TLは**青紫からオレンジ、白へと変化**する光のパターンを持っている。日の出や日の入りをイメージした演出ができる。
 
-**参考情報**: 「昼白色とカラーLEDを搭載し、日の出や日の入りをイメージした青紫からオレンジ、白へと変化する光のパターンでロマンチックな雰囲気を演出できます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRnUzfTc74i3qjGKuxz1oclGCMDD0iYhWtb7AT2S1NySjwTFvnxV5BLQ7QGJvG5AUA1bKwnRfCfbpihGp6hOie7WRZn6itAz3B_kJI8XplItkQpvnBZO2_CrSXrkJFE-Kaw_lMAZuzQ-yUigY2ACTDV7aeD6Z7GUhCNaCmBkyKXMnRkHw1HechFuOWVcULUtNT8l-auyoyrKV2iKGEpjYrGbt71reL1NdS_5T3Q_9RWKKAwpAiHXNdHScDr4oo`</details>
+> **参考情報**: 「昼白色とカラーLEDを搭載し、日の出や日の入りをイメージした青紫からオレンジ、白へと変化する光のパターンでロマンチックな雰囲気を演出できます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRnUzfTc74i3qjGKuxz1oclGCMDD0iYhWtb7AT2S1NySjwTFvnxV5BLQ7QGJvG5AUA1bKwnRfCfbpihGp6hOie7WRZn6itAz3B_kJI8XplItkQpvnBZO2_CrSXrkJFE-Kaw_lMAZuzQ-yUigY2ACTDV7aeD6Z7GUhCNaCmBkyKXMnRkHw1HechFuOWVcULUtNT8l-auyoyrKV2iKGEpjYrGbt71reL1NdS_5T3Q_9RWKKAwpAiHXNdHScDr4oo`</details>
 
 **JK**: えー！それはエモすぎる！絶対インスタ映えする！
 
@@ -205,7 +205,7 @@ Tags: Lantern, Guide
 
 **先生**: HL（Hanging Light）はその名の通り吊り下げ式で、**最大1000ルーメン**という大光量を誇る。スノーピークのLEDランタンで最も明るい。
 
-**参考情報**: 「最大1000ルーメンの明るさを持つメインランタンとして活躍するハンギングライトです。上部のハンギングループで吊り下げて、サイト全体を明るく照らすことができます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjSuvRhOtxGU21YL2_zeUnlUyJc-qW1ZVjLHEh3iQ6prT0nzNIcdfKFunji7l6E90WfHXgMNCzBKl55NuFopSoZzz1aRB3JIttRDQJqiXpCI1RVsMQTkbXx6k6M0rMruQ8Z87TEo05aZoUPOHZtBs4`</details>
+> **参考情報**: 「最大1000ルーメンの明るさを持つメインランタンとして活躍するハンギングライトです。上部のハンギングループで吊り下げて、サイト全体を明るく照らすことができます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjSuvRhOtxGU21YL2_zeUnlUyJc-qW1ZVjLHEh3iQ6prT0nzNIcdfKFunji7l6E90WfHXgMNCzBKl55NuFopSoZzz1aRB3JIttRDQJqiXpCI1RVsMQTkbXx6k6M0rMruQ8Z87TEo05aZoUPOHZtBs4`</details>
 
 **JK**: 1000ルーメン！それはガスランタン並みですね。
 
@@ -242,7 +242,7 @@ Tags: Lantern, Guide
 
 **先生**: 小さな炎がゆらゆらと揺れて、キャンドルのような穏やかな光を放つ。ただし明るさはほとんどなく、テーブルを照らす程度だ。
 
-**参考情報**: 「小さな炎がテーブル上を明るく照らすガスランタンで、熱効率が良く、ガス缶の残量が少なくなっても長時間点灯します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbek4bSLd5-UlCcWMJzEr8atGHItgyhqw3jWXqoOKpBhkFtyJ3uFKv9vmMBoigYhAhMCLO43GpyGjkJpcFuMmQQ60CYCaKw8RyD29vSjBEx-mdMsJsTvJTuDQD`</details>
+> **参考情報**: 「小さな炎がテーブル上を明るく照らすガスランタンで、熱効率が良く、ガス缶の残量が少なくなっても長時間点灯します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbek4bSLd5-UlCcWMJzEr8atGHItgyhqw3jWXqoOKpBhkFtyJ3uFKv9vmMBoigYhAhMCLO43GpyGjkJpcFuMmQQ60CYCaKw8RyD29vSjBEx-mdMsJsTvJTuDQD`</details>
 
 **JK**: えー、それじゃ意味なくないですか？
 
@@ -277,7 +277,7 @@ Tags: Lantern, Guide
 
 **先生**: 1998年発売のスノーピーク初のガスランタンが**ギガパワーランタン 天 オート**だ。グッドデザイン賞も受賞している名作だな。
 
-**参考情報**: 「1998年にスノーピーク初のガスランタンとして登場し、高い評価を受けています。そのサイズからは想像できないほどの明るさを放ち、キャンプサイト全体を優しく照らすと評されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrlGeLvSwy9Ss77RS-q5N9KqdoLlT0MCzFy6FgANkj8rcY9Wy_mqf0LpxdIbr7SQz2aBBtDUJrxxI8liakLnIggfBubv1mSVUCMxawBrfWjt9tq8XlTprZ9QE9pcXlxNVIiDVKC45oB3hlDivdnpM1cgH0k9xDeQZKc_6qUC6pVjA=`</details>
+> **参考情報**: 「1998年にスノーピーク初のガスランタンとして登場し、高い評価を受けています。そのサイズからは想像できないほどの明るさを放ち、キャンプサイト全体を優しく照らすと評されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrlGeLvSwy9Ss77RS-q5N9KqdoLlT0MCzFy6FgANkj8rcY9Wy_mqf0LpxdIbr7SQz2aBBtDUJrxxI8liakLnIggfBubv1mSVUCMxawBrfWjt9tq8XlTprZ9QE9pcXlxNVIiDVKC45oB3hlDivdnpM1cgH0k9xDeQZKc_6qUC6pVjA=`</details>
 
 **JK**: 1998年って…私が生まれる前じゃないですか！すごいロングセラーですね。
 
@@ -321,7 +321,7 @@ Tags: Lantern, Guide
 
 **先生**: スノーピークのガスランタンで最も明るいのが**ギガパワー BFランタン**だ。**170W相当、2,700ルーメン**という大光量はキャンプサイト全体を照らせる。
 
-**参考情報**: 「170W相当という大光量を誇り、サイト全体を明るく照らすメインランタンとして設計されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7RCa_h-fYx3Fipordead01XnKrN5t7e28C3d5_R6Xsd1Uykz19umwVY0DT2P80nC2A4C0Sz55lCRcarMsNBlgmLXjODumErdfiE7HHq624za0L0wMpoV2aKXpw0mz0KslnmkxVI4=`</details>
+> **参考情報**: 「170W相当という大光量を誇り、サイト全体を明るく照らすメインランタンとして設計されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7RCa_h-fYx3Fipordead01XnKrN5t7e28C3d5_R6Xsd1Uykz19umwVY0DT2P80nC2A4C0Sz55lCRcarMsNBlgmLXjODumErdfiE7HHq624za0L0wMpoV2aKXpw0mz0KslnmkxVI4=`</details>
 
 **JK**: 170Wって、家のリビングの照明みたいじゃないですか？
 
@@ -368,7 +368,7 @@ Tags: Lantern, Guide
 
 **先生**: ギリシャ神話の夜の女神「ニュクス」から名付けられている。最大の特徴は**ノクターンの約3倍の大きな炎**を再現していることだ。
 
-**参考情報**: 「樹木が燃えるような大きな炎の揺らぎを再現することを特徴としています。ギリシャ神話の夜の女神「ニュクス」から名付けられました」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2HEC6Nd9WEsNMq6dXMDY1h2N_cupl2PntuSKy4cyjFtLK5NR0JQC0Gt6MyC8zCnFXRmqDk0IaGo00N47uDOd895RxXtvp4BGFYXyeArbT9EOOxHqcxB_AG4pBJ_k=`</details>
+> **参考情報**: 「樹木が燃えるような大きな炎の揺らぎを再現することを特徴としています。ギリシャ神話の夜の女神「ニュクス」から名付けられました」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2HEC6Nd9WEsNMq6dXMDY1h2N_cupl2PntuSKy4cyjFtLK5NR0JQC0Gt6MyC8zCnFXRmqDk0IaGo00N47uDOd895RxXtvp4BGFYXyeArbT9EOOxHqcxB_AG4pBJ_k=`</details>
 
 **JK**: 3倍！それは迫力ありそう。でも高そう…
 

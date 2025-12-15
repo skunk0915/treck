@@ -32,7 +32,7 @@ Tags: Safety, Guide
 
 **先生**: 統計データがある。埋没から15分以内に救出されれば生存率は約92〜93%だ。しかし、35分を過ぎると生存率は34%にまで急落する。
 
-**参考情報**: 「埋没から15分以内に救出された場合の生存率は約92%と非常に高い数値を示しています」<details><summary>出典</summary>`https://www.sangakui.jp/`</details>
+> **参考情報**: 「埋没から15分以内に救出された場合の生存率は約92%と非常に高い数値を示しています」<details><summary>出典</summary>`https://www.sangakui.jp/`</details>
 
 **JK**: え、35分で34%！？ それってほぼ3分の1しか助からないってことじゃないですか！
 
@@ -86,7 +86,7 @@ Tags: Safety, Guide
 
 **先生**: ふむ、160年以上の歴史があるわけだな。そして雪崩ビーコンの「Barryvox」シリーズは45年以上の歴史を持つ。多くの山岳ガイドやプロが使用しているブランドだ。
 
-**参考情報**: 「Mammut Barryvoxは長年の実績があり、多くのユーザーがその信頼性を評価しています」<details><summary>出典</summary>`https://note.com/`</details>
+> **参考情報**: 「Mammut Barryvoxは長年の実績があり、多くのユーザーがその信頼性を評価しています」<details><summary>出典</summary>`https://note.com/`</details>
 
 **JK**: へぇ〜。でも正直、歴史とか実績とか言われても、私にはピンとこないんですよね…。
 
@@ -106,7 +106,7 @@ Tags: Safety, Guide
 
 **先生**: 大きく変わった点は3つある。まず、薄型・軽量化。従来品と比較して22%薄く、14%軽くなった。
 
-**参考情報**: 「新モデルは従来品と比較して22%薄く、14%軽くなり、着用時のストレスを軽減」<details><summary>出典</summary>`https://prtimes.jp/main/html/rd/p/000000084.000032446.html`</details>
+> **参考情報**: 「新モデルは従来品と比較して22%薄く、14%軽くなり、着用時のストレスを軽減」<details><summary>出典</summary>`https://prtimes.jp/main/html/rd/p/000000084.000032446.html`</details>
 
 **JK**: 22%薄くなるってけっこうすごくないですか？ 実際に持ってみると違い分かります？
 
@@ -148,7 +148,7 @@ Tags: Safety, Guide
 
 **先生**: これが今回の目玉機能だ。捜索時に「早く動いてください」「膝の高さにデバイスを合わせてください」といった具体的な音声指示が流れる。
 
-**参考情報**: 「何をすべきかを具体的に指示する音声ガイダンスが追加されました。これにより、特に初心者でも直感的な捜索が可能になります」<details><summary>出典</summary>`https://steep.jp/news/mammut-barryvox-s2-2/`</details>
+> **参考情報**: 「何をすべきかを具体的に指示する音声ガイダンスが追加されました。これにより、特に初心者でも直感的な捜索が可能になります」<details><summary>出典</summary>`https://steep.jp/news/mammut-barryvox-s2-2/`</details>
 
 **JK**: えっ、ビーコンがしゃべるんですか！？ それは初心者にはありがたいかも…。
 
@@ -193,7 +193,7 @@ Tags: Safety, Guide
 - 機能が多すぎて初心者には使いこなせない可能性も
 - 2024年11月にリコールが発表された（電源・送信・捜索スイッチの製造上の問題）
 
-**参考情報**: 「2024年11月8日には、電源・送信・捜索スイッチの製造上の問題により、Barryvox 2およびBarryvox S2のリコールが発表されており、対象製品は点検・修理のためマムートに返送する必要があります」<details><summary>出典</summary>`https://beaconreviews.com/`</details>
+> **参考情報**: 「2024年11月8日には、電源・送信・捜索スイッチの製造上の問題により、Barryvox 2およびBarryvox S2のリコールが発表されており、対象製品は点検・修理のためマムートに返送する必要があります」<details><summary>出典</summary>`https://beaconreviews.com/`</details>
 
 **JK**: えっ、リコール！？ 買ったばかりなのに故障するってことですか？
 
@@ -219,7 +219,7 @@ Tags: Safety, Guide
 | 多重埋没者捜索 | 最大16名・高度なマーキング | 基本対応 |
 | カスタマイズ機能 | 充実 | 基本 |
 
-**参考情報**: 「Barryvox 2の価格は57,200円（税込）です」<details><summary>出典</summary>`https://prtimes.jp/`</details>
+> **参考情報**: 「Barryvox 2の価格は57,200円（税込）です」<details><summary>出典</summary>`https://prtimes.jp/`</details>
 
 **先生**: 基本的な性能——サイズ、重量、捜索範囲、アプリ連携——はS2と同じだ。違いは主に「捜索をサポートする機能」の部分だな。
 
@@ -257,7 +257,7 @@ Tags: Safety, Guide
 | **BCA** | Tracker S | 55m | シンプル操作、手頃な価格 | 約35,000円 |
 | **BCA** | Tracker 4 | 55m | 直感的操作、高速プロセッサ | 約45,000円 |
 
-**参考情報**: 「特にBarryvox S2は、プロフェッショナルや上級者向けに高い評価を得ており、70mの広範囲な捜索能力と優れたディスプレイが特徴」<details><summary>出典</summary>`https://switchbacktravel.com/`</details>
+> **参考情報**: 「特にBarryvox S2は、プロフェッショナルや上級者向けに高い評価を得ており、70mの広範囲な捜索能力と優れたディスプレイが特徴」<details><summary>出典</summary>`https://switchbacktravel.com/`</details>
 
 **JK**: BCAのTracker Sは35,000円！？ マムートの半額じゃないですか！
 
@@ -285,7 +285,7 @@ Tags: Safety, Guide
 
 **先生**: マムートのプローブは「Speed Lock」というテンショニングシステムを採用している。
 
-**参考情報**: 「緊急時に素早く組み立てできるよう設計されており、カチッという音でロックを確認できます」<details><summary>出典</summary>`https://mammut.com/`</details>
+> **参考情報**: 「緊急時に素早く組み立てできるよう設計されており、カチッという音でロックを確認できます」<details><summary>出典</summary>`https://mammut.com/`</details>
 
 **JK**: カチッという音？
 
@@ -333,7 +333,7 @@ Tags: Safety, Guide
 - **セクション数**: 7本
 - **価格**: 約7,700円
 
-**参考情報**: 「最低でも2m以上の長さが推奨され、雪深いエリアや新雪が多い時期を考慮すると、270cm〜280cm程度の長さがより効果的」<details><summary>出典</summary>`https://steep.jp/`</details>
+> **参考情報**: 「最低でも2m以上の長さが推奨され、雪深いエリアや新雪が多い時期を考慮すると、270cm〜280cm程度の長さがより効果的」<details><summary>出典</summary>`https://steep.jp/`</details>
 
 **先生**: 多くのガイドが推奨するのが280cmクラスだ。新雪が多いエリアでも十分な長さがあり、かつ重すぎない。
 
@@ -399,7 +399,7 @@ Tags: Safety, Guide
 
 **先生**: マムートのショベルで最もおすすめなのがこれ。「Alugator Pro Light Hoe」だ。
 
-**参考情報**: 「シャフトを付け替えることで90°のホーモードに簡単に変換でき、より効率的かつ迅速な雪の除去が可能」<details><summary>出典</summary>`https://rei.com/`</details>
+> **参考情報**: 「シャフトを付け替えることで90°のホーモードに簡単に変換でき、より効率的かつ迅速な雪の除去が可能」<details><summary>出典</summary>`https://rei.com/`</details>
 
 **JK**: ホーモード？ 何ですかそれ？
 
@@ -451,7 +451,7 @@ Tags: Safety, Guide
 
 **先生**: もう少し軽量なモデルがほしい人には「Alugator Light」がある。
 
-**参考情報**: 「475gと非常に軽量で、小さなコーラ飲料よりも軽い」<details><summary>出典</summary>`https://rei.com/`</details>
+> **参考情報**: 「475gと非常に軽量で、小さなコーラ飲料よりも軽い」<details><summary>出典</summary>`https://rei.com/`</details>
 
 **JK**: 475g！？ コーラより軽いんですか！
 
@@ -509,7 +509,7 @@ Tags: Safety, Guide
 
 マムートの取り外し可能なエアバッグシステム。対応バックパックに装着可能。
 
-**参考情報**: 「数秒で頭部後方に150リットルの明るい色のエアバッグを展開し、埋没リスクを低減」<details><summary>出典</summary>`https://mammut.com/`</details>
+> **参考情報**: 「数秒で頭部後方に150リットルの明るい色のエアバッグを展開し、埋没リスクを低減」<details><summary>出典</summary>`https://mammut.com/`</details>
 
 #### 主な特徴
 
@@ -533,7 +533,7 @@ Tags: Safety, Guide
 
 **先生**: 買っただけでは全く意味がない。使い方を練習しておかないと、いざという時にパニックになって何もできない。
 
-**参考情報**: 「日本雪崩捜索救助協議会（AvSAR）は『入門者のための雪崩ビーコン練習ドリル』を公開しており、初心者でも仲間と一緒に練習できる方法が整理されています」<details><summary>出典</summary>`https://avsarjapan.org/`</details>
+> **参考情報**: 「日本雪崩捜索救助協議会（AvSAR）は『入門者のための雪崩ビーコン練習ドリル』を公開しており、初心者でも仲間と一緒に練習できる方法が整理されています」<details><summary>出典</summary>`https://avsarjapan.org/`</details>
 
 **JK**: どうやって練習するんですか？
 

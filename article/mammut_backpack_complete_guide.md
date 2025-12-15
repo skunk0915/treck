@@ -68,7 +68,7 @@ Tags: Backpack, Guide
 
 **先生**: リチウムはデザインがシンプルでスタイリッシュだから、街でも浮かないんだよ。マンモスロゴも控えめだし、アウトドアブランドっぽさが苦手な人でも使いやすい。
 
-**参考情報**: 「2024年にはデザイン、機能、環境配慮がアップデートされ、リサイクル素材の採用やPFCフリーの耐久撥水加工が施されています」<details><summary>出典</summary>`https://hiker-h.com/`</details>
+> **参考情報**: 「2024年にはデザイン、機能、環境配慮がアップデートされ、リサイクル素材の採用やPFCフリーの耐久撥水加工が施されています」<details><summary>出典</summary>`https://hiker-h.com/`</details>
 
 ### リチウムの特徴
 
@@ -86,7 +86,7 @@ Tags: Backpack, Guide
 
 **JK**: あ、それ地味に大事ですよね！別で買うと忘れそうだし。
 
-**参考情報**: 「軽量で背負いやすい、背面の通気性が高く快適、収納スペースが豊富で整理しやすい」<details><summary>出典</summary>`https://nebukuro.net/`</details>
+> **参考情報**: 「軽量で背負いやすい、背面の通気性が高く快適、収納スペースが豊富で整理しやすい」<details><summary>出典</summary>`https://nebukuro.net/`</details>
 
 ### サイズ展開は15L〜50Lまで
 
@@ -110,7 +110,7 @@ Tags: Backpack, Guide
 
 **先生**: リチウム30は**サイドアクセス機能がない**んだ。バックパックを降ろさないと中の荷物が取り出せない。行動中に頻繁に荷物を出し入れしたい人には不便かもしれない。
 
-**参考情報**: 「登山から山小屋泊まで幅広く対応できる汎用性の高さが評価されています。特にヒップベルトのスマホポケットや取り外し可能なヒップベルト、一体型レインカバーが好評」<details><summary>出典</summary>`https://mountgearhub044.com/`</details>
+> **参考情報**: 「登山から山小屋泊まで幅広く対応できる汎用性の高さが評価されています。特にヒップベルトのスマホポケットや取り外し可能なヒップベルト、一体型レインカバーが好評」<details><summary>出典</summary>`https://mountgearhub044.com/`</details>
 
 **JK**: えー、それはちょっと面倒かも…。
 
@@ -154,7 +154,7 @@ Tags: Backpack, Guide
 
 **JK**: えっ、プロが開発に関わってるんですか！？すごい…。
 
-**参考情報**: 「プロのアルピニストと共同開発により、クライミングやアルパインでの使用に特化した軽量性、快適性、優れた耐久性を兼ね備えています」<details><summary>出典</summary>`https://mammut.jp/`</details>
+> **参考情報**: 「プロのアルピニストと共同開発により、クライミングやアルパインでの使用に特化した軽量性、快適性、優れた耐久性を兼ね備えています」<details><summary>出典</summary>`https://mammut.jp/`</details>
 
 **先生**: だから細部まで徹底的に考え抜かれている。例えば、メイン生地にはリサイクル210D X-GRIDナイロンを使い、底部には耐久性の高いTPUコーティングの75Dナイロンで補強されている。
 
@@ -170,7 +170,7 @@ Tags: Backpack, Guide
 
 **先生**: 簡単に言えば「体の動きに合わせてザックが動く」仕組みだ。柔軟なアルミニウムフレームが内蔵されていて、クライミング中の大きな体の動きを妨げないように設計されている。
 
-**参考情報**: 「柔軟なアルミニウムフレームが体の動きに適応し、荷重を効果的に腰に伝えることで上半身と腰の自由な動きを促進」<details><summary>出典</summary>`https://absolute-snow.com/`</details>
+> **参考情報**: 「柔軟なアルミニウムフレームが体の動きに適応し、荷重を効果的に腰に伝えることで上半身と腰の自由な動きを促進」<details><summary>出典</summary>`https://absolute-snow.com/`</details>
 
 **JK**: へー、クライミングって体をいろんな方向に動かすから、ザックが邪魔になりそうですもんね。
 
@@ -222,7 +222,7 @@ Tags: Backpack, Guide
 
 **先生**: デュカンの最大の特徴は**通気性**だ。**Air Spaceサスペンションシステム**という背面構造を採用していて、背中とザックの間に大きな空気の通り道ができる。
 
-**参考情報**: 「背中の蒸れを軽減するAir Spaceサスペンションシステムを採用。背面とパックの間に空気の通り道が確保され、通気性が最大限に高まります」<details><summary>出典</summary>`https://nebukuro.net/`</details>
+> **参考情報**: 「背中の蒸れを軽減するAir Spaceサスペンションシステムを採用。背面とパックの間に空気の通り道が確保され、通気性が最大限に高まります」<details><summary>出典</summary>`https://nebukuro.net/`</details>
 
 **JK**: あ、それって背中とリュックがくっつかないってことですか？
 
@@ -256,13 +256,13 @@ Tags: Backpack, Guide
 
 **先生**: これはマムート独自の背面システムで、肩とヒップベルトのピボットポイントを柔軟なグラスファイバー製ロッドで連結している。歩行時の背骨の自然な動きに合わせてザックが追従するから、荷物が体の一部のように感じられるんだ。
 
-**参考情報**: 「肩とヒップベルトに設けられたピボットポイントを、一本の柔軟なグラスファイバー製ロッドで連結することで機能します」<details><summary>出典</summary>`https://peakmountaineering.com/`</details>
+> **参考情報**: 「肩とヒップベルトに設けられたピボットポイントを、一本の柔軟なグラスファイバー製ロッドで連結することで機能します」<details><summary>出典</summary>`https://peakmountaineering.com/`</details>
 
 **JK**: えー、それって本当に効果あるんですか？なんか怪しいですけど…。
 
 **先生**: 実際に使ったユーザーからは「**約25%軽く感じる**」という声もある。私も試したことがあるが、長時間行動した時の疲労感が明らかに違った。
 
-**参考情報**: 「背中にバックパックの存在を感じないと評されるほど快適な背負い心地」<details><summary>出典</summary>`https://yamahack.com/`</details>
+> **参考情報**: 「背中にバックパックの存在を感じないと評されるほど快適な背負い心地」<details><summary>出典</summary>`https://yamahack.com/`</details>
 
 **JK**: 25%軽くって、5kgの荷物が3.75kgに感じるってこと！？それはすごいかも！
 
@@ -274,7 +274,7 @@ Tags: Backpack, Guide
 
 **先生**: ちなみに2025年モデルでは**Active Spine 3.0**にアップデートされて、背面長の3段階調整機能が追加された。より多くの体型の人にフィットするようになったぞ。
 
-**参考情報**: 「特許技術Active Spine Technology 3.0を搭載。歩行時の背骨の自然な動きに合わせて荷重を分散し、長時間の行動における疲労を軽減」<details><summary>出典</summary>`https://monomagazine.com/`</details>
+> **参考情報**: 「特許技術Active Spine Technology 3.0を搭載。歩行時の背骨の自然な動きに合わせて荷重を分散し、長時間の行動における疲労を軽減」<details><summary>出典</summary>`https://monomagazine.com/`</details>
 
 **JK**: へー、進化してるんですね。やっぱり新しいモデルの方がいいのかな。
 
@@ -306,7 +306,7 @@ Tags: Backpack, Guide
 
 **先生**: いい質問だな。実際、容量30Lのリチウムとデュカンを比較したユーザーの声があるから紹介しよう。
 
-**参考情報**: 「30LのDucanとLithiumを比較した場合、Ducanの方がより登山向きで腰でしっかり背負える安定感がある一方、Lithiumはヒップベルトが取り外し可能で日常使いもしやすい」<details><summary>出典</summary>`https://fuji-climb.com/`</details>
+> **参考情報**: 「30LのDucanとLithiumを比較した場合、Ducanの方がより登山向きで腰でしっかり背負える安定感がある一方、Lithiumはヒップベルトが取り外し可能で日常使いもしやすい」<details><summary>出典</summary>`https://fuji-climb.com/`</details>
 
 **JK**: なるほど〜。デュカンの方が登山特化って感じなんですね。
 
@@ -360,7 +360,7 @@ Tags: Backpack, Guide
 
 **先生**: ミレーは「堅実な登山用ザック」というイメージで、マムートは「Active Spineなど独自技術で攻める」イメージかな。デザイン面ではマムートの方がスタイリッシュだという声が多い。
 
-**参考情報**: 「マムートはスイスの老舗登山用品ブランドで、高い機能性と洗練されたデザインが特徴です」<details><summary>出典</summary>`https://nap-camp.com/`</details>
+> **参考情報**: 「マムートはスイスの老舗登山用品ブランドで、高い機能性と洗練されたデザインが特徴です」<details><summary>出典</summary>`https://nap-camp.com/`</details>
 
 ---
 
@@ -378,7 +378,7 @@ Tags: Backpack, Guide
 
 **先生**: 絶対にダメだ。登山用ザックは手洗いが基本。中性洗剤を混ぜたぬるま湯でやさしく洗う。
 
-**参考情報**: 「繊維製品全般の洗濯に適した中性洗剤を使用します」<details><summary>出典</summary>`https://montbell.jp/`</details>
+> **参考情報**: 「繊維製品全般の洗濯に適した中性洗剤を使用します」<details><summary>出典</summary>`https://montbell.jp/`</details>
 
 **JK**: ええー面倒くさい…。
 
@@ -390,7 +390,7 @@ Tags: Backpack, Guide
 
 **先生**: 一般的なバックパックは5〜10年が目安だが、適切なケアをすれば10〜20年も使えることがある。
 
-**参考情報**: 「マムートは、耐久性、素材の品質、修理のしやすさをデザインの中核としており、製品の長寿命化を目指しています」<details><summary>出典</summary>`https://mammut.jp/`</details>
+> **参考情報**: 「マムートは、耐久性、素材の品質、修理のしやすさをデザインの中核としており、製品の長寿命化を目指しています」<details><summary>出典</summary>`https://mammut.jp/`</details>
 
 **JK**: 20年！？私が生まれる前から使ってる人もいるってこと？
 
@@ -413,7 +413,7 @@ Tags: Backpack, Guide
 - 撥水性・防水性
 - スタイリッシュなデザイン
 
-**参考情報**: 「数年使っても壊れない、過酷な状況でも安心感がある」<details><summary>出典</summary>`https://yurutoku7.com/`</details>
+> **参考情報**: 「数年使っても壊れない、過酷な状況でも安心感がある」<details><summary>出典</summary>`https://yurutoku7.com/`</details>
 
 **JK**: 壊れないって大事ですよね。安物買いの銭失いって言いますし。
 
@@ -425,7 +425,7 @@ Tags: Backpack, Guide
 - カラーバリエーションが少なめ（黒・グレー・ネイビー中心）
 - 背面・ショルダーの蒸れ（一部モデル）
 
-**参考情報**: 「高品質な素材と作りであるため、他ブランドと比較して価格が高めに設定されている」<details><summary>出典</summary>`https://yamano-media.com/`</details>
+> **参考情報**: 「高品質な素材と作りであるため、他ブランドと比較して価格が高めに設定されている」<details><summary>出典</summary>`https://yamano-media.com/`</details>
 
 **JK**: カラバリ少ないのはちょっと残念かも…。ピンクとか欲しいんですけど。
 

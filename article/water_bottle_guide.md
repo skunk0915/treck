@@ -35,7 +35,7 @@ Tags: Guide, Stove & Cookware
 
 **先生**: 私は北岳の雪渓でザックを置いた時、中のペットボトルに亀裂が入ってびしょ濡れになったことがある。8月なのに気温は10度以下。濡れた着替えを着るハメになった時は、本気で反省したよ。
 
-**参考情報**: 「ペットボトルは衝撃に弱く、破損しやすいです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5SeGYrKJiDyPeNB-5RK5ud-fDMc9Ex6vmrO9jfGKDi2gmj3AKRJeUExAcYuLIGsHpo-muEIQ-1F7VAJtPmALrhqpkngsepFg5-7zky3u0p360Wu4Ix3ZaMaYQXSPQNwnQQLeR`</details>
+> **参考情報**: 「ペットボトルは衝撃に弱く、破損しやすいです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5SeGYrKJiDyPeNB-5RK5ud-fDMc9Ex6vmrO9jfGKDi2gmj3AKRJeUExAcYuLIGsHpo-muEIQ-1F7VAJtPmALrhqpkngsepFg5-7zky3u0p360Wu4Ix3ZaMaYQXSPQNwnQQLeR`</details>
 
 **JK**: うわ、それは最悪ですね...。
 
@@ -61,7 +61,7 @@ Tags: Guide, Stove & Cookware
 
 **先生**: その通り。だからこそ「壊れない」「漏れない」という点については、ほぼ完璧なんだ。
 
-**参考情報**: 「ナルゲンボトルは、その高い耐久性と汎用性から、アウトドア愛好家だけでなく、日常使いにも人気のウォーターボトルです。1949年に科学研究用として開発された経緯があり、その信頼性の高さが特徴です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwrE7-wlgm7ayrClV8C6MWiYzjt4P5cuAe73g_UBKNkDe-Tpnvof1IJeZimn3oRFdCFbaTg_unx-D9c-AJlNJCDxq0ioKWUTq43GAhTLzBQbv9cWH1Vi3WC63zbNxoESg=`</details>
+> **参考情報**: 「ナルゲンボトルは、その高い耐久性と汎用性から、アウトドア愛好家だけでなく、日常使いにも人気のウォーターボトルです。1949年に科学研究用として開発された経緯があり、その信頼性の高さが特徴です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwrE7-wlgm7ayrClV8C6MWiYzjt4P5cuAe73g_UBKNkDe-Tpnvof1IJeZimn3oRFdCFbaTg_unx-D9c-AJlNJCDxq0ioKWUTq43GAhTLzBQbv9cWH1Vi3WC63zbNxoESg=`</details>
 
 ### ナルゲンの素材「トライタン」がすごい
 
@@ -75,7 +75,7 @@ Tags: Guide, Stove & Cookware
 
 **先生**: すごいぞ。まず**BPAフリー**だ。BPAというのは人体に悪影響を与える可能性がある化学物質のことで、それを含まないから安心して飲料を入れられる。そして**臭い移りがほとんどない**。
 
-**参考情報**: 「ナルゲンボトルの多くに採用されているトライタンは、イーストマンケミカル社製の飽和ポリエステル樹脂です。人体への悪影響が懸念される化学物質BPAを含まないBPAフリー素材です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNO7C3ONS8bmeVjBz6si9GhjzrU5PTtzY3adzyip_J6dPHh7SZW1kcyiVvECeBL0Kb2ZRd3iY3Y3Kl1HMUHQ-zkrM-kGQU45ObhmWMqLV3Ud2xbh_OrsTBuegncdpetPHhyzR1c3Wn5klRl2BTKOlkFqrdV8v14moy5bxmYeAFUca2__w2n-v0_Ssbc9VHQbHNlryxOXY2ilKO9SkDOxognncC1a0nPu-apcANxX6AqYDZ1B0W-k3CMPmXW0J3lzuDouIK2f2vYvM2UmowkdXMsyjXQ-FmhkSqtAwwneTHJ70rU6FJxlm6wQ-J8Q1tE1tjV0CbvXp_HxIaDo5d_uaLW1es_A_SD9aQWn8-brP4U-Q9jjqrtN-2QuzSlxsffA==`</details>
+> **参考情報**: 「ナルゲンボトルの多くに採用されているトライタンは、イーストマンケミカル社製の飽和ポリエステル樹脂です。人体への悪影響が懸念される化学物質BPAを含まないBPAフリー素材です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNO7C3ONS8bmeVjBz6si9GhjzrU5PTtzY3adzyip_J6dPHh7SZW1kcyiVvECeBL0Kb2ZRd3iY3Y3Kl1HMUHQ-zkrM-kGQU45ObhmWMqLV3Ud2xbh_OrsTBuegncdpetPHhyzR1c3Wn5klRl2BTKOlkFqrdV8v14moy5bxmYeAFUca2__w2n-v0_Ssbc9VHQbHNlryxOXY2ilKO9SkDOxognncC1a0nPu-apcANxX6AqYDZ1B0W-k3CMPmXW0J3lzuDouIK2f2vYvM2UmowkdXMsyjXQ-FmhkSqtAwwneTHJ70rU6FJxlm6wQ-J8Q1tE1tjV0CbvXp_HxIaDo5d_uaLW1es_A_SD9aQWn8-brP4U-Q9jjqrtN-2QuzSlxsffA==`</details>
 
 **JK**: プラスチック臭がしないってことですか？それは嬉しいかも。
 
@@ -105,7 +105,7 @@ Tags: Guide, Stove & Cookware
 
 **先生**: 独自の構造で、キャップとボトルのネジ山が精密に噛み合うことで、パッキンなしでも完全密閉される。
 
-**参考情報**: 「パッキンを使用しない独自の構造により、液体が漏れにくい高い気密性を誇ります。これは登山で水漏れが致命的となる状況において特に重要です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCwDMmYRjgn_fBUUelRIz8V4mKlOSGC-ILJz5ivfVveXuV8q6ymXUHhpgvCBaJ3b147QO6ZPV9KMVKkJg9-8GfnH1Q3O_pXtLAhHSy8qm9sziIagYc7089T25SRQfbQG6O7dgKnmy01LZzIg==`</details>
+> **参考情報**: 「パッキンを使用しない独自の構造により、液体が漏れにくい高い気密性を誇ります。これは登山で水漏れが致命的となる状況において特に重要です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCwDMmYRjgn_fBUUelRIz8V4mKlOSGC-ILJz5ivfVveXuV8q6ymXUHhpgvCBaJ3b147QO6ZPV9KMVKkJg9-8GfnH1Q3O_pXtLAhHSy8qm9sziIagYc7089T25SRQfbQG6O7dgKnmy01LZzIg==`</details>
 
 **JK**: すごい技術ですね。でもパッキンがないってことは、洗うのも楽ですよね？
 
@@ -120,7 +120,7 @@ Tags: Guide, Stove & Cookware
 - 耐熱温度: 本体100℃、キャップ120℃
 - 耐冷温度: 本体-20℃
 
-**参考情報**: 「ナルゲン広口1.0L Tritan Renewボトルの一般的な価格は2,860円（税込）です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSNhaK41fNbJH7yz1uOwT0ncQf6Kzqzh9R1VIwUPFHy0ZeMOPm43xKeaclIWf1q4jXZEpB8PLBRsu6ef6DlcAAh_bP5N31g-Xxxt2HBx7ALJJfAwqr-hJSJeiblu0B4yLAPXIIG4-o2v39l98=`</details>
+> **参考情報**: 「ナルゲン広口1.0L Tritan Renewボトルの一般的な価格は2,860円（税込）です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSNhaK41fNbJH7yz1uOwT0ncQf6Kzqzh9R1VIwUPFHy0ZeMOPm43xKeaclIWf1q4jXZEpB8PLBRsu6ef6DlcAAh_bP5N31g-Xxxt2HBx7ALJJfAwqr-hJSJeiblu0B4yLAPXIIG4-o2v39l98=`</details>
 
 ---
 
@@ -134,7 +134,7 @@ Tags: Guide, Stove & Cookware
 
 **先生**: 「One Touch Flip」の略で、ワンプッシュで開閉できるキャップがついている。片手で開けて、細い飲み口から飲める。そしてキャップを外せば広口になるから、氷も入れられる。
 
-**参考情報**: 「ナルゲンOTFボトルまたはOTFキャップは、片手で簡単に開閉できるワンプッシュオープンシステムを採用しています。細い飲み口で飲みやすく、キャップを外せば広口になるため、氷や飲み物を入れやすく、洗いやすい構造です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG6pf1Ia1P1uA0Q1HLnnHE6FJ2tJh3e4Xs0juu3vqhv2NhnE8EmDLECdED8rB62XqYPBClDEYHv06S9iv6x5Te2YC-7Ds3El_1jlGGrfumCp5lNdrP3448T2kWwQORhMRu1VY6PDOATC6GTPzdxguBm7wn8Hc5bw==`</details>
+> **参考情報**: 「ナルゲンOTFボトルまたはOTFキャップは、片手で簡単に開閉できるワンプッシュオープンシステムを採用しています。細い飲み口で飲みやすく、キャップを外せば広口になるため、氷や飲み物を入れやすく、洗いやすい構造です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG6pf1Ia1P1uA0Q1HLnnHE6FJ2tJh3e4Xs0juu3vqhv2NhnE8EmDLECdED8rB62XqYPBClDEYHv06S9iv6x5Te2YC-7Ds3El_1jlGGrfumCp5lNdrP3448T2kWwQORhMRu1VY6PDOATC6GTPzdxguBm7wn8Hc5bw==`</details>
 
 **JK**: あ、それいいですね！両方の良いとこ取りじゃないですか！
 
@@ -156,7 +156,7 @@ Tags: Guide, Stove & Cookware
 - 水筒以外にも行動食入れや調味料入れとして使いたい人
 - 残量を一目で確認したい人
 
-**参考情報**: 「水筒としてだけでなく、行動食や調味料の保存、コーヒーサーバー、さらには小型LEDライトを入れてランタン代わりにするなど、様々な使い方ができます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzLjARzPB51_V27xinbNMxSoct0Fjf0sI76zMxvkV46acuUKUuTkYrBlcEOARN2Ulnm13xyizNfMH2ni85KLEQgcmoKOLH92rMryyttmOwgabjyxha0n7teqiKhGNKmwk=`</details>
+> **参考情報**: 「水筒としてだけでなく、行動食や調味料の保存、コーヒーサーバー、さらには小型LEDライトを入れてランタン代わりにするなど、様々な使い方ができます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzLjARzPB51_V27xinbNMxSoct0Fjf0sI76zMxvkV46acuUKUuTkYrBlcEOARN2Ulnm13xyizNfMH2ni85KLEQgcmoKOLH92rMryyttmOwgabjyxha0n7teqiKhGNKmwk=`</details>
 
 **JK**: LEDライト入れてランタン代わり!? そんな使い方もあるんですか!?
 
@@ -178,7 +178,7 @@ Tags: Guide, Stove & Cookware
 - **広口は飲みにくい**: そのまま飲むとこぼしやすい（OTFで解決可能）
 - **熱湯を入れると持てない**: ボトル自体が熱くなる
 
-**参考情報**: 「魔法瓶ではないため、飲料の保温・保冷効果は期待できません。熱い飲み物を入れた際はボトル自体が非常に熱くなるため注意が必要です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTV0d-aE0jLlR1BRnOpS-SEPNE_6hSmsirQwtIig_v4oslTYLBp0VwE7MwQOI7DxZFFR7DnqCo_cgz5sglxHnkmIYRuPmiYr1wdeawe5jfEcCnFBKjke6VtQ==`</details>
+> **参考情報**: 「魔法瓶ではないため、飲料の保温・保冷効果は期待できません。熱い飲み物を入れた際はボトル自体が非常に熱くなるため注意が必要です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTV0d-aE0jLlR1BRnOpS-SEPNE_6hSmsirQwtIig_v4oslTYLBp0VwE7MwQOI7DxZFFR7DnqCo_cgz5sglxHnkmIYRuPmiYr1wdeawe5jfEcCnFBKjke6VtQ==`</details>
 
 **JK**: 180gって重いですか？
 
@@ -200,7 +200,7 @@ Tags: Guide, Stove & Cookware
 
 **先生**: その通り。ビニール袋のような素材で出来ていて、水が減ると**折りたためる**んだ。
 
-**参考情報**: 「Platypus（プラティパス）のハイドレーションソフトボトルは、登山者に人気のある軽量でコンパクトな給水ギアです。BPAフリー素材を使用しており、水の味を損なわないのが特徴です。使用後は小さく丸めて収納できるため、ザックのスペースを有効活用できる点が大きな魅力です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa1K3sUA5awz8Zb_y80o0iyJl_ZCsFJ7t_01u2J7It7-eKJEUI9azTtsyxUd3599gZUlxwD5DOoCO4KcL0_VaMozuz8wPrSaIQkksIpd9p9x0-jiY=`</details>
+> **参考情報**: 「Platypus（プラティパス）のハイドレーションソフトボトルは、登山者に人気のある軽量でコンパクトな給水ギアです。BPAフリー素材を使用しており、水の味を損なわないのが特徴です。使用後は小さく丸めて収納できるため、ザックのスペースを有効活用できる点が大きな魅力です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa1K3sUA5awz8Zb_y80o0iyJl_ZCsFJ7t_01u2J7It7-eKJEUI9azTtsyxUd3599gZUlxwD5DOoCO4KcL0_VaMozuz8wPrSaIQkksIpd9p9x0-jiY=`</details>
 
 **JK**: え、折りたためる水筒!? そんなのあるんですか!?
 
@@ -218,7 +218,7 @@ Tags: Guide, Stove & Cookware
 
 **先生**: ははは、確かにそう見えるかもしれない。だがこれがすごいぞ。1Lで**約24g**。ナルゲンの7分の1だ。
 
-**参考情報**: 「プラティパスの最もベーシックなボトルタイプです。軽量でコンパクトに収納できるため、日帰り登山から縦走まで幅広く対応します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtXW2MgFU9VA73IQn8EHwO5tO_pmNyFe_VwPFw8HjPwoVSogMcJS5ynixZFjEkqQ5npSh8ch-v3H-QjwZbcCJ6a1q-7txgpLLcT4yH5MHq_egd2UDLTyKU6i0KMUXQyslVumfkCg==`</details>
+> **参考情報**: 「プラティパスの最もベーシックなボトルタイプです。軽量でコンパクトに収納できるため、日帰り登山から縦走まで幅広く対応します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtXW2MgFU9VA73IQn8EHwO5tO_pmNyFe_VwPFw8HjPwoVSogMcJS5ynixZFjEkqQ5npSh8ch-v3H-QjwZbcCJ6a1q-7txgpLLcT4yH5MHq_egd2UDLTyKU6i0KMUXQyslVumfkCg==`</details>
 
 #### 主なスペック（ソフトボトル）
 
@@ -237,7 +237,7 @@ Tags: Guide, Stove & Cookware
 
 **先生**: まず**ジップロックのような開口部**がある。水を入れやすく、洗いやすい。そして最新モデルは流量が**50%アップ**している。
 
-**参考情報**: 「流量が50%向上した新しいバイトバルブと、より太くなった5/16インチのドリンクチューブにより、高い流量を実現しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTYJCsOvomCZlYZeq0PgayMRJYSR8_f0icf2wX_PoefguBVtUWpNWl7fVBxRyOQNceQIhRPXpgVP2Fw4qeZo0FrQ3z_j7sgHiZP-09bNReVKOJp9Cf6WssnVKONasKlRhzskZGaf94WlVYLw==`</details>
+> **参考情報**: 「流量が50%向上した新しいバイトバルブと、より太くなった5/16インチのドリンクチューブにより、高い流量を実現しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTYJCsOvomCZlYZeq0PgayMRJYSR8_f0icf2wX_PoefguBVtUWpNWl7fVBxRyOQNceQIhRPXpgVP2Fw4qeZo0FrQ3z_j7sgHiZP-09bNReVKOJp9Cf6WssnVKONasKlRhzskZGaf94WlVYLw==`</details>
 
 **JK**: 流量50%アップ？そんなに違います？
 
@@ -252,7 +252,7 @@ Tags: Guide, Stove & Cookware
 - 素材: BPAフリー、BPSフリー、フタル酸フリー
 - 耐熱温度: 本体90℃、チューブ100℃
 
-**参考情報**: 「ビッグジップEVO 2Lの価格は、日本では約4,500円（税抜）から4,730円（税込）程度で販売されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbrgEPh6LkmfBOCWygONAC13t1YG9lFQCvXRwt8Dz6vm_BNrej-en_OgtnNWWXkeaS2Q_CFSWqKikbLqxvJAvaJkrCxMywkhza3bmDkgs1dc3VBnJrxhEdphB9h3h7dxaL5eZxZOrLFQUqe5hy4pte`</details>
+> **参考情報**: 「ビッグジップEVO 2Lの価格は、日本では約4,500円（税抜）から4,730円（税込）程度で販売されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbrgEPh6LkmfBOCWygONAC13t1YG9lFQCvXRwt8Dz6vm_BNrej-en_OgtnNWWXkeaS2Q_CFSWqKikbLqxvJAvaJkrCxMywkhza3bmDkgs1dc3VBnJrxhEdphB9h3h7dxaL5eZxZOrLFQUqe5hy4pte`</details>
 
 ---
 
@@ -262,7 +262,7 @@ Tags: Guide, Stove & Cookware
 
 **先生**: ある。**デュオロックソフトボトル**だ。片手で開閉できるフリップキャップがついていて、カラビナ型のハンドルでザックに吊り下げることもできる。
 
-**参考情報**: 「ソフトボトルに片手で開閉できるフリップキャップとハンドルが追加され、利便性が向上しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHonVWvDeEjxxnN8I8Nuhm1IXXrEIofnD-OUkmSAED49OTMiB2vOU_2dnhIdQ61CRWGeGnMGiubwJDk055vuBg7KEhtbErKYIhT_lccdDf_40DIS6LGf2hORcu8TBdM2TmVwxw_`</details>
+> **参考情報**: 「ソフトボトルに片手で開閉できるフリップキャップとハンドルが追加され、利便性が向上しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHonVWvDeEjxxnN8I8Nuhm1IXXrEIofnD-OUkmSAED49OTMiB2vOU_2dnhIdQ61CRWGeGnMGiubwJDk055vuBg7KEhtbErKYIhT_lccdDf_40DIS6LGf2hORcu8TBdM2TmVwxw_`</details>
 
 #### 主なスペック（デュオロックソフトボトル）
 
@@ -292,7 +292,7 @@ Tags: Guide, Stove & Cookware
 - ハイドレーションシステムを使いたい人
 - トレイルランナー
 
-**参考情報**: 「水を使い切ると小さく丸めたり折りたたんだりできるため、ザック内のスペースを有効活用できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmGPWn6cM8r2WNnSCdwTlhuOxWHBXeVw1XB2wkNSfMTcgUWdcQrYzSDr30l3WIny1e6c7v7Ig_x7MznqlwzGzOaLLnxCHeAnOrT0AVlOWgvXao-Q5Wq9IjtqaNL1KfHPtT7UiCxOhMSF8=`</details>
+> **参考情報**: 「水を使い切ると小さく丸めたり折りたたんだりできるため、ザック内のスペースを有効活用できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmGPWn6cM8r2WNnSCdwTlhuOxWHBXeVw1XB2wkNSfMTcgUWdcQrYzSDr30l3WIny1e6c7v7Ig_x7MznqlwzGzOaLLnxCHeAnOrT0AVlOWgvXao-Q5Wq9IjtqaNL1KfHPtT7UiCxOhMSF8=`</details>
 
 **JK**: あと折りたためるって、使い終わった後が楽そうですよね。
 
@@ -310,7 +310,7 @@ Tags: Guide, Stove & Cookware
 
 **先生**: 嘘じゃない。厚みのある素材で、傷がついても簡単には破れない。5年以上、中には10年以上使っている人もいる。
 
-**参考情報**: 「プラティパスはその耐久性で高く評価されており、中には5年以上、あるいは10年以上愛用しているユーザーもいます。厚みのあるプラスチック素材で作られており、傷がついても破れることは少ないとされています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa1K3sUA5awz8Zb_y80o0iyJl_ZCsFJ7t_01u2J7It7-eKJEUI9azTtsyxUd3599gZUlxwD5DOoCO4KcL0_VaMozuz8wPrSaIQkksIpd9p9x0-jiY=`</details>
+> **参考情報**: 「プラティパスはその耐久性で高く評価されており、中には5年以上、あるいは10年以上愛用しているユーザーもいます。厚みのあるプラスチック素材で作られており、傷がついても破れることは少ないとされています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa1K3sUA5awz8Zb_y80o0iyJl_ZCsFJ7t_01u2J7It7-eKJEUI9azTtsyxUd3599gZUlxwD5DOoCO4KcL0_VaMozuz8wPrSaIQkksIpd9p9x0-jiY=`</details>
 
 **JK**: そんなに長持ちするなら、コスパ良いかも...!
 
@@ -332,7 +332,7 @@ Tags: Guide, Stove & Cookware
 
 **先生**: プラティパスは口が狭い。中に水滴が残りやすく、しっかり乾かさないと**カビが生える**んだ。
 
-**参考情報**: 「プラティパスの最大の課題の一つが乾燥の難しさです。口が狭いため、内部が乾きにくく、不十分な乾燥はカビの原因となります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlwCCaAjfaPf04dbExQGWS32UnT3p0nAlNOHIg9j7k9hLILevaDbEViAKBw7gYBLwfpFzBT5UFIxhCjtJfHy3HCICHRYFnlwHV_X9G1miqVTBoPMU=`</details>
+> **参考情報**: 「プラティパスの最大の課題の一つが乾燥の難しさです。口が狭いため、内部が乾きにくく、不十分な乾燥はカビの原因となります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlwCCaAjfaPf04dbExQGWS32UnT3p0nAlNOHIg9j7k9hLILevaDbEViAKBw7gYBLwfpFzBT5UFIxhCjtJfHy3HCICHRYFnlwHV_X9G1miqVTBoPMU=`</details>
 
 **JK**: カビ!? それはやだ...！
 
@@ -358,7 +358,7 @@ Tags: Guide, Stove & Cookware
 
 **先生**: 漂白剤を数滴入れた水を満たし、30分ほど置いてから十分にすすぐ。これで殺菌できる。
 
-**参考情報**: 「漂白剤を数滴入れた水を満たし、30分ほど置いてから十分にすすぎ洗いする方法も有効です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEafyxvkDH0qfFHUy4znPTUJO0P5Gof4u3ksjl-cMoOnlTXUrAvy2tF2Pj-8g5Z_nzjmgQOM26TLwCnYaSVyzz0lYkjKZ3mackM6NZh6WaB9i5Qnj9NmiErIi3g8HUg`</details>
+> **参考情報**: 「漂白剤を数滴入れた水を満たし、30分ほど置いてから十分にすすぎ洗いする方法も有効です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEafyxvkDH0qfFHUy4znPTUJO0P5Gof4u3ksjl-cMoOnlTXUrAvy2tF2Pj-8g5Z_nzjmgQOM26TLwCnYaSVyzz0lYkjKZ3mackM6NZh6WaB9i5Qnj9NmiErIi3g8HUg`</details>
 
 **JK**: 漂白剤入れて大丈夫なんですか...？
 
@@ -386,7 +386,7 @@ Tags: Guide, Stove & Cookware
 | 価格 | 約2,860円 | 約1,500〜2,000円 |
 | ハイドレーション | 非対応 | 対応モデルあり |
 
-**参考情報**: 「最適な水筒は、登山のスタイル（日帰り、縦走、冬山など）、個人の水分消費量、重視する機能（軽量性、耐久性、保温性、携帯性）によって異なります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5SeGYrKJiDyPeNB-5RK5ud-fDMc9Ex6vmrO9jfGKDi2gmj3AKRJeUExAcYuLIGsHpo-muEIQ-1F7VAJtPmALrhqpkngsepFg5-7zky3u0p360Wu4Ix3ZaMaYQXSPQNwnQQLeR`</details>
+> **参考情報**: 「最適な水筒は、登山のスタイル（日帰り、縦走、冬山など）、個人の水分消費量、重視する機能（軽量性、耐久性、保温性、携帯性）によって異なります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5SeGYrKJiDyPeNB-5RK5ud-fDMc9Ex6vmrO9jfGKDi2gmj3AKRJeUExAcYuLIGsHpo-muEIQ-1F7VAJtPmALrhqpkngsepFg5-7zky3u0p360Wu4Ix3ZaMaYQXSPQNwnQQLeR`</details>
 
 **JK**: こうして見ると、一長一短ですね...。
 
@@ -454,7 +454,7 @@ Tags: Guide, Stove & Cookware
 
 **先生**: 日帰りや小屋泊ならナルゲンだけ。縦走やテント泊ではプラティパスも追加。シーンに応じて使い分けている。
 
-**参考情報**: 「多くの登山者はハイドレーションシステムと水筒を併用することで、それぞれの利点を活かしています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVKRYc_yGNcgNl9lFiCf3H_EhN74wc2njEpqLFfQeBy6xTonFSdxOKybmye_YW2rCkkNo7WLmrkxzof8rm2-YbD0VNjfv-4h2-dM8lFIObVzvUmq4HGoKICMms`</details>
+> **参考情報**: 「多くの登山者はハイドレーションシステムと水筒を併用することで、それぞれの利点を活かしています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVKRYc_yGNcgNl9lFiCf3H_EhN74wc2njEpqLFfQeBy6xTonFSdxOKybmye_YW2rCkkNo7WLmrkxzof8rm2-YbD0VNjfv-4h2-dM8lFIObVzvUmq4HGoKICMms`</details>
 
 **JK**: なるほど...。最初から両方揃える必要はなくて、まずはメインを決めて、必要に応じて追加すればいいんですね。
 
@@ -472,7 +472,7 @@ Tags: Guide, Stove & Cookware
 - **夏の長時間行動**: 2L以上
 - **テント泊**: 調理用も含め2〜3L
 
-**参考情報**: 「日帰り登山なら1L前後、テント泊や夏の暑い時期は2L以上が目安です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvu-YG9Ok8RW3tslXdKZObogiD6vwE7u9DBhUUVJKusvqrlboh9HWo3tBGSij1uxep0MlgeQWifiM4JV4Ig3Qce5OM_wZei6wuCiPHCDjbGeQ9v_ZIBw58tr4h`</details>
+> **参考情報**: 「日帰り登山なら1L前後、テント泊や夏の暑い時期は2L以上が目安です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvu-YG9Ok8RW3tslXdKZObogiD6vwE7u9DBhUUVJKusvqrlboh9HWo3tBGSij1uxep0MlgeQWifiM4JV4Ig3Qce5OM_wZei6wuCiPHCDjbGeQ9v_ZIBw58tr4h`</details>
 
 **JK**: 夏は汗かくから多めってことですね。
 

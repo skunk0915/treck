@@ -30,7 +30,7 @@ Tags: SleepingGear, Guide
 
 **先生**: 普通の寝袋、特にマミー型と呼ばれるものは、体にぴったりフィットして保温性を高める設計だ。だが、その分窮屈で寝返りが打ちにくい。一方、オフトンは掛け布団と敷布団に分離できるセパレート構造になっている。
 
-**参考情報**: 「掛け布団と敷布団を分離できるため、寝袋特有の圧迫感がなく、自宅の布団のような感覚で眠ることができます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/nap-camp.com`</details>
+> **参考情報**: 「掛け布団と敷布団を分離できるため、寝袋特有の圧迫感がなく、自宅の布団のような感覚で眠ることができます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/nap-camp.com`</details>
 
 **JK**: へー！じゃあ暑い時は掛け布団だけ蹴っ飛ばせるってことですか？
 
@@ -75,13 +75,13 @@ Tags: SleepingGear, Guide
 
 **先生**: ははは。簡単に言うと、スノーピーク独自の化学繊維で、ダウンに近い保温性を持ちながら、濡れても性能が落ちにくい素材だ。
 
-**参考情報**: 「ダウンとは異なり、濡れても保温性が落ちにくいのが特徴」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/tacklenote.jp`</details>
+> **参考情報**: 「ダウンとは異なり、濡れても保温性が落ちにくいのが特徴」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/tacklenote.jp`</details>
 
 **JK**: へー！じゃあ雨の日のキャンプでも安心ってことですね。
 
 **先生**: その通り。さらにオフトンワイドには「デオブレイン」という抗菌・消臭加工も施されている。
 
-**参考情報**: 「寝袋の生地を細菌の増殖から守り、衛生的に保ちます」「睡眠中にかく汗に含まれる低級脂肪酸などが原因で発生する不快な臭いを軽減する効果」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/hinata.me`</details>
+> **参考情報**: 「寝袋の生地を細菌の増殖から守り、衛生的に保ちます」「睡眠中にかく汗に含まれる低級脂肪酸などが原因で発生する不快な臭いを軽減する効果」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/hinata.me`</details>
 
 **JK**: 汗臭くならないってこと？これ超重要じゃないですか！
 
@@ -97,7 +97,7 @@ Tags: SleepingGear, Guide
 
 **先生**: 気温が1桁になると、その2℃は大きいぞ。特に春先や晩秋のキャンプでは、夜の冷え込みが厳しくなる。3℃対応なら安心感が違う。
 
-**参考情報**: 「オフトンワイドに比べてアモノフォロファイバーの封入量を増やし、保温性を高めたモデルで、下限温度3℃」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/bepal.net`</details>
+> **参考情報**: 「オフトンワイドに比べてアモノフォロファイバーの封入量を増やし、保温性を高めたモデルで、下限温度3℃」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/bepal.net`</details>
 
 **JK**: でも、その分重くなるんですよね？
 
@@ -148,7 +148,7 @@ Tags: SleepingGear, Guide
 
 **先生**: そうだ。ダウンは同じ保温性を得るのに、化繊より少ない量で済む。だから軽くて、収納もコンパクトになる。さらに「ウォッシャブルダウン」を採用しているから、自宅の洗濯機で洗えるんだ。
 
-**参考情報**: 「ウォッシャブルダウンを採用し、自宅での洗濯が可能なモデルです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/snowpeak.co.jp`</details>
+> **参考情報**: 「ウォッシャブルダウンを採用し、自宅での洗濯が可能なモデルです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/snowpeak.co.jp`</details>
 
 **JK**: えー！ダウンって洗濯機で洗っちゃダメなイメージだったんですけど！
 
@@ -160,7 +160,7 @@ Tags: SleepingGear, Guide
 
 **先生**: その通り。700gのダウンが入っているのが700、1400gが1400だ。ダウン量が倍だから、保温性が全く違う。
 
-**参考情報**: 「ウォッシャブルダウンを1400g使用し、下限温度-8℃に対応する保温性の高いモデルです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/hinata.me`</details>
+> **参考情報**: 「ウォッシャブルダウンを1400g使用し、下限温度-8℃に対応する保温性の高いモデルです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/hinata.me`</details>
 
 **JK**: 下限温度マイナス8℃って、冬キャンプもできちゃうじゃないですか！
 
@@ -170,15 +170,15 @@ Tags: SleepingGear, Guide
 
 **先生**: レビューを見ると、寝心地については非常に高評価だ。
 
-**参考情報**: 「軽くてフカフカでサイズに余裕があり生地感も気持ちいい」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/yahoo.co.jp`</details>
+> **参考情報**: 「軽くてフカフカでサイズに余裕があり生地感も気持ちいい」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/yahoo.co.jp`</details>
 
-**参考情報**: 「ふかふかでとても寝心地が良かった」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/snowpeak.co.jp`</details>
+> **参考情報**: 「ふかふかでとても寝心地が良かった」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/snowpeak.co.jp`</details>
 
 **JK**: フカフカ！それ最高じゃないですか！
 
 **先生**: ただし、注意点もある。収納袋から出してすぐは薄っぺらくて、ダウンが膨らむまでに時間がかかるという声がある。
 
-**参考情報**: 「収納袋から出してすぐは薄っぺらく、膨らむまでに時間がかかる」「値段が高い」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/kakaku.com`</details>
+> **参考情報**: 「収納袋から出してすぐは薄っぺらく、膨らむまでに時間がかかる」「値段が高い」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/kakaku.com`</details>
 
 **JK**: あー、確かにダウンジャケットとかもそういうことありますよね。テント設営前に早めに出しておいた方がいいってことですね。
 
@@ -229,7 +229,7 @@ Tags: SleepingGear, Guide
 
 **先生**: グランドオフトンは、オフトンシリーズの最高峰だ。最大の特徴は、厚さ5cmのインフレータブルマットが付属していること。これで地面からの冷気を完全に遮断する。
 
-**参考情報**: 「地表からの冷気を遮断する厚さ5cmのインフレータブルマットと、隙間が生まれにくい特殊形状の掛け布団により、自宅の布団のような寝心地を実現」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/snowpeak.co.jp`</details>
+> **参考情報**: 「地表からの冷気を遮断する厚さ5cmのインフレータブルマットと、隙間が生まれにくい特殊形状の掛け布団により、自宅の布団のような寝心地を実現」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/snowpeak.co.jp`</details>
 
 **JK**: 5cmって、結構厚いですよね！普通のキャンプ用マットって薄いイメージあるんですけど……
 
@@ -247,7 +247,7 @@ Tags: SleepingGear, Guide
 
 **先生**: そう。カップルや親子でのキャンプにも対応できる。
 
-**参考情報**: 「ダブルサイズに対応した広い寝心地で、カップルや親子でのキャンプに適しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/snowpeak.co.jp`</details>
+> **参考情報**: 「ダブルサイズに対応した広い寝心地で、カップルや親子でのキャンプに適しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/snowpeak.co.jp`</details>
 
 **JK**: 家族でキャンプするときに良さそうですね！
 
@@ -287,7 +287,7 @@ Tags: SleepingGear, Guide
 
 **先生**: ああ、システムオフトンだな。これは従来のオフトンとは少し違うコンセプトだ。
 
-**参考情報**: 「掛け布団式を採用し、シーズンに合わせた温度調整がより手軽になった」「6箇所に固定ポイントを設けることで寝返りによる布団のズレを防ぐ」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/campreview.jp`</details>
+> **参考情報**: 「掛け布団式を採用し、シーズンに合わせた温度調整がより手軽になった」「6箇所に固定ポイントを設けることで寝返りによる布団のズレを防ぐ」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/campreview.jp`</details>
 
 **JK**: 6箇所の固定ポイント？何それ？
 
@@ -318,7 +318,7 @@ Tags: SleepingGear, Guide
 
 **先生**: そうだ。同じモデル同士であれば、ファスナーで連結できる。
 
-**参考情報**: 「複数のセパレートオフトンを連結して、大人数での使用や広いスペースを確保することも可能です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/bepal.net`</details>
+> **参考情報**: 「複数のセパレートオフトンを連結して、大人数での使用や広いスペースを確保することも可能です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/bepal.net`</details>
 
 **JK**: えー！じゃあ家族でお布団並べて寝るみたいにできるんですね！
 
@@ -340,7 +340,7 @@ Tags: SleepingGear, Guide
 
 ### ダウンモデルの洗濯方法
 
-**参考情報**: 「洗濯機に少量のダウン専用洗剤と、オフトン全体が浸かる程度のぬるま湯（30度以下）を入れます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/snowpeak.co.jp`</details>
+> **参考情報**: 「洗濯機に少量のダウン専用洗剤と、オフトン全体が浸かる程度のぬるま湯（30度以下）を入れます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/snowpeak.co.jp`</details>
 
 **先生**: ダウンモデルは洗濯機が使える。手順はこうだ。
 
@@ -357,7 +357,7 @@ Tags: SleepingGear, Guide
 
 ### 化繊モデルの洗濯方法
 
-**参考情報**: 「浴槽に少量の洗濯洗剤と、オフトン全体が浸かる程度のぬるま湯（30度以下）を入れます。優しく押し洗いします」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/snowpeak.co.jp`</details>
+> **参考情報**: 「浴槽に少量の洗濯洗剤と、オフトン全体が浸かる程度のぬるま湯（30度以下）を入れます。優しく押し洗いします」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/snowpeak.co.jp`</details>
 
 **先生**: 化繊モデルは手洗いのみだ。浴槽で押し洗いする。
 
@@ -402,13 +402,13 @@ Tags: SleepingGear, Guide
 | **イスカ** | 3D構造でフィット、寝袋専門 | 登山、バイクツーリング |
 | **モンベル** | ストレッチシステム、コスパ | 登山〜キャンプ幅広く |
 
-**参考情報**: 「ナンガは高品質な羽毛と国内生産、永久保証、防水透湿素材が特徴」「マミー型が多く窮屈に感じる場合がある」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/nap-camp.com`</details>
+> **参考情報**: 「ナンガは高品質な羽毛と国内生産、永久保証、防水透湿素材が特徴」「マミー型が多く窮屈に感じる場合がある」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/nap-camp.com`</details>
 
 **JK**: ナンガって永久保証なんですか！？すごくないですか？
 
 **先生**: 確かにナンガの永久保証は業界でも異例だ。品質への自信の表れだな。ただし、形状はマミー型が中心で、オフトンのような開放感はない。
 
-**参考情報**: 「モンベルは独自のストレッチシステムで寝袋全体が伸縮し、寝返りや体の動きを妨げずに快適な睡眠を提供」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/nap-camp.com`</details>
+> **参考情報**: 「モンベルは独自のストレッチシステムで寝袋全体が伸縮し、寝返りや体の動きを妨げずに快適な睡眠を提供」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/nap-camp.com`</details>
 
 **JK**: モンベルのストレッチシステムって何ですか？
 
@@ -434,7 +434,7 @@ Tags: SleepingGear, Guide
 
 **先生**: 基本的にはおすすめしない。オフトンは収納サイズが大きく、重量もある。登山には軽量コンパクトなマミー型寝袋の方が適している。オフトンは車で荷物を運べるオートキャンプ向けだ。
 
-**参考情報**: 「高価であり、収納サイズが大きく、重量もあるため、主にオートキャンプ向けとされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/tacklenote.jp`</details>
+> **参考情報**: 「高価であり、収納サイズが大きく、重量もあるため、主にオートキャンプ向けとされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/tacklenote.jp`</details>
 
 ### Q2: 子供用サイズはありますか？
 

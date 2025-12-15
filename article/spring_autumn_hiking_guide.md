@@ -53,7 +53,7 @@ Tags: Clothing, Guide
 
 **先生**: 基本的な法則として、**標高が100m上がるごとに気温は約0.6℃下がる**。さらに**風速1m/sで体感温度は約1℃下がる**と言われている。
 
-**参考情報**: 「標高が100m上がるごとに気温は約0.6℃下がると言われており、風速1m/sで体感温度が1℃下がります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq98-CwLJUp2kSE3EeFOStOlbYp0EVXePlIjxThB65xwQDEWgNS8T7J2fe-f_LdDSI920DYwcY4vvJZatqbR5-lAvBKpDkByRl1IxpD9_Z5rjMfIY2nTZ6zYz6YoKLbvU6Og==`</details>
+> **参考情報**: 「標高が100m上がるごとに気温は約0.6℃下がると言われており、風速1m/sで体感温度が1℃下がります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq98-CwLJUp2kSE3EeFOStOlbYp0EVXePlIjxThB65xwQDEWgNS8T7J2fe-f_LdDSI920DYwcY4vvJZatqbR5-lAvBKpDkByRl1IxpD9_Z5rjMfIY2nTZ6zYz6YoKLbvU6Og==`</details>
 
 **JK**: えーと、計算すると……麓が15℃でも、1000m登ったら9℃ってことですか。で、強風だったらさらに寒い。
 
@@ -67,7 +67,7 @@ Tags: Clothing, Guide
 
 **先生**: もう一つ、春秋は**天候が急変しやすい**。晴れ予報でも、山の上では突然雨やみぞれ、時には雪になることもある。
 
-**参考情報**: 「春山では雪解けが進むものの、標高の高い山では冬の寒さが残り、天候が急変することがあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGIwCuL8JSDKwrhyyrFe_U7OnpHVdVZJRySuXUmHL9B-O3bw3UwElxwXewC-kVT_UwYncUWjESVc034ZAQvuvxgavoFslvHXZBhiNyXTTeQ4baoDiF9_1V-yzGJLdFZ48aIT9_q_7aE43Znbtf`</details>
+> **参考情報**: 「春山では雪解けが進むものの、標高の高い山では冬の寒さが残り、天候が急変することがあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGIwCuL8JSDKwrhyyrFe_U7OnpHVdVZJRySuXUmHL9B-O3bw3UwElxwXewC-kVT_UwYncUWjESVc034ZAQvuvxgavoFslvHXZBhiNyXTTeQ4baoDiF9_1V-yzGJLdFZ48aIT9_q_7aE43Znbtf`</details>
 
 **JK**: 雪！？ 春なのに！？
 
@@ -89,7 +89,7 @@ Tags: Clothing, Guide
 
 **先生**: ……ことわざだ。秋は日が沈むのがあっという間に早くなるという意味だ。東京では7月の日の入りが19時頃だが、10月には17時頃になる。**約2時間も短くなる**んだ。
 
-**参考情報**: 「7月の日の入りが19時頃なのに対し、10月には17時頃と約2時間も短くなります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfpEkiktlZfhpkU0XlckxHCBcOcKfc3jYJ-4gpRr-M8pJo6hr3rl2uxmQVxModGpj2wuAYtLjNPHWdbbo1n4CkIp1bk1pC9rcSddWAC0yK843ZwDoTanSZYuk7rLsTJkfahuPH1r0Y-XsXNesUzLKM-LwwNw==`</details>
+> **参考情報**: 「7月の日の入りが19時頃なのに対し、10月には17時頃と約2時間も短くなります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfpEkiktlZfhpkU0XlckxHCBcOcKfc3jYJ-4gpRr-M8pJo6hr3rl2uxmQVxModGpj2wuAYtLjNPHWdbbo1n4CkIp1bk1pC9rcSddWAC0yK843ZwDoTanSZYuk7rLsTJkfahuPH1r0Y-XsXNesUzLKM-LwwNw==`</details>
 
 **JK**: 2時間！ それは結構違いますね。
 
@@ -121,7 +121,7 @@ Tags: Clothing, Guide
 
 **先生**: それが厄介でな。**朝は凍結してカチカチ、日中は溶けてグチャグチャ**になる。そして怖いのが「踏み抜き」だ。
 
-**参考情報**: 「日中の暖かさで雪が緩むと足が雪にめり込む『踏み抜き』の危険があります。凍結した表面を踏み抜いて大怪我をするケースも少なくありません」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAcpIND0NUXfjfYqv_Wneu7GdgDRLETcKVciGwxfclxOGlmNg8YRxAmg7P1lmLEzPCcQ1jLyAJFVoDCIxkvbP_tqy9ZSD8bJMpAYSyyCmZqh74OethdvnpB8K_1VW3CA==`</details>
+> **参考情報**: 「日中の暖かさで雪が緩むと足が雪にめり込む『踏み抜き』の危険があります。凍結した表面を踏み抜いて大怪我をするケースも少なくありません」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAcpIND0NUXfjfYqv_Wneu7GdgDRLETcKVciGwxfclxOGlmNg8YRxAmg7P1lmLEzPCcQ1jLyAJFVoDCIxkvbP_tqy9ZSD8bJMpAYSyyCmZqh74OethdvnpB8K_1VW3CA==`</details>
 
 **JK**: 踏み抜き？
 
@@ -139,7 +139,7 @@ Tags: Clothing, Guide
 
 **先生**: 雪が溶けると、雪で固定されていた岩が**不安定になる**。冬の間は動かなかった岩が、雪解け水で緩んでグラグラになっているんだ。
 
-**参考情報**: 「融雪により地面が緩むことで、安定していたはずの岩が不安定な『浮石』となりやすくなります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhLZxLX78gON7aHbeB26SJjHHoCCvphMyiOqXesSS-b75hhgMBxud5U3iSA0aVd6ozggpzVzhkJEsGqgZl-m2E69SsYMJHCHdJOYFymeJaYhBNlqrK8xnhEXvSnRfogCBpQBy3khIu`</details>
+> **参考情報**: 「融雪により地面が緩むことで、安定していたはずの岩が不安定な『浮石』となりやすくなります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhLZxLX78gON7aHbeB26SJjHHoCCvphMyiOqXesSS-b75hhgMBxud5U3iSA0aVd6ozggpzVzhkJEsGqgZl-m2E69SsYMJHCHdJOYFymeJaYhBNlqrK8xnhEXvSnRfogCBpQBy3khIu`</details>
 
 **JK**: 大きい岩でも危ないんですか？
 
@@ -166,7 +166,7 @@ Tags: Clothing, Guide
 - **ポリエステルなど滑らかな素材のウェア**を選ぶ
 - **スギ・ヒノキが少ない高山**を選ぶ
 
-**参考情報**: 「ウールやフリースなど花粉が付着しやすい起毛素材を避け、ポリエステルやソフトシェルなど表面が滑らかな素材のウェアを選び、花粉の付着を最小限に抑えます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4ic5OLiWGKAGsZx8EHz17q6KdxAkMBHvTJQSjTweOc0K201O-LroLktZ0_dZvyGRxLALL5L_3EPB9IZmOEGmuUkFTZodzdK56cnGz1ZvJKv432uKSVerXI0w9P06hnVF4RekH3HNkdbXHvQ==`</details>
+> **参考情報**: 「ウールやフリースなど花粉が付着しやすい起毛素材を避け、ポリエステルやソフトシェルなど表面が滑らかな素材のウェアを選び、花粉の付着を最小限に抑えます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4ic5OLiWGKAGsZx8EHz17q6KdxAkMBHvTJQSjTweOc0K201O-LroLktZ0_dZvyGRxLALL5L_3EPB9IZmOEGmuUkFTZodzdK56cnGz1ZvJKv432uKSVerXI0w9P06hnVF4RekH3HNkdbXHvQ==`</details>
 
 **JK**: へー、ウェアの素材も関係あるんだ。フリース着がちだったけど、やめておこう。
 
@@ -180,7 +180,7 @@ Tags: Clothing, Guide
 
 **先生**: 確かに美しいが、落ち葉には注意が必要だ。登山道を**落ち葉が覆い隠して、道が不明瞭になる**ことがある。
 
-**参考情報**: 「秋の山は一面の落ち葉が魅力的ですが、登山道を覆い隠すため道が不明瞭になり、道迷いのリスクが高まります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDRZJXOVK_TewCusntBE0FF9Ze6Ldr7CfQma_MGHTq0hFYyDTQSaQ0UTMeXnICBk0bUr9hznp21x9bAFMd2WKS9x_IfTIryfjBc3TaorSBytUbkGFdHKcVUQsBALeFsuvnFH7VVCh7POCV7ludhHG6ksa-`</details>
+> **参考情報**: 「秋の山は一面の落ち葉が魅力的ですが、登山道を覆い隠すため道が不明瞭になり、道迷いのリスクが高まります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDRZJXOVK_TewCusntBE0FF9Ze6Ldr7CfQma_MGHTq0hFYyDTQSaQ0UTMeXnICBk0bUr9hznp21x9bAFMd2WKS9x_IfTIryfjBc3TaorSBytUbkGFdHKcVUQsBALeFsuvnFH7VVCh7POCV7ludhHG6ksa-`</details>
 
 **JK**: でも登山道って踏み跡とかでわかりますよね？
 
@@ -196,7 +196,7 @@ Tags: Clothing, Guide
 
 **先生**: 出る。特に秋は**冬眠に向けて熊が活発に餌を探す時期**だから、人間との遭遇リスクが高くなる。
 
-**参考情報**: 「秋は熊が冬眠に向けて活発に餌を探すため、人間との遭遇リスクが高まります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcM9dheX5frtoB6WuiVPC0my0dGfCFQLd8vFJTlScUDbBzh5ouMg_Rv_Hm7nQzLXawYkOk55ZSapTixUNsloThjBvuMwx1JE3gbBjBr4EjWXR0hh811CWVdIqH8VABteyY_olPkep_SyX3UDYmXQ==`</details>
+> **参考情報**: 「秋は熊が冬眠に向けて活発に餌を探すため、人間との遭遇リスクが高まります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcM9dheX5frtoB6WuiVPC0my0dGfCFQLd8vFJTlScUDbBzh5ouMg_Rv_Hm7nQzLXawYkOk55ZSapTixUNsloThjBvuMwx1JE3gbBjBr4EjWXR0hh811CWVdIqH8VABteyY_olPkep_SyX3UDYmXQ==`</details>
 
 **JK**: 怖すぎる……。どうすればいいんですか？
 
@@ -221,7 +221,7 @@ Tags: Clothing, Guide
 
 **先生**: 痛いだけでは済まないこともある。アナフィラキシーショックで命に関わることもある。
 
-**参考情報**: 「スズメバチは9月から11月にかけて最も活動が活発になり、攻撃性も増します。巣が最大規模になり、新しい女王バチが誕生する時期のため、巣を守ろうとして攻撃的になります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEitTHBMGEV5R1f9T3yQUoc6ZgKGKkvlP078o7a17qTnkSJ_MrwbXA9fYYk1l9rzj0BMaawVVSIIlfER3aMFSYRYVBVBrXhaEsoOxPFDeM2SPXH4syZX3G-rIo1WGJRCgcfvAKZqtiNbq04aIodZS82Ks9ir5LH3aPmwtkT`</details>
+> **参考情報**: 「スズメバチは9月から11月にかけて最も活動が活発になり、攻撃性も増します。巣が最大規模になり、新しい女王バチが誕生する時期のため、巣を守ろうとして攻撃的になります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEitTHBMGEV5R1f9T3yQUoc6ZgKGKkvlP078o7a17qTnkSJ_MrwbXA9fYYk1l9rzj0BMaawVVSIIlfER3aMFSYRYVBVBrXhaEsoOxPFDeM2SPXH4syZX3G-rIo1WGJRCgcfvAKZqtiNbq04aIodZS82Ks9ir5LH3aPmwtkT`</details>
 
 **JK**: 9〜11月が一番攻撃的なんですか？ まさに紅葉シーズン……。
 
@@ -253,7 +253,7 @@ Tags: Clothing, Guide
 
 **先生**: 綿のTシャツはダメだ。汗を吸うと乾きにくく、体を冷やす「汗冷え」の原因になる。
 
-**参考情報**: 「汗冷えを防ぐため、綿素材は避け、吸湿速乾性のある化学繊維やメリノウール素材を選びましょう」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeiUowhx5MZlVDT6-ioZJe8kvx6e2bTWAsh1S08V1bumezYfgtlvKNrZAb3fuQb_Wi4u9KYGqxgf5nVwBPNhGIRS6DX_hgXbgNjEZ-92i-7qiYLGhkdTY6hfdK79OHHNyKUMuBffxKRiS1zSNz51yOig==`</details>
+> **参考情報**: 「汗冷えを防ぐため、綿素材は避け、吸湿速乾性のある化学繊維やメリノウール素材を選びましょう」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeiUowhx5MZlVDT6-ioZJe8kvx6e2bTWAsh1S08V1bumezYfgtlvKNrZAb3fuQb_Wi4u9KYGqxgf5nVwBPNhGIRS6DX_hgXbgNjEZ-92i-7qiYLGhkdTY6hfdK79OHHNyKUMuBffxKRiS1zSNz51yOig==`</details>
 
 **JK**: え、綿ダメなんですか？ 普通のTシャツって大体綿ですよね。
 
@@ -272,7 +272,7 @@ Tags: Clothing, Guide
 
 **先生**: その通り。春秋の行動着としては**薄手のフリース**が使いやすい。
 
-**参考情報**: 「フリースは保温性と通気性に優れ、速乾性も高い、最も一般的なミッドレイヤー素材です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuh1dxzQR-Vo9O7UCs4JmSiynYGDRd10Kzyo7_ZvLWJLZB89Ujk168r07DoUEhljSY8PNWzbj1ilWH9KbXyRzkDNeTZfykZ0sPh4gPFtdcsFdXURnOC6VwlsCSNZv8OTOgI-c=`</details>
+> **参考情報**: 「フリースは保温性と通気性に優れ、速乾性も高い、最も一般的なミッドレイヤー素材です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuh1dxzQR-Vo9O7UCs4JmSiynYGDRd10Kzyo7_ZvLWJLZB89Ujk168r07DoUEhljSY8PNWzbj1ilWH9KbXyRzkDNeTZfykZ0sPh4gPFtdcsFdXURnOC6VwlsCSNZv8OTOgI-c=`</details>
 
 **JK**: フリースって結構かさばりません？
 
@@ -282,7 +282,7 @@ Tags: Clothing, Guide
 
 **先生**: 「動的保温着」とでも訳せばいいか。保温性があるのに通気性も高く、**行動中に着続けても蒸れにくい**のが特徴だ。
 
-**参考情報**: 「『動的保温着』とも呼ばれ、保温性のある中綿と通気性の高い生地を組み合わせているため、行動中に着続けても蒸れにくいのが最大の特徴です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuh1dxzQR-Vo9O7UCs4JmSiynYGDRd10Kzyo7_ZvLWJLZB89Ujk168r07DoUEhljSY8PNWzbj1ilWH9KbXyRzkDNeTZfykZ0sPh4gPFtdcsFdXURnOC6VwlsCSNZv8OTOgI-c=`</details>
+> **参考情報**: 「『動的保温着』とも呼ばれ、保温性のある中綿と通気性の高い生地を組み合わせているため、行動中に着続けても蒸れにくいのが最大の特徴です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuh1dxzQR-Vo9O7UCs4JmSiynYGDRd10Kzyo7_ZvLWJLZB89Ujk168r07DoUEhljSY8PNWzbj1ilWH9KbXyRzkDNeTZfykZ0sPh4gPFtdcsFdXURnOC6VwlsCSNZv8OTOgI-c=`</details>
 
 #### ミドルレイヤーの選択肢
 | 種類 | メリット | デメリット |
@@ -299,7 +299,7 @@ Tags: Clothing, Guide
 
 **先生**: 絶対に持っていけ。さっき言っただろう、春秋は天候が急変する。しかもレインウェアは**防風着としても使える**。稜線で風に吹かれた時、レインウェアがあるかないかで体感温度が全然違う。
 
-**参考情報**: 「防水透湿性素材のレインウェアは、防風・防寒着としても活用できます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVcB91PjF9RHRr-X1wHKOEqAamYSJGbdwRf46P09usMPDORWjSTLKglLAeqprjyCIJcM7bNvZppokLhu3jdYVBcJxBp-7Y7HS6VRPQpp8YOLIk8VctAOJyw2SROB-hEhk9Vs_7a4cXz1QCvwoKokMpHVvmNF0=`</details>
+> **参考情報**: 「防水透湿性素材のレインウェアは、防風・防寒着としても活用できます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVcB91PjF9RHRr-X1wHKOEqAamYSJGbdwRf46P09usMPDORWjSTLKglLAeqprjyCIJcM7bNvZppokLhu3jdYVBcJxBp-7Y7HS6VRPQpp8YOLIk8VctAOJyw2SROB-hEhk9Vs_7a4cXz1QCvwoKokMpHVvmNF0=`</details>
 
 **JK**: 確かに、強風って体力めっちゃ奪われますよね。
 
@@ -321,7 +321,7 @@ Tags: Clothing, Guide
 
 **先生**: ……と思うだろう？ 弱点がある。**濡れると保温性が激減する**んだ。
 
-**参考情報**: 「水に濡れると保温性が著しく低下し、乾きにくいという弱点があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy4WA5OuSvbGCcgBFW3r8Lf7WTNHjTY6V6ZZKemz-jcgVvtqejssG8VoHILUe5wwhP--LB2UYUzCWWLGvzEM3AL7WZSCWfNBAM9FJc5K3rjubo6ZJeBYA1fOrU9Ziks4cdPg==`</details>
+> **参考情報**: 「水に濡れると保温性が著しく低下し、乾きにくいという弱点があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy4WA5OuSvbGCcgBFW3r8Lf7WTNHjTY6V6ZZKemz-jcgVvtqejssG8VoHILUe5wwhP--LB2UYUzCWWLGvzEM3AL7WZSCWfNBAM9FJc5K3rjubo6ZJeBYA1fOrU9Ziks4cdPg==`</details>
 
 **JK**: え、雨に濡れたらダメってこと？
 
@@ -331,7 +331,7 @@ Tags: Clothing, Guide
 
 **先生**: 化繊ジャケットは**濡れても保温性が落ちにくい**のが最大の特徴だ。
 
-**参考情報**: 「ポリエステルなどの化学繊維を中綿に使用しており、濡れても保温性が低下しにくいのが最大のメリットです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMy3rSw-NBV-mZAt4dhXTjkXuXHrx9jWFBDjD5ltPFCLpmn03muWnhW2wC4kuqgVvsjKCfl442SMRRCZ7jCDTW0r38Ck_2TDQWJlQryiOwfrORynS3PdYLHqAKRjMSBWCy1offcLySC5Hfef_KNqk_fT0=`</details>
+> **参考情報**: 「ポリエステルなどの化学繊維を中綿に使用しており、濡れても保温性が低下しにくいのが最大のメリットです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMy3rSw-NBV-mZAt4dhXTjkXuXHrx9jWFBDjD5ltPFCLpmn03muWnhW2wC4kuqgVvsjKCfl442SMRRCZ7jCDTW0r38Ck_2TDQWJlQryiOwfrORynS3PdYLHqAKRjMSBWCy1offcLySC5Hfef_KNqk_fT0=`</details>
 
 **JK**: じゃあ春秋は化繊の方がいいんですか？
 
@@ -341,7 +341,7 @@ Tags: Clothing, Guide
 
 **先生**: フリースは**通気性と速乾性に優れ、動きやすい**。
 
-**参考情報**: 「フリースは優れた通気性と速乾性を持ち、ストレッチ性があるため動きやすく、行動着として快適です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEurcx3TanwpU50mvB1-AV478e6-9tPSRQBG4cDhAAhmRoNu1bangWKPj--po6eblyCgBW02zGB4B1XoOZC1HuEmEqYhD7hj68h8FJKaWe-oNCWm77fxU-wf5y5A==`</details>
+> **参考情報**: 「フリースは優れた通気性と速乾性を持ち、ストレッチ性があるため動きやすく、行動着として快適です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEurcx3TanwpU50mvB1-AV478e6-9tPSRQBG4cDhAAhmRoNu1bangWKPj--po6eblyCgBW02zGB4B1XoOZC1HuEmEqYhD7hj68h8FJKaWe-oNCWm77fxU-wf5y5A==`</details>
 
 **JK**: フリースって暖かいけど、風通しますよね？
 
@@ -394,7 +394,7 @@ Tags: Clothing, Guide
 
 ### 残雪期（春山高山）の追加装備
 
-**参考情報**: 「急な雪面では前爪のある10本爪以上のアイゼンが推奨されます。緩やかな斜面や雪と岩が混じる場所では、軽量な6〜8本爪の軽アイゼンやチェーンスパイクも選択肢」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-KlY5HtPNSgshWwRCE0Uecporvc6EEjy3-cda1_AMXHunJTw--0MCcJxhbiB5Fh0wvzJyt560Gtrs0BgqbnI5n8SliW61mOtHkRFYrrwLTe4e82dCtGIL1utcFIdOA5W5FpPr_gkeeTVGuLV3IIK4H-XcmIccOxbr-7WG7B4Y`</details>
+> **参考情報**: 「急な雪面では前爪のある10本爪以上のアイゼンが推奨されます。緩やかな斜面や雪と岩が混じる場所では、軽量な6〜8本爪の軽アイゼンやチェーンスパイクも選択肢」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-KlY5HtPNSgshWwRCE0Uecporvc6EEjy3-cda1_AMXHunJTw--0MCcJxhbiB5Fh0wvzJyt560Gtrs0BgqbnI5n8SliW61mOtHkRFYrrwLTe4e82dCtGIL1utcFIdOA5W5FpPr_gkeeTVGuLV3IIK4H-XcmIccOxbr-7WG7B4Y`</details>
 
 #### 主なスペック
 - **軽アイゼン・チェーンスパイク**: 雪渓や凍結斜面対応
@@ -429,7 +429,7 @@ Tags: Clothing, Guide
 - **熊の出没情報**
 - **登山道の状況**（残雪、通行止めなど）
 
-**参考情報**: 「単独登山は避け、経験者との複数人での登山を心がけ、体力と経験に応じた無理のない計画を立てましょう」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6ARMxqadU_G-BeWY5lka4C5alXLrfXF2ahxtg6UqJCGmcJZ26p-3DaHgqZjBC7SOVoKRoiD6nooBPtt3xZ-nrKo_GTcv8R4fLhotrWYV8mRz03W-RWdkcv74XzHrKRw4nc1S6R_LpiuKnU5pA-d06xj-AgNG3Pc1c8iELx1ebNABkwyVNs1CPdQ==`</details>
+> **参考情報**: 「単独登山は避け、経験者との複数人での登山を心がけ、体力と経験に応じた無理のない計画を立てましょう」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6ARMxqadU_G-BeWY5lka4C5alXLrfXF2ahxtg6UqJCGmcJZ26p-3DaHgqZjBC7SOVoKRoiD6nooBPtt3xZ-nrKo_GTcv8R4fLhotrWYV8mRz03W-RWdkcv74XzHrKRw4nc1S6R_LpiuKnU5pA-d06xj-AgNG3Pc1c8iELx1ebNABkwyVNs1CPdQ==`</details>
 
 ### その他
 
@@ -446,7 +446,7 @@ Tags: Clothing, Guide
 
 **先生**: それは危険な考えだ。涼しいと**喉の渇きを感じにくくなる**が、体は水分を必要としている。
 
-**参考情報**: 「涼しい季節でも喉の渇きを感じにくくなるため、こまめな水分補給と行動食でのエネルギー補給を忘れずに行いましょう」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQG2px2M8hBAqBLwEqXeAwVp_PbHFV7jGTBg2GeyaNVINP8sz9_oPKnz12lPZPPNW0ayyBRqltrqfsC9PAsQyY3uAo8-gtL7vv9FTm1GYSZLm9TY5hrnKdp9bSrMiKX-6d_O3Iig_ngB6VY4gLfKARTKgJ-UZRN0GU`</details>
+> **参考情報**: 「涼しい季節でも喉の渇きを感じにくくなるため、こまめな水分補給と行動食でのエネルギー補給を忘れずに行いましょう」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQG2px2M8hBAqBLwEqXeAwVp_PbHFV7jGTBg2GeyaNVINP8sz9_oPKnz12lPZPPNW0ayyBRqltrqfsC9PAsQyY3uAo8-gtL7vv9FTm1GYSZLm9TY5hrnKdp9bSrMiKX-6d_O3Iig_ngB6VY4gLfKARTKgJ-UZRN0GU`</details>
 
 **JK**: 脱水になるってことですか？
 
@@ -466,7 +466,7 @@ Tags: Clothing, Guide
 
 **先生**: とんでもない。春秋でも十分起こりうる。特に**汗冷え**が原因になることが多い。
 
-**参考情報**: 「暖かい日でも、汗をかいて体が冷える『汗冷え』から低体温症に繋がるリスクがあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGB452iikC-Qt_-a50lDqrUHsVzZ5ocfSmOo0gYvJkjFSStgaxqkQFZPRruT_rzUlqsGnAyZK5m9ZXiSueREs2NrE56VuMhFbtTNIQ02RJLdTE39A8Lp8NsXGA=`</details>
+> **参考情報**: 「暖かい日でも、汗をかいて体が冷える『汗冷え』から低体温症に繋がるリスクがあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGB452iikC-Qt_-a50lDqrUHsVzZ5ocfSmOo0gYvJkjFSStgaxqkQFZPRruT_rzUlqsGnAyZK5m9ZXiSueREs2NrE56VuMhFbtTNIQ02RJLdTE39A8Lp8NsXGA=`</details>
 
 **JK**: 汗冷えで低体温症……！？
 

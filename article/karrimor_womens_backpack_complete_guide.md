@@ -35,7 +35,7 @@ Tags: Backpack, Guide
 
 **先生**: あるぞ。カリマーは「Small」サイズや「WF（Women's Fit）」と呼ばれる女性向け設計を採用したモデルを展開している。
 
-**参考情報**: 「小柄な女性でもフィットしやすいように考慮されており、体に吸い付くようなフィット感で、長時間の使用でも疲れにくいように工夫されています。」<details><summary>出典</summary>`https://ruck-lab.com/`</details>
+> **参考情報**: 「小柄な女性でもフィットしやすいように考慮されており、体に吸い付くようなフィット感で、長時間の使用でも疲れにくいように工夫されています。」<details><summary>出典</summary>`https://ruck-lab.com/`</details>
 
 **JK**: 「Small」と「WF」って何が違うんですか？
 
@@ -45,7 +45,7 @@ Tags: Backpack, Guide
 - **胸を避けるようなハーネス形状**で圧迫感を軽減
 - 背面長が42cmと短めに設定
 
-**参考情報**: 「ショルダーハーネスの幅が女性の平均的な肩幅を想定して作られ、胸を避けるようなハーネス形状になっています。」<details><summary>出典</summary>`https://yodobashi.com/`</details>
+> **参考情報**: 「ショルダーハーネスの幅が女性の平均的な肩幅を想定して作られ、胸を避けるようなハーネス形状になっています。」<details><summary>出典</summary>`https://yodobashi.com/`</details>
 
 **JK**: あ、それ大事！普通のリュックだとチェストベルト締めると胸が苦しくなるんですよ…。
 
@@ -98,7 +98,7 @@ Tags: Backpack, Guide
 - **素材**: 210D 6X6 R/S NY（ナイロン100%）
 - **価格**: 31,900円（税込）
 
-**参考情報**: 「ridge 30+の価格は31,900円（税込）です。」<details><summary>出典</summary>`https://karrimor.jp/`</details>
+> **参考情報**: 「ridge 30+の価格は31,900円（税込）です。」<details><summary>出典</summary>`https://karrimor.jp/`</details>
 
 **JK**: 1,360gって…重くないですか？500mlペットボトル2本以上ですよ？
 
@@ -124,7 +124,7 @@ Tags: Backpack, Guide
 
 **先生**: 別で買うと2,000-3,000円するからな。最初から付いているのはありがたい。
 
-**参考情報**: 「レインカバー内蔵で、底面やボトムアクセスジッパー内部に収納されています。」<details><summary>出典</summary>`https://yamahack.com/`</details>
+> **参考情報**: 「レインカバー内蔵で、底面やボトムアクセスジッパー内部に収納されています。」<details><summary>出典</summary>`https://yamahack.com/`</details>
 
 ### カラー展開
 
@@ -176,7 +176,7 @@ Tags: Backpack, Guide
 - **素材**: 210D 6X6 R/S NY（ナイロン100%）
 - **価格**: 約35,000円前後
 
-**参考情報**: 「ridge 40+ Smallの重量は約1,410gです。」<details><summary>出典</summary>`https://karrimor.jp/`</details>
+> **参考情報**: 「ridge 40+ Smallの重量は約1,410gです。」<details><summary>出典</summary>`https://karrimor.jp/`</details>
 
 **JK**: あれ、重さあんまり変わらないですね？
 
@@ -190,7 +190,7 @@ Tags: Backpack, Guide
 - **ヘッドクリアランス機能**: 雨蓋を調整してヘルメット着用時の視界を確保
 - **活性炭加工エアメッシュ**: 背面の吸汗・速乾性がさらに向上
 
-**参考情報**: 「活性炭加工を施したエアメッシュ素材が採用されており、吸汗・速乾性に優れ、快適さを保ちます。」<details><summary>出典</summary>`https://yamahack.com/`</details>
+> **参考情報**: 「活性炭加工を施したエアメッシュ素材が採用されており、吸汗・速乾性に優れ、快適さを保ちます。」<details><summary>出典</summary>`https://yamahack.com/`</details>
 
 **JK**: 活性炭って消臭効果があるやつですよね？
 
@@ -234,9 +234,9 @@ Tags: Backpack, Guide
 - **素材**: コーデュラナイロン
 - **価格**: 36,300円（税込）
 
-**参考情報**: 「このモデルの重量は2550gです。」<details><summary>出典</summary>`https://iceone.co.jp/`</details>
+> **参考情報**: 「このモデルの重量は2550gです。」<details><summary>出典</summary>`https://iceone.co.jp/`</details>
 
-**参考情報**: 「Cougar Grace 55-70の希望小売価格は36,300円（税込）です。」<details><summary>出典</summary>`https://yodobashi.com/`</details>
+> **参考情報**: 「Cougar Grace 55-70の希望小売価格は36,300円（税込）です。」<details><summary>出典</summary>`https://yodobashi.com/`</details>
 
 **JK**: 2.5kgって…けっこう重いですね…。
 
@@ -248,7 +248,7 @@ Tags: Backpack, Guide
 
 **先生**: カリマー独自の**背面長調整システム**だ。これがCougar Graceの最大の特徴と言っていい。
 
-**参考情報**: 「無段階で背面長を調整できる独自のSAシステム（Size Adjust system）を搭載しており、これによりどんな体型の人でも最適なフィット感を得ることが可能です。この調整は、ザックを背負ったままでも簡単に行えます。」<details><summary>出典</summary>`https://mountain-dc.com/`</details>
+> **参考情報**: 「無段階で背面長を調整できる独自のSAシステム（Size Adjust system）を搭載しており、これによりどんな体型の人でも最適なフィット感を得ることが可能です。この調整は、ザックを背負ったままでも簡単に行えます。」<details><summary>出典</summary>`https://mountain-dc.com/`</details>
 
 **JK**: 背負ったまま調整できるんですか！？
 
@@ -270,7 +270,7 @@ Tags: Backpack, Guide
 
 **先生**: 実際に使った人のレビューを見てみよう。
 
-**参考情報**: 「実際に20kgの荷物を背負って2泊3日のテント泊で使用し、『肩3：腰7の割合で背負うため、肩周りの疲労感が少なく非常に快適だった』」<details><summary>出典</summary>`https://mountain-dc.com/`</details>
+> **参考情報**: 「実際に20kgの荷物を背負って2泊3日のテント泊で使用し、『肩3：腰7の割合で背負うため、肩周りの疲労感が少なく非常に快適だった』」<details><summary>出典</summary>`https://mountain-dc.com/`</details>
 
 **JK**: 肩3、腰7…？どういうことですか？
 
@@ -284,7 +284,7 @@ Tags: Backpack, Guide
 
 **先生**: もう一つ重要なのが素材だ。Cougar Graceには**コーデュラナイロン**が使われている。
 
-**参考情報**: 「耐久性に優れたコーデュラファブリック（420デニールナイロン）が採用されており、岩場や藪漕ぎなどタフな環境でも安心して使用できます。」<details><summary>出典</summary>`https://a-kimama.com/`</details>
+> **参考情報**: 「耐久性に優れたコーデュラファブリック（420デニールナイロン）が採用されており、岩場や藪漕ぎなどタフな環境でも安心して使用できます。」<details><summary>出典</summary>`https://a-kimama.com/`</details>
 
 **JK**: コーデュラって聞いたことあります！丈夫なやつですよね？
 
@@ -320,7 +320,7 @@ Tags: Backpack, Guide
 2. **腰骨の上端を確認する**: 両方の腰骨の一番上の部分を結ぶ水平な線
 3. **その間を測る**: メジャーで背骨のカーブに沿って測定
 
-**参考情報**: 「首を前に傾けたときに、首の後ろで一番大きく飛び出る骨（第七頸椎）を見つけます。」<details><summary>出典</summary>`https://gregory.jp/`</details>
+> **参考情報**: 「首を前に傾けたときに、首の後ろで一番大きく飛び出る骨（第七頸椎）を見つけます。」<details><summary>出典</summary>`https://gregory.jp/`</details>
 
 **JK**: 自分でやるの難しそう…誰かに手伝ってもらったほうがいいですか？
 
@@ -349,7 +349,7 @@ Tags: Backpack, Guide
 3. **チェストストラップ**: 鎖骨から5cm下にセット
 4. **背中との密着**: パックと背中の間に隙間がない
 
-**参考情報**: 「ヒップベルトの上端が腰骨の上端から約2.5cmの位置に来るように調整します。」<details><summary>出典</summary>`https://gregory.jp/`</details>
+> **参考情報**: 「ヒップベルトの上端が腰骨の上端から約2.5cmの位置に来るように調整します。」<details><summary>出典</summary>`https://gregory.jp/`</details>
 
 **JK**: 2.5cmとか5cmとか、そんな細かく見るんですか…。
 
@@ -363,7 +363,7 @@ Tags: Backpack, Guide
 
 **先生**: 登山用品店なら砂袋などの重りを貸してくれる。5-10kg入れて10分くらい背負ってみると、フィット感の良し悪しがわかってくる。
 
-**参考情報**: 「身長や背面長だけでなく、体格によっても最適なフィット感は異なるため、可能であれば実際に試着して選ぶことが強く推奨されています。」<details><summary>出典</summary>`https://yamahack.com/`</details>
+> **参考情報**: 「身長や背面長だけでなく、体格によっても最適なフィット感は異なるため、可能であれば実際に試着して選ぶことが強く推奨されています。」<details><summary>出典</summary>`https://yamahack.com/`</details>
 
 ---
 
@@ -377,13 +377,13 @@ Tags: Backpack, Guide
 
 **フィット感について**:
 
-**参考情報**: 「特に評価が高いのは、優れたフィット感と、荷重を肩だけでなく腰で支えることで肩への負担を軽減する設計です。」<details><summary>出典</summary>`https://hinata.me/`</details>
+> **参考情報**: 「特に評価が高いのは、優れたフィット感と、荷重を肩だけでなく腰で支えることで肩への負担を軽減する設計です。」<details><summary>出典</summary>`https://hinata.me/`</details>
 
 **JK**: 腰で支えるって、そんなに違うんですね。
 
 **機能性について**:
 
-**参考情報**: 「質実剛健と評される丈夫な生地と、多くのポケットによる高い収納性、荷物の整理のしやすさが魅力です。」<details><summary>出典</summary>`https://mountain-valley-journey.com/`</details>
+> **参考情報**: 「質実剛健と評される丈夫な生地と、多くのポケットによる高い収納性、荷物の整理のしやすさが魅力です。」<details><summary>出典</summary>`https://mountain-valley-journey.com/`</details>
 
 **先生**: 「質実剛健」という表現がカリマーの特徴をよく表していると思う。派手さはないが、確実に仕事をするタイプのザックだ。
 
@@ -393,7 +393,7 @@ Tags: Backpack, Guide
 
 **先生**: いくつかある。
 
-**参考情報**: 「一部のレビューでは、他の軽量パックと比較してやや重いと感じる意見もあります。」<details><summary>出典</summary>`https://rakuten.co.jp/`</details>
+> **参考情報**: 「一部のレビューでは、他の軽量パックと比較してやや重いと感じる意見もあります。」<details><summary>出典</summary>`https://rakuten.co.jp/`</details>
 
 **先生**: あとは旧モデルだと自立しにくいという声もあったが、新型では底面形状が改良されている。
 
@@ -432,7 +432,7 @@ Tags: Backpack, Guide
 4. **脱水**: 逆さまにして水を切り、タオルで吸水
 5. **乾燥**: 直射日光を避け、風通しの良い日陰で乾燥
 
-**参考情報**: 「洗剤が残らないよう、きれいな水で濁らなくなるまで十分にすすぎを繰り返します。洗剤成分が残ると、本来の防水性や撥水性が低下する原因となります。」<details><summary>出典</summary>`https://gregory.jp/`</details>
+> **参考情報**: 「洗剤が残らないよう、きれいな水で濁らなくなるまで十分にすすぎを繰り返します。洗剤成分が残ると、本来の防水性や撥水性が低下する原因となります。」<details><summary>出典</summary>`https://gregory.jp/`</details>
 
 **JK**: 洗濯機にポイでダメなんですか？
 
@@ -447,7 +447,7 @@ Tags: Backpack, Guide
 - **直射日光・高温を避ける**
 - 長期保管なら**半年に一度は虫干し**
 
-**参考情報**: 「一般的にリュックの寿命は5～10年とされていますが、適切な手入れと保管を行えば10～20年使用することも可能です。」<details><summary>出典</summary>`https://rasical.com/`</details>
+> **参考情報**: 「一般的にリュックの寿命は5～10年とされていますが、適切な手入れと保管を行えば10～20年使用することも可能です。」<details><summary>出典</summary>`https://rasical.com/`</details>
 
 **JK**: 20年も使えるんですか！？
 

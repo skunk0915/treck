@@ -36,7 +36,7 @@ Tags: Softshell, Guide
 
 **先生**: はは、その気持ちはわかる。ソフトシェルは完全防水ではない代わりに、**柔らかくて伸縮性があり、透湿性が高い**。つまり動きやすくて蒸れにくいということだ。小雨程度なら弾くし、風もしっかり防ぐ。
 
-**参考情報**: 「ソフトシェルは、主にアウトドア活動やスポーツに適したアウターウェアで、風や水分を防ぐ防風・撥水性に優れながら、軽量で通気性が良く、柔らかい素材が特徴です。」<details><summary>出典</summary>`https://www.descente.co.jp/media/outdoor/44894/`</details>
+> **参考情報**: 「ソフトシェルは、主にアウトドア活動やスポーツに適したアウターウェアで、風や水分を防ぐ防風・撥水性に優れながら、軽量で通気性が良く、柔らかい素材が特徴です。」<details><summary>出典</summary>`https://www.descente.co.jp/media/outdoor/44894/`</details>
 
 **JK**: じゃあ、雨降ったらすぐびしょ濡れになるってことですか？
 
@@ -94,7 +94,7 @@ Tags: Softshell, Guide
 
 **先生**: 実際に使ってみればわかる。私は10月の北アルプス・涸沢で使ったことがあるが、稜線の強風でも全く寒さを感じなかった。風が体を通り抜けないから、体感温度が全然違うんだ。
 
-**参考情報**: 「Gore-Tex WindstopperやGore-Tex Infiniumなどの素材を使用しているため、風をしっかりと遮断し、冷たい風から体を守ります。これは特に稜線や風の強い状況で非常に有効です。」<details><summary>出典</summary>`https://yamanba-mountain.com/`</details>
+> **参考情報**: 「Gore-Tex WindstopperやGore-Tex Infiniumなどの素材を使用しているため、風をしっかりと遮断し、冷たい風から体を守ります。これは特に稜線や風の強い状況で非常に有効です。」<details><summary>出典</summary>`https://yamanba-mountain.com/`</details>
 
 **JK**: へー！でも風を遮断したら蒸れません？
 
@@ -118,7 +118,7 @@ Tags: Softshell, Guide
 
 **先生**: 確かに安くはないな。だがこれだけの機能を持った素材を使っていること、そして長年の改良の結果であることを考えれば、妥当な価格だと私は思う。
 
-**参考情報**: 「「Ultimate VIII SO フーデッド ジャケット AF メンズ」の価格は、通常モデルが42,900円（税込）です。25周年記念の特別限定モデル「Ultimate VIII SO フーデッド ジャケット 25 YEARS」は46,200円（税込）で販売されています。」<details><summary>出典</summary>`https://prtimes.jp/`</details>
+> **参考情報**: 「「Ultimate VIII SO フーデッド ジャケット AF メンズ」の価格は、通常モデルが42,900円（税込）です。25周年記念の特別限定モデル「Ultimate VIII SO フーデッド ジャケット 25 YEARS」は46,200円（税込）で販売されています。」<details><summary>出典</summary>`https://prtimes.jp/`</details>
 
 **JK**: うーん…バイト代2ヶ月分くらいか…。
 
@@ -155,7 +155,7 @@ Tags: Softshell, Guide
 - **サイズ選びが複雑**: ヨーロッパサイズとアジアフィット（AF）があるので、試着推奨
 - **価格が高い**: 4万円台は気軽に手を出せる金額ではない
 
-**参考情報**: 「特にUltimate VIIのようなモデルは生地が厚めであるため、軽量なシェルと比較すると重く、パッキング時に嵩張ると感じる場合があります。」<details><summary>出典</summary>`https://muichinoblog.com/`</details>
+> **参考情報**: 「特にUltimate VIIのようなモデルは生地が厚めであるため、軽量なシェルと比較すると重く、パッキング時に嵩張ると感じる場合があります。」<details><summary>出典</summary>`https://muichinoblog.com/`</details>
 
 **JK**: 559gって…ペットボトル1本分くらいですよね。そこまで重くなくない？
 
@@ -195,7 +195,7 @@ Tags: Softshell, Guide
 - **ジッパー**: YKK VISLON® 2ウェイフロントジッパー
 - **価格**: 希望小売価格23,100円（セール時17,498円〜）
 
-**参考情報**: 「非常に快適で伸縮性があり、運動時に突っ張るストレスがないと評価されています。」<details><summary>出典</summary>`https://www.kakaku.com/`</details>
+> **参考情報**: 「非常に快適で伸縮性があり、運動時に突っ張るストレスがないと評価されています。」<details><summary>出典</summary>`https://www.kakaku.com/`</details>
 
 **JK**: 2万円台！これならなんとかなりそう。384gってことはUltimateより170gも軽いんですね。
 
@@ -220,7 +220,7 @@ Tags: Softshell, Guide
 
 **先生**: あと、メンズモデルには袖口に**サムループ**といって親指を通す穴がついている。手首から風が入るのを防いでくれるんだ。
 
-**参考情報**: 「快適で伸縮性のあるソフトシェル素材で作られており、小さく折りたたんで持ち運びやすいのが特徴です。」<details><summary>出典</summary>`https://www.mammut.jp/`</details>
+> **参考情報**: 「快適で伸縮性のあるソフトシェル素材で作られており、小さく折りたたんで持ち運びやすいのが特徴です。」<details><summary>出典</summary>`https://www.mammut.jp/`</details>
 
 ### Macunのデメリット
 
@@ -259,7 +259,7 @@ Tags: Softshell, Guide
 
 **先生**: まあ、見た目は似ているな。凸凹したフリース素材が体の熱を逃がしやすくしつつ、汗を吸収・発散してくれる。
 
-**参考情報**: 「中厚手の二重織りソフトシェルと、ワッフル構造の軽量ストームフリースを組み合わせることで、防風性と耐候性を高めています。」<details><summary>出典</summary>`https://www.tradeinn.com/`</details>
+> **参考情報**: 「中厚手の二重織りソフトシェルと、ワッフル構造の軽量ストームフリースを組み合わせることで、防風性と耐候性を高めています。」<details><summary>出典</summary>`https://www.tradeinn.com/`</details>
 
 ### Aenergy Hybridの詳細スペック
 
@@ -291,7 +291,7 @@ Tags: Softshell, Guide
 
 **先生**: Aenergyの最大の強みは**通気性と湿度管理**だ。ハイブリッド構造のおかげで、激しい運動をしても蒸れにくい。
 
-**参考情報**: 「フリースパネルにより、運動量の多い活動中でも優れた湿度管理と通気性を提供します。」<details><summary>出典</summary>`https://www.gunvaluesboard.com/`</details>
+> **参考情報**: 「フリースパネルにより、運動量の多い活動中でも優れた湿度管理と通気性を提供します。」<details><summary>出典</summary>`https://www.gunvaluesboard.com/`</details>
 
 **JK**: でも逆に言うと、激しい運動しない人には必要ないってことですよね？
 
@@ -362,7 +362,7 @@ Tags: Softshell, Guide
 | **Patagonia** | R1 TechFace | フリース＋ソフトシェル | 27,500円〜 |
 | **Montbell** | ライトシェルパーカ | コスパ最強 | 10,000円台 |
 
-**参考情報**: 「Arc'teryx Gamma Lightweight Hoody: 優れたパフォーマンス、高品質な素材、素晴らしいフィット感、手頃な価格から「総合的に最高のソフトシェルジャケット」として評価されています。」<details><summary>出典</summary>`https://www.switchbacktravel.com/`</details>
+> **参考情報**: 「Arc'teryx Gamma Lightweight Hoody: 優れたパフォーマンス、高品質な素材、素晴らしいフィット感、手頃な価格から「総合的に最高のソフトシェルジャケット」として評価されています。」<details><summary>出典</summary>`https://www.switchbacktravel.com/`</details>
 
 **JK**: アークテリクスが「総合力No.1」なんですか！？じゃあそっち買えばいいじゃないですか。
 
@@ -405,7 +405,7 @@ Tags: Softshell, Guide
 - **水温**: 30度以下
 - **すすぎ**: 2回
 
-**参考情報**: 「アウトドアウェア専用の液体洗剤や、中性の液体洗剤を使用するのが最適です。粉末洗剤、染み抜き剤、漂白剤、柔軟剤は絶対に使用しないでください。」<details><summary>出典</summary>`https://www.mammut.jp/`</details>
+> **参考情報**: 「アウトドアウェア専用の液体洗剤や、中性の液体洗剤を使用するのが最適です。粉末洗剤、染み抜き剤、漂白剤、柔軟剤は絶対に使用しないでください。」<details><summary>出典</summary>`https://www.mammut.jp/`</details>
 
 **JK**: 柔軟剤ダメなんですか？いい匂いにしたいのに…。
 
@@ -433,7 +433,7 @@ Tags: Softshell, Guide
 
 **先生**: マムートはスイスのブランドだから、基本はヨーロッパサイズ表記だ。**マムートのS ≒ 日本のM**くらいに考えておくといい。
 
-**参考情報**: 「サイズ表記はヨーロッパサイズ（EUROS）が基本で、例えばマムートのSサイズは日本のMサイズに相当すると記載されています。」<details><summary>出典</summary>`https://www.kakaku.com/`</details>
+> **参考情報**: 「サイズ表記はヨーロッパサイズ（EUROS）が基本で、例えばマムートのSサイズは日本のMサイズに相当すると記載されています。」<details><summary>出典</summary>`https://www.kakaku.com/`</details>
 
 **JK**: えっ、じゃあ日本のMを着てる人はマムートのS？ややこしい！
 

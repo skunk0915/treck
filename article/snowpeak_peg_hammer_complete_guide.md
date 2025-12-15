@@ -35,7 +35,7 @@ Tags: Camping, Guide
 
 **先生**: 全く違う。スノーピークの**ソリッドステーク**は「ペグの王様」とも呼ばれていて、「ペグは消耗品」という常識を覆した製品だ。
 
-**参考情報**: 「燕三条で受け継がれる鍛造製法で作られた強靭なペグで、「ペグは消耗品」という概念を変えた製品」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQceHHe4aY-WF-Ypz5yMlK-xjf9ZaVApyCeGfTyds-Zv0BYOiSw_-WgLfEtudQ8PtwLU3IVg_NloIYJWQxZpc1G59dxFzDLD-MqM9twg3aVVuStcdkrK5Q0JaAh5ANIeQ=`</details>
+> **参考情報**: 「燕三条で受け継がれる鍛造製法で作られた強靭なペグで、「ペグは消耗品」という概念を変えた製品」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQceHHe4aY-WF-Ypz5yMlK-xjf9ZaVApyCeGfTyds-Zv0BYOiSw_-WgLfEtudQ8PtwLU3IVg_NloIYJWQxZpc1G59dxFzDLD-MqM9twg3aVVuStcdkrK5Q0JaAh5ANIeQ=`</details>
 
 **JK**: ペグに王様とかあるんですね…。
 
@@ -59,7 +59,7 @@ Tags: Camping, Guide
 
 **先生**: そう、だからソリッドステークは石が混じった河原のような硬い地面でも、曲がることなく打ち込める。コンクリートに打ち込んでも折れないと言われているほどだ。
 
-**参考情報**: 「非常に頑丈で、石が混じった硬い地面でも曲がったり折れたりすることなく打ち込むことができます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8T4fRYqKw5LlwrDVXGTBPNGdtD7_w9ujTBnQtWEccexjPjEB06HFjNDZosx_CHZ8khJ0nfRLkvWCevh0VWTvmlVsHuDuJhURCfiY3QrcXQL0MGkwW6dwsm8SDwiUsWvpceUMeTK_3d_iPd-IkGg==`</details>
+> **参考情報**: 「非常に頑丈で、石が混じった硬い地面でも曲がったり折れたりすることなく打ち込むことができます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8T4fRYqKw5LlwrDVXGTBPNGdtD7_w9ujTBnQtWEccexjPjEB06HFjNDZosx_CHZ8khJ0nfRLkvWCevh0VWTvmlVsHuDuJhURCfiY3QrcXQL0MGkwW6dwsm8SDwiUsWvpceUMeTK_3d_iPd-IkGg==`</details>
 
 **JK**: コンクリートって…普通キャンプ場にないですよね？
 
@@ -98,7 +98,7 @@ Tags: Camping, Guide
 
 **先生**: それもあるが、30cmは最も汎用性が高いサイズだからだ。テントにもタープにも対応できて、硬い地面から普通の地面までカバーできる。
 
-**参考情報**: 「汎用性が高く、初心者にも扱いやすい長さです」「どのサイズを選べば良いか迷った際の、最初の1本としても推奨されます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHntVMYzR3USxWDB5ALVoB9PUK4LC28mwTmpVXJ6Vxa94lJIXN_6-mPbnEuSG4JOFXrdwebahufqDwL1no7kqbt5Z1hTCXvZTJALndsUVGoY-JB5OxpHPd547eyeZi4`</details>
+> **参考情報**: 「汎用性が高く、初心者にも扱いやすい長さです」「どのサイズを選べば良いか迷った際の、最初の1本としても推奨されます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHntVMYzR3USxWDB5ALVoB9PUK4LC28mwTmpVXJ6Vxa94lJIXN_6-mPbnEuSG4JOFXrdwebahufqDwL1no7kqbt5Z1hTCXvZTJALndsUVGoY-JB5OxpHPd547eyeZi4`</details>
 
 **JK**: じゃあ30cmだけ買っておけばOKってことですか？
 
@@ -130,7 +130,7 @@ Tags: Camping, Guide
 
 **先生**: 20cmは固定力がやや弱い。風が穏やかな日、柔らかすぎない地面なら問題ないが、風が強い日は心もとない。あくまで小型テントのサブ用か予備として考えた方がいい。
 
-**参考情報**: 「ソリッドステーク20は、ソロキャンプ用の小型テント（1～2人用）に適しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOu1K3_NHo1RszNhVWyUQP7xbD5cbhw-J6en0fNBZ7moL-6wssqpEVGOtia0nxSOE3ETmFZJdVOS5a6XYSITzdzYhSNgQv0df04KnWD8nE1pm-n_MeIdcaJ0kZdyQXzbKV040=`</details>
+> **参考情報**: 「ソリッドステーク20は、ソロキャンプ用の小型テント（1～2人用）に適しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOu1K3_NHo1RszNhVWyUQP7xbD5cbhw-J6en0fNBZ7moL-6wssqpEVGOtia0nxSOE3ETmFZJdVOS5a6XYSITzdzYhSNgQv0df04KnWD8nE1pm-n_MeIdcaJ0kZdyQXzbKV040=`</details>
 
 #### 主なスペック
 - サイズ: 200mm、φ12mm（ヘッド）、φ6mm（先端）
@@ -158,7 +158,7 @@ Tags: Camping, Guide
 
 **先生**: 大型タープのメインロープは強いテンションがかかる。30cmでは抜けてしまう可能性がある。特にオープンタープは風を受けやすいからな。
 
-**参考情報**: 「ファミリーキャンプの大型テントやタープなど、絶対に抜けてほしくない箇所におすすめ」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOu1K3_NHo1RszNhVWyUQP7xbD5cbhw-J6en0fNBZ7moL-6wssqpEVGOtia0nxSOE3ETmFZJdVOS5a6XYSITzdzYhSNgQv0df04KnWD8nE1pm-n_MeIdcaJ0kZdyQXzbKV040=`</details>
+> **参考情報**: 「ファミリーキャンプの大型テントやタープなど、絶対に抜けてほしくない箇所におすすめ」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOu1K3_NHo1RszNhVWyUQP7xbD5cbhw-J6en0fNBZ7moL-6wssqpEVGOtia0nxSOE3ETmFZJdVOS5a6XYSITzdzYhSNgQv0df04KnWD8nE1pm-n_MeIdcaJ0kZdyQXzbKV040=`</details>
 
 **JK**: でも40cmで330gって…10本持ったら3kg超えますよね…。
 
@@ -190,7 +190,7 @@ Tags: Camping, Guide
 
 **先生**: **砂地**だ。海辺のキャンプ場や河川敷など、砂が多い場所では短いペグはすぐに抜けてしまう。50cmなら深く刺さるから、砂地でもしっかり固定できる。
 
-**参考情報**: 「砂地や柔らかい地面など、通常のペグでは抜けやすい場所での使用に特におすすめ」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHntVMYzR3USxWDB5ALVoB9PUK4LC28mwTmpVXJ6Vxa94lJIXN_6-mPbnEuSG4JOFXrdwebahufqDwL1no7kqbt5Z1hTCXvZTJALndsUVGoY-JB5OxpHPd547eyeZi4`</details>
+> **参考情報**: 「砂地や柔らかい地面など、通常のペグでは抜けやすい場所での使用に特におすすめ」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHntVMYzR3USxWDB5ALVoB9PUK4LC28mwTmpVXJ6Vxa94lJIXN_6-mPbnEuSG4JOFXrdwebahufqDwL1no7kqbt5Z1hTCXvZTJALndsUVGoY-JB5OxpHPd547eyeZi4`</details>
 
 **JK**: 砂浜でキャンプとか憧れる〜！でも540gはさすがに重すぎません？
 
@@ -235,7 +235,7 @@ Tags: Camping, Guide
 
 **先生**: Pro.Sはヘッドが**オールスチール**の鍛造仕上げだ。ソリッドステークと同じ製法で作られているから、非常に頑丈だ。
 
-**参考情報**: 「ペグ専用のプロ仕様ハンマーで、鍛造仕上げのオールスチールヘッドが特徴」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwv4xZLvYQWKpAzSUJDYuOf4pyDNREMJsDesAKuynjnncaiqztx624HyDKrkzBXehbKudP1W2IKEVk_-6El1dtFoaARnSzBGoo5icfKc3OGu9Z06OS31vKmeCf7xpHOINGcF9ltyY=`</details>
+> **参考情報**: 「ペグ専用のプロ仕様ハンマーで、鍛造仕上げのオールスチールヘッドが特徴」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwv4xZLvYQWKpAzSUJDYuOf4pyDNREMJsDesAKuynjnncaiqztx624HyDKrkzBXehbKudP1W2IKEVk_-6El1dtFoaARnSzBGoo5icfKc3OGu9Z06OS31vKmeCf7xpHOINGcF9ltyY=`</details>
 
 **JK**: スチールって普通じゃないですか？
 
@@ -271,13 +271,13 @@ Tags: Camping, Guide
 
 **先生**: その通り、銅は柔らかい。だからこそ**衝撃を吸収**する。ペグを打つときの手や腕への負担が軽減されるんだ。
 
-**参考情報**: 「ヘッドの打撃部には銅が採用されており、打撃時の衝撃を吸収し、手への負担を軽減します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcRGvl0jUPymvxGwzdko_mdiXbu4lxEJdkKemi1pcuWDInLGBSUoAm7HT3vjjzaYSvh_O2xmtk3VMJGqocWB4v_QamN4htVf1hnP7O9RGIrzVH6SkS3cLiNEx9xuAkZriYjXfxse4=`</details>
+> **参考情報**: 「ヘッドの打撃部には銅が採用されており、打撃時の衝撃を吸収し、手への負担を軽減します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcRGvl0jUPymvxGwzdko_mdiXbu4lxEJdkKemi1pcuWDInLGBSUoAm7HT3vjjzaYSvh_O2xmtk3VMJGqocWB4v_QamN4htVf1hnP7O9RGIrzVH6SkS3cLiNEx9xuAkZriYjXfxse4=`</details>
 
 **JK**: なるほど〜。でも柔らかいなら壊れやすくないですか？
 
 **先生**: 確かに銅ヘッドは使い込むと変形していく。だがそれがまた味わい深い。「使い込むほどにオリジナルのハンマーになる」というのがキャンパーの間では人気だ。
 
-**参考情報**: 「使い込むほどに銅ヘッドが変形し、オリジナルのハンマーへと変化します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcRGvl0jUPymvxGwzdko_mdiXbu4lxEJdkKemi1pcuWDInLGBSUoAm7HT3vjjzaYSvh_O2xmtk3VMJGqocWB4v_QamN4htVf1hnP7O9RGIrzVH6SkS3cLiNEx9xuAkZdyQXfxse4=`</details>
+> **参考情報**: 「使い込むほどに銅ヘッドが変形し、オリジナルのハンマーへと変化します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcRGvl0jUPymvxGwzdko_mdiXbu4lxEJdkKemi1pcuWDInLGBSUoAm7HT3vjjzaYSvh_O2xmtk3VMJGqocWB4v_QamN4htVf1hnP7O9RGIrzVH6SkS3cLiNEx9xuAkZdyQXfxse4=`</details>
 
 **JK**: えー、なんかエモい…。
 
@@ -315,7 +315,7 @@ Tags: Camping, Guide
 | 耐久性 | 高い（摩耗少） | 使用で変形 |
 | おすすめ | 初心者・コスパ重視 | ベテラン・打ち心地重視 |
 
-**参考情報**: 「コストパフォーマンスと耐久性を重視するならPro.S」「打ち心地の良さや衝撃軽減を重視するならPro.C」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH936KIkQyuLTtSX3a2jU-EMQ-YpwbNJ15GLbAg5VHVvc0U0OCV1A2-D4RA0puZ11t0FU71Qv-1lv4k4H6T1wmxH-VTcMECFNQyt-OFOVuFKEcNFEwxi6PZ2g4=`</details>
+> **参考情報**: 「コストパフォーマンスと耐久性を重視するならPro.S」「打ち心地の良さや衝撃軽減を重視するならPro.C」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH936KIkQyuLTtSX3a2jU-EMQ-YpwbNJ15GLbAg5VHVvc0U0OCV1A2-D4RA0puZ11t0FU71Qv-1lv4k4H6T1wmxH-VTcMECFNQyt-OFOVuFKEcNFEwxi6PZ2g4=`</details>
 
 **JK**: うーん、初心者の私はまずPro.Sでいいですかね？
 
@@ -337,7 +337,7 @@ Tags: Camping, Guide
 
 **先生**: 柄を長く持つと遠心力が使えるから、少ない力で強く打てる。
 
-**参考情報**: 「柄を長く持つことで遠心力を利用し、強い力でペグを打ち込めます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4aEFoJpUGyob3aOXlhygVWDv1eT0_PyUMAkhM-1-g2k60o2zhuJiNtmRuTbut9-36FMoT3H-BmBbvabgWLFhWKnwmXULvYcKtv_BwlHQ8m5sNwcv344xRRbJwTPMdF5ZvBCUkLpBRaX6fsbV4wp7S`</details>
+> **参考情報**: 「柄を長く持つことで遠心力を利用し、強い力でペグを打ち込めます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4aEFoJpUGyob3aOXlhygVWDv1eT0_PyUMAkhM-1-g2k60o2zhuJiNtmRuTbut9-36FMoT3H-BmBbvabgWLFhWKnwmXULvYcKtv_BwlHQ8m5sNwcv344xRRbJwTPMdF5ZvBCUkLpBRaX6fsbV4wp7S`</details>
 
 ### 短いペグを打つとき
 
@@ -365,7 +365,7 @@ Tags: Camping, Guide
 2. **てこの原理を使う**: フックを掛けてハンマーを支点にして引き上げる
 3. **最終手段**: フック部分をハンマーで軽く叩いて回転させる（曲がる可能性あり）
 
-**参考情報**: 「ペグを回転させることで、地面とペグの間に隙間ができ、抜けやすくなります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPrQv9hfbJQSzkoWzDry_WRJj0EblDfw6JgENJJzsReLBVWzTuA0nEr6Dqz5vVQuT443T_BYoPcvdmVNPOMYCoh3R8RPzQdRZMBGvf7UUhFip0e0rYvaHpK6Saen0XoUYmQLFYeSQIQzEbu9yV2r732a4L`</details>
+> **参考情報**: 「ペグを回転させることで、地面とペグの間に隙間ができ、抜けやすくなります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPrQv9hfbJQSzkoWzDry_WRJj0EblDfw6JgENJJzsReLBVWzTuA0nEr6Dqz5vVQuT443T_BYoPcvdmVNPOMYCoh3R8RPzQdRZMBGvf7UUhFip0e0rYvaHpK6Saen0XoUYmQLFYeSQIQzEbu9yV2r732a4L`</details>
 
 **JK**: 回転させるって斜めに引っ張るってことですか？
 
@@ -385,7 +385,7 @@ Tags: Camping, Guide
 2. **水気を完全に拭き取る**: 水分が錆の最大の原因
 3. **乾燥させる**: 特に雨天使用後は必須
 
-**参考情報**: 「使用後は、ペグについた土などの汚れをしっかりと落とし、水気を完全に拭き取って乾燥させることが最も重要です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfeMnb0I7S2APBpdete69PE1TUe86alkINOL3lMn9OKJxCwN-EATj0Sk-ZCZZwW4U35oQS5aNFc92pDmn-LnTSdq_kIOJP9J2HWpEcysecyzxISn4Gkb5GR4zmsQ==`</details>
+> **参考情報**: 「使用後は、ペグについた土などの汚れをしっかりと落とし、水気を完全に拭き取って乾燥させることが最も重要です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfeMnb0I7S2APBpdete69PE1TUe86alkINOL3lMn9OKJxCwN-EATj0Sk-ZCZZwW4U35oQS5aNFc92pDmn-LnTSdq_kIOJP9J2HWpEcysecyzxISn4Gkb5GR4zmsQ==`</details>
 
 **JK**: 拭くだけでいいんですね。簡単じゃないですか。
 
@@ -398,7 +398,7 @@ Tags: Camping, Guide
 3. **高耐久ラッカースプレーで再塗装**
 4. **防錆剤を塗布**
 
-**参考情報**: 「汚れを落とした後、CRC556などの防錆剤を塗布することも錆止めに効果的」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRyo3wC_V0-A3hp0ZlVVygluNnjYMBeIVsHiNDnerSJIslDufC9xe5NPZmIorQGAjyFhxiy74XXiXJsrifis1-3sEdbvy2JT_6eozNPLt1-oZP5AeEp9ZRcacwZ9koprsc2FUPRln7mRHPx4YIw3bxqg==`</details>
+> **参考情報**: 「汚れを落とした後、CRC556などの防錆剤を塗布することも錆止めに効果的」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRyo3wC_V0-A3hp0ZlVVygluNnjYMBeIVsHiNDnerSJIslDufC9xe5NPZmIorQGAjyFhxiy74XXiXJsrifis1-3sEdbvy2JT_6eozNPLt1-oZP5AeEp9ZRcacwZ9koprsc2FUPRln7mRHPx4YIw3bxqg==`</details>
 
 ### 曲がってしまった場合
 
@@ -406,7 +406,7 @@ Tags: Camping, Guide
 
 **先生**: いや、ソリッドステークは曲がっても直せる。硬い面に置いてハンマーで叩けば真っ直ぐになる。これはスノーピーク公式でも推奨されている方法だ。
 
-**参考情報**: 「曲がった場合は、硬いものの上に置いてハンマーで叩いて真っ直ぐに直すことができます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFHj2QhU76EOD4Q2IFgerBcJuQ-nOZnku_NTqDDVPklkwvartlm0oTtku2945WlCqI69s1JCxb6Fqmv5mxDeTWEed1i1FIIHrAQZRGBDWwreptrFysFx4-CwGqNtyIcveRYg1WgG4w`</details>
+> **参考情報**: 「曲がった場合は、硬いものの上に置いてハンマーで叩いて真っ直ぐに直すことができます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFHj2QhU76EOD4Q2IFgerBcJuQ-nOZnku_NTqDDVPklkwvartlm0oTtku2945WlCqI69s1JCxb6Fqmv5mxDeTWEed1i1FIIHrAQZRGBDWwreptrFysFx4-CwGqNtyIcveRYg1WgG4w`</details>
 
 **JK**: えー！直せるんですか！それこそ「消耗品じゃない」って感じですね。
 
@@ -418,7 +418,7 @@ Tags: Camping, Guide
 
 **先生**: できる。ピンを抜いてヘッドを外し、新しいヘッドを取り付けるだけだ。3mm六角レンチがあると便利だ。スノーピークストアに持ち込んでも対応してくれる。
 
-**参考情報**: 「ヘッドが完全に摩耗する前に、一度ヘッドを取り外して180度向きを変えることで、寿命を延ばすことができます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_JF-CqebZ2q1XNrD3nZknjlbOa6murTdGDGiT2RAZeZViqpiPgbV4ayniFLOawesAr7tSMKzRiONaQjdgkqzKAi30C7GLASMdL7t4b275Vii7gnbtsKa5v3MBA2EbunmkJkkL`</details>
+> **参考情報**: 「ヘッドが完全に摩耗する前に、一度ヘッドを取り外して180度向きを変えることで、寿命を延ばすことができます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_JF-CqebZ2q1XNrD3nZknjlbOa6murTdGDGiT2RAZeZViqpiPgbV4ayniFLOawesAr7tSMKzRiONaQjdgkqzKAi30C7GLASMdL7t4b275Vii7gnbtsKa5v3MBA2EbunmkJkkL`</details>
 
 **JK**: 180度回すと寿命が延びるって…なんかお得感ありますね！
 
@@ -441,7 +441,7 @@ Tags: Camping, Guide
 | 回転防止 | - | 楕円形で回転しにくい |
 | 抜きやすさ | ホールにフックを掛ける | 90度ひねると抜けやすい |
 
-**参考情報**: 「エリッゼステークは楕円形状により、地中でのペグの回転を防ぎ、高い固定力を発揮」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmBByAeLzwIxxjk8d2RfxSxbyDQQJlzXLVAc_5XbAHoD6uw6UFQgDEz8YxL13BaNkuFVr69qYxD7PpFfjpBvlXQKwhFg56n8NcnU8cDrKihgOjfKPmI7RMUoxuBBcD-g7rn6uZQvPv8kLQh3EgYMJQ-NMktaY0RI-Y0Q==`</details>
+> **参考情報**: 「エリッゼステークは楕円形状により、地中でのペグの回転を防ぎ、高い固定力を発揮」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmBByAeLzwIxxjk8d2RfxSxbyDQQJlzXLVAc_5XbAHoD6uw6UFQgDEz8YxL13BaNkuFVr69qYxD7PpFfjpBvlXQKwhFg56n8NcnU8cDrKihgOjfKPmI7RMUoxuBBcD-g7rn6uZQvPv8kLQh3EgYMJQ-NMktaY0RI-Y0Q==`</details>
 
 **JK**: 楕円形…？なにが違うんですか？
 
@@ -474,7 +474,7 @@ Tags: Camping, Guide
 - **ペグハンマー Pro.S × 1本**: 5,280円
 - **合計**: 約11,800円
 
-**参考情報**: 「まず揃えるなら30cmが最も汎用性が高くおすすめです」「初心者の方には「ペグハンマー PRO.S」がおすすめ」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-qjMMsNLci717RrY3ey7i7wIq0Ohlc7g5VXhakj8hmHRnKEhcRhCmHx4m73sia-VSisbOqClsnzj_F2kHiW3Grzofppz4dPEzfPFUa-ZsfPIWSEwZ2kt5ECsDHzcT`</details>
+> **参考情報**: 「まず揃えるなら30cmが最も汎用性が高くおすすめです」「初心者の方には「ペグハンマー PRO.S」がおすすめ」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-qjMMsNLci717RrY3ey7i7wIq0Ohlc7g5VXhakj8hmHRnKEhcRhCmHx4m73sia-VSisbOqClsnzj_F2kHiW3Grzofppz4dPEzfPFUa-ZsfPIWSEwZ2kt5ECsDHzcT`</details>
 
 ### パターン3：ファミリーキャンプで安心したい人（フル構成）
 
@@ -501,7 +501,7 @@ Tags: Camping, Guide
 - 「Pro.Cの打ち心地が最高」
 - 「一生モノのギアになった」
 
-**参考情報**: 「その重さや価格を上回る耐久性と固定力、信頼性から、多くのキャンパーにとって欠かせないアイテムとして高く評価されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8T4fRYqKw5LlwrDVXGTBPNGdtD7_w9ujTBnQtWEccexjPjEB06HFjNDZosx_CHZ8khJ0nfRLkvWCevh0VWTvmlVsHuDuJhURCfiY3QrcXQL0MGkwW6dwsm8SDwiUsWvpceUMeTK_3d_iPd-IkGg==`</details>
+> **参考情報**: 「その重さや価格を上回る耐久性と固定力、信頼性から、多くのキャンパーにとって欠かせないアイテムとして高く評価されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8T4fRYqKw5LlwrDVXGTBPNGdtD7_w9ujTBnQtWEccexjPjEB06HFjNDZosx_CHZ8khJ0nfRLkvWCevh0VWTvmlVsHuDuJhURCfiY3QrcXQL0MGkwW6dwsm8SDwiUsWvpceUMeTK_3d_iPd-IkGg==`</details>
 
 ### リアルなデメリット
 

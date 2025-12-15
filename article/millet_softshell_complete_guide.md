@@ -44,7 +44,7 @@ Tags: Softshell, Guide
 
 **先生**: その通り。ソフトシェルは、完全防水ではない分、圧倒的に透湿性が高い。汗を外に逃がしてくれるから、行動中にずっと着ていても快適なんだ。
 
-**参考情報**: 「ソフトシェルは、撥水性、防風性、透湿性、ストレッチ性を兼ね備え、幅広いシーズンや用途で活躍する万能なウェアです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQc8epV6MAyNXojzgcOAMfsGa3hFA_TcA3grn4guX3kMrRkaA1ad96gfimR5M8u_QbM6TcNvdMhgU2mi2xkcXvl8ewH9hhptnStn1d9BBRyhkFypIXyr41GZwOz_2N5ycPrA==`</details>
+> **参考情報**: 「ソフトシェルは、撥水性、防風性、透湿性、ストレッチ性を兼ね備え、幅広いシーズンや用途で活躍する万能なウェアです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQc8epV6MAyNXojzgcOAMfsGa3hFA_TcA3grn4guX3kMrRkaA1ad96gfimR5M8u_QbM6TcNvdMhgU2mi2xkcXvl8ewH9hhptnStn1d9BBRyhkFypIXyr41GZwOz_2N5ycPrA==`</details>
 
 ---
 
@@ -82,13 +82,13 @@ Tags: Softshell, Guide
 
 **先生**: 透湿性というのは、1㎡あたり24時間でどれだけの水分を外に逃がせるかという数値だ。一般的なレインウェアは2万〜3万程度だが、ティフォンは**5万g/㎡/24h**。一般的なレインウェアの約2倍だな。
 
-**参考情報**: 「製品名の由来にもなっている透湿性50,000g/㎡/24hは、一般的なレインウェアの約2倍にあたり、汗による蒸れを極限まで抑えることができます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq5_nWdfquFsGX7APQKWmoJDDkBIsN2k6q2Ot-RTV3O62iRYGH2DKBYf5IQrbwOVL4_x6s9R2_F5fWR2yK2aE_Ol4XaR2GfbGqE4wA9-K5FTO5raU=`</details>
+> **参考情報**: 「製品名の由来にもなっている透湿性50,000g/㎡/24hは、一般的なレインウェアの約2倍にあたり、汗による蒸れを極限まで抑えることができます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq5_nWdfquFsGX7APQKWmoJDDkBIsN2k6q2Ot-RTV3O62iRYGH2DKBYf5IQrbwOVL4_x6s9R2_F5fWR2yK2aE_Ol4XaR2GfbGqE4wA9-K5FTO5raU=`</details>
 
 **JK**: 2倍！？そりゃ蒸れないわけですね。
 
 **先生**: しかもな、この数値は人間の肌の透湿性に匹敵すると言われている。
 
-**参考情報**: 「人間の皮膚の平均的な透湿性に匹敵するとも言われています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjEltGmC65Ipojz8r_mQUhVk1MfCxVceFc2rEHEt6OxtLpRVJRTx2rYyYl_FgHZzuqbF36sB76yw-NURmDkYoX-Wz6SA3wPGnnLDlvPWL97lRBr4qiIqcCub07JGS1TcsMQ_WO7_FLRFE20Pqe`</details>
+> **参考情報**: 「人間の皮膚の平均的な透湿性に匹敵するとも言われています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjEltGmC65Ipojz8r_mQUhVk1MfCxVceFc2rEHEt6OxtLpRVJRTx2rYyYl_FgHZzuqbF36sB76yw-NURmDkYoX-Wz6SA3wPGnnLDlvPWL97lRBr4qiIqcCub07JGS1TcsMQ_WO7_FLRFE20Pqe`</details>
 
 **JK**: 肌と同じレベル？それってもう皮膚の延長みたいな…すごいですね。
 
@@ -141,7 +141,7 @@ Tags: Softshell, Guide
 
 **先生**: このジャケットの最大の特徴は「完全防風」だ。ELEMENT SHIELD™ MATRIX 3Lという3層構造の素材を使っていて、風の侵入をほぼ完璧にブロックする。
 
-**参考情報**: 「ELEMENT SHIELD™ MATRIX 3L素材を使用しており、完全防風と言われるほどの高い防風性能を誇ります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmps_H7_1vyAUp7W3AAAy7Q7L5VeNmSjhwAXl7AAU8ypeGQyvg5O4wK49WGbrsysfsipuN23l1yqJR55Ygzu2DTmWUsbXoWogVrmjAJPAMvfdJjIcUkVLsmnrihhKZs7o3rdWeKqj4TofiPt8xNQ==`</details>
+> **参考情報**: 「ELEMENT SHIELD™ MATRIX 3L素材を使用しており、完全防風と言われるほどの高い防風性能を誇ります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmps_H7_1vyAUp7W3AAAy7Q7L5VeNmSjhwAXl7AAU8ypeGQyvg5O4wK49WGbrsysfsipuN23l1yqJR55Ygzu2DTmWUsbXoWogVrmjAJPAMvfdJjIcUkVLsmnrihhKZs7o3rdWeKqj4TofiPt8xNQ==`</details>
 
 **JK**: 完全防風？風って、そんなに防ぐ必要あります？
 
@@ -216,7 +216,7 @@ Tags: Softshell, Guide
 - **重量わずか130g**（Mサイズ）
 - スカイランニングやファストハイク向け
 
-**参考情報**: 「Dyneema®は、世界で最も軽く、最も強い繊維の一つとされ、特に摩耗や引き裂きに強い特性を持つ」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKvEoA8v1l-5Ji2eiO--1mVMLLtsXwFiFBl3NQiMuBgN-pEAWgS0y9u9Jfa1Is5c5fAACvkaXlgSWWnwpYhQheI28Mw42uDXUdPXJ7wz5mcKHvfEpaPdpH4SZfoJlTFpUfkC4FtfHxpRoA98NuAS9P0LDzez27vJRhv63ogX3d8xiIZXVt4jh1VKhZ8w==`</details>
+> **参考情報**: 「Dyneema®は、世界で最も軽く、最も強い繊維の一つとされ、特に摩耗や引き裂きに強い特性を持つ」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKvEoA8v1l-5Ji2eiO--1mVMLLtsXwFiFBl3NQiMuBgN-pEAWgS0y9u9Jfa1Is5c5fAACvkaXlgSWWnwpYhQheI28Mw42uDXUdPXJ7wz5mcKHvfEpaPdpH4SZfoJlTFpUfkC4FtfHxpRoA98NuAS9P0LDzez27vJRhv63ogX3d8xiIZXVt4jh1VKhZ8w==`</details>
 
 **Trilogy Cordura Hoodie**
 - CORDURA®ナイロン採用で高耐久
@@ -267,7 +267,7 @@ Tags: Softshell, Guide
 
 **先生**: アウトレットなら約11,550円から見つかる。ミレーのソフトシェルの中では**かなりお手頃**だ。
 
-**参考情報**: 「防風メンブレンを挟んだ微起毛フリース裏地で、防風・防寒・若干の防水性を備えています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuX5tNlUN4TJn9V8J9ZWzdUx1WHbDeQXG0Da_2TpeBlynaNdexjQDiq3m0guordgsqa-qo7rVWbCI9yLu7ImfSq30-aBzoytCJTD9F01rnbhfQztjqjKbBJ1HnZ7Gz11aqLAHagzKickTgah2CWqGv`</details>
+> **参考情報**: 「防風メンブレンを挟んだ微起毛フリース裏地で、防風・防寒・若干の防水性を備えています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuX5tNlUN4TJn9V8J9ZWzdUx1WHbDeQXG0Da_2TpeBlynaNdexjQDiq3m0guordgsqa-qo7rVWbCI9yLu7ImfSq30-aBzoytCJTD9F01rnbhfQztjqjKbBJ1HnZ7Gz11aqLAHagzKickTgah2CWqGv`</details>
 
 #### 主なスペック
 - 構造: 防風メンブレン + 微起毛フリース裏地
@@ -305,7 +305,7 @@ Tags: Softshell, Guide
 
 **先生**: このジャケットの特徴は「薄手で軽量、だけど防風撥水」というバランスだ。
 
-**参考情報**: 「薄手でストレッチ性があり、防風撥水機能を備えながらも高い通気性を持つため、一年を通して重宝します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDmTVRMaCEoz4yVO4b4Pntirgp463l0yRDHmkPv-CVPtm7vIooS3Me-m43wsv_wKj2_64gl3q2LdPvb_h8brBV_VOxfvfzJo19tNmRxY3COvPyI3jEiAhKWgCpis9txg1DB4ZyzeHwwA==`</details>
+> **参考情報**: 「薄手でストレッチ性があり、防風撥水機能を備えながらも高い通気性を持つため、一年を通して重宝します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDmTVRMaCEoz4yVO4b4Pntirgp463l0yRDHmkPv-CVPtm7vIooS3Me-m43wsv_wKj2_64gl3q2LdPvb_h8brBV_VOxfvfzJo19tNmRxY3COvPyI3jEiAhKWgCpis9txg1DB4ZyzeHwwA==`</details>
 
 **JK**: 薄いのに防風？それってどういうことですか？
 
@@ -354,7 +354,7 @@ K アブソルート シールドに採用されている3層構造の完全防�
 ### ブリーズバリヤー™（BREEZE BARRIER）
 これはウィンドシェル向けの技術だが、知っておくといい。**シリコン系撥水成分を繊維に「含浸」させる**という特殊な方法で、普通の撥水加工より圧倒的に長持ちする。
 
-**参考情報**: 「シリコン由来の撥水成分を繊維の表面に塗布するのではなく、一本一本の繊維に含浸させる技術を採用しています。これにより、洗濯を繰り返したり、行動中に擦れたりしても撥水機能が長期間持続します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzpnl7BwqJIMzx914Ew6T8-40Yfeq0Z5seZBoIJgpl85ENatfQ8yk7PLoHmzP685NRpuyxd_HIDQa24uOh0wBfdU1JzqGuOx_3f5fEcKzXT6qQ4M2btBTggotV_aldouSXhUL60lJEWyOIDZ2KPiS1248gaCo=`</details>
+> **参考情報**: 「シリコン由来の撥水成分を繊維の表面に塗布するのではなく、一本一本の繊維に含浸させる技術を採用しています。これにより、洗濯を繰り返したり、行動中に擦れたりしても撥水機能が長期間持続します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzpnl7BwqJIMzx914Ew6T8-40Yfeq0Z5seZBoIJgpl85ENatfQ8yk7PLoHmzP685NRpuyxd_HIDQa24uOh0wBfdU1JzqGuOx_3f5fEcKzXT6qQ4M2btBTggotV_aldouSXhUL60lJEWyOIDZ2KPiS1248gaCo=`</details>
 
 **JK**: 表面に塗るんじゃなくて、繊維に染み込ませる？そこまでやるんですね。
 
@@ -371,7 +371,7 @@ K アブソルート シールドに採用されている3層構造の完全防�
 
 **先生**: 重要なポイントだな。ミレーはヨーロッパのブランドだから、**EUROサイズ表記が基本**だ。日本サイズとは1サイズずれると考えておくといい。
 
-**参考情報**: 「ミレーのウェアはEUROサイズ表記が基本で、日本のサイズに比べて1サイズ大きい場合が多いので注意が必要です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAqzkFDJyn81D_dleldOjl5VAkizr-oQvQVHdXYdy6Vx5riEfT17siVHPlF7vw5fKnjtoWcN1Uj6x9oqHtYNlwbkEShPZsU-pI-GRceKFGqJjK8vEq8damaYlAX7ZSb_LSvJDj3kPzbB7ljWnYnc8hqw==`</details>
+> **参考情報**: 「ミレーのウェアはEUROサイズ表記が基本で、日本のサイズに比べて1サイズ大きい場合が多いので注意が必要です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAqzkFDJyn81D_dleldOjl5VAkizr-oQvQVHdXYdy6Vx5riEfT17siVHPlF7vw5fKnjtoWcN1Uj6x9oqHtYNlwbkEShPZsU-pI-GRceKFGqJjK8vEq8damaYlAX7ZSb_LSvJDj3kPzbB7ljWnYnc8hqw==`</details>
 
 | EUROサイズ | 日本サイズ相当 |
 |-----------|--------------|
@@ -432,7 +432,7 @@ K アブソルート シールドに採用されている3層構造の完全防�
 
 **先生**: できる。むしろ**定期的に洗った方がいい**。汚れが溜まると撥水性能が落ちるからな。
 
-**参考情報**: 「洗濯時には必ずアウトドア専用の洗剤を使用してください。漂白剤、柔軟剤、蛍光増白剤入り、香料入りの洗剤は撥水性能を低下させる可能性があるため避けてください」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbDBAglhrjaLSrRKN8fCsdxIdo5epB1aAt2mM5I8brBG6Gc9yIhJVcujtbgY0KQd70lU-P0RA0SY9EyL27xbuNtjPjKxOppv8VXM69yRs58NuQoVboRQ5L--bPwj_FW1MR`</details>
+> **参考情報**: 「洗濯時には必ずアウトドア専用の洗剤を使用してください。漂白剤、柔軟剤、蛍光増白剤入り、香料入りの洗剤は撥水性能を低下させる可能性があるため避けてください」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbDBAglhrjaLSrRKN8fCsdxIdo5epB1aAt2mM5I8brBG6Gc9yIhJVcujtbgY0KQd70lU-P0RA0SY9EyL27xbuNtjPjKxOppv8VXM69yRs58NuQoVboRQ5L--bPwj_FW1MR`</details>
 
 ### 洗濯のコツ
 

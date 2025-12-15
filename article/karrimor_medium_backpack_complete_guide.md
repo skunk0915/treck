@@ -28,7 +28,7 @@ Tags: Backpack, Guide
 
 **先生**: カリマーは1946年にイギリスで生まれたアウトドアブランドだ。ブランド名の由来は「Carry More」、つまり**「もっと運べる」**という意味だ。
 
-**参考情報**: 「カリマーの名前の由来は"Carry More"（もっと運べる）という言葉から」<details><summary>出典</summary>`https://hinata.me/article/1266903485993787430`</details>
+> **参考情報**: 「カリマーの名前の由来は"Carry More"（もっと運べる）という言葉から」<details><summary>出典</summary>`https://hinata.me/article/1266903485993787430`</details>
 
 **JK**: へぇ〜、だからリュックが得意なんですね！でも、なんでこんなに種類があるんですか？ridgeとかintrepidとか、全部同じに見えます…。
 
@@ -50,7 +50,7 @@ Tags: Backpack, Guide
 
 **先生**: ridgeシリーズは、カリマーを代表する**ロングセラーモデル**だ。20年以上にわたって多くの登山者に愛されてきた。
 
-**参考情報**: 「ridgeはkarrimor社を代表するロングセラーモデル」<details><summary>出典</summary>`https://karrimor.jp/items/ridge-40-plus`</details>
+> **参考情報**: 「ridgeはkarrimor社を代表するロングセラーモデル」<details><summary>出典</summary>`https://karrimor.jp/items/ridge-40-plus`</details>
 
 **JK**: 20年も！？そんなに長く売れてるってすごいですね。
 
@@ -69,7 +69,7 @@ Tags: Backpack, Guide
 - **価格**: 33,550円（税込）
 - **付属品**: 専用レインカバー
 
-**参考情報**: 「ridge 40+の重量はSサイズ1410g、Mサイズ1460g、Lサイズ1520g」<details><summary>出典</summary>`https://karrimor.jp/items/ridge-40-plus`</details>
+> **参考情報**: 「ridge 40+の重量はSサイズ1410g、Mサイズ1460g、Lサイズ1520g」<details><summary>出典</summary>`https://karrimor.jp/items/ridge-40-plus`</details>
 
 **JK**: えっ、サイズが3つもあるんですか？SMLって服じゃないのに…。
 
@@ -83,7 +83,7 @@ Tags: Backpack, Guide
 
 **先生**: ridge 40+の最大の特徴は、**3Dバックパネルシステム**だ。
 
-**参考情報**: 「3Dバックパネルシステムにより、肩と腰のパッドが体にフィットし、メッシュ生地で繋ぐことでフィット感を高めながら熱を逃がす」<details><summary>出典</summary>`https://karrimor.jp/items/ridge-40-plus`</details>
+> **参考情報**: 「3Dバックパネルシステムにより、肩と腰のパッドが体にフィットし、メッシュ生地で繋ぐことでフィット感を高めながら熱を逃がす」<details><summary>出典</summary>`https://karrimor.jp/items/ridge-40-plus`</details>
 
 **JK**: 3Dバックパネル…？なんか呪文っぽいんですけど、どういうことですか？
 
@@ -105,7 +105,7 @@ Tags: Backpack, Guide
 
 **先生**: そうだ。メインの荷室が上下で分かれていて、それぞれ別の入り口からアクセスできる。上はトップから、下はボトムアクセスジッパーから。
 
-**参考情報**: 「メインコンパートメントは2気室構造で、荷物の整理や出し入れがしやすくなっています。下部の荷物にも簡単にアクセスできるボトムアクセスジッパーを装備」<details><summary>出典</summary>`https://yuricky.com/karrimor-ridge/`</details>
+> **参考情報**: 「メインコンパートメントは2気室構造で、荷物の整理や出し入れがしやすくなっています。下部の荷物にも簡単にアクセスできるボトムアクセスジッパーを装備」<details><summary>出典</summary>`https://yuricky.com/karrimor-ridge/`</details>
 
 **JK**: それって便利なんですか？
 
@@ -119,7 +119,7 @@ Tags: Backpack, Guide
 
 **先生**: ちなみに、ridgeシリーズは2025年春夏モデルで大幅にアップデートされた。
 
-**参考情報**: 「2025年春夏シーズンに向けてデザインと機能が刷新され、2025年2月より順次リリース」<details><summary>出典</summary>`https://karrimor.jp/items/ridge-40-plus`</details>
+> **参考情報**: 「2025年春夏シーズンに向けてデザインと機能が刷新され、2025年2月より順次リリース」<details><summary>出典</summary>`https://karrimor.jp/items/ridge-40-plus`</details>
 
 **JK**: へぇ〜、どこが変わったんですか？
 
@@ -138,7 +138,7 @@ Tags: Backpack, Guide
 
 **先生**: 実際のユーザーレビューを見てみよう。まず良い評価から。
 
-**参考情報**: 「体にしっかりフィットしながらも、背中に隙間があり、蒸れにくいという声があります」<details><summary>出典</summary>`https://kakaku.com/item/K0001170396/review/`</details>
+> **参考情報**: 「体にしっかりフィットしながらも、背中に隙間があり、蒸れにくいという声があります」<details><summary>出典</summary>`https://kakaku.com/item/K0001170396/review/`</details>
 
 **JK**: 蒸れにくいのは嬉しい！夏とか背中ベタベタになるの嫌なんですよね…。
 
@@ -150,7 +150,7 @@ Tags: Backpack, Guide
 
 **先生**: ただし、悪い評価もある。正直に伝えておこう。
 
-**参考情報**: 「ヒップベルトが硬く、擦れると痛いと感じるという意見や、他のザックと比較してやや重いという指摘もあります」<details><summary>出典</summary>`https://yamakei-online.com/yama-ya/product.php?id=3265`</details>
+> **参考情報**: 「ヒップベルトが硬く、擦れると痛いと感じるという意見や、他のザックと比較してやや重いという指摘もあります」<details><summary>出典</summary>`https://yamakei-online.com/yama-ya/product.php?id=3265`</details>
 
 **JK**: えっ、痛くなるんですか？それは困る…。
 
@@ -183,7 +183,7 @@ Tags: Backpack, Guide
 
 **先生**: そういう人のために**ridge SL**シリーズがある。「SL」は「**Super Light（スーパーライト）**」の略だ。
 
-**参考情報**: 「リッジSL 30は、標準のリッジ30と比較して約300gから500g以上軽量です。この軽量化は、より薄い生地（210デニール）を使用することで実現されています」<details><summary>出典</summary>`https://hinata.me/article/1266903485993787430`</details>
+> **参考情報**: 「リッジSL 30は、標準のリッジ30と比較して約300gから500g以上軽量です。この軽量化は、より薄い生地（210デニール）を使用することで実現されています」<details><summary>出典</summary>`https://hinata.me/article/1266903485993787430`</details>
 
 **JK**: 300〜500gも軽い！？それってペットボトル1本分くらいですよね！
 
@@ -203,7 +203,7 @@ Tags: Backpack, Guide
 
 **先生**: 荷物の形が背中に響きやすいんだ。例えば、角ばったものを入れると背中に当たって不快に感じることがある。パッキングに気を使う必要がある。
 
-**参考情報**: 「Type1は女性や小柄な男性の体型を考慮しており、ショルダーストラップやヒップベルトが体にフィットしやすいよう工夫されています」<details><summary>出典</summary>`https://yamahack.com/2975`</details>
+> **参考情報**: 「Type1は女性や小柄な男性の体型を考慮しており、ショルダーストラップやヒップベルトが体にフィットしやすいよう工夫されています」<details><summary>出典</summary>`https://yamahack.com/2975`</details>
 
 **JK**: なるほど…。じゃあ荷物少なめの日帰り向きってことですか？
 
@@ -241,7 +241,7 @@ Tags: Backpack, Guide
 
 **先生**: 「勇敢な」「恐れを知らない」という意味だ。2015年にridgeシリーズの使い勝手を改良して登場したモデルだ。
 
-**参考情報**: 「カリマー イントレピッド40は、かつての定番モデルであるリッジシリーズの使い勝手を改良して2015年に登場しました」<details><summary>出典</summary>`https://outdoorgearzine.com/karrimor-intrepid40-review`</details>
+> **参考情報**: 「カリマー イントレピッド40は、かつての定番モデルであるリッジシリーズの使い勝手を改良して2015年に登場しました」<details><summary>出典</summary>`https://outdoorgearzine.com/karrimor-intrepid40-review`</details>
 
 **JK**: ridgeの改良版ってことですか？じゃあridgeより良いってこと？
 
@@ -251,7 +251,7 @@ Tags: Backpack, Guide
 
 **先生**: intrepid 40の最大の特徴は、**U字型に大きく開くフロントアクセス**だ。
 
-**参考情報**: 「フロントにはU字型に大きく開くアクセスジッパーが装備されており、荷物の出し入れが非常にしやすいです」<details><summary>出典</summary>`https://outdoorgearzine.com/karrimor-intrepid40-review`</details>
+> **参考情報**: 「フロントにはU字型に大きく開くアクセスジッパーが装備されており、荷物の出し入れが非常にしやすいです」<details><summary>出典</summary>`https://outdoorgearzine.com/karrimor-intrepid40-review`</details>
 
 **JK**: U字型…？どういうことですか？
 
@@ -275,7 +275,7 @@ Tags: Backpack, Guide
 
 **先生**: intrepidのもう一つの特徴は、**見た目以上に入る**ということだ。
 
-**参考情報**: 「容量40Lですが、それ以上に収納できると感じさせるほどの圧倒的な収納力があります」<details><summary>出典</summary>`https://kakaku.com/item/K0000852543/review/`</details>
+> **参考情報**: 「容量40Lですが、それ以上に収納できると感じさせるほどの圧倒的な収納力があります」<details><summary>出典</summary>`https://kakaku.com/item/K0000852543/review/`</details>
 
 **JK**: 「40L以上に感じる」って、どういうことですか？実際は何リットルなの？
 
@@ -291,7 +291,7 @@ Tags: Backpack, Guide
 
 **先生**: intrepidシリーズは**現在生産終了している可能性が高い**。
 
-**参考情報**: 「メーカー希望小売価格は24,000円（税別）前後でした。現在は新品として公式に販売されていることは少なく、生産が終了している可能性が高い」<details><summary>出典</summary>`https://outdoorgearzine.com/karrimor-intrepid40-review`</details>
+> **参考情報**: 「メーカー希望小売価格は24,000円（税別）前後でした。現在は新品として公式に販売されていることは少なく、生産が終了している可能性が高い」<details><summary>出典</summary>`https://outdoorgearzine.com/karrimor-intrepid40-review`</details>
 
 **JK**: えぇっ！？じゃあ買えないってことですか！？
 
@@ -311,7 +311,7 @@ Tags: Backpack, Guide
 - **現在の入手**: 中古市場のみ（メルカリ等で4,960〜13,999円程度）
 - **レインカバー**: 付属しない（別売り必要）
 
-**参考情報**: 「イントレピッド40はしっかりとした作りのため、比較的重さを感じる場合があります。また、リッジ40には付属するレインカバーが、イントレピッド40には付属しない」<details><summary>出典</summary>`https://outdoorgearzine.com/karrimor-intrepid40-review`</details>
+> **参考情報**: 「イントレピッド40はしっかりとした作りのため、比較的重さを感じる場合があります。また、リッジ40には付属するレインカバーが、イントレピッド40には付属しない」<details><summary>出典</summary>`https://outdoorgearzine.com/karrimor-intrepid40-review`</details>
 
 #### こんな人におすすめ
 
@@ -342,7 +342,7 @@ Tags: Backpack, Guide
 | **現在の入手性** | 現行販売中 | 生産終了（中古のみ） |
 | **価格** | 約33,550円（40+） | 中古 約5,000〜14,000円 |
 
-**参考情報**: 「リッジ40が『背負い心地』を重視しているのに対し、イントレピッド40は『機能性』を重視している点が大きな違い」<details><summary>出典</summary>`https://hinata.me/article/1266903485993787430`</details>
+> **参考情報**: 「リッジ40が『背負い心地』を重視しているのに対し、イントレピッド40は『機能性』を重視している点が大きな違い」<details><summary>出典</summary>`https://hinata.me/article/1266903485993787430`</details>
 
 **JK**: うーん、どっちも良さそうで迷う…。
 
@@ -378,7 +378,7 @@ Tags: Backpack, Guide
 
 **先生**: とても重要なポイントだ。背面長が合っていないと、どんなに良いザックでも性能を発揮できない。
 
-**参考情報**: 「第7頸椎から腰骨の上端までの長さを、背骨のカーブに沿わせてメジャーで測ります」<details><summary>出典</summary>`https://lostarrow.co.jp/column/backpack-fitting/`</details>
+> **参考情報**: 「第7頸椎から腰骨の上端までの長さを、背骨のカーブに沿わせてメジャーで測ります」<details><summary>出典</summary>`https://lostarrow.co.jp/column/backpack-fitting/`</details>
 
 ### 背面長の測り方
 
@@ -404,7 +404,7 @@ Tags: Backpack, Guide
 
 **先生**: 実際には店頭で**荷物を入れて背負ってみる**のが一番だ。スペック上はSサイズでも、Mの方がしっくりくる場合もある。
 
-**参考情報**: 「店頭で実際に荷物を入れて背負い比べ、ご自身の体型や使い方に合った方を選ぶのが最も確実です」<details><summary>出典</summary>`https://yamakei-online.com/yama-ya/product.php?id=3265`</details>
+> **参考情報**: 「店頭で実際に荷物を入れて背負い比べ、ご自身の体型や使い方に合った方を選ぶのが最も確実です」<details><summary>出典</summary>`https://yamakei-online.com/yama-ya/product.php?id=3265`</details>
 
 ---
 

@@ -32,7 +32,7 @@ Tags: Rainwear, Guide
 
 **先生**: 良いところに気づいたな。それが「修飾子」というものだ。シリーズ名の後ろに付くアルファベット2文字で、そのモデルの特徴を表している。
 
-**参考情報**: 「Arc'teryx uses specific two-letter modifiers in its product names, particularly for hardshell jackets, to indicate the intended use, weight, and features of the garment.」
+> **参考情報**: 「Arc'teryx uses specific two-letter modifiers in its product names, particularly for hardshell jackets, to indicate the intended use, weight, and features of the garment.」
 <details><summary>出典</summary>`https://www.snowandrock.com/expert-advice/what-do-arc-teryx-acronyms-mean.html`</details>
 
 **JK**: 修飾子...呪文ですか？
@@ -50,7 +50,7 @@ Tags: Rainwear, Guide
 - **FL (Fast & Light)**: ファスト&ライト。迅速な行動に最適化した最小装備。
 - **MX (Mixed Weather)**: 変化する天候向け。耐久性と透湿性のバランス。
 
-**参考情報**: 「Products with the SV modifier are designed for the harshest conditions, offering maximum durability and weather resistance.」
+> **参考情報**: 「Products with the SV modifier are designed for the harshest conditions, offering maximum durability and weather resistance.」
 <details><summary>出典</summary>`https://www.snowandrock.com/expert-advice/what-do-arc-teryx-acronyms-mean.html`</details>
 
 **JK**: なるほど...SVが一番すごくて、SLとかFLが軽いってことですね。
@@ -67,7 +67,7 @@ Tags: Rainwear, Guide
 
 **先生**: まずはAlphaシリーズから。これはクライミングやアルパインに特化したラインだ。
 
-**参考情報**: 「The Alpha series is specifically engineered for climbing and alpinism, focusing on lightweight design, durability, and features crucial for vertical pursuits.」
+> **参考情報**: 「The Alpha series is specifically engineered for climbing and alpinism, focusing on lightweight design, durability, and features crucial for vertical pursuits.」
 <details><summary>出典</summary>`https://www.outdoorgearlab.com/reviews/clothing-mens/hardshell-jacket/arc-teryx-alpha-sv`</details>
 
 > **Image Prompt:** アークテリクス Alpha SV ジャケットを着たクライマーが岩壁を登っている写真。日本人男性。ハーネス装着。
@@ -82,14 +82,14 @@ Tags: Rainwear, Guide
 
 **先生**: Alphaシリーズで最も有名なのがAlpha SVだ。"SV"は"Severe Weather"の略で、最も過酷な環境に耐えられる設計になっている。
 
-**参考情報**: 「Alpha SVの「SV」は「Severe Weather（悪天候）」を意味し、最も厳しい環境に耐えうる設計がされています。新型のGORE-TEX Pro（Most Ruggedテクノロジー）を採用しており、一般的なGORE-TEXよりも格段に高い耐久性、防水性、透湿性を誇ります。」
+> **参考情報**: 「Alpha SVの「SV」は「Severe Weather（悪天候）」を意味し、最も厳しい環境に耐えうる設計がされています。新型のGORE-TEX Pro（Most Ruggedテクノロジー）を採用しており、一般的なGORE-TEXよりも格段に高い耐久性、防水性、透湿性を誇ります。」
 <details><summary>出典</summary>`https://mountgearhub044.com/arcteryx-alpha-sv-guide/`</details>
 
 **JK**: 最も過酷な環境って、例えば？
 
 **先生**: 冬山の3000m峰、アルパインクライミング、氷壁登攀...そういった「命にかかわるレベルの悪天候」を想定している。100デニールという非常に厚手のGORE-TEX Pro素材を使っていてな。
 
-**参考情報**: 「100デニールという厚手のナイロン生地が使用されており、非常に硬くしっかりとした手触りが特徴です。これにより、岩場での摩擦やアイゼン・ピッケルとの接触にも耐える「究極の耐久性」を実現しています。」
+> **参考情報**: 「100デニールという厚手のナイロン生地が使用されており、非常に硬くしっかりとした手触りが特徴です。これにより、岩場での摩擦やアイゼン・ピッケルとの接触にも耐える「究極の耐久性」を実現しています。」
 <details><summary>出典</summary>`https://mountgearhub044.com/arcteryx-alpha-sv-guide/`</details>
 
 **JK**: 100デニール...って、厚いんですか？
@@ -100,7 +100,7 @@ Tags: Rainwear, Guide
 
 **先生**: 正直なところ、そうだな。Alpha SVは「硬い」という評価もある。だが、この硬さが岩や氷から身体を守ってくれるんだ。
 
-**参考情報**: 「圧倒的な防風性能を持っており、強風が吹き付ける稜線でもウェア内は無風状態のように感じられるほどです。」
+> **参考情報**: 「圧倒的な防風性能を持っており、強風が吹き付ける稜線でもウェア内は無風状態のように感じられるほどです。」
 <details><summary>出典</summary>`https://funq.jp/peaksmagazine/article/1104082/`</details>
 
 **JK**: 防風性もすごいんですか？
@@ -115,7 +115,7 @@ Tags: Rainwear, Guide
 
 **先生**: そう驚くな。その分、耐久性は折り紙付きだ。適切にメンテナンスすれば10年以上使える。長く使うことを考えれば、コストパフォーマンスは悪くない。
 
-**参考情報**: 「非常に高価なジャケット（10万円以上）ですが、その性能と耐久性から、長く愛用できることを考慮するとコストパフォーマンスは高いという意見もあります。」
+> **参考情報**: 「非常に高価なジャケット（10万円以上）ですが、その性能と耐久性から、長く愛用できることを考慮するとコストパフォーマンスは高いという意見もあります。」
 <details><summary>出典</summary>`https://mountgearhub044.com/arcteryx-alpha-sv-guide/`</details>
 
 #### 主なスペック（Alpha SV）
@@ -140,7 +140,7 @@ Tags: Rainwear, Guide
 - 夏山では暑すぎる可能性あり
 
 **実際のレビュー**:
-**参考情報**: 「北アルプスや南アルプス、八ヶ岳などの3000m級の本格雪山登山において、3000mの稜線上での安心感と快適性が高く評価されています。」
+> **参考情報**: 「北アルプスや南アルプス、八ヶ岳などの3000m級の本格雪山登山において、3000mの稜線上での安心感と快適性が高く評価されています。」
 <details><summary>出典</summary>`https://funq.jp/peaksmagazine/article/1104082/`</details>
 
 **JK**: うーん、私には必要なさそうですね...
@@ -151,7 +151,7 @@ Tags: Rainwear, Guide
 
 **先生**: Alpha ARは、SVと軽量モデルの中間に位置するオールラウンドモデルだ。
 
-**参考情報**: 「耐久性、耐候性、汎用性のバランスが取れたモデルです。最高峰のSVと軽量なモデルの中間に位置付けられ、様々な高山アクティビティに対応できるよう設計されています。」
+> **参考情報**: 「耐久性、耐候性、汎用性のバランスが取れたモデルです。最高峰のSVと軽量なモデルの中間に位置付けられ、様々な高山アクティビティに対応できるよう設計されています。」
 <details><summary>出典</summary>`https://style-clash.net/archives/5896`</details>
 
 **JK**: ハイブリッド構造って何ですか？
@@ -164,7 +164,7 @@ Tags: Rainwear, Guide
 
 **先生**: さらに軽量性を追求したAlpha LTやAlpha FLもある。
 
-**参考情報**: 「俊敏性と軽量性を重視したモデルです。アルパイン用途に十分な耐久性を持ちつつも、重量を抑えることに特化しています。」
+> **参考情報**: 「俊敏性と軽量性を重視したモデルです。アルパイン用途に十分な耐久性を持ちつつも、重量を抑えることに特化しています。」
 <details><summary>出典</summary>`https://livedoor.blogimg.jp/teriyaki_fish/imgs/4/6/46e0ae74.jpg`</details>
 
 **JK**: FLって、ファスト&ライトの略でしたよね。
@@ -177,7 +177,7 @@ Tags: Rainwear, Guide
 
 **先生**: 次はBetaシリーズだ。これはアークテリクスの中で最も汎用性が高いラインだと言える。
 
-**参考情報**: 「The Beta series is designed for versatile, all-round mountain use across a wide range of activities and conditions, including alpine hiking, mountaineering, and skiing.」
+> **参考情報**: 「The Beta series is designed for versatile, all-round mountain use across a wide range of activities and conditions, including alpine hiking, mountaineering, and skiing.」
 <details><summary>出典</summary>`https://www.altitude-sports.com/blogs/the-blog/arc-teryx-beta-ar-jacket-review`</details>
 
 > **Image Prompt:** アークテリクス Beta ARジャケットを着た日本人男性が都会の街中を歩いている写真。カジュアルな雰囲気。背景は新宿や渋谷のような都市部。
@@ -194,14 +194,14 @@ Tags: Rainwear, Guide
 
 **先生**: Betaシリーズで最も人気が高いのがBeta ARだ。
 
-**参考情報**: 「多用途性を重視し、耐候性能に優れた機能を備えたオールラウンドモデルです。」
+> **参考情報**: 「多用途性を重視し、耐候性能に優れた機能を備えたオールラウンドモデルです。」
 <details><summary>出典</summary>`https://2ndstreet.jp/blog/2020-arcteryx-beta-series/`</details>
 
 **JK**: Alphaのようにクライミング専用ってわけじゃないんですか？
 
 **先生**: そうだな。Beta ARは「登山もスキーもハイキングも、全部そこそこ高いレベルでこなせる」という万能選手だ。GORE-TEX Proの中でも、最新のePE素材を使っているモデルもある。
 
-**参考情報**: 「最新モデルでは、肩や上腕部に100デニール、その他に80デニール生地を採用し、PFASフリーのGORE-TEX Pro ePE素材を使用することで耐久性を大幅に向上させつつ、軽量化とごわつきの軽減を実現しています。」
+> **参考情報**: 「最新モデルでは、肩や上腕部に100デニール、その他に80デニール生地を採用し、PFASフリーのGORE-TEX Pro ePE素材を使用することで耐久性を大幅に向上させつつ、軽量化とごわつきの軽減を実現しています。」
 <details><summary>出典</summary>`https://www.arcteryx.jp/shop/mens/beta-ar-jacket`</details>
 
 **JK**: ePEって何ですか？
@@ -221,10 +221,10 @@ Tags: Rainwear, Guide
 **先生**: だが、登山から街着まで幅広く使えることを考えれば、使用頻度は高くなる。1着で何役もこなせるのがBeta ARの強みだ。
 
 **実際のレビュー**:
-**参考情報**: 「オールシーズン使用できる高い汎用性と堅牢な作りが魅力です。本格的なアウトドアから日常使いまで、一台何役もこなす万能な一着と言えるでしょう。」
+> **参考情報**: 「オールシーズン使用できる高い汎用性と堅牢な作りが魅力です。本格的なアウトドアから日常使いまで、一台何役もこなす万能な一着と言えるでしょう。」
 <details><summary>出典</summary>`https://hinata.me/article/3134594558798193921`</details>
 
-**参考情報**: 「タウンユースでの着用にも人気があります。その洗練されたデザインと高い機能性から、街中での使用においても評価されています。」
+> **参考情報**: 「タウンユースでの着用にも人気があります。その洗練されたデザインと高い機能性から、街中での使用においても評価されています。」
 <details><summary>出典</summary>`https://monopolis-sai.com/post-16615/`</details>
 
 #### 主なスペック（Beta AR）
@@ -252,7 +252,7 @@ Tags: Rainwear, Guide
 
 **先生**: もう少し軽量でシンプルなモデルが良ければ、Beta LTがある。
 
-**参考情報**: 「軽量性と耐久性のバランスに優れたモデルです。ミニマルなデザインで最大限の汎用性を発揮し、山でのアクティビティに必要な機能性を網羅しています。」
+> **参考情報**: 「軽量性と耐久性のバランスに優れたモデルです。ミニマルなデザインで最大限の汎用性を発揮し、山でのアクティビティに必要な機能性を網羅しています。」
 <details><summary>出典</summary>`https://you-papa.com/beta-lt-jacket/`</details>
 
 **JK**: LTだから、軽量ってことですよね。
@@ -271,7 +271,7 @@ Tags: Rainwear, Guide
 
 **先生**: Betaシリーズの最高峰がBeta SVだ。
 
-**参考情報**: 「最も耐久性が高く、悪天候など厳しいコンディションに長期間耐えうるよう設計されたモデルです。高山の予測不可能な過酷な環境に対応します。」
+> **参考情報**: 「最も耐久性が高く、悪天候など厳しいコンディションに長期間耐えうるよう設計されたモデルです。高山の予測不可能な過酷な環境に対応します。」
 <details><summary>出典</summary>`https://yamatabitabi.com/arc-teryx-beta-sv-jacket-review/`</details>
 
 **JK**: でもAlpha SVもあるのに、Beta SVも必要なんですか？
@@ -292,7 +292,7 @@ Tags: Rainwear, Guide
 
 **先生**: そうなんだ。だが、その DNAは後継モデルであるBetaジャケットに引き継がれている。
 
-**参考情報**: 「Zetaシリーズは廃盤となりましたが、その「軽さ・携帯性」といった魅力は、後継モデルであるBetaジャケットに引き継がれています。」
+> **参考情報**: 「Zetaシリーズは廃盤となりましたが、その「軽さ・携帯性」といった魅力は、後継モデルであるBetaジャケットに引き継がれています。」
 <details><summary>出典</summary>`https://style-clash.net/archives/5896`</details>
 
 > **Image Prompt:** アークテリクス Beta Jacketを着た日本人女性がトレッキングポールを持ってハイキングしている写真。明るい森林の中。
@@ -307,7 +307,7 @@ Tags: Rainwear, Guide
 
 ### Zeta SL の特徴
 
-**参考情報**: 「ハイキング時の緊急用シェルとして設計されており、急な悪天候に備えるために超軽量でコンパクトに収納できるのが特徴です。」
+> **参考情報**: 「ハイキング時の緊急用シェルとして設計されており、急な悪天候に備えるために超軽量でコンパクトに収納できるのが特徴です。」
 <details><summary>出典</summary>`https://southcedardriveinn.com/arcteryx-zeta-sl/`</details>
 
 **JK**: 超軽量って、どれくらいですか？
@@ -318,7 +318,7 @@ Tags: Rainwear, Guide
 
 **先生**: GORE-TEX Paclite Plusという2.5層構造の素材を使っていてな。3層構造よりも軽量だが、耐久性はやや劣る。
 
-**参考情報**: 「GORE-TEX Paclite® Plusを採用しており、防水性、防風性、透湿性に優れながらも、薄く、軽く、さらりとした肌触りを提供します。」
+> **参考情報**: 「GORE-TEX Paclite® Plusを採用しており、防水性、防風性、透湿性に優れながらも、薄く、軽く、さらりとした肌触りを提供します。」
 <details><summary>出典</summary>`https://yoshiki-p2.com/2021/04/13/zetasl/`</details>
 
 **JK**: 2.5層？
@@ -353,7 +353,7 @@ Tags: Rainwear, Guide
 
 ### Gamma MX vs Gamma LT
 
-**参考情報**: 「変わりやすい天候に対応するために設計された、より頑丈で保温性の高いモデルです。」（Gamma MX）
+> **参考情報**: 「変わりやすい天候に対応するために設計された、より頑丈で保温性の高いモデルです。」（Gamma MX）
 <details><summary>出典</summary>`https://fromation.co.jp/blog/blog00177/`</details>
 
 **先生**: Gammaシリーズには、主にGamma MXとGamma LTがある。
@@ -366,7 +366,7 @@ Tags: Rainwear, Guide
 
 **先生**: 寒い時期や、保温性が欲しいならGamma MX。春〜秋の3シーズンで、通気性と軽さ重視ならGamma LTだ。
 
-**参考情報**: 「寒冷な環境や悪天候での耐久性・保温性を重視するならGamma MX。軽量性、汎用性、通気性を重視し、幅広いシーズンや活動で使いたいならGamma LT。」
+> **参考情報**: 「寒冷な環境や悪天候での耐久性・保温性を重視するならGamma MX。軽量性、汎用性、通気性を重視し、幅広いシーズンや活動で使いたいならGamma LT。」
 <details><summary>出典</summary>`https://fromation.co.jp/blog/blog00177/`</details>
 
 **JK**: ソフトシェルって、雨の日は使えないんですか？
@@ -389,7 +389,7 @@ Tags: Rainwear, Guide
 
 **先生**: パタゴニアは、環境への配慮が非常に高いブランドだ。独自開発の「H2No」という防水透湿素材も使っている。
 
-**参考情報**: 「GORE-TEX素材だけでなく、独自開発の防水透湿素材「H2Noパフォーマンス・スタンダード・シェル」も採用しています。」
+> **参考情報**: 「GORE-TEX素材だけでなく、独自開発の防水透湿素材「H2Noパフォーマンス・スタンダード・シェル」も採用しています。」
 <details><summary>出典</summary>`https://kurashi-no.jp/I0033896`</details>
 
 **JK**: H2No？
@@ -404,7 +404,7 @@ Tags: Rainwear, Guide
 
 **先生**: ノースフェイスは、幅広いユーザー層に対応した製品展開が特徴だ。
 
-**参考情報**: 「GORE-TEX（C-Knit™バッカーなど）や、独自の防水透湿素材「FUTURELIGHT™（フューチャーライト）」など、高性能な素材を積極的に採用しています。」
+> **参考情報**: 「GORE-TEX（C-Knit™バッカーなど）や、独自の防水透湿素材「FUTURELIGHT™（フューチャーライト）」など、高性能な素材を積極的に採用しています。」
 <details><summary>出典</summary>`https://yama-gear.com/the-north-face-jacket-comparison/`</details>
 
 **JK**: フューチャーライト...カッコいい名前ですね。
@@ -419,7 +419,7 @@ Tags: Rainwear, Guide
 
 **先生**: マムートはスイスの老舗ブランドで、実用性と堅牢性が売りだ。
 
-**参考情報**: 「登山のスタイルや環境に合わせて選べる豊富なモデル展開が最大の特徴です。」
+> **参考情報**: 「登山のスタイルや環境に合わせて選べる豊富なモデル展開が最大の特徴です。」
 <details><summary>出典</summary>`https://mountgearhub044.com/mammut-hardshell-guide/`</details>
 
 **JK**: 豊富なモデル？
@@ -446,14 +446,14 @@ Tags: Rainwear, Guide
 
 **先生**: まず、何と言っても価格だ。Beta ARが10万円、Alpha SVが11万円。これは登山初心者にはかなりの負担だろう。
 
-**参考情報**: 「アークテリクスのハードシェルは非常に高価であると認識されています」
+> **参考情報**: 「アークテリクスのハードシェルは非常に高価であると認識されています」
 <details><summary>出典</summary>`https://yamano-media.com/arcteryx-gamma-mx-hoody-pros-cons/`</details>
 
 **JK**: ですよね...なんでこんなに高いんですか？
 
 **先生**: 理由はいくつかある。高品質なGORE-TEX Pro素材、複雑な立体裁断と縫製技術、厳格な品質管理、研究開発への投資...そしてカナダの高い労働コスト。
 
-**参考情報**: 「高品質な素材と技術、研究開発への投資、カナダでの生産コスト、ブランド戦略とデザイン性が高価格の理由。」
+> **参考情報**: 「高品質な素材と技術、研究開発への投資、カナダでの生産コスト、ブランド戦略とデザイン性が高価格の理由。」
 <details><summary>出典</summary>`https://yamakame.com/arcteryx-expensive-reasons/`</details>
 
 **JK**: うーん、でもそれだけの価値はあるんですか？
@@ -464,28 +464,28 @@ Tags: Rainwear, Guide
 
 **先生**: SVシリーズは耐久性重視のため、やや重く、生地も硬い。
 
-**参考情報**: 「ハードシェルのモデルによっては、耐久性を重視するあまり重さが増すことがあります。特に、過酷な環境に対応する「SV（Severe）」シリーズなどは、耐久性の高い厚手の生地を使用しているため、やや重めに感じられることがあります」
+> **参考情報**: 「ハードシェルのモデルによっては、耐久性を重視するあまり重さが増すことがあります。特に、過酷な環境に対応する「SV（Severe）」シリーズなどは、耐久性の高い厚手の生地を使用しているため、やや重めに感じられることがあります」
 <details><summary>出典</summary>`https://yamano-media.com/arcteryx-gamma-mx-hoody-pros-cons/`</details>
 
 **JK**: ゴワゴワするってことですか？
 
 **先生**: そうだな。100デニールのAlpha SVなどは、かなりゴツい。シャカシャカという音もする。
 
-**参考情報**: 「ハードシェル特有のゴワゴワとした質感や、「シャカシャカ」という音をデメリットと感じるユーザーもいます」
+> **参考情報**: 「ハードシェル特有のゴワゴワとした質感や、「シャカシャカ」という音をデメリットと感じるユーザーもいます」
 <details><summary>出典</summary>`https://yamap.com/activities/50166387`</details>
 
 **JK**: おじさんっぽい音ですね...
 
 **先生**: はは、確かにな。ただ、最新のC-KNIT™バッカーやePE素材を使ったモデルは、かなりしなやかになってきている。技術は進化しているんだ。
 
-**参考情報**: 「ただし、GORE-TEX C-KNIT™ バッカーなどの新技術により、着心地の柔らかさが向上しているモデルもあります」
+> **参考情報**: 「ただし、GORE-TEX C-KNIT™ バッカーなどの新技術により、着心地の柔らかさが向上しているモデルもあります」
 <details><summary>出典</summary>`https://yamap.com/activities/50166387`</details>
 
 ### ストレッチ性が低い
 
 **先生**: ハードシェルは防水性と耐久性を優先するため、ソフトシェルに比べてストレッチ性は劣る。
 
-**参考情報**: 「ハードシェルは耐久性や防水性を重視するため、ソフトシェルと比較して伸縮性に劣る傾向があります」
+> **参考情報**: 「ハードシェルは耐久性や防水性を重視するため、ソフトシェルと比較して伸縮性に劣る傾向があります」
 <details><summary>出典</summary>`https://www.sakidori.co/article/1426673`</details>
 
 **JK**: クライミングには向かないってことですか？
@@ -498,7 +498,7 @@ Tags: Rainwear, Guide
 
 **先生**: そうなんだ。人気ブランドゆえに、中古市場には偽物が多く出回っている。
 
-**参考情報**: 「アークテリクス製品は人気が高いため、フリマアプリなどで中古品を購入する際には偽物が多く出回っているリスクがあります」
+> **参考情報**: 「アークテリクス製品は人気が高いため、フリマアプリなどで中古品を購入する際には偽物が多く出回っているリスクがあります」
 <details><summary>出典</summary>`https://yamano-media.com/arcteryx-gamma-mx-hoody-pros-cons/`</details>
 
 **JK**: じゃあ、メルカリとかで買うのは危険ですか？
@@ -513,7 +513,7 @@ Tags: Rainwear, Guide
 
 **先生**: 良い質問だ。アークテリクスは欧米基準のサイズ表記だから、日本のサイズよりやや大きめに作られている。
 
-**参考情報**: 「アークテリクスのウェアは、欧米基準のサイズ表記のため、日本のサイズよりも大きめに作られていることが多いです。通常、日本サイズよりワンサイズ下を選ぶのが一般的とされています。」
+> **参考情報**: 「アークテリクスのウェアは、欧米基準のサイズ表記のため、日本のサイズよりも大きめに作られていることが多いです。通常、日本サイズよりワンサイズ下を選ぶのが一般的とされています。」
 <details><summary>出典</summary>`https://dresswell.jp/arcteryx-size-selection-guide/`</details>
 
 **JK**: ワンサイズ下？
@@ -524,7 +524,7 @@ Tags: Rainwear, Guide
 
 **先生**: そうなんだ。例えばGamma MXはタイトめ、Beta Jacketも比較的タイトなフィット感だ。
 
-**参考情報**: 「モデルによってフィット感が異なり、例えばガンマMXはミッドレイヤーとして重ね着を想定しているため、ハードシェルに比べてタイトなサイズ感です。」
+> **参考情報**: 「モデルによってフィット感が異なり、例えばガンマMXはミッドレイヤーとして重ね着を想定しているため、ハードシェルに比べてタイトなサイズ感です。」
 <details><summary>出典</summary>`https://dresswell.jp/arcteryx-size-selection-guide/`</details>
 
 **JK**: ややこしいですね...
@@ -535,7 +535,7 @@ Tags: Rainwear, Guide
 
 **先生**: そうだ。冬山でフリースを着込むなら、普段よりゆったりめのサイズが必要だ。逆に街着メインなら、ジャストサイズの方がスタイリッシュに見える。
 
-**参考情報**: 「アウトドアでの使用を想定している場合、中にフリースなどのミッドレイヤーを着込むことを考慮してサイズを選ぶ必要があります。」
+> **参考情報**: 「アウトドアでの使用を想定している場合、中にフリースなどのミッドレイヤーを着込むことを考慮してサイズを選ぶ必要があります。」
 <details><summary>出典</summary>`https://dresswell.jp/arcteryx-size-selection-guide/`</details>
 
 ---
@@ -550,7 +550,7 @@ Tags: Rainwear, Guide
 
 **先生**: まず、GORE-TEXは定期的に洗うことが大切だ。
 
-**参考情報**: 「Hardshells, especially those with Gore-Tex, should be washed regularly. Dirt, sweat, and body oils can compromise the membrane's function and the effectiveness of the Durable Water Repellent (DWR) finish.」
+> **参考情報**: 「Hardshells, especially those with Gore-Tex, should be washed regularly. Dirt, sweat, and body oils can compromise the membrane's function and the effectiveness of the Durable Water Repellent (DWR) finish.」
 <details><summary>出典</summary>`https://www.arcteryx.com/ca/en/help/hard-shell-care-part-1`</details>
 
 **JK**: え、洗っちゃっていいんですか？防水じゃなくなりそう...
@@ -569,7 +569,7 @@ Tags: Rainwear, Guide
 
 **先生**: 洗った後は、タンブル乾燥機で中温で40-50分乾かす。これで撥水性が復活する。
 
-**参考情報**: 「Tumble dry the damp garment on a medium heat setting for 40-50 minutes. This helps reactivate the DWR finish.」
+> **参考情報**: 「Tumble dry the damp garment on a medium heat setting for 40-50 minutes. This helps reactivate the DWR finish.」
 <details><summary>出典</summary>`https://www.arcteryx.com/ca/en/help/hard-shell-care-part-1`</details>
 
 **JK**: 乾燥機に入れていいんですか！？
@@ -580,14 +580,14 @@ Tags: Rainwear, Guide
 
 **先生**: それから、日本で正規購入したアークテリクスには「BIRD AID」という保証サービスがある。
 
-**参考情報**: 「In Japan, Arc'teryx offers a unique warranty program called BIRD AID (バードエイド) for products purchased from authorized Japanese retailers.」
+> **参考情報**: 「In Japan, Arc'teryx offers a unique warranty program called BIRD AID (バードエイド) for products purchased from authorized Japanese retailers.」
 <details><summary>出典</summary>`https://support.arcteryx.com/s/article/bird-aid-japan?language=en_US`</details>
 
 **JK**: BIRD AID？始祖鳥のエイド？
 
 **先生**: そう、アークテリクスのロゴは始祖鳥（Archaeopteryx）だからな。このサービスは、購入から3年間、修理費用の30%までをカバーしてくれる。
 
-**参考情報**: 「保証期間: 購入から3年間。修理費用の30%までカバー。」
+> **参考情報**: 「保証期間: 購入から3年間。修理費用の30%までカバー。」
 <details><summary>出典</summary>`https://www.rakuten.ne.jp/gold/kojitusanso/brand/arcteryx/bird-aid.html`</details>
 
 **JK**: へー、それは安心ですね！
@@ -698,7 +698,7 @@ Tags: Rainwear, Guide
 
 **先生**: GORE-TEX Proは、通常のGORE-TEXよりも耐久性と透湿性が高い上位グレードだ。特に「Most Rugged」という最高グレードは、GORE-TEX史上最強の耐久性を誇る。
 
-**参考情報**: 「GORE-TEX Proは、その中でも「Most Rugged technology（モスト ラギッド テクノロジー）」として知られる、極めて高い耐久性を持つ素材です。」
+> **参考情報**: 「GORE-TEX Proは、その中でも「Most Rugged technology（モスト ラギッド テクノロジー）」として知られる、極めて高い耐久性を持つ素材です。」
 <details><summary>出典</summary>`https://www.elkinc.co.jp/gore-tex-pro/`</details>
 
 **JK**: じゃあ、Pro付きの方が絶対良いんですか？
@@ -721,7 +721,7 @@ Tags: Rainwear, Guide
 
 **先生**: 信頼できる中古専門店なら問題ない。だがフリマアプリは偽物のリスクが高い。それに、GORE-TEXは経年劣化するから、何年も使われた中古品は性能が落ちている可能性がある。
 
-**参考情報**: 「長期間の使用（特に酷使された場合）により、接着部分が加水分解で剥がれるなどの経年劣化が報告されています」
+> **参考情報**: 「長期間の使用（特に酷使された場合）により、接着部分が加水分解で剥がれるなどの経年劣化が報告されています」
 <details><summary>出典</summary>`https://yamano-media.com/arcteryx-gamma-mx-hoody-pros-cons/`</details>
 
 **JK**: うーん、やっぱり新品の方が安心ですね。

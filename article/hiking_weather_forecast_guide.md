@@ -29,7 +29,7 @@ Tags: Safety, Guide
 
 **先生**: まず基本として、標高が100m上がるごとに気温は約0.6℃下がる。これを「気温減率」という。
 
-**参考情報**: 「山では標高が100m上がるごとに、気温が約0.6℃～0.65℃低下するのが一般的です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2TECn2rh2dXXcF95THM5Q2mz0Zbx5Nhu6WIF0HUkGKJpv0lSxqOxvbPRv4hbZbTM-nEwpaVpiNc2ZDFPxNnFvb2zGiax8ZlRRWdAProDzGkF22HC8VRYKimFdDAaJ7dqraA==`</details>
+> **参考情報**: 「山では標高が100m上がるごとに、気温が約0.6℃～0.65℃低下するのが一般的です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2TECn2rh2dXXcF95THM5Q2mz0Zbx5Nhu6WIF0HUkGKJpv0lSxqOxvbPRv4hbZbTM-nEwpaVpiNc2ZDFPxNnFvb2zGiax8ZlRRWdAProDzGkF22HC8VRYKimFdDAaJ7dqraA==`</details>
 
 **JK**: 100mで0.6℃…じゃあ3000mの山だと？
 
@@ -39,7 +39,7 @@ Tags: Safety, Guide
 
 **先生**: ああ。しかも山では平地の2〜3倍の風が吹くことも珍しくない。平地で風速5m/sでも、山頂では10〜15m/sになりうる。
 
-**参考情報**: 「風速が1m/s強くなるごとに体感温度は約1℃下がるとされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDtGJWvm1Gx6aBZjn57B5oknmT8_Gq3frEKoirHypQD4tHno-HN8FdJS27ptVgNJr2GvbVo7hd87cP3W-p4gaIFC4tYwyE-lOZk5ElWV0hvzLrvZFvhWFDNq6nPeo=`</details>
+> **参考情報**: 「風速が1m/s強くなるごとに体感温度は約1℃下がるとされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDtGJWvm1Gx6aBZjn57B5oknmT8_Gq3frEKoirHypQD4tHno-HN8FdJS27ptVgNJr2GvbVo7hd87cP3W-p4gaIFC4tYwyE-lOZk5ElWV0hvzLrvZFvhWFDNq6nPeo=`</details>
 
 **JK**: ちょっと待ってください。計算すると…平地25℃、3000mで7℃、風速10m/sで…体感温度マイナス3℃!?
 
@@ -67,7 +67,7 @@ Tags: Safety, Guide
 
 **先生**: …ここが落とし穴なんだ。登山指数には注意点がある。
 
-**参考情報**: 「登山指数は特定の時間帯（例: 午前9時）の山頂の天気を基にしており、一日全体の天候や登山道全体の状況を示すものではないため、誤解を招く可能性があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiR7RrAnzS7TZevGrP9FiHEUHqiyu9PODIO9wpX3D-1vjjGowZgPsKr4qdSosYHh8KiywqRQ29-jaFBTgORA2PNuThvxVe_tPnv0tMXssQFGFcL8URWFz9y3rrP2uzl8q9Adq6UPs=`</details>
+> **参考情報**: 「登山指数は特定の時間帯（例: 午前9時）の山頂の天気を基にしており、一日全体の天候や登山道全体の状況を示すものではないため、誤解を招く可能性があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiR7RrAnzS7TZevGrP9FiHEUHqiyu9PODIO9wpX3D-1vjjGowZgPsKr4qdSosYHh8KiywqRQ29-jaFBTgORA2PNuThvxVe_tPnv0tMXssQFGFcL8URWFz9y3rrP2uzl8q9Adq6UPs=`</details>
 
 **JK**: 落とし穴？
 
@@ -89,7 +89,7 @@ Tags: Safety, Guide
 
 **先生**: ある。「ヤマテン」は山岳専門の気象予報士集団が運営する有料サービスで、月額550円だ。
 
-**参考情報**: 「ヤマテンは、山岳専門の気象予報士集団が運営する有料の山岳天気予報サービスです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF4AMDewsYXFKkDHsfEYvd97Jrfmsm9i1Y37npQ3WnEZt_iVhhjdQ3339zq1wR2fcVRZ9lDUcjFXJp9mYcutwhKmIZjwkfjZuv1lM91mOGBBsYl9Icht2jFzzaILGiWPpXCw==`</details>
+> **参考情報**: 「ヤマテンは、山岳専門の気象予報士集団が運営する有料の山岳天気予報サービスです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF4AMDewsYXFKkDHsfEYvd97Jrfmsm9i1Y37npQ3WnEZt_iVhhjdQ3339zq1wR2fcVRZ9lDUcjFXJp9mYcutwhKmIZjwkfjZuv1lM91mOGBBsYl9Icht2jFzzaILGiWPpXCw==`</details>
 
 **JK**: 有料かぁ…。月550円って高くないですか？
 
@@ -116,7 +116,7 @@ Tags: Safety, Guide
 
 **先生**: 「Windy」は風の動きや雲の広がり、雨雲の範囲がアニメーションで見られる。無料でも十分使えるし、複数の予報モデルを比較できるのが強みだ。
 
-**参考情報**: 「Windyは、無料版でも登山に必要な機能が揃っており、風の動きや雲の広がり、雨雲の範囲・強さがアニメーションで視覚的に確認できます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVHUUQ_YxU0qtPg2CH4Uq_-B7LYvf4-4aE-OIWsPukqiV6tM1IzN-3Jc6B6ZsNodvn7pKjHhkjsJn6j4tJTUev9QOKLijnWUMS2gWCPDGKWqA6AEnvIw7c41kJjtMyELIaYPYjjFrbTU1khA==`</details>
+> **参考情報**: 「Windyは、無料版でも登山に必要な機能が揃っており、風の動きや雲の広がり、雨雲の範囲・強さがアニメーションで視覚的に確認できます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVHUUQ_YxU0qtPg2CH4Uq_-B7LYvf4-4aE-OIWsPukqiV6tM1IzN-3Jc6B6ZsNodvn7pKjHhkjsJn6j4tJTUev9QOKLijnWUMS2gWCPDGKWqA6AEnvIw7c41kJjtMyELIaYPYjjFrbTU1khA==`</details>
 
 **JK**: アニメーションで見られるのいいですね！直感的に分かりそう。
 
@@ -135,7 +135,7 @@ Tags: Safety, Guide
 
 **先生**: 正解は「複数を併用する」だ。てんくらで大まかな傾向を見て、ヤマテンで詳細を確認し、Windyで風や雲の動きをチェック。一つのサービスを盲信しないことが大切だ。
 
-**参考情報**: 「多くの登山者は、一つのサービスに頼り切らず、複数の天気予報サービスを併用して総合的に判断することを推奨しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3XtIoRaljhHGSWjm4b2Gbis4WhN30r2XjGZOlwbIRtBZ1dk_F7PnYouBSjncW4uEwXx_AHXxDza_r7UfAYknTQoR-1sQLtC5HIdEmkvsqhry3Cf1UY2wM-OsIYuu9LpR8nGcyqI8TdQ-04g==`</details>
+> **参考情報**: 「多くの登山者は、一つのサービスに頼り切らず、複数の天気予報サービスを併用して総合的に判断することを推奨しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3XtIoRaljhHGSWjm4b2Gbis4WhN30r2XjGZOlwbIRtBZ1dk_F7PnYouBSjncW4uEwXx_AHXxDza_r7UfAYknTQoR-1sQLtC5HIdEmkvsqhry3Cf1UY2wM-OsIYuu9LpR8nGcyqI8TdQ-04g==`</details>
 
 > **Image Prompt:** スマートフォンで天気予報アプリを確認する登山者の手元。画面にはてんきとくらすの登山指数が表示されている。
 
@@ -155,7 +155,7 @@ Tags: Safety, Guide
 
 **先生**: まず風速。15m/s以上は山での行動を避けるべきだ。
 
-**参考情報**: 「風速15m/sを超える場合は山での行動を避けるべきとされます。風速15m/sは風に向かって歩けないレベルで、石が飛んでくる危険もあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr0vOX3jIAHUV8BQmbxty8tL4GFmgAkfGD_QdmZjf7Ue5JM5oq6FXqduaXp3w7A9YlHTfne-ywBX6KFnxqCsMG5tX4Cqgk-tquUEnfgFMDvqpVHggF3worppZi580cFGKnGUzw8A5G8ntlNbnPxQ0oO3P4NuM0snfyG6Pnc9j-X1TaQTq2fPU1mMux8vclELJbQ-g=`</details>
+> **参考情報**: 「風速15m/sを超える場合は山での行動を避けるべきとされます。風速15m/sは風に向かって歩けないレベルで、石が飛んでくる危険もあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr0vOX3jIAHUV8BQmbxty8tL4GFmgAkfGD_QdmZjf7Ue5JM5oq6FXqduaXp3w7A9YlHTfne-ywBX6KFnxqCsMG5tX4Cqgk-tquUEnfgFMDvqpVHggF3worppZi580cFGKnGUzw8A5G8ntlNbnPxQ0oO3P4NuM0snfyG6Pnc9j-X1TaQTq2fPU1mMux8vclELJbQ-g=`</details>
 
 **JK**: 15m/sってどのくらいの風なんですか？
 
@@ -232,7 +232,7 @@ Tags: Safety, Guide
 
 **先生**: まず、積乱雲。入道雲とも言うな。もくもくと大きく発達して、上部がカリフラワーやソフトクリームのような形になる。
 
-**参考情報**: 「積乱雲（せきらんうん・入道雲）・かなとこ雲は、即座の撤退が必要です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoQSngWP4LSOhnVjNFtvvzMmStw3Ouzuo2dra0lDLnrPJ4jqCE2Qurt4EOHS7Mu0Nza9cdDN17csMWmOCRQArbX8ka-oIMRJ-QrrGBG3VjhZCP2FkVz_WWF8S-pvbAhj4d3vMO7FFNA4jqTqbA5UGHN2tTxUR_ETwszKV11QE=`</details>
+> **参考情報**: 「積乱雲（せきらんうん・入道雲）・かなとこ雲は、即座の撤退が必要です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoQSngWP4LSOhnVjNFtvvzMmStw3Ouzuo2dra0lDLnrPJ4jqCE2Qurt4EOHS7Mu0Nza9cdDN17csMWmOCRQArbX8ka-oIMRJ-QrrGBG3VjhZCP2FkVz_WWF8S-pvbAhj4d3vMO7FFNA4jqTqbA5UGHN2tTxUR_ETwszKV11QE=`</details>
 
 **JK**: ああ、夏によく見るやつですね。
 
@@ -316,7 +316,7 @@ Tags: Safety, Guide
 
 **先生**: 実はそれは誤解だ。
 
-**参考情報**: 「金属製のザックフレームや登山道具、身につけている金属製品が落雷を誘発するという科学的根拠は薄く、無理に外す必要はありません」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHI5qcVfwPKZX4CPWTAHmrAYhDJWlCMcX2FlyBp1Dt2JhG0mEBxQBfom1cm0ZZIHE7LtdRJtjxptfPl6MjNwXn5LTSFRiAt1yUcozPCYvVcoTis327YexhRTA==`</details>
+> **参考情報**: 「金属製のザックフレームや登山道具、身につけている金属製品が落雷を誘発するという科学的根拠は薄く、無理に外す必要はありません」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHI5qcVfwPKZX4CPWTAHmrAYhDJWlCMcX2FlyBp1Dt2JhG0mEBxQBfom1cm0ZZIHE7LtdRJtjxptfPl6MjNwXn5LTSFRiAt1yUcozPCYvVcoTis327YexhRTA==`</details>
 
 **JK**: え、そうなんですか！？
 
@@ -350,7 +350,7 @@ Tags: Safety, Guide
 
 **先生**: 2009年7月、北海道大雪山系のトムラウシ山で起きた事故だ。梅雨明け間近の7月、ツアー登山グループが暴風雨に遭遇し、ガイドを含む8名が亡くなった。
 
-**参考情報**: 「トムラウシ山遭難事故は、気温がそれほど低くなくても、雨による濡れと風による冷却が重なることで低体温症が急速に進行する危険性を示しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEozXYGjxQmGC77VP1FmS4jE98GwV7AXhvQmFQ3uSThd7ca_zX8T1QvaDXc6-6JPObwoy1rbeD8CJ8HS7oPUgpiT69amboTa1dGJpbtKzOzUDt0KahrsRM8qDu3`</details>
+> **参考情報**: 「トムラウシ山遭難事故は、気温がそれほど低くなくても、雨による濡れと風による冷却が重なることで低体温症が急速に進行する危険性を示しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEozXYGjxQmGC77VP1FmS4jE98GwV7AXhvQmFQ3uSThd7ca_zX8T1QvaDXc6-6JPObwoy1rbeD8CJ8HS7oPUgpiT69amboTa1dGJpbtKzOzUDt0KahrsRM8qDu3`</details>
 
 **JK**: 7月に…？夏じゃないですか。
 
@@ -368,7 +368,7 @@ Tags: Safety, Guide
 
 **先生**: もっと最近の事故もある。2023年10月、新潟県と栃木県の境にある朝日岳で、急激な天候悪化と強風により4人の登山者が亡くなった。
 
-**参考情報**: 「朝日岳低体温症事件では、急激な天候悪化と強風が原因で4人の登山者が低体温症で亡くなりました」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_WghhhwcF9t82hOeJx0k5WkZW_hkx4ZPFe4DG7LKzk0B4f_WjQEaC_iaYDhHbqVFq6BFRCjAMLU6SFiskdkjTmtzt9t8h6WZsIr6FPXNM8zJkus4rQ3Cq6Nbc7QbajVO2USMfG0IVnuw4Uw==`</details>
+> **参考情報**: 「朝日岳低体温症事件では、急激な天候悪化と強風が原因で4人の登山者が低体温症で亡くなりました」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_WghhhwcF9t82hOeJx0k5WkZW_hkx4ZPFe4DG7LKzk0B4f_WjQEaC_iaYDhHbqVFq6BFRCjAMLU6SFiskdkjTmtzt9t8h6WZsIr6FPXNM8zJkus4rQ3Cq6Nbc7QbajVO2USMfG0IVnuw4Uw==`</details>
 
 **JK**: 10月…秋ですよね。
 
@@ -408,7 +408,7 @@ Tags: Safety, Guide
 
 **先生**: 大事なのは、**引き返す基準を事前に決めておく**ことだ。現場で判断しようとすると、「せっかく来たから」という心理に負けてしまう。
 
-**参考情報**: 「『せっかく来たから』という気持ちよりも、危険を感じたら引き返す『勇気ある撤退』が命を守ります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzvbdAWYlwWhReRWkO1Usvhx3fOWkBygad9aMvMYKG5JWijpQjOVe1BuUDXJqTc0VCxdUjfsQr-etsVwK-zgTsSX1ww_w0aoulFQXpPweNQuEmmXo1nn9hsIh4MGRRZKCTX2aTZR5Ju0MbpyXt2lTW0VG0`</details>
+> **参考情報**: 「『せっかく来たから』という気持ちよりも、危険を感じたら引き返す『勇気ある撤退』が命を守ります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzvbdAWYlwWhReRWkO1Usvhx3fOWkBygad9aMvMYKG5JWijpQjOVe1BuUDXJqTc0VCxdUjfsQr-etsVwK-zgTsSX1ww_w0aoulFQXpPweNQuEmmXo1nn9hsIh4MGRRZKCTX2aTZR5Ju0MbpyXt2lTW0VG0`</details>
 
 **JK**: 事前に決めておく…
 

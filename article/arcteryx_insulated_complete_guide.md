@@ -32,7 +32,7 @@ Tags: Insulation, Guide
 
 **先生**: 一番の違いは「保温材」だ。Atomは合成繊維の「Coreloft™（コアロフト）」、CeriumとThoriumはダウン（羽毛）を使っている。そして、どのシーンで着るかが全然違ってくる。
 
-**参考情報**: 「Atomシリーズは、主に化繊インサレーション（Coreloft™）を使用しており、濡れても保温性を維持できる点が最大の特徴です。通気性と透湿性にも優れており、運動量の多いアクティビティに適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHd-dBfpi5LtWDVFRsHLSZhIa8LR6pYJfNWqciWL0kSBmI3AIr_ysfYmNTPwyR5ah5GJW_FhudQR2el5tvycCGpeQCxzxaRGpvgAkr4EeqmOf-QMkWIIgAg8WPB4JbkjdpYA==`</details>
+> **参考情報**: 「Atomシリーズは、主に化繊インサレーション（Coreloft™）を使用しており、濡れても保温性を維持できる点が最大の特徴です。通気性と透湿性にも優れており、運動量の多いアクティビティに適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHd-dBfpi5LtWDVFRsHLSZhIa8LR6pYJfNWqciWL0kSBmI3AIr_ysfYmNTPwyR5ah5GJW_FhudQR2el5tvycCGpeQCxzxaRGpvgAkr4EeqmOf-QMkWIIgAg8WPB4JbkjdpYA==`</details>
 
 **JK**: 化繊とダウンって、そんなに違うもんなんですか？
 
@@ -54,7 +54,7 @@ Tags: Insulation, Guide
 
 **先生**: Atomの最大の特徴は、ダウンじゃなく「Coreloft™（コアロフト）」っていう化繊中綿を使ってることだ。これが濡れに強くて、汗をかいても保温力が落ちない。
 
-**参考情報**: 「Coreloftはシリコン加工されたポリエステル繊維を2種類（太い繊維と細い繊維）組み合わせることで、かさ高（ロフト）を維持し、暖かい空気を閉じ込める構造です。この化繊中綿は、ダウンの弱点である濡れによる保温性低下を克服し、速乾性と通気性にも優れています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrW-cexhpCSAas9xxkyKrVyZTSrOdGHBVnIBluiwvGgOl8G2ePiVBrNowE6MWodQHcssU6U8THJIuRfALqg6bCXYZei8TBaSC_qc0UxRO5SaLLX6rnHQk=`</details>
+> **参考情報**: 「Coreloftはシリコン加工されたポリエステル繊維を2種類（太い繊維と細い繊維）組み合わせることで、かさ高（ロフト）を維持し、暖かい空気を閉じ込める構造です。この化繊中綿は、ダウンの弱点である濡れによる保温性低下を克服し、速乾性と通気性にも優れています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrW-cexhpCSAas9xxkyKrVyZTSrOdGHBVnIBluiwvGgOl8G2ePiVBrNowE6MWodQHcssU6U8THJIuRfALqg6bCXYZei8TBaSC_qc0UxRO5SaLLX6rnHQk=`</details>
 
 **JK**: 太い繊維と細い繊維って、なんで2種類も？
 
@@ -72,13 +72,13 @@ Tags: Insulation, Guide
 
 **先生**: 一番人気は「Atom Hoody」だな。以前は「Atom LT（Light）」って名前だったが、2024年にシンプルに「Atom Hoody」に改名された。
 
-**参考情報**: 「Coreloft Compact 60g/m²が身頃、袖、フード全体に封入されています。汎用性が高く、軽量でありながらバランスの取れた保温性を提供します。単体でのアウターとしても、寒い時期のミッドレイヤーとしても活躍します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrW-cexhpCSAas9xxkyKrVyZTSrOdGHBVnIBluiwvGgOl8G2ePiVBrNowE6MWodQHcssU6U8THJIuRfALqg6bCXYZei8TBaSC_qc0UxRO5SaLLX6rnHQk=`</details>
+> **参考情報**: 「Coreloft Compact 60g/m²が身頃、袖、フード全体に封入されています。汎用性が高く、軽量でありながらバランスの取れた保温性を提供します。単体でのアウターとしても、寒い時期のミッドレイヤーとしても活躍します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrW-cexhpCSAas9xxkyKrVyZTSrOdGHBVnIBluiwvGgOl8G2ePiVBrNowE6MWodQHcssU6U8THJIuRfALqg6bCXYZei8TBaSC_qc0UxRO5SaLLX6rnHQk=`</details>
 
 **JK**: 60g/m²って、多いんですか？少ないんですか？
 
 **先生**: ちょうどいいバランスだ。身頃も袖もフードも、全体に均等に中綿が入ってる。そして脇下には通気性の高い「サイドパネル」があって、運動中に蒸れにくい設計になっている。
 
-**参考情報**: 「約375g（フーディーの場合）と非常に軽量で、薄手ながらも高い保温性を提供します。サイドパネルにはストレッチ性の高いフリース素材が使用されており、体の動きを妨げず、良好な通気性で運動中の体温調節を促進し、汗を効果的に排出します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYdHvPXSGIJ1GRaqwU-J2YXV-M2Wx55pkmABSWIOrISkzkA5s_9SUlKbQDdlXQ141Tp1EUGKAcmKrmBuP6CFBuKhpqycMOXsb2__ctNuLzjidoruY0dNxgm-DeYQ96Bg==`</details>
+> **参考情報**: 「約375g（フーディーの場合）と非常に軽量で、薄手ながらも高い保温性を提供します。サイドパネルにはストレッチ性の高いフリース素材が使用されており、体の動きを妨げず、良好な通気性で運動中の体温調節を促進し、汗を効果的に排出します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYdHvPXSGIJ1GRaqwU-J2YXV-M2Wx55pkmABSWIOrISkzkA5s_9SUlKbQDdlXQ141Tp1EUGKAcmKrmBuP6CFBuKhpqycMOXsb2__ctNuLzjidoruY0dNxgm-DeYQ96Bg==`</details>
 
 **JK**: 375gって軽いんですか？ペットボトルより軽いですよね。それで暖かいの？
 
@@ -91,7 +91,7 @@ Tags: Insulation, Guide
 - **フィット**: トリムフィット（細身）
 - **価格**: 49,500円（税込）
 
-**参考情報**: 「Atom Hoodyの定価は38,500円から49,500円に改定されました。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzMZWqaXoe8H1eFZ4Q09NMWCnFwvi5J8BuTFgAay_tKvQoKBvFBLzokJM8ILlnIIEXSdDd60g1DIR5MPKyUBO4IA4ydEoMaKA_-tQU_6jAj7LqSHlNJODNn97UosXHMjafABytl5Q=`</details>
+> **参考情報**: 「Atom Hoodyの定価は38,500円から49,500円に改定されました。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzMZWqaXoe8H1eFZ4Q09NMWCnFwvi5J8BuTFgAay_tKvQoKBvFBLzokJM8ILlnIIEXSdDd60g1DIR5MPKyUBO4IA4ydEoMaKA_-tQU_6jAj7LqSHlNJODNn97UosXHMjafABytl5Q=`</details>
 
 #### こんな人におすすめ
 - 運動量が多い登山やトレッキングをする人
@@ -114,7 +114,7 @@ Tags: Insulation, Guide
 
 **先生**: それなら「Atom Heavyweight Hoody」だ。以前は「Atom AR（All Round）」って名前だったが、こっちも改名された。中綿の量がAtom Hoodyの約2倍ある。
 
-**参考情報**: 「Atom LTよりも多くのCoreloftが封入されており、身頃に120g、袖に80g、フードに60gのCoreloftが使用されています。Atomシリーズの中で最も保温性が高く、厳冬期のアウターや非常に寒い環境でのミッドレイヤーに適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5IF58pai0w7LfbPryORejaf4c7kFxZQOU74LwjeFk9tLjkTYg1QQnOdHe5uABqjJbhAzeCHKXsT-6rmIegUWyLa-O84CkdiTG98tsrsXgUIOtJlYZhc_EBLozvi7KdVSRnd2ZnMO4qkSG_ZWsAqvIsYWHj03q_3eJj5O_6JzNxuUYlCG_5ym-VthrcjJxv51FnLc2024daQnccu7GRY0iCPmHe6DXktHH2i6e62NSpk2OsBQZn-Xi47BJbQOGdnTX19AX_IvEhlDnJLYD8RYqXPg69wbxeKHidXWNhfmImNfGHmgPvGGZob5o3DtXUiExMl-sdvoUQCxIrE7S4oM6OQUoYz_sATIkh00U_DaWSpHLqjtssYxoeKk=`</details>
+> **参考情報**: 「Atom LTよりも多くのCoreloftが封入されており、身頃に120g、袖に80g、フードに60gのCoreloftが使用されています。Atomシリーズの中で最も保温性が高く、厳冬期のアウターや非常に寒い環境でのミッドレイヤーに適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5IF58pai0w7LfbPryORejaf4c7kFxZQOU74LwjeFk9tLjkTYg1QQnOdHe5uABqjJbhAzeCHKXsT-6rmIegUWyLa-O84CkdiTG98tsrsXgUIOtJlYZhc_EBLozvi7KdVSRnd2ZnMO4qkSG_ZWsAqvIsYWHj03q_3eJj5O_6JzNxuUYlCG_5ym-VthrcjJxv51FnLc2024daQnccu7GRY0iCPmHe6DXktHH2i6e62NSpk2OsBQZn-Xi47BJbQOGdnTX19AX_IvEhlDnJLYD8RYqXPg69wbxeKHidXWNhfmImNfGHmgPvGGZob5o3DtXUiExMl-sdvoUQCxIrE7S4oM6OQUoYz_sATIkh00U_DaWSpHLqjtssYxoeKk=`</details>
 
 **JK**: 身頃に120gって、Hoodyの倍ですね！そりゃ暖かいわけだ。
 
@@ -140,7 +140,7 @@ Tags: Insulation, Guide
 
 **先生**: あるぞ。「Atom SL Hoody」だ。SLは「Super Light」の略で、中綿が胸と背中にしか入っていない。
 
-**参考情報**: 「Coreloft Stretch 40g/m²が胸部と背部のみに最小限に封入されており、袖やフードには中綿が入っていません（またはメッシュ裏地）。Atomシリーズの中で最も軽量で、高い通気性と携帯性を誇ります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFma71v7Mt7oEI1yrKoMhWKyvxNxxWiHzN5hf5-nTDSJeaeXogn2ZlWJL-n93sADnArMwlPK8VFXr7py2zH-Qx-PyZcyrXgIlx1fApwLZmwHt30PPSmMpBFAtidztk_gbG4cw==`</details>
+> **参考情報**: 「Coreloft Stretch 40g/m²が胸部と背部のみに最小限に封入されており、袖やフードには中綿が入っていません（またはメッシュ裏地）。Atomシリーズの中で最も軽量で、高い通気性と携帯性を誇ります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFma71v7Mt7oEI1yrKoMhWKyvxNxxWiHzN5hf5-nTDSJeaeXogn2ZlWJL-n93sADnArMwlPK8VFXr7py2zH-Qx-PyZcyrXgIlx1fApwLZmwHt30PPSmMpBFAtidztk_gbG4cw==`</details>
 
 **JK**: 袖に中綿入ってないって、寒くないんですか？
 
@@ -163,7 +163,7 @@ Tags: Insulation, Guide
 
 **先生**: CeriumはAtomと違って、本物のダウン（羽毛）を使ってる。それも850フィルパワーっていう、超高品質なヨーロピアンホワイトグースダウンだ。
 
-**参考情報**: 「850フィルパワーのヨーロピアンホワイトグースダウンを使用しています。湿気の多いエリア（脇の下、袖の周り、肩、襟、袖口、裾など）にはCoreloft™ 80およびCoreloft™ 100シンセティックインサレーションを戦略的に配置しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDBtu99ZBk3aMAfoJ7vIvSVNOGXdVtwX9-r7FkLyGfj2KptzhAKnyGprnjaqO2K66hZuoyfnl0YiYpjWTU1rwSjJBsKnJB2PEe29nk0-1cvOsJgWqSIg9i15Swz-L9JnkEB325Zn1FCOE=`</details>
+> **参考情報**: 「850フィルパワーのヨーロピアンホワイトグースダウンを使用しています。湿気の多いエリア（脇の下、袖の周り、肩、襟、袖口、裾など）にはCoreloft™ 80およびCoreloft™ 100シンセティックインサレーションを戦略的に配置しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDBtu99ZBk3aMAfoJ7vIvSVNOGXdVtwX9-r7FkLyGfj2KptzhAKnyGprnjaqO2K66hZuoyfnl0YiYpjWTU1rwSjJBsKnJB2PEe29nk0-1cvOsJgWqSIg9i15Swz-L9JnkEB325Zn1FCOE=`</details>
 
 **JK**: フィルパワーって何ですか？数字が大きいほどいいんですか？
 
@@ -175,7 +175,7 @@ Tags: Insulation, Guide
 
 **先生**: いい質問だ。確かにダウンは濡れに弱い。だからアークテリクスは「Down Composite Mapping™（ダウンコンポジットマッピング）」っていう技術を使ってる。
 
-**参考情報**: 「Arc'teryxのDown Composite Mapping™は、ダウンの弱点である湿気に対する脆弱性を補うために開発された技術です。汗や外部の湿気で濡れやすい部位（肩、脇の下、袖口、襟元など）に、濡れても保温性を維持する合成繊維インサレーション（Coreloft™やPrimaLoft®）を配置し、体幹部など湿気の影響を受けにくい場所には軽量で高い保温性を持つダウンを配置することで、全体としての保温性能と耐久性を向上させています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCWQCDNH0pJmdiVVL13Aw1iM1cZTGsihML3e9cZi2PHDXIvc7OQKYyyf5NKUrwGJcGKGN1vAxMaXgv-o9-F1OfUYe0qLgrRG__41Vlfp9FeyVYOL2tQVUpWRpB0feaDzyzWS86DHiG4PISCWIFB7-JWDU1-zyze7pE`</details>
+> **参考情報**: 「Arc'teryxのDown Composite Mapping™は、ダウンの弱点である湿気に対する脆弱性を補うために開発された技術です。汗や外部の湿気で濡れやすい部位（肩、脇の下、袖口、襟元など）に、濡れても保温性を維持する合成繊維インサレーション（Coreloft™やPrimaLoft®）を配置し、体幹部など湿気の影響を受けにくい場所には軽量で高い保温性を持つダウンを配置することで、全体としての保温性能と耐久性を向上させています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCWQCDNH0pJmdiVVL13Aw1iM1cZTGsihML3e9cZi2PHDXIvc7OQKYyyf5NKUrwGJcGKGN1vAxMaXgv-o9-F1OfUYe0qLgrRG__41Vlfp9FeyVYOL2tQVUpWRpB0feaDzyzWS86DHiG4PISCWIFB7-JWDU1-zyze7pE`</details>
 
 **JK**: つまり、濡れやすい場所だけ化繊にして、体幹はダウンってこと？賢い！
 
@@ -189,7 +189,7 @@ Tags: Insulation, Guide
 
 **先生**: 「Cerium Hoody」だな。以前は「Cerium LT」だったが、こちらも改名された。メンズMサイズで約305〜338g、ペットボトル1本分より軽い。
 
-**参考情報**: 「Arato™ 15デニールナイロン（以前はArato™ 10やAiretica™ 20D x 10D）が使用されています。メンズMサイズで約305gから338gです。軽量で収納性に優れ、肌寒い程度の天候下でのミッドレイヤーまたはアウターレイヤーとして適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIDuj8thwDGKk7bgx1IgJHKhczAWqBoBxfxfsBorCV-4L2SRIeg4N4hBemyZ223YJyC2TtyoHmibIHb1l-rxwVFaTtFq7pziETPx2zY9BZxRNj0lAA2A8So7Dpw222d_B3pwkG3YicPqBuH3ah_GXJ3zbeNQCkBvDseHpNyBdgCZvYHDJ8cTc=`</details>
+> **参考情報**: 「Arato™ 15デニールナイロン（以前はArato™ 10やAiretica™ 20D x 10D）が使用されています。メンズMサイズで約305gから338gです。軽量で収納性に優れ、肌寒い程度の天候下でのミッドレイヤーまたはアウターレイヤーとして適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIDuj8thwDGKk7bgx1IgJHKhczAWqBoBxfxfsBorCV-4L2SRIeg4N4hBemyZ223YJyC2TtyoHmibIHb1l-rxwVFaTtFq7pziETPx2zY9BZxRNj0lAA2A8So7Dpw222d_B3pwkG3YicPqBuH3ah_GXJ3zbeNQCkBvDseHpNyBdgCZvYHDJ8cTc=`</details>
 
 **JK**: え、Atom Hoodyより50gくらい軽いじゃないですか！
 
@@ -206,7 +206,7 @@ Tags: Insulation, Guide
 - **フィット**: トリムフィット（細身、ミッドレイヤー向け）
 - **価格**: 68,200円（税込）
 
-**参考情報**: 「Cerium Hoodyは68,200円（税込）で販売されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXsHaYr2rzv0UG3QuIwWoOSds3zpmCBpxdUfgs6a1L5gbUAjKX-j6MpCFUO_iqJYnGlmWsEz2tkPX_w0fNuWVn8z2G8xtdocfTDHVNyEAcqqFC7Z9jfc86VWjR8fqjjuDUQbk4fQ==`</details>
+> **参考情報**: 「Cerium Hoodyは68,200円（税込）で販売されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXsHaYr2rzv0UG3QuIwWoOSds3zpmCBpxdUfgs6a1L5gbUAjKX-j6MpCFUO_iqJYnGlmWsEz2tkPX_w0fNuWVn8z2G8xtdocfTDHVNyEAcqqFC7Z9jfc86VWjR8fqjjuDUQbk4fQ==`</details>
 
 #### こんな人におすすめ
 - 軽量化を最優先したい人
@@ -229,7 +229,7 @@ Tags: Insulation, Guide
 
 **先生**: ある。「Cerium SV Hoody」だ。SVは「Severe Weather（厳しい天候）」の略で、1000フィルパワーのダウンを使った最強モデルだ。
 
-**参考情報**: 「1000フィルパワーのヨーロピアングレーグースダウン（またはホワイトグースダウン）を使用しています。Pertex® Diamond Fuse 20デニールナイロンが採用されており、耐摩耗性と撥水性に優れています。『Severe Weather（厳しい天候）』を意味する『SV』の名の通り、非常に寒い環境での単独のアウターレイヤーとして設計されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDBtu99ZBk3aMAfoJ7vIvSVNOGXdVtwX9-r7FkLyGfj2KptzhAKnyGprnjaqO2K66hZuoyfnl0YiYpjWTU1rwSjJBsKnJB2PEe29nk0-1cvOsJgWqSIg9i15Swz-L9JnkEB325Zn1FCOE=`</details>
+> **参考情報**: 「1000フィルパワーのヨーロピアングレーグースダウン（またはホワイトグースダウン）を使用しています。Pertex® Diamond Fuse 20デニールナイロンが採用されており、耐摩耗性と撥水性に優れています。『Severe Weather（厳しい天候）』を意味する『SV』の名の通り、非常に寒い環境での単独のアウターレイヤーとして設計されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDBtu99ZBk3aMAfoJ7vIvSVNOGXdVtwX9-r7FkLyGfj2KptzhAKnyGprnjaqO2K66hZuoyfnl0YiYpjWTU1rwSjJBsKnJB2PEe29nk0-1cvOsJgWqSIg9i15Swz-L9JnkEB325Zn1FCOE=`</details>
 
 **JK**: 1000FP!? 850でもすごいのに、さらに上があるんですね。
 
@@ -254,7 +254,7 @@ Tags: Insulation, Guide
 
 **先生**: 鋭い質問だ。Thoriumも確かにダウンだが、Ceriumとの最大の違いは「耐久性」と「汎用性」だ。Ceriumが「軽量特化のミッドレイヤー」なら、Thoriumは「丈夫でアウターにもなる万能ダウン」といえる。
 
-**参考情報**: 「Thoriumシリーズは、耐久性と汎用性を重視したダウンジャケットです。高品質なダウン（750フィルパワーのヨーロピアングレーグースダウン）とCoreloft™のハイブリッド構造で、十分な保温性を確保しつつ、Ceriumよりも丈夫な表地（Arato™ 30）を採用しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNFC8qMgwe39nra3WHOv5AGT1SO4Sd754M4V8URXJEOTEp_4m1u7ULuW64o5UvyFSnC8t2oCZirktgP_gpJkmN7I562h1Hkss-PCwyNUQ2OES8gtjI9O5NYPQGr3ms49vwYvKkHTTmHW_H2DCA0MvTEAOX2Q==`</details>
+> **参考情報**: 「Thoriumシリーズは、耐久性と汎用性を重視したダウンジャケットです。高品質なダウン（750フィルパワーのヨーロピアングレーグースダウン）とCoreloft™のハイブリッド構造で、十分な保温性を確保しつつ、Ceriumよりも丈夫な表地（Arato™ 30）を採用しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNFC8qMgwe39nra3WHOv5AGT1SO4Sd754M4V8URXJEOTEp_4m1u7ULuW64o5UvyFSnC8t2oCZirktgP_gpJkmN7I562h1Hkss-PCwyNUQ2OES8gtjI9O5NYPQGr3ms49vwYvKkHTTmHW_H2DCA0MvTEAOX2Q==`</details>
 
 **JK**: 表地が30デニールって、Ceriumの15デニールの倍ですね！
 
@@ -268,7 +268,7 @@ Tags: Insulation, Guide
 
 **先生**: 「Thorium Hoody」だ。以前は「Thorium AR」って名前だった。750フィルパワーのダウンと、Coreloft™のハイブリッドで、保温性と耐久性を両立している。
 
-**参考情報**: 「750フィルパワーのヨーロピアングレイグースダウンを主要部分に、湿気のこもりやすい肩、フード、脇、袖口などにはCoreloft™合成インサレーションを戦略的に配置する『ダウンコンポジットマッピング™』技術を採用しています。表地には耐久性と手触りに優れたArato™ 30ナイロン素材を使用しており、耐摩耗性が高く軽量です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUNRXZT6dZNG8MVeSZjdxO_iR7gIwWr_9GHg0tXUBC-6K8ntCh4zZeIzfeDfN9SI-3dDSS6boE20a3XrqJTyU7cygMY2qsh86sn8amh-iJugCvMEGOGg==`</details>
+> **参考情報**: 「750フィルパワーのヨーロピアングレイグースダウンを主要部分に、湿気のこもりやすい肩、フード、脇、袖口などにはCoreloft™合成インサレーションを戦略的に配置する『ダウンコンポジットマッピング™』技術を採用しています。表地には耐久性と手触りに優れたArato™ 30ナイロン素材を使用しており、耐摩耗性が高く軽量です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUNRXZT6dZNG8MVeSZjdxO_iR7gIwWr_9GHg0tXUBC-6K8ntCh4zZeIzfeDfN9SI-3dDSS6boE20a3XrqJTyU7cygMY2qsh86sn8amh-iJugCvMEGOGg==`</details>
 
 **JK**: 750FPって、Ceriumの850より低いですよね？その分暖かくないんですか？
 
@@ -285,7 +285,7 @@ Tags: Insulation, Guide
 - **フィット**: レギュラーフィット（ゆとりあり）
 - **価格**: 81,600円程度
 
-**参考情報**: 「Thorium Hoodyは81,600円程度で販売されていることがあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExbpDwunLYLQdqKNpdK402VhEzi9P-GCTxEIeI36iorKjncrsBOR4MW_LEnTLu2xN9WG_wrvpMXh7g1krF0fNfdKla3HX0MVrzsNbuRlXCf4BMuKBwXE0A8G4KIUFb01gddtJDtZY0ab9lVlQ=`</details>
+> **参考情報**: 「Thorium Hoodyは81,600円程度で販売されていることがあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExbpDwunLYLQdqKNpdK402VhEzi9P-GCTxEIeI36iorKjncrsBOR4MW_LEnTLu2xN9WG_wrvpMXh7g1krF0fNfdKla3HX0MVrzsNbuRlXCf4BMuKBwXE0A8G4KIUFb01gddtJDtZY0ab9lVlQ=`</details>
 
 #### こんな人におすすめ
 - 一般的な登山からキャンプまで幅広く使いたい人
@@ -311,7 +311,7 @@ Tags: Insulation, Guide
 
 **先生**: ああ、結構違う。CeriumとAtomは「トリムフィット」っていう、体に沿うスリムなシルエットだ。ミッドレイヤーとして使うことを前提にしてる。
 
-**参考情報**: 「Ceriumは『trim fit』または『athletic fit』と呼ばれる、体に沿うようなスリムなシルエットで、ミッドレイヤーとして使うことを前提としたデザインです。center back length（背中中央の着丈）は約28.3インチ（72cm）で、お尻が少し隠れる程度の着丈です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEl8scPGK4f2cZQvldr_5qQWhcmyYl6SBg4oSXHrnoz9KLQoEomXokeoH-EzEaEMqWB0AmA3PBLroaDVdnd7bS34DP3xZmtqKuQ4AqPMVe4k8dvFnsGWVNeN6zR1B8MpIpET2NT0eHhW6uVsWswpb5lz5DeviFQwRfshmwWHq1EkuEol6Hnc0s=`</details>
+> **参考情報**: 「Ceriumは『trim fit』または『athletic fit』と呼ばれる、体に沿うようなスリムなシルエットで、ミッドレイヤーとして使うことを前提としたデザインです。center back length（背中中央の着丈）は約28.3インチ（72cm）で、お尻が少し隠れる程度の着丈です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEl8scPGK4f2cZQvldr_5qQWhcmyYl6SBg4oSXHrnoz9KLQoEomXokeoH-EzEaEMqWB0AmA3PBLroaDVdnd7bS34DP3xZmtqKuQ4AqPMVe4k8dvFnsGWVNeN6zR1B8MpIpET2NT0eHhW6uVsWswpb5lz5DeviFQwRfshmwWHq1EkuEol6Hnc0s=`</details>
 
 **JK**: 細身だと、中に着込めないんじゃないですか？
 
@@ -323,7 +323,7 @@ Tags: Insulation, Guide
 
 **先生**: Thoriumは「レギュラーフィット」で、CeriumやAtomよりゆとりがある。胸やボディにスペースがあって、下に厚手のミッドレイヤーを着込める。
 
-**参考情報**: 「Thorium Hoodyは『regular fit』と呼ばれる、Cerium Hoodyよりもゆとりのあるレギュラーフィットを採用しています。胸部やボディにより多くのスペースがあり、下に厚手のミッドレイヤーやシェルを重ね着しやすい設計になっています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbUV1bQ7AnVc2w0rGDYPqWpcqtG8_qs9BIRlEVT8IXB6AIrbwXII1944l5QoywG-p_zogHJyl8vHErAm3AvTi4QCCCmfKTQa41y4FwTC6TOytDtN607IGX92DlBwQ82RYqOumLBFd0CZdsMvr_58xQOpJw-Q==`</details>
+> **参考情報**: 「Thorium Hoodyは『regular fit』と呼ばれる、Cerium Hoodyよりもゆとりのあるレギュラーフィットを採用しています。胸部やボディにより多くのスペースがあり、下に厚手のミッドレイヤーやシェルを重ね着しやすい設計になっています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbUV1bQ7AnVc2w0rGDYPqWpcqtG8_qs9BIRlEVT8IXB6AIrbwXII1944l5QoywG-p_zogHJyl8vHErAm3AvTi4QCCCmfKTQa41y4FwTC6TOytDtN607IGX92DlBwQ82RYqOumLBFd0CZdsMvr_58xQOpJw-Q==`</details>
 
 **JK**: じゃあ、単体アウターとして着るならThoriumが良さそうですね。
 
@@ -350,13 +350,13 @@ Tags: Insulation, Guide
 
 **先生**: ああ、化繊だから簡単だ。ただし、いくつかポイントがある。
 
-**参考情報**: 「メインジッパーと脇下のジッパーはすべて閉めます。ポケットのジッパーは開けます。すべてのドローコードを緩め、カフ（袖口）のベルクロを一度緩めてから軽く留め直します。洗剤は、機能性ウェア専用の洗剤を使用するのが最も安心ですが、市販の中性液体洗剤も使用可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGSS4vZnRM7TcjsSbjWOkrKkWuOB5pVOkXQ128oIxShGyP_GYJ0_L-_vrNIdMD-2__L43mwJcdLuMjm_780MuBkrlueRDokL360zYn4Xhc0hVjWWM4EwUjz46wTt5m4K5EnvO3ig==`</details>
+> **参考情報**: 「メインジッパーと脇下のジッパーはすべて閉めます。ポケットのジッパーは開けます。すべてのドローコードを緩め、カフ（袖口）のベルクロを一度緩めてから軽く留め直します。洗剤は、機能性ウェア専用の洗剤を使用するのが最も安心ですが、市販の中性液体洗剤も使用可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGSS4vZnRM7TcjsSbjWOkrKkWuOB5pVOkXQ128oIxShGyP_GYJ0_L-_vrNIdMD-2__L43mwJcdLuMjm_780MuBkrlueRDokL360zYn4Xhc0hVjWWM4EwUjz46wTt5m4K5EnvO3ig==`</details>
 
 **JK**: 柔軟剤はダメなんですか？
 
 **先生**: ダメだ。柔軟剤や漂白剤を使うと、撥水性や透湿性が低下する。中性洗剤だけを使って、すすぎは2回以上やれ。
 
-**参考情報**: 「乾燥機を使用する場合は、低温設定で行ってください。高温は合成素材を損傷するリスクがあります。アークテリクスは、化繊ジャケットの自然乾燥も推奨しています。風通しの良い日陰で平干しして乾かしてください。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoBy1opsOis87CGLb5WBcwH3kKvUztssnAfAOb21b6EFBJDXZm0MYlL1k3f0Yq7P9vyz-AtQYSDlqQNJ510uDeJDfoTvIMHYM-C2bO3Vj2H_GHY8FRV5ra9_8YSlhLuxr85ZMN7AvuoXij9ZV9`</details>
+> **参考情報**: 「乾燥機を使用する場合は、低温設定で行ってください。高温は合成素材を損傷するリスクがあります。アークテリクスは、化繊ジャケットの自然乾燥も推奨しています。風通しの良い日陰で平干しして乾かしてください。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoBy1opsOis87CGLb5WBcwH3kKvUztssnAfAOb21b6EFBJDXZm0MYlL1k3f0Yq7P9vyz-AtQYSDlqQNJ510uDeJDfoTvIMHYM-C2bO3Vj2H_GHY8FRV5ra9_8YSlhLuxr85ZMN7AvuoXij9ZV9`</details>
 
 **JK**: 化繊なら、自然乾燥でもすぐ乾きそうですね。
 
@@ -368,7 +368,7 @@ Tags: Insulation, Guide
 
 **先生**: ちょっと手間だが、やり方を覚えれば自分でできる。
 
-**参考情報**: 「乾燥機にウェアとテニスボール2～3個（またはドライヤーボール）を一緒に入れます。テニスボールがダウンを叩くことで、羽毛の固まりを防ぎ、ふっくらと仕上がります。乾燥機は低温設定にし、完全に乾くまで2時間以上かかる場合もあります。生乾きはカビの原因になるため、隅々までしっかりと乾燥させてください。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZkQnpB_GlAiUDBa-drPhCCJNTrnY74Z3M0p-S-d-ozsBZ5X0UEhXK4OJNZnC1CJjn3xIt5yl1MIRZUN7WnxnExQiLGgLHRu51kYdXUVwyxpVegCIBNNcTyy3Vy0cQOaIUPpT5mTx2dixEZZxWbBXgv5EMlP4FKyyyyebEMpbIs2o3XcIgmytPVk0YMQ==`</details>
+> **参考情報**: 「乾燥機にウェアとテニスボール2～3個（またはドライヤーボール）を一緒に入れます。テニスボールがダウンを叩くことで、羽毛の固まりを防ぎ、ふっくらと仕上がります。乾燥機は低温設定にし、完全に乾くまで2時間以上かかる場合もあります。生乾きはカビの原因になるため、隅々までしっかりと乾燥させてください。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZkQnpB_GlAiUDBa-drPhCCJNTrnY74Z3M0p-S-d-ozsBZ5X0UEhXK4OJNZnC1CJjn3xIt5yl1MIRZUN7WnxnExQiLGgLHRu51kYdXUVwyxpVegCIBNNcTyy3Vy0cQOaIUPpT5mTx2dixEZZxWbBXgv5EMlP4FKyyyyebEMpbIs2o3XcIgmytPVk0YMQ==`</details>
 
 **JK**: テニスボール入れるんですか!? なんでですか？
 
@@ -390,7 +390,7 @@ Tags: Insulation, Guide
 
 #### ①「登山中も着たい」→ Atom Hoody
 
-**参考情報**: 「運動量の多い登山（アクティブインサレーションとして）: Atom (旧Atom LT) または Atom SL: 通気性と透湿性に優れ、汗をかいても保温性が落ちにくい化繊インサレーションが最適です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHd-dBfpi5LtWDVFRsHLSZhIa8LR6pYJfNWqciWL0kSBmI3AIr_ysfYmNTPwyR5ah5GJW_FhudQR2el5tvycCGpeQCxzxaRGpvgAkr4EeqmOf-QMkWIIgAg8WPB4JbkjdpYA==`</details>
+> **参考情報**: 「運動量の多い登山（アクティブインサレーションとして）: Atom (旧Atom LT) または Atom SL: 通気性と透湿性に優れ、汗をかいても保温性が落ちにくい化繊インサレーションが最適です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHd-dBfpi5LtWDVFRsHLSZhIa8LR6pYJfNWqciWL0kSBmI3AIr_ysfYmNTPwyR5ah5GJW_FhudQR2el5tvycCGpeQCxzxaRGpvgAkr4EeqmOf-QMkWIIgAg8WPB4JbkjdpYA==`</details>
 
 - 汗をかきやすい人
 - 行動中も着たい人
@@ -399,7 +399,7 @@ Tags: Insulation, Guide
 
 #### ②「軽量化最優先、休憩着専用」→ Cerium Hoody
 
-**参考情報**: 「休憩時や停滞時の防寒着、または寒冷地でのミッドレイヤー（軽量性重視）: Ceriumシリーズ: 最高の保温性と軽さを誇り、パック内で場所を取らないため、軽量化を最優先する登山に適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNFC8qMgwe39nra3WHOv5AGT1SO4Sd754M4V8URXJEOTEp_4m1u7ULuW64o5UvyFSnC8t2oCZirktgP_gpJkmN7I562h1Hkss-PCwyNUQ2OES8gtjI9O5NYPQGr3ms49vwYvKkHTTmHW_H2DCA0MvTEAOX2Q==`</details>
+> **参考情報**: 「休憩時や停滞時の防寒着、または寒冷地でのミッドレイヤー（軽量性重視）: Ceriumシリーズ: 最高の保温性と軽さを誇り、パック内で場所を取らないため、軽量化を最優先する登山に適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNFC8qMgwe39nra3WHOv5AGT1SO4Sd754M4V8URXJEOTEp_4m1u7ULuW64o5UvyFSnC8t2oCZirktgP_gpJkmN7I562h1Hkss-PCwyNUQ2OES8gtjI9O5NYPQGr3ms49vwYvKkHTTmHW_H2DCA0MvTEAOX2Q==`</details>
 
 - 軽量化を最優先したい人
 - 休憩時や山小屋での防寒専用
@@ -408,7 +408,7 @@ Tags: Insulation, Guide
 
 #### ③「アウター兼用、タフに使いたい」→ Thorium Hoody
 
-**参考情報**: 「一般的な登山、キャンプ、日常使い（耐久性も重視）: Thorium ARシリーズ: 丈夫な表地で、バックパックとの摩擦などにも強く、アウターとしても使用できる汎用性の高さが魅力です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNFC8qMgwe39nra3WHOv5AGT1SO4Sd754M4V8URXJEOTEp_4m1u7ULuW64o5UvyFSnC8t2oCZirktgP_gpJkmN7I562h1Hkss-PCwyNUQ2OES8gtjI9O5NYPQGr3ms49vwYvKkHTTmHW_H2DCA0MvTEAOX2Q==`</details>
+> **参考情報**: 「一般的な登山、キャンプ、日常使い（耐久性も重視）: Thorium ARシリーズ: 丈夫な表地で、バックパックとの摩擦などにも強く、アウターとしても使用できる汎用性の高さが魅力です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNFC8qMgwe39nra3WHOv5AGT1SO4Sd754M4V8URXJEOTEp_4m1u7ULuW64o5UvyFSnC8t2oCZirktgP_gpJkmN7I562h1Hkss-PCwyNUQ2OES8gtjI9O5NYPQGr3ms49vwYvKkHTTmHW_H2DCA0MvTEAOX2Q==`</details>
 
 - 単体アウターとして使いたい人
 - 耐久性を重視したい人

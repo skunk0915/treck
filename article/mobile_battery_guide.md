@@ -33,7 +33,7 @@ Tags: Guide, Electronics
 
 **先生**: 冗談を言っている場合ではない。GPSによる現在地確認ができなくなり、道に迷った時に自分の位置がわからなくなる。緊急時に救助要請ができなくなる。最悪、遭難だ。
 
-**参考情報**: 「登山中にスマートフォン（スマホ）のバッテリーが切れ、GPSによる現在地確認ができなくなり道に迷うケースが頻繁に発生しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQpvGxb7ru1Rk0vu1rMg19hseWZGoGszT0NV6DpuJQWDbizOzLFvNJgb6ojrSU8y_SOda3N9-xeifVOZrqH3dLV19iijdd7GrQEuMtOc7BhInym9DVSEVgZH-PAnyhNjsfeu8c4b-R6_ym6w==`</details>
+> **参考情報**: 「登山中にスマートフォン（スマホ）のバッテリーが切れ、GPSによる現在地確認ができなくなり道に迷うケースが頻繁に発生しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQpvGxb7ru1Rk0vu1rMg19hseWZGoGszT0NV6DpuJQWDbizOzLFvNJgb6ojrSU8y_SOda3N9-xeifVOZrqH3dLV19iijdd7GrQEuMtOc7BhInym9DVSEVgZH-PAnyhNjsfeu8c4b-R6_ym6w==`</details>
 
 **JK**: でも紙の地図とコンパスがあれば…
 
@@ -87,7 +87,7 @@ Tags: Guide, Electronics
 
 **先生**: 簡単に言えば、**寒いと電池が弱る**。具体的には、25℃で100%使える電池が、-18℃では**約50%**しか使えなくなる。
 
-**参考情報**: 「例えば、25℃で100%の容量を持つリチウム電池が、-18℃では約50%しか供給できない場合があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxL_UqzZEwVHqCE9pBVbeOiMd5L4eW-wm6DIjx-jDDcBO_kbqY88kAIpZHTz9-P2PeXhli0LU2BRMGvdI7X_u-RwSla8fzWfPSp2Pp3AOIzdb31RLoHgISo68T0KiR9-Dl8JlOimzJgMkUj6FijVWnao9VdTaaCUhPW8NpiGI757HCrtxjxGjYEWAdQxZNCyiX_wxy2sJ2CA==`</details>
+> **参考情報**: 「例えば、25℃で100%の容量を持つリチウム電池が、-18℃では約50%しか供給できない場合があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxL_UqzZEwVHqCE9pBVbeOiMd5L4eW-wm6DIjx-jDDcBO_kbqY88kAIpZHTz9-P2PeXhli0LU2BRMGvdI7X_u-RwSla8fzWfPSp2Pp3AOIzdb31RLoHgISo68T0KiR9-Dl8JlOimzJgMkUj6FijVWnao9VdTaaCUhPW8NpiGI757HCrtxjxGjYEWAdQxZNCyiX_wxy2sJ2CA==`</details>
 
 **JK**: 半分!? 10,000mAhのモバイルバッテリーが5,000mAhになっちゃうってこと？
 
@@ -101,7 +101,7 @@ Tags: Guide, Electronics
 
 **先生**: KDDIが行った実験では、25℃で約6時間持続したスマートフォンのバッテリーが、-20℃では**約2.5時間**しか持たなかったという結果が出ている。
 
-**参考情報**: 「25℃で約6時間持続したスマートフォンのバッテリーが、-20℃では約2.5時間しか持続しないという結果も出ています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_lZMSfI3t5B8Aju3awsPYtmGUU37vOn9y_gpgqrwH8JmcfG-zuf7ytiKHz13JvOFcCN7Fhp-BcdyY4eeeLa03VxOVb1NKDX92KXyZ_R4ur_hB0aIGiYEufxq9p0dX7LASMs5JUkM8tyDN1jc2aZ_k`</details>
+> **参考情報**: 「25℃で約6時間持続したスマートフォンのバッテリーが、-20℃では約2.5時間しか持続しないという結果も出ています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_lZMSfI3t5B8Aju3awsPYtmGUU37vOn9y_gpgqrwH8JmcfG-zuf7ytiKHz13JvOFcCN7Fhp-BcdyY4eeeLa03VxOVb1NKDX92KXyZ_R4ur_hB0aIGiYEufxq9p0dX7LASMs5JUkM8tyDN1jc2aZ_k`</details>
 
 **JK**: 2.5時間…。日帰り登山でも足りなくなりそう。
 
@@ -123,7 +123,7 @@ Tags: Guide, Electronics
 
 **先生**: 使い捨てカイロでモバイルバッテリーを直接温めるのは、バッテリーの劣化や膨張、最悪の場合**発火のリスク**がある。絶対に避けるべきだ。
 
-**参考情報**: 「使い捨てカイロなどで直接温めるのは、バッテリーの劣化や膨張、発火のリスクがあるため避けるべきです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9aZJcREHWxPa-dZmBmDxPdkNHmOh0Z4siQVBVe75J-bsv5SjTSP4Br-l5uXUcJeH9SA3hqtFqM0PlMELCmaGI2Vw2MQxaOJxKZCOwK9BWXcuKDq4=`</details>
+> **参考情報**: 「使い捨てカイロなどで直接温めるのは、バッテリーの劣化や膨張、発火のリスクがあるため避けるべきです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9aZJcREHWxPa-dZmBmDxPdkNHmOh0Z4siQVBVe75J-bsv5SjTSP4Br-l5uXUcJeH9SA3hqtFqM0PlMELCmaGI2Vw2MQxaOJxKZCOwK9BWXcuKDq4=`</details>
 
 **JK**: ひえっ…。じゃあどうすれば？
 
@@ -177,7 +177,7 @@ Tags: Guide, Electronics
 
 **先生**: そうだ。充電時には電圧の変換が行われ、そこでエネルギーロスが発生する。いわゆる**変換効率**だ。一般的にモバイルバッテリーの実効容量は、表記の**約60%〜70%程度**とされている。
 
-**参考情報**: 「モバイルバッテリーの実効容量は表記の約60%～70%程度とされています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwrMLl4vfAdaeMmG2LsLJEBH0wGy7gA9n88EefZ_foE7WEuTvsmAlLVg4N6pohTz1bszbd3l1V5iHPoUYeJLu490Dn_Z8ME1JyEKI4I4KHzxNl3smFbM7lqMeV7lxJD53I4Mtv6wjbgOgU8LFz`</details>
+> **参考情報**: 「モバイルバッテリーの実効容量は表記の約60%～70%程度とされています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwrMLl4vfAdaeMmG2LsLJEBH0wGy7gA9n88EefZ_foE7WEuTvsmAlLVg4N6pohTz1bszbd3l1V5iHPoUYeJLu490Dn_Z8ME1JyEKI4I4KHzxNl3smFbM7lqMeV7lxJD53I4Mtv6wjbgOgU8LFz`</details>
 
 **JK**: 70%!? 思ったより少ない…。
 
@@ -231,7 +231,7 @@ Tags: Guide, Electronics
 
 **先生**: USB PD（Power Delivery）は急速充電の規格だ。従来のUSB充電より遥かに速くデバイスを充電できる。
 
-**参考情報**: 「USB PDは従来のUSB充電と比較して、約半分の時間でフル充電が可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElboBdEZex7TuxZJ9Dn-NxQsXp_eplLAob1KXzRnye6CkkNzJFWJN1wEpepRr79ecJkllvk56MDtE9Ou7-pp2orPkkAGibydxie_sUvSiVmbeinjIkPY0udc4LvzY94ckAKKvK-IH-rK06JPkYpUazzeyDvQAXyAyKtUJguN8=`</details>
+> **参考情報**: 「USB PDは従来のUSB充電と比較して、約半分の時間でフル充電が可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElboBdEZex7TuxZJ9Dn-NxQsXp_eplLAob1KXzRnye6CkkNzJFWJN1wEpepRr79ecJkllvk56MDtE9Ou7-pp2orPkkAGibydxie_sUvSiVmbeinjIkPY0udc4LvzY94ckAKKvK-IH-rK06JPkYpUazzeyDvQAXyAyKtUJguN8=`</details>
 
 **JK**: 半分!? それはすごい！ 絶対PD対応がいいじゃないですか！
 
@@ -296,7 +296,7 @@ Tags: Guide, Electronics
 
 ### 1泊登山向け：Anker PowerCore 10000
 
-**参考情報**: 「Anker PowerCore 10000はクレジットカードサイズで180g程度の軽さを持つ、定番のモバイルバッテリーです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCVB_vA-B-L1ZFVqiaS-_rK2WETGJDMLPD1RzWO54gEMmsXjWzqP7LyIY-aGxvAKGs03I9zFt-RXNTFnxEY9nVbX0M50gH5hXK_G-NWU9BB2-KJnX-hQJUyyWdUsyol2Bv90hQfxxT`</details>
+> **参考情報**: 「Anker PowerCore 10000はクレジットカードサイズで180g程度の軽さを持つ、定番のモバイルバッテリーです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCVB_vA-B-L1ZFVqiaS-_rK2WETGJDMLPD1RzWO54gEMmsXjWzqP7LyIY-aGxvAKGs03I9zFt-RXNTFnxEY9nVbX0M50gH5hXK_G-NWU9BB2-KJnX-hQJUyyWdUsyol2Bv90hQfxxT`</details>
 
 **先生**: 次は定番中の定番、Anker PowerCore 10000だ。
 
@@ -330,7 +330,7 @@ Tags: Guide, Electronics
 
 **先生**: それならNITECORE NB10000がおすすめだ。ウルトラライトハイカーの間で絶大な人気を誇っている。
 
-**参考情報**: 「NITECORE NB10000は、わずか約150g（5.29オンス）の軽さを実現しており、一般的な10,000mAhのモバイルバッテリーと比較して約40%軽量です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA76dvHfZNIgAmz6Aj82Csh1CpNj_U-Mei5JCxuO2pLBWbNvD0-5Bglo8LLb9E0YDiIEk27rwcdwUkNbITPxK5z_tWYP1Zqdwc3BSpyCVYuNuYdRue9C2mEfu38U-yCKYAAyl5zgOeM7YU5oF6iH6V-2NMiYYX5DaGguDXpeKK_1-H1K2jfZTlmOVFHKHGS8J1pjtB`</details>
+> **参考情報**: 「NITECORE NB10000は、わずか約150g（5.29オンス）の軽さを実現しており、一般的な10,000mAhのモバイルバッテリーと比較して約40%軽量です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA76dvHfZNIgAmz6Aj82Csh1CpNj_U-Mei5JCxuO2pLBWbNvD0-5Bglo8LLb9E0YDiIEk27rwcdwUkNbITPxK5z_tWYP1Zqdwc3BSpyCVYuNuYdRue9C2mEfu38U-yCKYAAyl5zgOeM7YU5oF6iH6V-2NMiYYX5DaGguDXpeKK_1-H1K2jfZTlmOVFHKHGS8J1pjtB`</details>
 
 #### 主なスペック
 
@@ -428,7 +428,7 @@ Tags: Guide, Electronics
 
 **先生**: 正直に言おう。**ソーラー充電はあくまで補助的な機能**だ。
 
-**参考情報**: 「ソーラー充電はあくまで補助的な機能と考えるのが現実的です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0ARhdp66-06h8918s2kOpt-hXKwdsOCLdjovTbS6Hfmb0f8F8q67ab5vilDNXVrnhLzh47mb8Y8Dw9TtcNtpVsgEX2xO0NrfXdoMTOyY65RlJ8e_4pJj6_MGuWx5Q4E-C7A==`</details>
+> **参考情報**: 「ソーラー充電はあくまで補助的な機能と考えるのが現実的です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0ARhdp66-06h8918s2kOpt-hXKwdsOCLdjovTbS6Hfmb0f8F8q67ab5vilDNXVrnhLzh47mb8Y8Dw9TtcNtpVsgEX2xO0NrfXdoMTOyY65RlJ8e_4pJj6_MGuWx5Q4E-C7A==`</details>
 
 **JK**: え、そうなんですか？
 
@@ -454,7 +454,7 @@ Tags: Guide, Electronics
 
 **先生**: これが最も効果的だ。登山中、特に山奥では電波が届かない場所が多い。すると、スマートフォンは常に電波を探し続け、通常よりもバッテリーを多く消費する。
 
-**参考情報**: 「機内モードをオンにすることで、この電波探索を停止し、モバイル通信、Wi-Fi、Bluetoothなどの機能を一括でオフにできるため、大幅なバッテリー節約につながります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyDhmqGgt-I3qkjmbVVNsr7lyfj5HmqWUNIFSdPPXS8fKK6nLuUZyuL6rjUmZPkUBcEVNq22VEtv0UbQXQDr7_IxgE47_I8f-qiXO-AcLh2Rwyc-7klH_S-yZ2tWAPRkjMxsgDpO9IhbQwi6bfnjLC08Z-uIe39fA=`</details>
+> **参考情報**: 「機内モードをオンにすることで、この電波探索を停止し、モバイル通信、Wi-Fi、Bluetoothなどの機能を一括でオフにできるため、大幅なバッテリー節約につながります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyDhmqGgt-I3qkjmbVVNsr7lyfj5HmqWUNIFSdPPXS8fKK6nLuUZyuL6rjUmZPkUBcEVNq22VEtv0UbQXQDr7_IxgE47_I8f-qiXO-AcLh2Rwyc-7klH_S-yZ2tWAPRkjMxsgDpO9IhbQwi6bfnjLC08Z-uIe39fA=`</details>
 
 **JK**: でも機内モードにしたらGPS使えなくなりませんか？
 

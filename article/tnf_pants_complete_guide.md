@@ -34,7 +34,7 @@ Tags: Apparel, Guide
 
 **先生**: そうだ。例えば、岩場で膝を高く上げる時、普通のパンツだと生地が突っ張って動きにくい。でも登山パンツは**4Wayストレッチ**で縦横斜め全方向に伸びるから、どんな動きにも追従してくれる。
 
-**参考情報**: 「高いストレッチ性と立体裁断により、細身のシルエットでありながら動きやすさが抜群で、クライミングからハイキングまで幅広く活用でき、多くの山岳ガイドに愛用されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy43QMz1SmMcb9j8WUQ_MjnV1gEECX7yVHFO7mBp-Ic3qDn2Bg=`</details>
+> **参考情報**: 「高いストレッチ性と立体裁断により、細身のシルエットでありながら動きやすさが抜群で、クライミングからハイキングまで幅広く活用でき、多くの山岳ガイドに愛用されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy43QMz1SmMcb9j8WUQ_MjnV1gEECX7yVHFO7mBp-Ic3qDn2Bg=`</details>
 
 **JK**: なるほど〜。他には？
 
@@ -58,7 +58,7 @@ Tags: Apparel, Guide
 
 **先生**: おお、いいところに気づいたな。**APEX（エイペックス）**はノースフェイスが独自開発したソフトシェル素材だ。
 
-**参考情報**: 「素材はノースフェイスが独自開発した「APEX」というソフトシェル素材で、ナイロン92％、ポリウレタン8％の混紡で、薄すぎず厚すぎない生地のため、ほとんどの季節で登山に使えます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy43QMz1SmMcb9j8WUQ_MjnV1gEECX7yVHFO7mBp-Ic3qDn2Bg=`</details>
+> **参考情報**: 「素材はノースフェイスが独自開発した「APEX」というソフトシェル素材で、ナイロン92％、ポリウレタン8％の混紡で、薄すぎず厚すぎない生地のため、ほとんどの季節で登山に使えます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy43QMz1SmMcb9j8WUQ_MjnV1gEECX7yVHFO7mBp-Ic3qDn2Bg=`</details>
 
 **JK**: ソフトシェル…？
 
@@ -81,7 +81,7 @@ Tags: Apparel, Guide
 
 **先生**: そうだな。ただし、デメリットもある。ポリウレタンは**加水分解**といって、湿気で徐々に劣化する性質がある。だから寿命は**3〜5年**程度だ。
 
-**参考情報**: 「素材に10%ほど含まれるポリウレタンが加水分解を起こすため、タグにも3~5年が寿命とあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy43QMz1SmMcb9j8WUQ_MjnV1gEECX7yVHFO7mBp-Ic3qDn2Bg=`</details>
+> **参考情報**: 「素材に10%ほど含まれるポリウレタンが加水分解を起こすため、タグにも3~5年が寿命とあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy43QMz1SmMcb9j8WUQ_MjnV1gEECX7yVHFO7mBp-Ic3qDn2Bg=`</details>
 
 **JK**: 5年で寿命…もったいないですね。
 
@@ -97,7 +97,7 @@ Tags: Apparel, Guide
 
 **先生**: アルパインライトは「**履いてないみたい**」と言われるほどのストレッチ性が最大の魅力だ。
 
-**参考情報**: 「試し履きした評価では、ストレッチ性が特筆すべき点で、類似パンツのストレッチ性を100点とするとアルパインは120点という評価でした。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy43QMz1SmMcb9j8WUQ_MjnV1gEECX7yVHFO7mBp-Ic3qDn2Bg=`</details>
+> **参考情報**: 「試し履きした評価では、ストレッチ性が特筆すべき点で、類似パンツのストレッチ性を100点とするとアルパインは120点という評価でした。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy43QMz1SmMcb9j8WUQ_MjnV1gEECX7yVHFO7mBp-Ic3qDn2Bg=`</details>
 
 **JK**: 100点満点のパンツより20点も上…すごい。
 
@@ -117,7 +117,7 @@ Tags: Apparel, Guide
 - **撥水加工**: 20洗80点
 - **特殊仕様**: 股下ガゼット、ハーネス対応
 
-**参考情報**: 「立体裁断のおかげで細身のシルエットながら膝を曲げても全然キツくなく、しゃがみ込んでも窮屈な感じはしません。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy43QMz1SmMcb9j8WUQ_MjnV1gEECX7yVHFO7mBp-Ic3qDn2Bg=`</details>
+> **参考情報**: 「立体裁断のおかげで細身のシルエットながら膝を曲げても全然キツくなく、しゃがみ込んでも窮屈な感じはしません。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy43QMz1SmMcb9j8WUQ_MjnV1gEECX7yVHFO7mBp-Ic3qDn2Bg=`</details>
 
 ### こんな人におすすめ
 
@@ -150,7 +150,7 @@ Tags: Apparel, Guide
 
 **先生**: バーブの最大の特徴は「**ニット級の快適さ**」だ。アルパインライトより少しゆったりしていて、リラックス感がある。
 
-**参考情報**: 「バーブは『ニット級の快適さ』を実現した定番モデル。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy2CgWPDxhOlWIqhF8VvvGNW4Rk7SZOLLyZ2vgDnGDq`</details>
+> **参考情報**: 「バーブは『ニット級の快適さ』を実現した定番モデル。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy2CgWPDxhOlWIqhF8VvvGNW4Rk7SZOLLyZ2vgDnGDq`</details>
 
 **JK**: ニット級って、そんなに柔らかいんですか？
 
@@ -166,7 +166,7 @@ Tags: Apparel, Guide
 - **裾調整**: ドローコード付き
 - **機能**: 4Wayストレッチ、撥水加工、静電気抑制
 
-**参考情報**: 「バーブパンツには両方の太もも横に配置されたベンチレーションがあり、裾にはドローコードがついています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy_l7vXyWvLViFGcZn-OLZR1-yJGCWDFbV16PbqUTVK_D5TYY1x`</details>
+> **参考情報**: 「バーブパンツには両方の太もも横に配置されたベンチレーションがあり、裾にはドローコードがついています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy_l7vXyWvLViFGcZn-OLZR1-yJGCWDFbV16PbqUTVK_D5TYY1x`</details>
 
 **JK**: ベンチレーションって何ですか？
 
@@ -188,7 +188,7 @@ Tags: Apparel, Guide
 | 価格 | ¥17,600 | ¥18,700 |
 | 用途 | オールラウンド | 高山・クライミング |
 
-**参考情報**: 「アルパインライトパンツがスリムテーパードなのに対し、バーブはややゆったりめのストレート。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy_l7vXyWvLViFGcZn-OLZR1-yJGCWDFbV16PbqUTVK_D5TYY1x`</details>
+> **参考情報**: 「アルパインライトパンツがスリムテーパードなのに対し、バーブはややゆったりめのストレート。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy_l7vXyWvLViFGcZn-OLZR1-yJGCWDFbV16PbqUTVK_D5TYY1x`</details>
 
 ### こんな人におすすめ
 
@@ -206,7 +206,7 @@ Tags: Apparel, Guide
 
 **先生**: **登山メインならバーブ、タウンユースも重視ならアルパインライト**って感じだな。あとは、細身が好きかゆったりが好きかの好み次第だ。
 
-**参考情報**: 「登山やハイキングなどアウトドア派の人は、バーブパンツ。登山はしないがアウトドア好きで、普段使いにも適したパンツが欲しい人はアルパインライトパンツ。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy_l7vXyWvLViFGcZn-OLZR1-yJGCWDFbV16PbqUTVK_D5TYY1x`</details>
+> **参考情報**: 「登山やハイキングなどアウトドア派の人は、バーブパンツ。登山はしないがアウトドア好きで、普段使いにも適したパンツが欲しい人はアルパインライトパンツ。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy_l7vXyWvLViFGcZn-OLZR1-yJGCWDFbV16PbqUTVK_D5TYY1x`</details>
 
 ---
 
@@ -218,7 +218,7 @@ Tags: Apparel, Guide
 
 **先生**: マグマは**最軽量・最薄手**で、夏山に特化したモデルだ。アルパインライトやバーブより知名度は低いけど、夏山登山者には絶大な支持を得ている。
 
-**参考情報**: 「マグマパンツは最軽量で、生地も一番薄い。夏に汗をめちゃくちゃかく人に最適。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmz3HFkj5P_3JRYbYMVuCIKIE_MUr5-H_NJ1RvD0ULiqJg==`</details>
+> **参考情報**: 「マグマパンツは最軽量で、生地も一番薄い。夏に汗をめちゃくちゃかく人に最適。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmz3HFkj5P_3JRYbYMVuCIKIE_MUr5-H_NJ1RvD0ULiqJg==`</details>
 
 **JK**: 夏山特化…どれくらい薄いんですか？
 
@@ -234,7 +234,7 @@ Tags: Apparel, Guide
 - **ベンチレーション**: なし
 - **デザイン**: 黒ロゴでタウンユース向け
 
-**参考情報**: 「マグマパンツはこの中で唯一、膝のあたりに切り替えがないから、ストンっとしたストレートライン。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy_l7vXyWvLViFGcZn-OLZR1-yJGCWDFbV16PbqUTVK_D5TYY1x`</details>
+> **参考情報**: 「マグマパンツはこの中で唯一、膝のあたりに切り替えがないから、ストンっとしたストレートライン。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy_l7vXyWvLViFGcZn-OLZR1-yJGCWDFbV16PbqUTVK_D5TYY1x`</details>
 
 **JK**: 膝の切り替えがないって、動きにくくないんですか？
 
@@ -244,7 +244,7 @@ Tags: Apparel, Guide
 
 **先生**: それに、マグマは**黒ロゴ**なのも特徴だ。ノースフェイスのパンツって、白や赤のロゴがドーンと入ってるモデルが多いけど、マグマは黒ロゴだからアウトドア感が控えめ。タウンユースしやすい。
 
-**参考情報**: 「黒ロゴでタウンユース向けデザイン。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmz3HFkj5P_3JRYbYMVuCIKIE_MUr5-H_NJ1RvD0ULiqJg==`</details>
+> **参考情報**: 「黒ロゴでタウンユース向けデザイン。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmz3HFkj5P_3JRYbYMVuCIKIE_MUr5-H_NJ1RvD0ULiqJg==`</details>
 
 ### マグマパンツの意外な強さ
 
@@ -294,7 +294,7 @@ Tags: Apparel, Guide
 
 **先生**: バーブライトは、名前の通り**バーブの薄手版**だ。
 
-**参考情報**: 「バーブライトパンツとバーブパンツの違いは、シルエットと生地の厚さ、ベンチレーションや裾のドローコードなどです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy_l7vXyWvLViFGcZn-OLZR1-yJGCWDFbV16PbqUTVK_D5TYY1x`</details>
+> **参考情報**: 「バーブライトパンツとバーブパンツの違いは、シルエットと生地の厚さ、ベンチレーションや裾のドローコードなどです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy_l7vXyWvLViFGcZn-OLZR1-yJGCWDFbV16PbqUTVK_D5TYY1x`</details>
 
 **JK**: バーブより薄いってことは、もっと涼しいんですね。
 
@@ -311,7 +311,7 @@ Tags: Apparel, Guide
 
 **先生**: ドーロライトは**SOLOTEX素材**を使った、さらっとした着心地が特徴だ。
 
-**参考情報**: 「ドーロライトは軽量でさらっとした穿き心地で、自然な風合いを両立。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy2CgWPDxhOlWIqhF8VvvGNW4Rk7SZOLLyZ2vgDnGDq`</details>
+> **参考情報**: 「ドーロライトは軽量でさらっとした穿き心地で、自然な風合いを両立。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy2CgWPDxhOlWIqhF8VvvGNW4Rk7SZOLLyZ2vgDnGDq`</details>
 
 **JK**: SOLOTEX…また新しい素材出てきた。
 
@@ -356,7 +356,7 @@ Tags: Apparel, Guide
 
 **先生**: 夏山でショーツを履く人の9割はタイツと組み合わせているな。タイツがあれば、虫刺され・日焼け・擦り傷を防げるし、寒くなったら保温にもなる。
 
-**参考情報**: 「ショーツを履く場合、タイツを組み合わせることで、虫刺され・UV対策・保護機能を確保できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy4obbBHHQqZ9IaJX_U3xXh86yzUlkPV8iyLjmGNhU_`</details>
+> **参考情報**: 「ショーツを履く場合、タイツを組み合わせることで、虫刺され・UV対策・保護機能を確保できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy4obbBHHQqZ9IaJX_U3xXh86yzUlkPV8iyLjmGNhU_`</details>
 
 ### ノースフェイスの主なショーツ
 
@@ -364,7 +364,7 @@ Tags: Apparel, Guide
 
 **先生**: ノースフェイスで一番人気のショーツが**フレキシブルショーツ**だ。
 
-**参考情報**: 「ストレッチ性と撥水性に優れており、幅広いアウトドアシーンで着用できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy-8i3zGYnmvl5Vks7nxGx5dEHm3NbN5oPzMPP3_pFz`</details>
+> **参考情報**: 「ストレッチ性と撥水性に優れており、幅広いアウトドアシーンで着用できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy-8i3zGYnmvl5Vks7nxGx5dEHm3NbN5oPzMPP3_pFz`</details>
 
 **JK**: 7インチと11インチって何が違うんですか？
 
@@ -379,7 +379,7 @@ Tags: Apparel, Guide
 
 #### バーブショーツ
 
-**参考情報**: 「バーブショーツは、ストレッチ性が高くて動きやすく、撥水加工がされています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy-8i3zGYnmvl5Vks7nxGx5dEHm3NbN5oPzMPP3_pFz`</details>
+> **参考情報**: 「バーブショーツは、ストレッチ性が高くて動きやすく、撥水加工がされています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy-8i3zGYnmvl5Vks7nxGx5dEHm3NbN5oPzMPP3_pFz`</details>
 
 **先生**: バーブのショーツ版だ。パンツと同じAPEX素材を使っている。
 
@@ -395,7 +395,7 @@ Tags: Apparel, Guide
 
 **先生**: **サイズが小さめ**なんだ。
 
-**参考情報**: 「ノースフェイスの短パンはMでも、ちょっと小さいMって罠があるので通販で買うときは要注意です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy-8i3zGYnmvl5Vks7nxGx5dEHm3NbN5oPzMPP3_pFz`</details>
+> **参考情報**: 「ノースフェイスの短パンはMでも、ちょっと小さいMって罠があるので通販で買うときは要注意です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy-8i3zGYnmvl5Vks7nxGx5dEHm3NbN5oPzMPP3_pFz`</details>
 
 **JK**: えっ、マジですか。
 
@@ -433,7 +433,7 @@ Tags: Apparel, Guide
 
 **先生**: ただし、厳冬期は**ハードシェルパンツ**を使う人も多い。防水・防風性能が高いから、雪山には最適だ。
 
-**参考情報**: 「冬は厚手のロングパンツで高い保温性を確保することが重要です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy4obbBHHQqZ9IaJX_U3xXh86yzUlkPV8iyLjmGNhU_`</details>
+> **参考情報**: 「冬は厚手のロングパンツで高い保温性を確保することが重要です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AYb_wmy4obbBHHQqZ9IaJX_U3xXh86yzUlkPV8iyLjmGNhU_`</details>
 
 ### Q3: 洗濯機で洗って大丈夫？
 

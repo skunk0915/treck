@@ -39,7 +39,7 @@ Tags: Tableware, Guide
 
 **先生**: そうだ。さらに食器類としてプレートやボウル、カトラリーもある。用途に合わせて選べるようになっているんだな。
 
-**参考情報**: 「スノーピークのチタンマグには、主に『シングルウォール』と『ダブルウォール』の2種類があり、その特徴や容量によって使い分けが可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFys2LEjBFK88be1dVdnOFvoJGNOJAZapqglRc2iiBCZCmr804hYf7jKpI7rogHfJC1rMMGutJJrnOVpIPY4iGYgIc0WxvJU2_ctX_C2qERqZEE0WWhs2aGlxz46kTk0ESI6kckklpLC41`</details>
+> **参考情報**: 「スノーピークのチタンマグには、主に『シングルウォール』と『ダブルウォール』の2種類があり、その特徴や容量によって使い分けが可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFys2LEjBFK88be1dVdnOFvoJGNOJAZapqglRc2iiBCZCmr804hYf7jKpI7rogHfJC1rMMGutJJrnOVpIPY4iGYgIc0WxvJU2_ctX_C2qERqZEE0WWhs2aGlxz46kTk0ESI6kckklpLC41`</details>
 
 ---
 
@@ -63,13 +63,13 @@ Tags: Tableware, Guide
 
 **先生**: 職人が仕上がりのわずかな変化を「目と手」で感じ取りながら、プレス機を微調整して作業を進める。機械だけでは実現できない精度だ。
 
-**参考情報**: 「チタンは硬く伸びにくいため加工が難しい素材ですが、スノーピークは燕三条の金属加工職人とともにこの課題に挑みました。製造工程では、職人が仕上がりのわずかな変化を『目と手』で感じ取り、プレス機を微調整しながら作業を進めることで、高品質な製品が生まれます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEonTBO9b9wxMO3i9lnib6lC3520pUcj5tIEKK6h0jsYcoBQBd-0M5efrS39C2egV1xcJuLRCqcnrQjXeuC7nzfA_yOS3NSS6-KWDGDvP1CBfyQgD8WEuraZtuHnBx3LyFVovHIs7NWwg==`</details>
+> **参考情報**: 「チタンは硬く伸びにくいため加工が難しい素材ですが、スノーピークは燕三条の金属加工職人とともにこの課題に挑みました。製造工程では、職人が仕上がりのわずかな変化を『目と手』で感じ取り、プレス機を微調整しながら作業を進めることで、高品質な製品が生まれます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEonTBO9b9wxMO3i9lnib6lC3520pUcj5tIEKK6h0jsYcoBQBd-0M5efrS39C2egV1xcJuLRCqcnrQjXeuC7nzfA_yOS3NSS6-KWDGDvP1CBfyQgD8WEuraZtuHnBx3LyFVovHIs7NWwg==`</details>
 
 **JK**: なんかそう聞くと、高いのも納得かも...。職人さんの技術代ってことですよね。
 
 **先生**: その通りだ。そしてスノーピークは全製品に**永久保証**を設けている。30年以上前からだ。品質に対する自信の表れだな。
 
-**参考情報**: 「スノーピークは、すべての製品に30年以上前から永久保証を設けるなど、製品の品質に対する強い自信と、長く使い続けてもらうことで『捨てる』を減らすサステナブルな取り組みを実践しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAozPmGPOVgLzkvuucKVOTkNR6AQB_JXSWidNqSyxPFSJKnn_czyNkPxnj1A0iTB_N6fM5G-j25N04c990PRaHGbqDTFKvAr1bynsasz51n-DwYFd8p2Izfd4xDVWmI2Hxp9B-Dw==`</details>
+> **参考情報**: 「スノーピークは、すべての製品に30年以上前から永久保証を設けるなど、製品の品質に対する強い自信と、長く使い続けてもらうことで『捨てる』を減らすサステナブルな取り組みを実践しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAozPmGPOVgLzkvuucKVOTkNR6AQB_JXSWidNqSyxPFSJKnn_czyNkPxnj1A0iTB_N6fM5G-j25N04c990PRaHGbqDTFKvAr1bynsasz51n-DwYFd8p2Izfd4xDVWmI2Hxp9B-Dw==`</details>
 
 ---
 
@@ -91,7 +91,7 @@ Tags: Tableware, Guide
 
 **先生**: そして**金属臭が少ない**。コーヒーの香りを邪魔しないんだ。さらに**アレルギーフリー**でもある。チタンは医療用インプラントにも使われるほど人体に無害な素材だ。
 
-**参考情報**: 「チタン素材は、軽量で錆びにくく、金属臭が少ないという特性に加え、人体への親和性が高くアレルギー反応を起こしにくいという利点があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhSZdmu-Vs1NtjKbvM3rGY8CnSN5mLT_nIgBMbcuuxMl3sHM0mDMwYoVUhWxe6pddeDfnFRwY9X1p9Cqit9zk_EAJYoUDjj_eUWXFx5CzVTqdk5w154BovUpuWK-yIEkdIlA671pgiTg==`</details>
+> **参考情報**: 「チタン素材は、軽量で錆びにくく、金属臭が少ないという特性に加え、人体への親和性が高くアレルギー反応を起こしにくいという利点があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhSZdmu-Vs1NtjKbvM3rGY8CnSN5mLT_nIgBMbcuuxMl3sHM0mDMwYoVUhWxe6pddeDfnFRwY9X1p9Cqit9zk_EAJYoUDjj_eUWXFx5CzVTqdk5w154BovUpuWK-yIEkdIlA671pgiTg==`</details>
 
 **JK**: へー、チタンってすごいんですね。なんかハイテク素材ってイメージ。
 
@@ -138,7 +138,7 @@ Tags: Tableware, Guide
 
 **先生**: そうだ。重量は約50gで、壁厚は0.4mm。薄いが頑丈だ。
 
-**参考情報**: 「A great lightweight option for smaller drinks, praised for its portability and quality. It features a light 0.4 mm single wall construction.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5JDeppvn9-dfEXn7GoO2FzxgDbVblSqg-XVJiFXDQF2NqQv53_iYMCB9l3OB_Fcd4W2lOaHLxEa6dYBY1P9Mu07Yv_O5u-O8yyQpXl1lqwYQD8NaUDCSB0xkOqN4UU832LlHDYRgnEQRoO6--gPaImN-wzSeOZNUBFt-Y`</details>
+> **参考情報**: 「A great lightweight option for smaller drinks, praised for its portability and quality. It features a light 0.4 mm single wall construction.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5JDeppvn9-dfEXn7GoO2FzxgDbVblSqg-XVJiFXDQF2NqQv53_iYMCB9l3OB_Fcd4W2lOaHLxEa6dYBY1P9Mu07Yv_O5u-O8yyQpXl1lqwYQD8NaUDCSB0xkOqN4UU832LlHDYRgnEQRoO6--gPaImN-wzSeOZNUBFt-Y`</details>
 
 #### 主なスペック
 - 容量: 300ml
@@ -161,7 +161,7 @@ Tags: Tableware, Guide
 
 **先生**: シングルマグの利点の一つがそこだ。機能的には**直火にかけることができる**。ただし、メーカーは推奨していないから自己責任だが。
 
-**参考情報**: 「Highly praised for its ultralight nature and versatility. It's considered a classic backpacking mug.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2YZvPjc2UB5L7ZUMNWG66vT0K8QldeZh2QHD42pF29PdoNzWDYJG7guuKXZldCeJ_cxIhWpBSYvv5W1LUdxgfRBloBTFbCLZAtdH6MZFOSogrlfb1vUJOcG9fiLRkb1G_z_n-ra79ajVi_xbZ_0Exo7R4nFRS5uyH8xnNJI54Mld1Mz40YuV5po3CURpnEJ-5leWixJ12`</details>
+> **参考情報**: 「Highly praised for its ultralight nature and versatility. It's considered a classic backpacking mug.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2YZvPjc2UB5L7ZUMNWG66vT0K8QldeZh2QHD42pF29PdoNzWDYJG7guuKXZldCeJ_cxIhWpBSYvv5W1LUdxgfRBloBTFbCLZAtdH6MZFOSogrlfb1vUJOcG9fiLRkb1G_z_n-ra79ajVi_xbZ_0Exo7R4nFRS5uyH8xnNJI54Mld1Mz40YuV5po3CURpnEJ-5leWixJ12`</details>
 
 **JK**: えっ、直火OKなんですか？
 
@@ -194,13 +194,13 @@ Tags: Tableware, Guide
 
 **先生**: そうだ。変形や変色、そして火傷の可能性があるからな。
 
-**参考情報**: 「スノーピークのチタンマグ製品に関して、メーカーは直火での使用を推奨していません。変形や変色、火傷の可能性があるため、直火での使用は控えるように案内されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw0klYJ99rI_yqZRpnB05FAQv2k0_K_HCAJVgsL5eLMG9mwDWRSDNIpa6RksVDblP9zv9IvhUmRAh5I8q8dMtB9BUtYqWZAHYTSu3CKokR0o0WmHX0wHNkgke9bCM-890U6s6qmfPTn89hn1I9i48hssmOV5jfqA8l`</details>
+> **参考情報**: 「スノーピークのチタンマグ製品に関して、メーカーは直火での使用を推奨していません。変形や変色、火傷の可能性があるため、直火での使用は控えるように案内されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw0klYJ99rI_yqZRpnB05FAQv2k0_K_HCAJVgsL5eLMG9mwDWRSDNIpa6RksVDblP9zv9IvhUmRAh5I8q8dMtB9BUtYqWZAHYTSu3CKokR0o0WmHX0wHNkgke9bCM-890U6s6qmfPTn89hn1I9i48hssmOV5jfqA8l`</details>
 
 **JK**: でも実際に使ってる人多いんですよね？
 
 **先生**: 多い。シングルマグを直火にかけると、チタンが「焦げたような色」から「青色」、そして「白っぽい色」へと変色していく。この変色を**味わい**として楽しむキャンパーもいるんだ。
 
-**参考情報**: 「シングルマグを直火にかけると、火の当たり方によってチタンが『焦げたような色』から『青色』、そして最終的には『白っぽい色』へと変色していくことがあります。この変色を『味わい』として楽しむユーザーもいますが、やりすぎると変形のリスクもあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw0klYJ99rI_yqZRpnB05FAQv2k0_K_HCAJVgsL5eLMG9mwDWRSDNIpa6RksVDblP9zv9IvhUmRAh5I8q8dMtB9BUtYqWZAHYTSu3CKokR0o0WmHX0wHNkgke9bCM-890U6s6qmfPTn89hn1I9i48hssmOV5jfqA8l`</details>
+> **参考情報**: 「シングルマグを直火にかけると、火の当たり方によってチタンが『焦げたような色』から『青色』、そして最終的には『白っぽい色』へと変色していくことがあります。この変色を『味わい』として楽しむユーザーもいますが、やりすぎると変形のリスクもあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw0klYJ99rI_yqZRpnB05FAQv2k0_K_HCAJVgsL5eLMG9mwDWRSDNIpa6RksVDblP9zv9IvhUmRAh5I8q8dMtB9BUtYqWZAHYTSu3CKokR0o0WmHX0wHNkgke9bCM-890U6s6qmfPTn89hn1I9i48hssmOV5jfqA8l`</details>
 
 **JK**: え、ちょっとカッコいいかも...自分だけの色になるってことですよね？
 
@@ -230,7 +230,7 @@ Tags: Tableware, Guide
 
 **先生**: そうだ。それから冷たい飲み物を入れても**結露しにくい**。手が濡れないし、テーブルも汚れない。
 
-**参考情報**: 「ダブルウォールマグは保温・保冷効果に優れており、温かい飲み物が冷めにくく、冷たい飲み物も温まりにくいと評価されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlxh7ptm6PJ1pQIql4RxJB9yXCn4LhBalhgsks6jMWeY37RU7XRpQ_VGFMRQwVuc_F4gvf-W0m3THdIgqA3CCKF_UQpMYSBNMaUjLMziF6QsgvJrw81XPHSpHzRuHA`</details>
+> **参考情報**: 「ダブルウォールマグは保温・保冷効果に優れており、温かい飲み物が冷めにくく、冷たい飲み物も温まりにくいと評価されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlxh7ptm6PJ1pQIql4RxJB9yXCn4LhBalhgsks6jMWeY37RU7XRpQ_VGFMRQwVuc_F4gvf-W0m3THdIgqA3CCKF_UQpMYSBNMaUjLMziF6QsgvJrw81XPHSpHzRuHA`</details>
 
 ### チタンダブルマグ220（MG-151）
 
@@ -270,7 +270,7 @@ Tags: Tableware, Guide
 
 **先生**: ダブルマグのフラッグシップモデルだ。重量は約119gで、海外メディアでも「Editor's Choice」に選ばれるほど評価が高い。
 
-**参考情報**: 「Often considered a 'flagship' product and an 'Editor's Choice' for insulated backpacking mugs due to its insulation, light weight, and durability.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHZ3eRVfvaWfdukP04h-iVXIJyZBjufmxZVj_Eb-zVPkkKtvmwVsWtMkWzEFHmofvQ28yek_P0uawAxGOGB8-O89eAXtIccm19DoGwLt_WpYfB5SrmxV_oOXVOrYFTtk2F06XY6Yqd39Y1zubssJSfPwnEHEIuuQ==`</details>
+> **参考情報**: 「Often considered a 'flagship' product and an 'Editor's Choice' for insulated backpacking mugs due to its insulation, light weight, and durability.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHZ3eRVfvaWfdukP04h-iVXIJyZBjufmxZVj_Eb-zVPkkKtvmwVsWtMkWzEFHmofvQ28yek_P0uawAxGOGB8-O89eAXtIccm19DoGwLt_WpYfB5SrmxV_oOXVOrYFTtk2F06XY6Yqd39Y1zubssJSfPwnEHEIuuQ==`</details>
 
 **JK**: でも119gってシングル450の倍近いですよね...。
 
@@ -303,7 +303,7 @@ Tags: Tableware, Guide
 
 **先生**: スノーピークのチタンマグは、ほとんどのモデルで**折りたたみ式のハンドル**が採用されている。これを折りたたむとコンパクトになって、サイズ違いのマグを入れ子にして収納できるんだ。
 
-**参考情報**: 「多くのモデルで折りたたみ式のハンドルが採用されており、異なるサイズのマグをスタッキング（入れ子にして収納）できるため、持ち運びにも便利です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYUecN2rcnxiLAf1TYfelk2WkFzXXeooXBXoHRys6bRTLO1JmEaB1Hqtz4963NLNEmP79tb8JBtkLpDJzCNLU9YH226uzGoieyKVOKj8qzOuXDlTIj2nQOOw==`</details>
+> **参考情報**: 「多くのモデルで折りたたみ式のハンドルが採用されており、異なるサイズのマグをスタッキング（入れ子にして収納）できるため、持ち運びにも便利です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYUecN2rcnxiLAf1TYfelk2WkFzXXeooXBXoHRys6bRTLO1JmEaB1Hqtz4963NLNEmP79tb8JBtkLpDJzCNLU9YH226uzGoieyKVOKj8qzOuXDlTIj2nQOOw==`</details>
 
 **JK**: へー、それは便利！家族分持っていくときとかに良さそう。
 
@@ -327,7 +327,7 @@ Tags: Tableware, Guide
 
 **先生**: パンや目玉焼きを乗せるのにちょうどいいサイズだ。それから面白い使い方として、**まな板**や**バーナーパッド**としても使える。
 
-**参考情報**: 「直径18cm程度のチタン製プレートで、非常に軽量（約62.5g）で丈夫、錆びにくい特性があります。アレルギーフリーであるため、安心して使用できます。熱伝導率が低いため、熱い料理を乗せても持ちやすいという利点もあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjPY7k35O8ns_Sv4zOxrXYVzawGfmJh9OjyW4CXg1aCIweblzFSZGZkGeQmYXA-HKHIJADd-lWKPNJUUWrVhSt9vpbdnMLS4Zt3MaTm9PWNLtelD4D7TaRHJSi-gqvikkppcvlEm3-gvqWIg==`</details>
+> **参考情報**: 「直径18cm程度のチタン製プレートで、非常に軽量（約62.5g）で丈夫、錆びにくい特性があります。アレルギーフリーであるため、安心して使用できます。熱伝導率が低いため、熱い料理を乗せても持ちやすいという利点もあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjPY7k35O8ns_Sv4zOxrXYVzawGfmJh9OjyW4CXg1aCIweblzFSZGZkGeQmYXA-HKHIJADd-lWKPNJUUWrVhSt9vpbdnMLS4Zt3MaTm9PWNLtelD4D7TaRHJSi-gqvikkppcvlEm3-gvqWIg==`</details>
 
 **JK**: まな板？チタンって硬いんですよね？
 
@@ -347,7 +347,7 @@ Tags: Tableware, Guide
 
 **先生**: 直径約13cmのボウル。重量は約52.5g。食事用はもちろん、調理補助用としても便利だ。
 
-**参考情報**: 「直径13cm程度のチタン製ボウルで、トレックチタンプレートと同様に軽量（約52.5g）で丈夫、錆びにくいのが特徴です。食事用だけでなく、調理補助用としても便利です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3gPTBYjvSBEwWI8haUiOosB2p3SRltZAJ0XojQ9dQ-rjTejitFlHG8MnxxZkuU_pe6jdrzBvzMT1LCiK9hgGC9U8qlZIPl9Jox_s91e7fUixPwOgZDFRbvC0PlWTPTwvBmpxyLWA1CjUBSzE=`</details>
+> **参考情報**: 「直径13cm程度のチタン製ボウルで、トレックチタンプレートと同様に軽量（約52.5g）で丈夫、錆びにくいのが特徴です。食事用だけでなく、調理補助用としても便利です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3gPTBYjvSBEwWI8haUiOosB2p3SRltZAJ0XojQ9dQ-rjTejitFlHG8MnxxZkuU_pe6jdrzBvzMT1LCiK9hgGC9U8qlZIPl9Jox_s91e7fUixPwOgZDFRbvC0PlWTPTwvBmpxyLWA1CjUBSzE=`</details>
 
 #### 主なスペック
 - サイズ: 直径約13cm
@@ -360,7 +360,7 @@ Tags: Tableware, Guide
 
 **先生**: その通り。400mlと600mlの2サイズがある。中空二重構造だから、温かいスープを入れても器が熱くなりすぎず、冷めにくい。
 
-**参考情報**: 「中空二重構造になっているため、高い保温・保冷力を持ち、温かいスープを入れても器が熱くなりすぎず、冷たいものを入れても温度を長く保てます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8IuEmBb_p0l-iwEgYdJkCOa0GcGbk9Ywu4M7k-s_JCay2YINA_iYCJafuwq58q-Vsg1G3bWBB6Av1IYd_8s5_wO_M7hcWxLdgQqBKgpKe6smyRwnBrTrP3kJD2GcJeYgHC8Jvkg==`</details>
+> **参考情報**: 「中空二重構造になっているため、高い保温・保冷力を持ち、温かいスープを入れても器が熱くなりすぎず、冷たいものを入れても温度を長く保てます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8IuEmBb_p0l-iwEgYdJkCOa0GcGbk9Ywu4M7k-s_JCay2YINA_iYCJafuwq58q-Vsg1G3bWBB6Av1IYd_8s5_wO_M7hcWxLdgQqBKgpKe6smyRwnBrTrP3kJD2GcJeYgHC8Jvkg==`</details>
 
 **JK**: 冬のキャンプでスープ飲む時、器が熱すぎて持てないことあるから、それはいいですね！
 
@@ -392,7 +392,7 @@ Tags: Tableware, Guide
 
 **先生**: そうだ。重量はわずか16g。100%チタン製で錆びない、カビにも強い、金属臭もないし匂い移りもない。
 
-**参考情報**: 「スプーンの先端にフォークの機能を持たせた一体型のカトラリーです。1本でスプーンとフォークの役割をこなすため、荷物を減らしたいアウトドアシーンで重宝されます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvSOuJhhfVTQ8sgIqGBQ7etBRjV9ObwhThpKnErUpveFJ-w3nBzJ1UZkjs0U-726r8nAB0Oz6un6vv0V3dqMbDwuH1mdM-fXYa1aAc7jeJsj-2-q9nmqwOVrPl0gN6SglMjo4=`</details>
+> **参考情報**: 「スプーンの先端にフォークの機能を持たせた一体型のカトラリーです。1本でスプーンとフォークの役割をこなすため、荷物を減らしたいアウトドアシーンで重宝されます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvSOuJhhfVTQ8sgIqGBQ7etBRjV9ObwhThpKnErUpveFJ-w3nBzJ1UZkjs0U-726r8nAB0Oz6un6vv0V3dqMbDwuH1mdM-fXYa1aAc7jeJsj-2-q9nmqwOVrPl0gN6SglMjo4=`</details>
 
 **JK**: 16g！軽い！
 
@@ -418,7 +418,7 @@ Tags: Tableware, Guide
 
 **先生**: スクーはチタン先割れスプーンと似ているが、よりフォーク寄りの設計になっている。
 
-**参考情報**: 「チタン先割れスプーンと比較すると、フォーク寄りの設計で、特に麺類をすくうのに適していると評価されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEJzSupNMUUmmuPFw909v3ee6jIYio4aFFEvVl92SREHvzXYeHTw8JDsaRB_oJTTQCoo8l_NxP1sCdZi5fSemnRyc30EIH8nqZNKuQxi5Ppdm4EIhOMF8=`</details>
+> **参考情報**: 「チタン先割れスプーンと比較すると、フォーク寄りの設計で、特に麺類をすくうのに適していると評価されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEJzSupNMUUmmuPFw909v3ee6jIYio4aFFEvVl92SREHvzXYeHTw8JDsaRB_oJTTQCoo8l_NxP1sCdZi5fSemnRyc30EIH8nqZNKuQxi5Ppdm4EIhOMF8=`</details>
 
 **JK**: 麺類に強いんですか？
 
@@ -434,7 +434,7 @@ Tags: Tableware, Guide
 
 ### 高評価ポイント
 
-**参考情報**: 「スノーピークのチタンマグは非常に軽量で、持ち運びに優れています。特にシングルマグは超軽量で、スタッキング（重ねて収納）も可能なため、荷物をコンパクトにまとめたいアウトドアシーンで重宝されます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXsWJwzjuUdrEgeoCW0tMpLTLDFjJ_1jB8Z8wR-wteYkSmQANIVwep75zGHHSpo89QziIur4atL3fI-LFD09ElQ85wZJNFAAipoZi37Iq0O1mZMwQ59GxEvVnDX8CQwYT7E35sybRU3EaDZA==`</details>
+> **参考情報**: 「スノーピークのチタンマグは非常に軽量で、持ち運びに優れています。特にシングルマグは超軽量で、スタッキング（重ねて収納）も可能なため、荷物をコンパクトにまとめたいアウトドアシーンで重宝されます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXsWJwzjuUdrEgeoCW0tMpLTLDFjJ_1jB8Z8wR-wteYkSmQANIVwep75zGHHSpo89QziIur4atL3fI-LFD09ElQ85wZJNFAAipoZi37Iq0O1mZMwQ59GxEvVnDX8CQwYT7E35sybRU3EaDZA==`</details>
 
 - **軽量でコンパクト**: リュックに入れてもかさばらない
 - **高い耐久性**: 長年愛用でき、使うほど「味」が出る
@@ -442,7 +442,7 @@ Tags: Tableware, Guide
 - **飲みやすさ**: 口当たりが良く、金属臭を感じにくい
 - **ハンドルの使いやすさ**: グリップ力と握りやすさを両立
 
-**参考情報**: 「チタン製であるため錆びにくく、高い耐久性があります。長年愛用しているユーザーも多く、使えば使うほど『味が出る』といった意見も見られます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXsWJwzjuUdrEgeoCW0tMpLTLDFjJ_1jB8Z8wR-wteYkSmQANIVwep75zGHHSpo89QziIur4atL3fI-LFD09ElQ85wZJNFAAipoZi37Iq0O1mZMwQ59GxEvVnDX8CQwYT7E35sybRU3EaDZA==`</details>
+> **参考情報**: 「チタン製であるため錆びにくく、高い耐久性があります。長年愛用しているユーザーも多く、使えば使うほど『味が出る』といった意見も見られます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXsWJwzjuUdrEgeoCW0tMpLTLDFjJ_1jB8Z8wR-wteYkSmQANIVwep75zGHHSpo89QziIur4atL3fI-LFD09ElQ85wZJNFAAipoZi37Iq0O1mZMwQ59GxEvVnDX8CQwYT7E35sybRU3EaDZA==`</details>
 
 **JK**: 「味が出る」ってなんかいいですね。使い込んだ感じが出るってことですか？
 
@@ -460,7 +460,7 @@ Tags: Tableware, Guide
 
 **先生**: ダメというわけではないが、ロゴ保護のために**手洗い推奨**とされている。
 
-**参考情報**: 「Some reviews mention that the printed logo on the mugs may lose adhesion if washed in a dishwasher, so handwashing is recommended.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5JDeppvn9-dfEXn7GoO2FzxgDbVblSqg-XVJiFXDQF2NqQv53_iYMCB9l3OB_Fcd4W2lOaHLxEa6dYBY1P9Mu07Yv_O5u-O8yyQpXl1lqwYQD8NaUDCSB0xkOqN4UU832LlHDYRgnEQRoO6--gPaImN-wzSeOZNUBFt-Y`</details>
+> **参考情報**: 「Some reviews mention that the printed logo on the mugs may lose adhesion if washed in a dishwasher, so handwashing is recommended.」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5JDeppvn9-dfEXn7GoO2FzxgDbVblSqg-XVJiFXDQF2NqQv53_iYMCB9l3OB_Fcd4W2lOaHLxEa6dYBY1P9Mu07Yv_O5u-O8yyQpXl1lqwYQD8NaUDCSB0xkOqN4UU832LlHDYRgnEQRoO6--gPaImN-wzSeOZNUBFt-Y`</details>
 
 ---
 

@@ -43,7 +43,7 @@ Tags: Burner, Stove, Guide
 
 **先生**: そうだ。CB缶はコンビニやスーパーで手軽に買えて安いが、寒いと火力が落ちやすい。OD缶はアウトドア用品店で買う必要があるが、厳しい環境でも性能が安定している。
 
-**参考情報**: 「OD缶とCB缶は、どちらもガスバーナーの燃料として使用されますが、それぞれ特徴が異なります。OD缶は主にアウトドアでの使用を想定して作られています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdycEAjNmtE33fck8IELTol0QRPs3TynT25jC62pX-0VX0vSysfJxhhieuPutPsOrkL6cm61ZahGEea-ip-CPZtMxo4U7DLA1UBBSbfMzLdnP5r2V20OQho_5rkrqbDybDFkR0CDTcZteOCYlWRP4AHQNmZmJoHupLKZT4M5TyVE3zhuKNvxPWkEsTGPZhh1VvS975yBulVboFIKAOFpDrFMVs9vKJXhdENlfzMauF3nLanKBQ0XdOUWIzfy6_IVse6jpfHVHZNdrmEzqRKJWyUP1i8d-u285TeKWRO8AXwc5Kqgtadt_FQvIfQDnwIpznQqHLhRYbewmYJCFV0JhJJtLiVeSThxyl2FoURw4-GwP_SMSf8fELRyJTyE7OnEDH_Yl3LdQ-im_Qz3KM8ug51jU=`</details>
+> **参考情報**: 「OD缶とCB缶は、どちらもガスバーナーの燃料として使用されますが、それぞれ特徴が異なります。OD缶は主にアウトドアでの使用を想定して作られています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdycEAjNmtE33fck8IELTol0QRPs3TynT25jC62pX-0VX0vSysfJxhhieuPutPsOrkL6cm61ZahGEea-ip-CPZtMxo4U7DLA1UBBSbfMzLdnP5r2V20OQho_5rkrqbDybDFkR0CDTcZteOCYlWRP4AHQNmZmJoHupLKZT4M5TyVE3zhuKNvxPWkEsTGPZhh1VvS975yBulVboFIKAOFpDrFMVs9vKJXhdENlfzMauF3nLanKBQ0XdOUWIzfy6_IVse6jpfHVHZNdrmEzqRKJWyUP1i8d-u285TeKWRO8AXwc5Kqgtadt_FQvIfQDnwIpznQqHLhRYbewmYJCFV0JhJJtLiVeSThxyl2FoURw4-GwP_SMSf8fELRyJTyE7OnEDH_Yl3LdQ-im_Qz3KM8ug51jU=`</details>
 
 ### スノーピーク バーナー・ストーブの主なラインナップ
 
@@ -84,7 +84,7 @@ Tags: Burner, Stove, Guide
 
 **先生**: そうだ。スノーピークの哲学で「野遊びの原点」を意味している。1998年発売以来、四半世紀以上も愛され続けているロングセラーだ。
 
-**参考情報**: 「1998年の発売以来、世界中で選ばれ続けるロングセラーモデルです。携帯性、重量、ゴトクの安定性、火力のトータルバランスに優れており、着火に便利なオートイグナイタを装備しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFjA9PpGo5XmwU6xyStmThke1U1t8rAjLHysM5m7ZG7ZqJxJeNd8d-JzKn-tSGeuNn9icBuX_eJsniCmYdAk-hLO96xdW9e1CvlW6D-GD8jHtHKVnktsBgdBhC_XK412s83OZEPdQ=`</details>
+> **参考情報**: 「1998年の発売以来、世界中で選ばれ続けるロングセラーモデルです。携帯性、重量、ゴトクの安定性、火力のトータルバランスに優れており、着火に便利なオートイグナイタを装備しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFjA9PpGo5XmwU6xyStmThke1U1t8rAjLHysM5m7ZG7ZqJxJeNd8d-JzKn-tSGeuNn9icBuX_eJsniCmYdAk-hLO96xdW9e1CvlW6D-GD8jHtHKVnktsBgdBhC_XK412s83OZEPdQ=`</details>
 
 **JK**: えっ、四半世紀！？私より全然長生きですね！
 
@@ -94,13 +94,13 @@ Tags: Burner, Stove, Guide
 
 **先生**: しかも出力は**2,500kcal/h**と十分な火力がある。さらにこのモデルは4本アームのゴトクを採用していて、3本タイプよりも安定性が高い。
 
-**参考情報**: 「4本のアーム式ゴトクは、他の多くのストーブよりも耐久性が高く、安定した調理を可能にします。この4本アームは、通常の3本アームモデルよりも安定性が向上しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVwXS-VOGJJ0KHgoUFicVBoUOEM7eWKBlIiXA2lej0sQ_0trEwSf57P4hUbKPb7LIM-s5Qj3Fd_rYs9zMNDXhcDO9DKx2IW8VMW5NwTcPAlFXsZtMYdwkVHnW1Ug1Mgqxny-tWzxNYQVPV98CSigisUV8VZa4LyeX70Hu-AcIKM3ogd5FTiwFU2drvzC8NH5kVkDPA`</details>
+> **参考情報**: 「4本のアーム式ゴトクは、他の多くのストーブよりも耐久性が高く、安定した調理を可能にします。この4本アームは、通常の3本アームモデルよりも安定性が向上しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVwXS-VOGJJ0KHgoUFicVBoUOEM7eWKBlIiXA2lej0sQ_0trEwSf57P4hUbKPb7LIM-s5Qj3Fd_rYs9zMNDXhcDO9DKx2IW8VMW5NwTcPAlFXsZtMYdwkVHnW1Ug1Mgqxny-tWzxNYQVPV98CSigisUV8VZa4LyeX70Hu-AcIKM3ogd5FTiwFU2drvzC8NH5kVkDPA`</details>
 
 **JK**: でも安定って言っても、ゴトクの上に鍋を置いたらグラグラしそう…
 
 **先生**: 実際、山頂の岩場とかで使うと重心が高いから100%安定とは言い難い。だがクッカーの中にすっぽり収納できるから、パッキング効率は抜群だ。
 
-**参考情報**: 「他のストーブのジェットエンジンのような騒音と比較して、ギガパワー2.0は著しく静かであり、自然の静けさを損なわないという利点があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVwXS-VOGJJ0KHgoUFicVBoUOEM7eWKBlIiXA2lej0sQ_0trEwSf57P4hUbKPb7LIM-s5Qj3Fd_rYs9zMNDXhcDO9DKx2IW8VMW5NwTcPAlFXsZtMYdwkVHnW1Ug1Mgqxny-tWzxNYQVPV98CSigisUV8VZa4LyeX70Hu-AcIKM3ogd5FTiwFU2drvzC8NH5kVkDPA`</details>
+> **参考情報**: 「他のストーブのジェットエンジンのような騒音と比較して、ギガパワー2.0は著しく静かであり、自然の静けさを損なわないという利点があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVwXS-VOGJJ0KHgoUFicVBoUOEM7eWKBlIiXA2lej0sQ_0trEwSf57P4hUbKPb7LIM-s5Qj3Fd_rYs9zMNDXhcDO9DKx2IW8VMW5NwTcPAlFXsZtMYdwkVHnW1Ug1Mgqxny-tWzxNYQVPV98CSigisUV8VZa4LyeX70Hu-AcIKM3ogd5FTiwFU2drvzC8NH5kVkDPA`</details>
 
 **JK**: え、静かさもメリットなんですか？
 
@@ -136,7 +136,7 @@ Tags: Burner, Stove, Guide
 
 **先生**: 確かに独特だな。「野宴」と書いてヤエンと読む。野外での宴、つまりアウトドアでの食事を楽しむという意味が込められている。
 
-**参考情報**: 「風防が本体と一体になっているため、炎が風の影響を受けにくく、アウトドアでの調理ストレスを軽減します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGV42S2Lx86GAyMWtixCBggwF-KDwW__nmJbLV6oYaBNg6UYJGLE-V2y0hmYscHzZIKBZADHDDC54d_1PftHuaEpNDRLZ1oOLFimhVO_5pQkr_vapq0s2QSPFLS-iALnJVHMifJ3-KXpc1UnprKXZKoH1WpdKcheA==`</details>
+> **参考情報**: 「風防が本体と一体になっているため、炎が風の影響を受けにくく、アウトドアでの調理ストレスを軽減します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGV42S2Lx86GAyMWtixCBggwF-KDwW__nmJbLV6oYaBNg6UYJGLE-V2y0hmYscHzZIKBZADHDDC54d_1PftHuaEpNDRLZ1oOLFimhVO_5pQkr_vapq0s2QSPFLS-iALnJVHMifJ3-KXpc1UnprKXZKoH1WpdKcheA==`</details>
 
 **JK**: 風防が最初から付いてるのは便利そう！でも、その分デカくなりません？
 
@@ -170,7 +170,7 @@ Tags: Burner, Stove, Guide
 
 **先生**: ふむ、機能美という点では確かにそうだな。このモデルの特徴は、**分離型に匹敵する低重心**を保ちながら、**一体型のコンパクトさ**を実現している点だ。
 
-**参考情報**: 「分離式並みの低重心を保ちながら、正立式と同様の一体型を実現しており、不整地でも安定した調理が可能です。ゴトクは三点支持で鍋をしっかりと支えます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn39G1YqnDmEzy-97awnBBTdR8mx2upDUtyIpRwookttoyLW13api0cHQ4PLQdltSefbxRIG5zcfgbeWyG3HmiiRiCag0jTMqZFpE0wiotbUVy1x9DsjHoFAyQx4mmgfUOmCk9HPk=`</details>
+> **参考情報**: 「分離式並みの低重心を保ちながら、正立式と同様の一体型を実現しており、不整地でも安定した調理が可能です。ゴトクは三点支持で鍋をしっかりと支えます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn39G1YqnDmEzy-97awnBBTdR8mx2upDUtyIpRwookttoyLW13api0cHQ4PLQdltSefbxRIG5zcfgbeWyG3HmiiRiCag0jTMqZFpE0wiotbUVy1x9DsjHoFAyQx4mmgfUOmCk9HPk=`</details>
 
 **JK**: 分離型って何ですか？
 
@@ -211,13 +211,13 @@ Tags: Burner, Stove, Guide
 
 **先生**: その通りだ。このバーナーはスノーピークの**IGT（アイアングリルテーブル）システム**にビルトインできる。テーブルとバーナーがフラットに一体化するから、調理スペースが広く使えて見た目もスッキリする。
 
-**参考情報**: 「スノーピークのアイアングリルテーブル（IGT）シリーズにビルトインして使用できるため、システムキッチンとして活用できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPYM9npJMQImh_H9r2rwEZDwoSiLB4xOG0CrVrHghHQAxihQcB3ewKcJ0bUPJ4q9aDabRq4GcUmWJchY3CnjlrIbP9tls8NvZK3ySjsWt77iXchSa2Ru2J9xzc1RLqTOw=`</details>
+> **参考情報**: 「スノーピークのアイアングリルテーブル（IGT）シリーズにビルトインして使用できるため、システムキッチンとして活用できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPYM9npJMQImh_H9r2rwEZDwoSiLB4xOG0CrVrHghHQAxihQcB3ewKcJ0bUPJ4q9aDabRq4GcUmWJchY3CnjlrIbP9tls8NvZK3ySjsWt77iXchSa2Ru2J9xzc1RLqTOw=`</details>
 
 **JK**: おおお、なんかおしゃれ！インスタ映えしそう！
 
 **先生**: まあ、そういう見方もあるだろうな。だが機能面でも優れている。**直径23cmまでの鍋に対応**、出力は**3,000kcal/h**と高火力だ。
 
-**参考情報**: 「IGTにセットするとテーブルとフラットになるため、調理器具が置きやすく、サイト全体がスマートに見えるという利点があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwqBn1HFX_bYcyPWBm3LDc-ed3Cc76pH5-E2bp-eRHLqKbQsBm9BB7vJ5K5MeLs8knsdwAwR8xYCh2_MvO2x7Bs5p-GZqgCiH8jrPD27iS_rgtAujd60y6TYmnI4q9cwBhZbq4`</details>
+> **参考情報**: 「IGTにセットするとテーブルとフラットになるため、調理器具が置きやすく、サイト全体がスマートに見えるという利点があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwqBn1HFX_bYcyPWBm3LDc-ed3Cc76pH5-E2bp-eRHLqKbQsBm9BB7vJ5K5MeLs8knsdwAwR8xYCh2_MvO2x7Bs5p-GZqgCiH8jrPD27iS_rgtAujd60y6TYmnI4q9cwBhZbq4`</details>
 
 **JK**: でもIGTがないと使えないんですか？
 
@@ -253,7 +253,7 @@ Tags: Burner, Stove, Guide
 
 **先生**: まず**CB缶（カセットガス）を使う**。スノーピークのバーナーはほとんどがOD缶だから珍しい。そして収納時は**ボトル状になる**というユニークなデザインだ。
 
-**参考情報**: 「収納時はボトル状になり、使用時にゴトクが展開されるユニークなデザインが特徴です。家庭用のCB缶（カセットガス）を使用できるため、燃料の入手が容易でランニングコストを抑えられます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWBQifkyEF2qQ3MSvRMY-wzuN7hSFxgi9EGhbw1zuz0ZwRhIyMD_qt5W2jPGc3geBduvHh4DRwzgWBwx7cetKq8BfVoIRvI9JVjY9iTJk_RQWBYTNDguEEuxCMqqmB-Q==`</details>
+> **参考情報**: 「収納時はボトル状になり、使用時にゴトクが展開されるユニークなデザインが特徴です。家庭用のCB缶（カセットガス）を使用できるため、燃料の入手が容易でランニングコストを抑えられます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWBQifkyEF2qQ3MSvRMY-wzuN7hSFxgi9EGhbw1zuz0ZwRhIyMD_qt5W2jPGc3geBduvHh4DRwzgWBwx7cetKq8BfVoIRvI9JVjY9iTJk_RQWBYTNDguEEuxCMqqmB-Q==`</details>
 
 **JK**: えっ、ボトル！？トランスフォームするんですか！？
 
@@ -267,7 +267,7 @@ Tags: Burner, Stove, Guide
 
 **先生**: このバーナーの真価は**「家でもキャンプでも使える」**という点だ。デザインがスタイリッシュだからキッチンに置いても違和感がない。普段使いの鍋パーティーからキャンプまで一台でこなせる。
 
-**参考情報**: 「寒い状況下でも安定した火力を維持するために、バーナーからの熱をガス缶に伝える銅製の熱伝導パイプが搭載されています。これは他のブタンガスストーブではあまり見られない特徴です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWmDBe_xxXw6J6ycs4EjXwJgkX4jrlo3fXafdX-GVsKdBl1vI6SwcIEDFNWsAld5dvIXRpm2i9S_r6o17JuQ3ez8HVda-4p1FibaVViZBsvq0N3LlFETDCReDFh3Pvx25eYdQtm5w=`</details>
+> **参考情報**: 「寒い状況下でも安定した火力を維持するために、バーナーからの熱をガス缶に伝える銅製の熱伝導パイプが搭載されています。これは他のブタンガスストーブではあまり見られない特徴です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWmDBe_xxXw6J6ycs4EjXwJgkX4jrlo3fXafdX-GVsKdBl1vI6SwcIEDFNWsAld5dvIXRpm2i9S_r6o17JuQ3ez8HVda-4p1FibaVViZBsvq0N3LlFETDCReDFh3Pvx25eYdQtm5w=`</details>
 
 **JK**: あ、銅製の熱伝導パイプ…？
 
@@ -304,7 +304,7 @@ Tags: Burner, Stove, Guide
 
 **先生**: よく知っているな。**ギガパワーストーブ レクタ**が2024年6月に発売されて話題になった。
 
-**参考情報**: 「H字型のバーナーヘッドが特徴で、従来の丸いバーナーに比べて広範囲に熱を伝えることができ、特に幅の広い調理器具での使用に適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ2SYZZp8fopETA68sVh46_4jMWC1eLAd0Hup-jG28s3KpJe6CDWmeiuy1d7ePI5dfCgMcSwReuoZMpuPGdnP-NtIICmRV1uyf4cjMgM0kX8qVrlrzBwTHp-soz9LuEP7DsQ4ajnIZnrtVaczupoY=`</details>
+> **参考情報**: 「H字型のバーナーヘッドが特徴で、従来の丸いバーナーに比べて広範囲に熱を伝えることができ、特に幅の広い調理器具での使用に適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ2SYZZp8fopETA68sVh46_4jMWC1eLAd0Hup-jG28s3KpJe6CDWmeiuy1d7ePI5dfCgMcSwReuoZMpuPGdnP-NtIICmRV1uyf4cjMgM0kX8qVrlrzBwTHp-soz9LuEP7DsQ4ajnIZnrtVaczupoY=`</details>
 
 **JK**: レクタ？レクタングル（長方形）のこと？
 
@@ -314,7 +314,7 @@ Tags: Burner, Stove, Guide
 
 **先生**: 通常、バーナーの炎は円形で中心に集中する。だがH字型だと横長に炎が出るから、フライパンやホットサンドメーカーのような**幅広の調理器具でも均一に加熱**できるんだ。
 
-**参考情報**: 「器具栓や混合管をバーナーヘッド内部に収納でき、長方形に折りたたむことでコンパクトになり、持ち運びに便利です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ2SYZZp8fopETA68sVh46_4jMWC1eLAd0Hup-jG28s3KpJe6CDWmeiuy1d7ePI5dfCgMcSwReuoZMpuPGdnP-NtIICmRV1uyf4cjMgM0kX8qVrlrzBwTHp-soz9LuEP7DsQ4ajnIZnrtVaczupoY=`</details>
+> **参考情報**: 「器具栓や混合管をバーナーヘッド内部に収納でき、長方形に折りたたむことでコンパクトになり、持ち運びに便利です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ2SYZZp8fopETA68sVh46_4jMWC1eLAd0Hup-jG28s3KpJe6CDWmeiuy1d7ePI5dfCgMcSwReuoZMpuPGdnP-NtIICmRV1uyf4cjMgM0kX8qVrlrzBwTHp-soz9LuEP7DsQ4ajnIZnrtVaczupoY=`</details>
 
 **JK**: ホットサンド好きなので気になる…！
 
@@ -345,7 +345,7 @@ Tags: Burner, Stove, Guide
 
 **先生**: OD缶の中のガスを液体のまま取り出す方式のことだ。通常はガスが気化してから燃焼するが、**低温環境だと気化しにくくなって火力が落ちる**。液出し方式なら気化に頼らないから、**氷点下でも安定した火力**を維持できる。
 
-**参考情報**: 「液出し方式のため、ガスカートリッジが気化熱で冷えることなく、最後まで安定したガス供給と火力を維持できます。これにより、氷点下のような寒い環境でも通常の火力で使用可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGcLRnjZCgD4fKUjdUQ_zTms1CrIATpP3lG-c77vIdkGsVr2jt9B6js23Sme_JPbbOJ55z6lBN054-C5a2z3CIPViQzBZpJtR0D3FtXxC3vMn2uNPM4mUuvXuZc0H0LX9ThOAFymA=`</details>
+> **参考情報**: 「液出し方式のため、ガスカートリッジが気化熱で冷えることなく、最後まで安定したガス供給と火力を維持できます。これにより、氷点下のような寒い環境でも通常の火力で使用可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGcLRnjZCgD4fKUjdUQ_zTms1CrIATpP3lG-c77vIdkGsVr2jt9B6js23Sme_JPbbOJ55z6lBN054-C5a2z3CIPViQzBZpJtR0D3FtXxC3vMn2uNPM4mUuvXuZc0H0LX9ThOAFymA=`</details>
 
 **JK**: 冬キャンプする人には良さそう！
 
@@ -387,13 +387,13 @@ Tags: Burner, Stove, Guide
 
 **先生**: 名前だけじゃない。実際に高級焼肉店のような仕上がりになると評判だ。**厚みのある鋳鉄製グリドル**が付属していて、蓄熱性が非常に高い。
 
-**参考情報**: 「鋳鉄製のグリドル（鉄板）が厚く、蓄熱性が高いため、厚切り肉もじっくりと美味しく焼き上げることができます。高級焼肉店のような仕上がりになると評判です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWUoDvGYUiuHb9v8B_Bl2FZBqUglerJH3qXTh1QEvsWCD6oiiG6tKZIeNGIOJLnmrcA65j_PiYcZFLhV2qMOC66kui4VvNvyDnIlAnVRX3Z1wG2DsELZHJo0uc_4fgyQaBxNZ2NF_ncpDQAsJTLugPBiJ3N4qhwRI1Kg==`</details>
+> **参考情報**: 「鋳鉄製のグリドル（鉄板）が厚く、蓄熱性が高いため、厚切り肉もじっくりと美味しく焼き上げることができます。高級焼肉店のような仕上がりになると評判です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWUoDvGYUiuHb9v8B_Bl2FZBqUglerJH3qXTh1QEvsWCD6oiiG6tKZIeNGIOJLnmrcA65j_PiYcZFLhV2qMOC66kui4VvNvyDnIlAnVRX3Z1wG2DsELZHJo0uc_4fgyQaBxNZ2NF_ncpDQAsJTLugPBiJ3N4qhwRI1Kg==`</details>
 
 **JK**: でも焼肉って煙がすごくないですか？
 
 **先生**: 良い質問だ。雪峰苑は**脂が直接熱源に当たらない構造**になっている。だから煙の発生が少ない。
 
-**参考情報**: 「溶け出した脂が直接熱源に当たらない構造になっているため、煙の発生が少なく、室内での焼肉にも適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcD2zw8HemGzm4YafbIQj6sfK2a8_KMY_ZqstTyUA2JL5pBNH2hNNjVqTgP_UxKAM0aH0PY44EneIHoEC_KrzVxR4261paMP90sJBGkCWVr1UVvWnUXw3-JXOZ_n4gKV-g0xs7Qjw=`</details>
+> **参考情報**: 「溶け出した脂が直接熱源に当たらない構造になっているため、煙の発生が少なく、室内での焼肉にも適しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcD2zw8HemGzm4YafbIQj6sfK2a8_KMY_ZqstTyUA2JL5pBNH2hNNjVqTgP_UxKAM0aH0PY44EneIHoEC_KrzVxR4261paMP90sJBGkCWVr1UVvWnUXw3-JXOZ_n4gKV-g0xs7Qjw=`</details>
 
 **JK**: すごーい！これ欲しい！
 
@@ -435,7 +435,7 @@ Tags: Burner, Stove, Guide
 
 **先生**: 広い空間を効率よく暖めたいなら**グローストーブ**だ。
 
-**参考情報**: 「自然通気型開放式石油ストーブで、赤熱式の遠赤外線効果により暖めます。円筒形のため360度全周に熱が放出されるのが特徴です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhIuplRnOrf89o4RMO38iSKMsyI6F-anSJU1F8QDuZrf1pcMQnKYRfG_k2FIVdedKKj3QlDXuA95n2btF8TubnFxhCAkFovyS1pmjzIAmfoQvf6Nq4x5tQ6iyngQ==`</details>
+> **参考情報**: 「自然通気型開放式石油ストーブで、赤熱式の遠赤外線効果により暖めます。円筒形のため360度全周に熱が放出されるのが特徴です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhIuplRnOrf89o4RMO38iSKMsyI6F-anSJU1F8QDuZrf1pcMQnKYRfG_k2FIVdedKKj3QlDXuA95n2btF8TubnFxhCAkFovyS1pmjzIAmfoQvf6Nq4x5tQ6iyngQ==`</details>
 
 **JK**: グロー…光るんですか？
 
@@ -445,7 +445,7 @@ Tags: Burner, Stove, Guide
 
 **先生**: ただし！スノーピークの燃焼器具は**屋外専用**だ。一酸化炭素中毒の危険があるから、テント内で使う場合は必ず適切な換気を確保すること。
 
-**参考情報**: 「スノーピークの燃焼器具は屋外専用です。屋内、車内、テント内での使用は一酸化炭素中毒や酸欠による窒息死の恐れがあるため絶対にしないでください。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEy9raC8kBojh-IwW64EjMrf1HDZJ4SqAvzBiCuKKmnPlwo9tefQ81I__4hMCKPXzuOdcLkdP6GM2oE3uDZ1NxntzfLX8AKoZwqYC1qZJ8mo09p8YieJJnXGMCQJS0JiCxDoZUiqbzlYS0WkbLD8xtKe9urFZwf721R_4x5yY17i0EmKjAFLUvcs-OiRaoAcUrGrGqbwSXJB7TtF2OifFhEjw==`</details>
+> **参考情報**: 「スノーピークの燃焼器具は屋外専用です。屋内、車内、テント内での使用は一酸化炭素中毒や酸欠による窒息死の恐れがあるため絶対にしないでください。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEy9raC8kBojh-IwW64EjMrf1HDZJ4SqAvzBiCuKKmnPlwo9tefQ81I__4hMCKPXzuOdcLkdP6GM2oE3uDZ1NxntzfLX8AKoZwqYC1qZJ8mo09p8YieJJnXGMCQJS0JiCxDoZUiqbzlYS0WkbLD8xtKe9urFZwf721R_4x5yY17i0EmKjAFLUvcs-OiRaoAcUrGrGqbwSXJB7TtF2OifFhEjw==`</details>
 
 #### 主なスペック
 - 暖房出力：2.54kW
@@ -466,7 +466,7 @@ Tags: Burner, Stove, Guide
 
 **先生**: 一方で**タクード**は「煮炊き用石油コンロ」として設計されている。調理しながら暖も取れる一石二鳥のアイテムだ。
 
-**参考情報**: 「石油コンロに分類され、主に煮込み料理に適した高効率石油コンロです。暖房効果はありますが、ストーブ上部からの熱が中心で、火鉢のような暖まり方をします。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz9r4bHc9zyiIKLuRTBfsb0386_4QkV_wO9UAqnsZOrWrrRA1PrBl5GKn676vqluS3QwrwhxWgG9s2z68jUNQ9XHqsWjNe-LK_Og9Yv1jcCn3tSt209vnZFpWZcB4Z2NneEa0k58RK`</details>
+> **参考情報**: 「石油コンロに分類され、主に煮込み料理に適した高効率石油コンロです。暖房効果はありますが、ストーブ上部からの熱が中心で、火鉢のような暖まり方をします。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz9r4bHc9zyiIKLuRTBfsb0386_4QkV_wO9UAqnsZOrWrrRA1PrBl5GKn676vqluS3QwrwhxWgG9s2z68jUNQ9XHqsWjNe-LK_Og9Yv1jcCn3tSt209vnZFpWZcB4Z2NneEa0k58RK`</details>
 
 **JK**: 火鉢ってあの昔の暖房器具ですか？
 
@@ -517,7 +517,7 @@ Tags: Burner, Stove, Guide
 
 **先生**: ガスバーナーは**水洗い不可**だ。汚れたら固く絞った布で拭き取って、しっかり乾燥させる。長期保管前はガスカートリッジを外して、直射日光と湿気を避けて保管すること。
 
-**参考情報**: 「バーナー本体は水洗いできないため、汚れや塩分が付着した場合は、固く絞った布で拭き取り、乾いた布で水気を拭き取った後、風通しの良い日陰で乾燥させます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEy9raC8kBojh-IwW64EjMrf1HDZJ4SqAvzBiCuKKmnPlwo9tefQ81I__4hMCKPXzuOdcLkdP6GM2oE3uDZ1NxntzfLX8AKoZwqYC1qZJ8mo09p8YieJJnXGMCQJS0JiCxDoZUiqbzlYS0WkbLD8xtKe9urFZwf721R_4x5yY17i0EmKjAFLUvcs-OiRaoAcUrGrGqbwSXJB7TtF2OifFhEjw==`</details>
+> **参考情報**: 「バーナー本体は水洗いできないため、汚れや塩分が付着した場合は、固く絞った布で拭き取り、乾いた布で水気を拭き取った後、風通しの良い日陰で乾燥させます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEy9raC8kBojh-IwW64EjMrf1HDZJ4SqAvzBiCuKKmnPlwo9tefQ81I__4hMCKPXzuOdcLkdP6GM2oE3uDZ1NxntzfLX8AKoZwqYC1qZJ8mo09p8YieJJnXGMCQJS0JiCxDoZUiqbzlYS0WkbLD8xtKe9urFZwf721R_4x5yY17i0EmKjAFLUvcs-OiRaoAcUrGrGqbwSXJB7TtF2OifFhEjw==`</details>
 
 ### Q5. スノーピーク以外のガス缶は使える？
 

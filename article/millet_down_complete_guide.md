@@ -29,7 +29,7 @@ Tags: Down, Guide
 
 **先生**: そこがミレーの凄いところだ。例えば「**K-DRYダウン**」は撥水加工を施した天然ダウンで、湿気に弱いというダウンの弱点を克服している。
 
-**参考情報**: 「K DRYダウンは、水濡れに強い加工が施された天然のダウンで、湿気に弱いというダウンの弱点を克服しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqvNkPBvUqsnjiVVokc6NVZsPO9Bg5paAf6DtqD5BdVrPzaGprrZlDs75FJR0jPVvyhxZNb0eRcu3a8RQdGx7JWDdDFbOUe_mH0gsw3o6NPTqfUIXJRYKkUowiFOUZHOORmOA4SFlJu3-m9NLPZlk=`</details>
+> **参考情報**: 「K DRYダウンは、水濡れに強い加工が施された天然のダウンで、湿気に弱いというダウンの弱点を克服しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqvNkPBvUqsnjiVVokc6NVZsPO9Bg5paAf6DtqD5BdVrPzaGprrZlDs75FJR0jPVvyhxZNb0eRcu3a8RQdGx7JWDdDFbOUe_mH0gsw3o6NPTqfUIXJRYKkUowiFOUZHOORmOA4SFlJu3-m9NLPZlk=`</details>
 
 **JK**: 湿気に弱いって、ダウンってそうなの？
 
@@ -63,7 +63,7 @@ Tags: Down, Guide
 
 **先生**: シンセシス・コンストラクションは、**生地を二重織りにして布自体がダウンの仕切りを作り出す**技術だ。つまり、針穴がない。
 
-**参考情報**: 「生地を二重織りすることで、布自体が仕切りを作り出し、針穴のないシームレスなダウン構造を実現しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF2aWcuMJER33CqWVev6JzQGWw5BZmBEADVjn2ijRssZ4rYvy4G7t0i-d5A-1D06StRqkR83JTE0ordhnzUIzQU_0tSz8x0JF6DoeBJXkb0GiP2mW5e_Dnkqi8FHX7t5kUpDPmTlTRKg==`</details>
+> **参考情報**: 「生地を二重織りすることで、布自体が仕切りを作り出し、針穴のないシームレスなダウン構造を実現しています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF2aWcuMJER33CqWVev6JzQGWw5BZmBEADVjn2ijRssZ4rYvy4G7t0i-d5A-1D06StRqkR83JTE0ordhnzUIzQU_0tSz8x0JF6DoeBJXkb0GiP2mW5e_Dnkqi8FHX7t5kUpDPmTlTRKg==`</details>
 
 **JK**: へえ〜！それってすごくないですか？でも、作るの難しそう…
 
@@ -73,7 +73,7 @@ Tags: Down, Guide
 
 **先生**: いや、これはユーザーレビューでも繰り返し言及されている。私も使ったが、風速20m近い稜線でも冷気が入ってこなかった。普通のダウンなら縫い目から風が抜けるシーンだ。
 
-**参考情報**: 「絶対的な防風性と評されるほど風に強いことが多くのレビューで言及されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFncszvZot_YTV0N2_0cbc5h-8ZaaeYMWWYbV9TR2Qpsgop14hjVb2ufAyYEYBHDYQsRG4tgMPxxbOdMIuhUl7IZu-__GNXJdnc15HAS_BzmnnKV491JFvUyrJvjAMhuiWyGvEUeL2xW-V7iN37k0wniH7VMogCQUmoUMxIWMt8_g==`</details>
+> **参考情報**: 「絶対的な防風性と評されるほど風に強いことが多くのレビューで言及されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFncszvZot_YTV0N2_0cbc5h-8ZaaeYMWWYbV9TR2Qpsgop14hjVb2ufAyYEYBHDYQsRG4tgMPxxbOdMIuhUl7IZu-__GNXJdnc15HAS_BzmnnKV491JFvUyrJvjAMhuiWyGvEUeL2xW-V7iN37k0wniH7VMogCQUmoUMxIWMt8_g==`</details>
 
 ---
 
@@ -83,7 +83,7 @@ Tags: Down, Guide
 
 **先生**: **フィルパワー（FP）はダウンのかさ高性**を示す数値で、1オンス（約28.4g）のダウンがどれだけの体積に膨らむかを表している。
 
-**参考情報**: 「フィルパワー（FP）とは、1オンス（約28.4g）のダウンがどれくらいの体積（立方インチ）に膨らむかを表します。この数値が高いほど、少ないダウン量で多くの空気を閉じ込めることができ、軽量で高い保温性を発揮します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz_O6869uRYJZYnzpYqgawTkhdsE3gA80r-B8kiZUGFwO1MoI68PG_m_8VnQG-Ms2-y0tqNvvSnhWzjlW76_BhN1paFin_3aWpGbJGflsl23qQGrTWEw-VqqXAXWjUDk3TN0hruYrXzStztllG`</details>
+> **参考情報**: 「フィルパワー（FP）とは、1オンス（約28.4g）のダウンがどれくらいの体積（立方インチ）に膨らむかを表します。この数値が高いほど、少ないダウン量で多くの空気を閉じ込めることができ、軽量で高い保温性を発揮します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz_O6869uRYJZYnzpYqgawTkhdsE3gA80r-B8kiZUGFwO1MoI68PG_m_8VnQG-Ms2-y0tqNvvSnhWzjlW76_BhN1paFin_3aWpGbJGflsl23qQGrTWEw-VqqXAXWjUDk3TN0hruYrXzStztllG`</details>
 
 **JK**: ってことは、数字が高いほど軽くて暖かいってこと？
 
@@ -105,7 +105,7 @@ Tags: Down, Guide
 
 **先生**: PERTEX Quantumはダウンジャケットの表地に使われる高機能素材だ。20デニール以下の極細糸を高密度に織り上げているから、**超軽量でありながら引き裂き強度も高い**。
 
-**参考情報**: 「20デニール以下の極細糸を高密度に織り上げているため、非常に軽量です」「軽量でありながら、重量に対する引き裂き強度と縫い目強度が最高水準を実現しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAvIRCKn86Q5P3jVVPA1466MQPWXDRmoBOZaz-dwJRh_9gxNr54CBgFf0q_eXxMUXrTIfOJQF6SyD1_3Xq7zuemRLqCcbR60nzJlEbhf9N1lrAAxVGRFhBXoKVV7JQkHhNCcVnsDtrrdX1280=`</details>
+> **参考情報**: 「20デニール以下の極細糸を高密度に織り上げているため、非常に軽量です」「軽量でありながら、重量に対する引き裂き強度と縫い目強度が最高水準を実現しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAvIRCKn86Q5P3jVVPA1466MQPWXDRmoBOZaz-dwJRh_9gxNr54CBgFf0q_eXxMUXrTIfOJQF6SyD1_3Xq7zuemRLqCcbR60nzJlEbhf9N1lrAAxVGRFhBXoKVV7JQkHhNCcVnsDtrrdX1280=`</details>
 
 **JK**: 軽くて丈夫って最高じゃないですか！デメリットないの？
 
@@ -131,7 +131,7 @@ Tags: Down, Guide
 
 **先生**: フランス語で「進化」を意味する言葉からきているらしい。春秋のアウターとして使えるし、厳冬期にはミドルレイヤーとしても活躍する。
 
-**参考情報**: 「春・秋のアウターとして、また厳冬期の中間着としても活躍する軽量ダウンジャケットです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMNaZkjdSFVAMp2EXYCQIVmmL0VMPsodq_EvqvrUbjPtuC6O0uc8PuosWsH0bj9357vFl8Qu-IEMwxALvJSi2uk88v_q5NueOrwgaqR2IhNNT65dAjND2wGl4PlJvPaSvBY-bWvCcdkqME`</details>
+> **参考情報**: 「春・秋のアウターとして、また厳冬期の中間着としても活躍する軽量ダウンジャケットです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMNaZkjdSFVAMp2EXYCQIVmmL0VMPsodq_EvqvrUbjPtuC6O0uc8PuosWsH0bj9357vFl8Qu-IEMwxALvJSi2uk88v_q5NueOrwgaqR2IhNNT65dAjND2wGl4PlJvPaSvBY-bWvCcdkqME`</details>
 
 **JK**: ミドルレイヤー？
 
@@ -177,7 +177,7 @@ Tags: Down, Guide
 
 **先生**: そうだ。シンセシス・コンストラクションとK-DRYダウンの組み合わせで、従来のダウンジャケットの弱点を全て克服した設計だ。
 
-**参考情報**: 「このジャケットの最大の特徴は、独自の二重織り技術によってダウンの区切りを生地自体が作り出すシンセシスコンストラクションです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEC826XX6Guj88xrvwdqaeXMl_F5O2RXtqtC6f48whsuJ9KVd9wxwr2FqM0R4jOpZD5Rm2Xku4Ec2fyATPrmIM9AMSYQkHfDt7DsQ2R9q6d5kyKUYDxkVTxNSXnOe2rSyZqwi3D3lZ6E4gdMncBWh0cMCfcWSzySckYo-boDfn4yCNi4FVHkrg7urjo6phVujxxnis`</details>
+> **参考情報**: 「このジャケットの最大の特徴は、独自の二重織り技術によってダウンの区切りを生地自体が作り出すシンセシスコンストラクションです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEC826XX6Guj88xrvwdqaeXMl_F5O2RXtqtC6f48whsuJ9KVd9wxwr2FqM0R4jOpZD5Rm2Xku4Ec2fyATPrmIM9AMSYQkHfDt7DsQ2R9q6d5kyKUYDxkVTxNSXnOe2rSyZqwi3D3lZ6E4gdMncBWh0cMCfcWSzySckYo-boDfn4yCNi4FVHkrg7urjo6phVujxxnis`</details>
 
 **JK**: 全部克服ってすごい…でも、高いんでしょ？
 
@@ -227,7 +227,7 @@ Tags: Down, Guide
 
 **先生**: ロシア語で「勝利」という意味だ。面白いことに、このモデルは「3-in-1」、つまり**アウターシェル、インナージャケット、そして両方を組み合わせた状態の3通りで使える**んだ。
 
-**参考情報**: 「アウターシェル、インナーの保温ジャケット、または両方を組み合わせて着用できます。これにより、秋から春先まで幅広い気温やシーンに対応可能です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUqRgf-n387tj2fzSrfnPBuL-CJezr2tjrQ_vOw-B__u30L4yPndQtKDrAUEIR--t-24zOButvVxjtzxoVcr3wVL9IMcpej0gmjUqr9W0R-RRsgRc5kM_9aLJsv0SNVpuTTQnHvqy_GvE=`</details>
+> **参考情報**: 「アウターシェル、インナーの保温ジャケット、または両方を組み合わせて着用できます。これにより、秋から春先まで幅広い気温やシーンに対応可能です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUqRgf-n387tj2fzSrfnPBuL-CJezr2tjrQ_vOw-B__u30L4yPndQtKDrAUEIR--t-24zOButvVxjtzxoVcr3wVL9IMcpej0gmjUqr9W0R-RRsgRc5kM_9aLJsv0SNVpuTTQnHvqy_GvE=`</details>
 
 **JK**: あ、それ知ってる！インナーだけ外して着れるやつでしょ？
 
@@ -237,7 +237,7 @@ Tags: Down, Guide
 
 **先生**: 公式サイトでも4.7点（5点満点中）と非常に高い評価を得ている。「使い勝手、防寒、デザイン全て良し！」という声や、「10年使った後にまた買い直した」という口コミもあるほどだ。
 
-**参考情報**: 「公式オンラインストアでは、ポベダ II 3in1 ジャケットが4.7点（5点満点中）と高いレビュー評価を得ています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwTYeghdKhO5qiZLj6neZzzf0uAuWG7IDOWNjUHzrQiCToDqY165j3GYWslsWDKsJYPbC0o4HYD1VXdyflQTRySSq10gbxpkblU34XXH6rCHkhOCCbY0jW7be4MTiWML66-CNjGESiWL-1GzhfkPcgug==`</details>
+> **参考情報**: 「公式オンラインストアでは、ポベダ II 3in1 ジャケットが4.7点（5点満点中）と高いレビュー評価を得ています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwTYeghdKhO5qiZLj6neZzzf0uAuWG7IDOWNjUHzrQiCToDqY165j3GYWslsWDKsJYPbC0o4HYD1VXdyflQTRySSq10gbxpkblU34XXH6rCHkhOCCbY0jW7be4MTiWML66-CNjGESiWL-1GzhfkPcgug==`</details>
 
 **JK**: 10年使って買い直し！すごい信頼感…
 
@@ -277,7 +277,7 @@ Tags: Down, Guide
 
 **先生**: ティフォンはミレーが開発した**防水透湿素材の名前**だ。このジャケットは、ダウンジャケットと防水ジャケットが一体化している画期的なモデルだな。
 
-**参考情報**: 「耐水圧20,000mm、透湿性50,000g/m²/24hという非常に高い透湿性を持っています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaRA3Nep9FzxGa8UzqcDKWrjNqEAalntIWFrehz4txQ4tDZbITFtESI7M_WZduyV94roM1XxirfF5lRtc65TktRQZKkDZrUDU2Rd1OI71zhAece68=`</details>
+> **参考情報**: 「耐水圧20,000mm、透湿性50,000g/m²/24hという非常に高い透湿性を持っています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaRA3Nep9FzxGa8UzqcDKWrjNqEAalntIWFrehz4txQ4tDZbITFtESI7M_WZduyV94roM1XxirfF5lRtc65TktRQZKkDZrUDU2Rd1OI71zhAece68=`</details>
 
 **JK**: え！？ダウンなのに防水？濡れたらダメなんじゃないですか？
 
@@ -343,7 +343,7 @@ Tags: Down, Guide
 
 **先生**: ミレーのウェアは**ヨーロッパのサイズ表記**になっているんだ。日本のサイズとは違う。
 
-**参考情報**: 「ミレーのウェア（ドライナミックメッシュシリーズを除く）は、多くの場合EUサイズで表記されており、Sサイズ=日本Mサイズとなります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs8mDedgi7NVAyoSGudybT_fC8beu5ca8eU_uQ-Jf4QyQGQzIHkBysAOoTNokQ87OfmgOF7FNAKYshzC8IZAsgUhLCtU-ARsMXyDmU9aPonut_HwR0r2To-oqmpCrTdkxBxIBhWiFUxNJhSeDfItFM`</details>
+> **参考情報**: 「ミレーのウェア（ドライナミックメッシュシリーズを除く）は、多くの場合EUサイズで表記されており、Sサイズ=日本Mサイズとなります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs8mDedgi7NVAyoSGudybT_fC8beu5ca8eU_uQ-Jf4QyQGQzIHkBysAOoTNokQ87OfmgOF7FNAKYshzC8IZAsgUhLCtU-ARsMXyDmU9aPonut_HwR0r2To-oqmpCrTdkxBxIBhWiFUxNJhSeDfItFM`</details>
 
 **JK**: えっ、じゃあ普段Mサイズの人はSを選ぶってこと？
 
@@ -379,7 +379,7 @@ Tags: Down, Guide
 5. **丁寧にすすぐ**：泡が出なくなるまで繰り返す
 6. **脱水は短時間**：洗濯機なら1分程度
 
-**参考情報**: 「漂白剤、柔軟剤、蛍光増白剤が含まれる洗剤は、ダウンの品質や撥水性能を損なう可能性があるため、使用を避けてください」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaD_FwmtWmCtieOqYjBYdDK6g4bIZ9yNDeNJngi53Ac0ROqZJfz7MRKWVOu2nUt4vBWp6vvh1D84tGXrpX2kfJdBbRogOBpRbKqBKwInpGSQ6WWOjuRCE6i_db3A6KSc4-`</details>
+> **参考情報**: 「漂白剤、柔軟剤、蛍光増白剤が含まれる洗剤は、ダウンの品質や撥水性能を損なう可能性があるため、使用を避けてください」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaD_FwmtWmCtieOqYjBYdDK6g4bIZ9yNDeNJngi53Ac0ROqZJfz7MRKWVOu2nUt4vBWp6vvh1D84tGXrpX2kfJdBbRogOBpRbKqBKwInpGSQ6WWOjuRCE6i_db3A6KSc4-`</details>
 
 **JK**: 柔軟剤ダメなんですか？いい匂いにしたかった…
 
@@ -419,7 +419,7 @@ Tags: Down, Guide
 | **ノースフェイス** | タウンユースとのバランス、光電子ダウン、デザイン性 | モデルによる | 3〜7万円 |
 | **パタゴニア** | 環境配慮、リサイクルダウン100%、レトロデザイン | 600〜800FP | 3〜5万円 |
 
-**参考情報**: 「ミレーのダウンジャケットは、高い山岳機能性、軽量・保温性・撥水性、湿気に強い構造、独自の縫製技術、スタイリッシュなシルエットが特徴」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkzQAyPlwm2c45jWLjSaTODjJqJZH4RaFP3fr5vH3DWyifqjTOceirm_hO3TuBHqZJyUlEP5Gby_y2Ek2YAeoe2T71V_ods05AMnuImD1nToLB5X2xD93KTtN4Nttl-GUNoJKObtDVsQkP`</details>
+> **参考情報**: 「ミレーのダウンジャケットは、高い山岳機能性、軽量・保温性・撥水性、湿気に強い構造、独自の縫製技術、スタイリッシュなシルエットが特徴」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkzQAyPlwm2c45jWLjSaTODjJqJZH4RaFP3fr5vH3DWyifqjTOceirm_hO3TuBHqZJyUlEP5Gby_y2Ek2YAeoe2T71V_ods05AMnuImD1nToLB5X2xD93KTtN4Nttl-GUNoJKObtDVsQkP`</details>
 
 **JK**: モンベル安い！コスパ重視なら…
 

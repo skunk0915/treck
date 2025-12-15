@@ -31,7 +31,7 @@ Tags: Cooking, Guide
 
 **先生**: そう思う人は多い。ジップ袋に入れても、臭いや汚れが気になる。それに、毎回割り箸を用意するのもコストがかかる。そんな人には、繰り返し使える「マイカトラリー」が便利だ。洗えば何度も使えるし、長い目で見れば経済的でもある。
 
-**参考情報**: 「登山における最も基本的なマナーの一つは「ゴミは全て持ち帰る」ことです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU5g-QMzdMicLp6-tO0LdwrlBVND-BmZ45SazZ4lEMgYWw5XFH_mJvRVWVyE9bmOhSYaRIEWNaice0Z9-Q9JDZZZEzEwWPSrVTFWlq3suz8kP_vN-16QXgFajXoTVxEZmVJTeyYHQov-0=`</details>
+> **参考情報**: 「登山における最も基本的なマナーの一つは「ゴミは全て持ち帰る」ことです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU5g-QMzdMicLp6-tO0LdwrlBVND-BmZ45SazZ4lEMgYWw5XFH_mJvRVWVyE9bmOhSYaRIEWNaice0Z9-Q9JDZZZEzEwWPSrVTFWlq3suz8kP_vN-16QXgFajXoTVxEZmVJTeyYHQov-0=`</details>
 
 **JK**: でも、山小屋とかにゴミ箱ないんですか?
 
@@ -113,7 +113,7 @@ Tags: Cooking, Guide
 
 **先生**: スプーンとフォークが一体になったカトラリーだ。スプーンの先端がフォークのように割れているタイプと、一本の両端にスプーンとフォークが付いているタイプがある。
 
-**参考情報**: 「スポークには、スプーンの先端がフォークのように割れているタイプと、一本の両端にスプーンとフォークが付いているタイプがあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeeWqm5-_zRdeB3JocPje2ncJxQKO0L5SfIpk9wgIX8_deIHY00aaLKf8QC5uzOPh92mB6HiawIjQpGt6n1hwLLx8FzWlCUCFji9Qwbpt_eEPQwuDDyqemapQrswlE6dj8xEA31w==`</details>
+> **参考情報**: 「スポークには、スプーンの先端がフォークのように割れているタイプと、一本の両端にスプーンとフォークが付いているタイプがあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeeWqm5-_zRdeB3JocPje2ncJxQKO0L5SfIpk9wgIX8_deIHY00aaLKf8QC5uzOPh92mB6HiawIjQpGt6n1hwLLx8FzWlCUCFji9Qwbpt_eEPQwuDDyqemapQrswlE6dj8xEA31w==`</details>
 
 **JK**: 1本で2役! それ便利そう!
 
@@ -152,7 +152,7 @@ Tags: Cooking, Guide
 
 **先生**: まず、超軽量。14〜30g程度で、ステンレスの半分ほどの重さだ。そして、非常に頑丈で錆びにくい。金属臭もないから、食べ物の風味を損なわない。
 
-**参考情報**: 「チタン製カトラリーは、軽量性、頑丈さ、錆びにくさ、そして金属特有の臭いがなく食べ物の風味を損なわない点が大きなメリットです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmfNtIvElPm2CvZyGgBf5Lsz_dGcJXmpb4w7UF54h3s1fGKuCKD0kZwx_wYhbrI3Gc41xaUp2Ozhj59qYIiGw9KK4aVqo9_BMJpWdXiIvajhykIb99wKBsdE-tWnR1Em87sT1uah7cdQ==`</details>
+> **参考情報**: 「チタン製カトラリーは、軽量性、頑丈さ、錆びにくさ、そして金属特有の臭いがなく食べ物の風味を損なわない点が大きなメリットです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmfNtIvElPm2CvZyGgBf5Lsz_dGcJXmpb4w7UF54h3s1fGKuCKD0kZwx_wYhbrI3Gc41xaUp2Ozhj59qYIiGw9KK4aVqo9_BMJpWdXiIvajhykIb99wKBsdE-tWnR1Em87sT1uah7cdQ==`</details>
 
 **JK**: 完璧じゃないですか!
 
@@ -276,7 +276,7 @@ Tags: Cooking, Guide
 
 **先生**: 「チタン先割れスプーン」が定番だ。超軽量で、ハンドルに穴が開いているから、カラビナでザックに吊り下げられる。
 
-**参考情報**: 「スノーピークのチタン先割れスプーンは、特に人気のある製品です。口当たりが良く、快適に使用できるという声が多く聞かれます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpjliz9zN4YeB_4KKFZdzC_PdC3Pa4rx3y2-ciWNumsWK77OQKQNnPklcXBGS2k0GFVy1mM0HBV7zFY6oXwNyyjRyccqQ0G1aLJiYN62zIwQMOQFuEeQuDK4BQ82UG53PcQPg=`</details>
+> **参考情報**: 「スノーピークのチタン先割れスプーンは、特に人気のある製品です。口当たりが良く、快適に使用できるという声が多く聞かれます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpjliz9zN4YeB_4KKFZdzC_PdC3Pa4rx3y2-ciWNumsWK77OQKQNnPklcXBGS2k0GFVy1mM0HBV7zFY6oXwNyyjRyccqQ0G1aLJiYN62zIwQMOQFuEeQuDK4BQ82UG53PcQPg=`</details>
 
 **JK**: フォークの歯が短くて麺は食べにくいって言ってましたよね?
 
@@ -296,7 +296,7 @@ Tags: Cooking, Guide
 
 **先生**: 軽量性を追求するなら、「フェザースポーク」。厚さ0.8mmのチタンで、重さはわずか14g だ。
 
-**参考情報**: 「モンベルの「フェザースポーク」は厚さ0.8mmのチタンを使用し、重さはわずか14gと超軽量です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQoWy5AvKDP8fH4Rvwz8EhsKLMfUfAt-v8D9saRkQGR6t6cVn0ENxvXcMGvqS9yy5B-CRE6UzzwWQfIo1SIuJhh57YwTsFDddVJsUmQQj8DwyLyvBlYlPu25Htm_t20TcyLeSP9Evm06TTPRyz2i9bVEXx_g==`</details>
+> **参考情報**: 「モンベルの「フェザースポーク」は厚さ0.8mmのチタンを使用し、重さはわずか14gと超軽量です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQoWy5AvKDP8fH4Rvwz8EhsKLMfUfAt-v8D9saRkQGR6t6cVn0ENxvXcMGvqS9yy5B-CRE6UzzwWQfIo1SIuJhh57YwTsFDddVJsUmQQj8DwyLyvBlYlPu25Htm_t20TcyLeSP9Evm06TTPRyz2i9bVEXx_g==`</details>
 
 **JK**: 軽っ!
 
@@ -320,7 +320,7 @@ Tags: Cooking, Guide
 
 **先生**: 製品にもよるが、半分〜3分の1程度のサイズになる。メスティン(飯ごう)の中に収納できるものもある。
 
-**参考情報**: 「折りたたみ式のカトラリーは、コンパクトに収納でき、携帯性に優れているため、アウトドア、キャンプ、旅行、日常のお弁当用など、様々なシーンで活躍します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwjQ4b3oKXLf1G8kzwM9M0UVuuS_YsJJR3mFnYqcxjF9oF9Op39uG758Bw_rkoI1zrQpIrqa1m0vEjEzQuII08fe6ZMaTZGXRNAQXaDVEH7D1mVW-3nAudy2cprm6Rl_UHYx8=`</details>
+> **参考情報**: 「折りたたみ式のカトラリーは、コンパクトに収納でき、携帯性に優れているため、アウトドア、キャンプ、旅行、日常のお弁当用など、様々なシーンで活躍します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwjQ4b3oKXLf1G8kzwM9M0UVuuS_YsJJR3mFnYqcxjF9oF9Op39uG758Bw_rkoI1zrQpIrqa1m0vEjEzQuII08fe6ZMaTZGXRNAQXaDVEH7D1mVW-3nAudy2cprm6Rl_UHYx8=`</details>
 
 **JK**: それは助かりますね! でも、使用中に折れ曲がったりしませんか?
 
@@ -343,7 +343,7 @@ Tags: Cooking, Guide
 
 **先生**: 山では、水の使用量を最小限に抑え、洗剤は使わないのが原則だ。
 
-**参考情報**: 「山中では、水の使用量を最小限に抑え、洗剤は使用しないのが原則です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGljMPhjUMUU6BHoaURoVJ2KPG3Zixu_8q18Soe_4DneH2Uff82QKWVfM0lSjbrx8McoISsGfIBOeyOtj1GFySfR0SR6MGJwV4DF2t8CXXGHAuOuWi2yA==`</details>
+> **参考情報**: 「山中では、水の使用量を最小限に抑え、洗剤は使用しないのが原則です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGljMPhjUMUU6BHoaURoVJ2KPG3Zixu_8q18Soe_4DneH2Uff82QKWVfM0lSjbrx8McoISsGfIBOeyOtj1GFySfR0SR6MGJwV4DF2t8CXXGHAuOuWi2yA==`</details>
 
 **JK**: じゃあどうするんですか?
 

@@ -49,7 +49,7 @@ Tags: Know-how, Guide
 
 **先生**: バイオトイレは、おがくずや木チップなどの有機物と排泄物を混ぜて、微生物の力で分解するタイプのトイレだ。
 
-**参考情報**: 「排泄物を微生物（腸内バクテリアや自然界の微生物）の働きで分解します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjVjGb9a-7754MrwDXo3iVzulNvPaRFzxfsLF-vgvQfi1h1ELW7AxxdkSfeVbUmHwv-jRzpWH5okyJkOzJ0smsYH7sH6BQkIM-EVMRAUhrhK6Jask6-ZDxcHSPx0QzLmypiA==`</details>
+> **参考情報**: 「排泄物を微生物（腸内バクテリアや自然界の微生物）の働きで分解します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjVjGb9a-7754MrwDXo3iVzulNvPaRFzxfsLF-vgvQfi1h1ELW7AxxdkSfeVbUmHwv-jRzpWH5okyJkOzJ0smsYH7sH6BQkIM-EVMRAUhrhK6Jask6-ZDxcHSPx0QzLmypiA==`</details>
 
 **JK**: え、微生物で分解…？なんかSFっぽい。
 
@@ -72,7 +72,7 @@ Tags: Know-how, Guide
 - **汲み取り式**: 便槽に貯めて定期的にヘリコプターや専用車で搬出
 - **簡易浄化式**: 微生物で分解し、浄化した処理水を放流
 
-**参考情報**: 「し尿を沈殿させた後、汚泥以外の水をカキ殻に通して微生物で分解し、洗浄水として再利用する方式」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGznjx9lf0yRuiS92H27Q0DTDz7HXykax_ykyyScU3NdOvDWIBSdTiokIjQ3CXCJenPAvYiiGiC7n8k_8wMAknyIB9opsqJDgaLXi0Z1GD9RyI2a6jtqXN8j2QVLaW2ythqsZGI3x9MF3o=`</details>
+> **参考情報**: 「し尿を沈殿させた後、汚泥以外の水をカキ殻に通して微生物で分解し、洗浄水として再利用する方式」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGznjx9lf0yRuiS92H27Q0DTDz7HXykax_ykyyScU3NdOvDWIBSdTiokIjQ3CXCJenPAvYiiGiC7n8k_8wMAknyIB9opsqJDgaLXi0Z1GD9RyI2a6jtqXN8j2QVLaW2ythqsZGI3x9MF3o=`</details>
 
 **JK**: ヘリコプターで運ぶって…すごいコストじゃないですか？
 
@@ -90,7 +90,7 @@ Tags: Know-how, Guide
 
 **先生**: 以前は五合目以上のトイレに貯められたし尿が、登山シーズン終了後に直接地面に放流されたり埋め立てられたりしていた。
 
-**参考情報**: 「かつて富士山では、五合目以上のトイレにし尿が貯められ、登山シーズン終了後に適切に処理されずに直接地面に放流または埋め立てられていました」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHccumia-KWTrhz3WYjZuSyqQYU07xWKFXiPCqvjoehEHBdKmyzieCXi4ZvuBT2uyLg5EgmgBab-OOXxOWK79JMC9316kZ0aFs5wA3CVjbP1ecz-f4L4IQ5Xj-PJqzq8nzJG7aQuj6oVtytTtPz`</details>
+> **参考情報**: 「かつて富士山では、五合目以上のトイレにし尿が貯められ、登山シーズン終了後に適切に処理されずに直接地面に放流または埋め立てられていました」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHccumia-KWTrhz3WYjZuSyqQYU07xWKFXiPCqvjoehEHBdKmyzieCXi4ZvuBT2uyLg5EgmgBab-OOXxOWK79JMC9316kZ0aFs5wA3CVjbP1ecz-f4L4IQ5Xj-PJqzq8nzJG7aQuj6oVtytTtPz`</details>
 
 **JK**: うわ…そんなことがあったんですか。
 
@@ -108,7 +108,7 @@ Tags: Know-how, Guide
 
 **先生**: 北アルプスの山小屋はほとんどが民営で、トイレの設置・維持管理は山小屋が自力で行っている。
 
-**参考情報**: 「北アルプスの山小屋のほとんどが民営であり、トイレの設置や維持管理は山小屋が自力で行っているのが現状です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiUidqDTaHfNBFhRKAJGQFf8T9agxCJBcx96bd6zV0drN2QjkUU9g0ULPbW-Tmh8kgEIw6jB5SzXW0Ng-Ggc4DdqPJTi35ytdPYdjDotyoTx40tOrgZydNUzb4zoGp6ZZ-iRfQ1tfF_yD-jRBxEfQ2yGMKnmIWQM6avuaDQVtR`</details>
+> **参考情報**: 「北アルプスの山小屋のほとんどが民営であり、トイレの設置や維持管理は山小屋が自力で行っているのが現状です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiUidqDTaHfNBFhRKAJGQFf8T9agxCJBcx96bd6zV0drN2QjkUU9g0ULPbW-Tmh8kgEIw6jB5SzXW0Ng-Ggc4DdqPJTi35ytdPYdjDotyoTx40tOrgZydNUzb4zoGp6ZZ-iRfQ1tfF_yD-jRBxEfQ2yGMKnmIWQM6avuaDQVtR`</details>
 
 **JK**: え、自力で？大変そう…
 
@@ -130,7 +130,7 @@ Tags: Know-how, Guide
 
 **先生**: 山のトイレは詰まりやすい構造のものが多い。使用済みのペーパーは備え付けのゴミ箱に入れるか、持ち帰るのが基本だ。
 
-**参考情報**: 「多くの山小屋では、使用済みのトイレットペーパーは備え付けのごみ箱に入れるか、持ち帰ることが義務付けられています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-XHVXlrDRs0kh5kOOh49IQK3xKdyfEHXTSfMf0dlpeSrfQUwqWNGJJaPkgsB0aWh7B3cGNC30KKjdlONxSgdHeeynbliTKSvleNnbuaPSltaLKupIfO2n4_2tyHAa9KakpG7E9pYOOeVLwdBg`</details>
+> **参考情報**: 「多くの山小屋では、使用済みのトイレットペーパーは備え付けのごみ箱に入れるか、持ち帰ることが義務付けられています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-XHVXlrDRs0kh5kOOh49IQK3xKdyfEHXTSfMf0dlpeSrfQUwqWNGJJaPkgsB0aWh7B3cGNC30KKjdlONxSgdHeeynbliTKSvleNnbuaPSltaLKupIfO2n4_2tyHAa9KakpG7E9pYOOeVLwdBg`</details>
 
 **JK**: うわ、ちょっと抵抗あるけど…仕方ないんですね。
 
@@ -149,7 +149,7 @@ Tags: Know-how, Guide
 
 **先生**: 一般的には100円から200円程度だ。富士山では100円から300円と幅がある。
 
-**参考情報**: 「多くの山小屋では、トイレの維持管理費として100円程度の「トイレチップ」を求めています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-XHVXlrDRs0kh5kOOh49IQK3xKdyfEHXTSfMf0dlpeSrfQUwqWNGJJaPkgsB0aWh7B3cGNC30KKjdlONxSgdHeeynbliTKSvleNnbuaPSltaLKupIfO2n4_2tyHAa9KakpG7E9pYOOeVLwdBg`</details>
+> **参考情報**: 「多くの山小屋では、トイレの維持管理費として100円程度の「トイレチップ」を求めています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-XHVXlrDRs0kh5kOOh49IQK3xKdyfEHXTSfMf0dlpeSrfQUwqWNGJJaPkgsB0aWh7B3cGNC30KKjdlONxSgdHeeynbliTKSvleNnbuaPSltaLKupIfO2n4_2tyHAa9KakpG7E9pYOOeVLwdBg`</details>
 
 **JK**: 現金で払うんですよね？
 
@@ -187,13 +187,13 @@ Tags: Know-how, Guide
 
 **先生**: 私が使っているのは**モンベルのO.D.トイレキット**だ。便袋、凝固剤、防臭袋がそれぞれ1回分ずつセットになっていて、非常に軽量コンパクト。
 
-**参考情報**: 「モンベルのO.D.トイレキットは、軽量性とコンパクトさに優れており、登山での携帯に非常に適しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWj6FqAdXo4Tnbxci7AjcdgqrRFIxf0fLuI4pVoZlaiX2rYhFpobCKEtQI_wPKUCZDwcQJ3-V4hJfJ11-Bhi0U4pR6Nhh7bddoKDBoFwS5kO42AJjThNE=`</details>
+> **参考情報**: 「モンベルのO.D.トイレキットは、軽量性とコンパクトさに優れており、登山での携帯に非常に適しています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWj6FqAdXo4Tnbxci7AjcdgqrRFIxf0fLuI4pVoZlaiX2rYhFpobCKEtQI_wPKUCZDwcQJ3-V4hJfJ11-Bhi0U4pR6Nhh7bddoKDBoFwS5kO42AJjThNE=`</details>
 
 **JK**: 他にも選択肢はありますか？
 
 **先生**: **サニタクリーン**も人気がある。こちらは吸収シートが袋と一体型になっていて、使いやすいと評判だ。災害備蓄としても優秀だから、自宅用と兼ねて揃えるのもいい。
 
-**参考情報**: 「登山用携帯トイレとして使える個人的条件を満たすのは、モンベルの「ODトイレキット」とハイマウントの「サニタクリーン携帯トイレ」の2つのみ」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBIWhTIRgn2vGiW6kuFwulD6jN-fWmN82pBIxOjpzhywOS02m5pSwb-6vScKNwlq_ICTJM-ci2fdnElkyzClOUvsu2-Xp_opgIPXgqkxN47yVEqAQfTU0Uilh-j5HQv75t4A80DfukFH0Pc-vzvys=`</details>
+> **参考情報**: 「登山用携帯トイレとして使える個人的条件を満たすのは、モンベルの「ODトイレキット」とハイマウントの「サニタクリーン携帯トイレ」の2つのみ」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBIWhTIRgn2vGiW6kuFwulD6jN-fWmN82pBIxOjpzhywOS02m5pSwb-6vScKNwlq_ICTJM-ci2fdnElkyzClOUvsu2-Xp_opgIPXgqkxN47yVEqAQfTU0Uilh-j5HQv75t4A80DfukFH0Pc-vzvys=`</details>
 
 #### 携帯トイレ比較表
 
@@ -214,7 +214,7 @@ Tags: Know-how, Guide
 2. **用を足す**: 凝固剤が水分を吸収してゲル化する
 3. **密閉して持ち帰る**: 便袋の口をしっかり閉じ、防臭袋に入れる
 
-**参考情報**: 「使用後は袋をしっかりと密閉し、臭いが漏れないように工夫された外袋に入れて持ち帰ります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaq-0cUXSxh3Acu8Jv2T1FcR8FqV1VJsfUFQEO35fBc9yiHOx2akdJHEWpkQUZFNjr2JO4akHJi91oQ9Cf4VfmaikHw6loL5JTJT0E63npvb8BUQ==`</details>
+> **参考情報**: 「使用後は袋をしっかりと密閉し、臭いが漏れないように工夫された外袋に入れて持ち帰ります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaq-0cUXSxh3Acu8Jv2T1FcR8FqV1VJsfUFQEO35fBc9yiHOx2akdJHEWpkQUZFNjr2JO4akHJi91oQ9Cf4VfmaikHw6loL5JTJT0E63npvb8BUQ==`</details>
 
 **JK**: 持ち帰った後はどうするんですか？
 
@@ -230,7 +230,7 @@ Tags: Know-how, Guide
 
 **先生**: 携帯トイレを使うための専用の小屋のことだ。中に便座があり、鍵もかかる。人目を気にせず安心して使用できる。
 
-**参考情報**: 「トムラウシ山では、南沼野営指定地やカムイサンケナイ川沿いの登山道に携帯トイレブースが設置されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrfKNUt1HgbGBgjLXxx38VCMeUG3-QNaNvH_UEwPI0qF0LPTvVmfknlDazKvw0f6g-qcDWtZem86_HaY7uSv2Da-ZOUVU5jYX0jA3rf5mfzR7Kaf32lwmugriLwLrJdh5UdihfdrUAA0yK`</details>
+> **参考情報**: 「トムラウシ山では、南沼野営指定地やカムイサンケナイ川沿いの登山道に携帯トイレブースが設置されています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrfKNUt1HgbGBgjLXxx38VCMeUG3-QNaNvH_UEwPI0qF0LPTvVmfknlDazKvw0f6g-qcDWtZem86_HaY7uSv2Da-ZOUVU5jYX0jA3rf5mfzR7Kaf32lwmugriLwLrJdh5UdihfdrUAA0yK`</details>
 
 **JK**: どこに設置されてるんですか？
 
@@ -280,7 +280,7 @@ Tags: Know-how, Guide
 
 **先生**: **トイレットペーパーは必ずすべて持ち帰る**。これは絶対のルールだ。
 
-**参考情報**: 「使用したトイレットペーパーは必ずすべて持ち帰ります。土に還らないティッシュペーパーは、景観を損ねるだけでなく自然保護の観点からも持ち帰るべきです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK5BhU2rYU4dAXLen3Onmw3k9gQDF5nffaQrxETDlt25vsqFpchn2H28R_veid4-9Jf9o9-qXw87NCywpUouDt5bHnmLfUDgzcFRFw4yhVP3nJ`</details>
+> **参考情報**: 「使用したトイレットペーパーは必ずすべて持ち帰ります。土に還らないティッシュペーパーは、景観を損ねるだけでなく自然保護の観点からも持ち帰るべきです」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK5BhU2rYU4dAXLen3Onmw3k9gQDF5nffaQrxETDlt25vsqFpchn2H28R_veid4-9Jf9o9-qXw87NCywpUouDt5bHnmLfUDgzcFRFw4yhVP3nJ`</details>
 
 **JK**: わかりました。でもやっぱり、携帯トイレを使うのが一番いいですよね。
 
@@ -314,7 +314,7 @@ Tags: Know-how, Guide
 
 **先生**: 非常に危険だ。脱水症状や熱中症のリスクが高まる。トイレを心配して水分を控えるのは絶対にやめてほしい。
 
-**参考情報**: 「水分摂取を控えるのは避けるべきです。喉が渇く前にこまめに少量ずつ水分を摂ることで、体に効率よく吸収され、尿意が頻繁に起こるのを防ぎます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKj2YNCLWUxSRnlIEXmTMdHLkUo6AAOYh_yk_BuVb0RDdHzsDxy9ekyFFDyXwbfEsDp1Lg8UlNLzbAI0Z0dT16DgbWbl5hE2LkJBx4oSEHHjqinA==`</details>
+> **参考情報**: 「水分摂取を控えるのは避けるべきです。喉が渇く前にこまめに少量ずつ水分を摂ることで、体に効率よく吸収され、尿意が頻繁に起こるのを防ぎます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKj2YNCLWUxSRnlIEXmTMdHLkUo6AAOYh_yk_BuVb0RDdHzsDxy9ekyFFDyXwbfEsDp1Lg8UlNLzbAI0Z0dT16DgbWbl5hE2LkJBx4oSEHHjqinA==`</details>
 
 **JK**: でも、水飲んだらトイレ行きたくなりません？
 
@@ -377,7 +377,7 @@ Tags: Know-how, Guide
 - 利用料金（有料か無料か）
 - 携帯トイレブースの有無
 
-**参考情報**: 「登山計画を立てる際に、ルート上のトイレの場所を地図や山小屋のウェブサイト、登山アプリなどで事前に確認しましょう」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaq-0cUXSxh3Acu8Jv2T1FcR8FqV1VJsfUFQEO35fBc9yiHOx2akdJHEWpkQUZFNjr2JO4akHJi91oQ9Cf4VfmaikHw6loL5JTJT0E63npvb8BUQ==`</details>
+> **参考情報**: 「登山計画を立てる際に、ルート上のトイレの場所を地図や山小屋のウェブサイト、登山アプリなどで事前に確認しましょう」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaq-0cUXSxh3Acu8Jv2T1FcR8FqV1VJsfUFQEO35fBc9yiHOx2akdJHEWpkQUZFNjr2JO4akHJi91oQ9Cf4VfmaikHw6loL5JTJT0E63npvb8BUQ==`</details>
 
 ### 持ち物チェックリスト
 
@@ -399,7 +399,7 @@ Tags: Know-how, Guide
 
 **先生**: **登山開始前には、必ず登山口や最寄りの施設でトイレを済ませておくこと**。
 
-**参考情報**: 「登山開始前には必ず登山口や最寄りの駅でトイレを済ませておくのが基本です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaq-0cUXSxh3Acu8Jv2T1FcR8FqV1VJsfUFQEO35fBc9yiHOx2akdJHEWpkQUZFNjr2JO4akHJi91oQ9Cf4VfmaikHw6loL5JTJT0E63npvb8BUQ==`</details>
+> **参考情報**: 「登山開始前には必ず登山口や最寄りの駅でトイレを済ませておくのが基本です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaq-0cUXSxh3Acu8Jv2T1FcR8FqV1VJsfUFQEO35fBc9yiHOx2akdJHEWpkQUZFNjr2JO4akHJi91oQ9Cf4VfmaikHw6loL5JTJT0E63npvb8BUQ==`</details>
 
 **JK**: たとえ行きたくなくてもですか？
 

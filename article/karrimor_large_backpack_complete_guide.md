@@ -32,7 +32,7 @@ Tags: Backpack, Guide
 
 **先生**: その通り。カリマーは**日本人の体型に合わせた設計**をしているし、女性専用モデルもある。それに、1泊のテント泊と1週間の縦走じゃ必要な容量も全然違うだろう？
 
-**参考情報**: 「日本人の体型に合わせた設計がされており、ショルダーハーネスやヒップベルトが快適だと評価されています」<details><summary>出典</summary>`https://www.yamano-media.com/`</details>
+> **参考情報**: 「日本人の体型に合わせた設計がされており、ショルダーハーネスやヒップベルトが快適だと評価されています」<details><summary>出典</summary>`https://www.yamano-media.com/`</details>
 
 **JK**: なるほど…。じゃあまず、どんなシリーズがあるか教えてください！
 
@@ -54,7 +54,7 @@ Tags: Backpack, Guide
 
 **先生**: **SA（サイズアジャスト）システム**は、カリマーが1983年に世界で初めて発表した**背面長調整システム**のことだ。
 
-**参考情報**: 「1983年に『世界初のサイズ・アジャスト・システム』として発表され、これまで大型リュックサックを中心に採用されてきましたが、近年では中型リュックサックにも搭載されています」<details><summary>出典</summary>`https://www.karrimor.jp/`</details>
+> **参考情報**: 「1983年に『世界初のサイズ・アジャスト・システム』として発表され、これまで大型リュックサックを中心に採用されてきましたが、近年では中型リュックサックにも搭載されています」<details><summary>出典</summary>`https://www.karrimor.jp/`</details>
 
 **JK**: 背面長？背中の長さのこと？
 
@@ -79,7 +79,7 @@ Tags: Backpack, Guide
 5. チェストストラップを適切な高さで締める
 6. 最後にトップベルトを軽く締めて安定させる
 
-**参考情報**: 「SAシステムは、リュックサックを背負ったままで調整が可能であり、荷物の量、フィールドの状況、体調などに合わせて常に最適なフィッティングを得ることができます」<details><summary>出典</summary>`https://www.youtube.com/`</details>
+> **参考情報**: 「SAシステムは、リュックサックを背負ったままで調整が可能であり、荷物の量、フィールドの状況、体調などに合わせて常に最適なフィッティングを得ることができます」<details><summary>出典</summary>`https://www.youtube.com/`</details>
 
 **JK**: 6ステップもあるんですか…覚えられるかな…。
 
@@ -106,7 +106,7 @@ Tags: Backpack, Guide
 - **素材**: 210D Cordura Dobby Nylon
 - **価格**: 49,500円（税込）
 
-**参考情報**: 「Karrimor Cougar Apex 70+の希望小売価格は49,500円（税込）です」<details><summary>出典</summary>`https://www.karrimor.jp/`</details>
+> **参考情報**: 「Karrimor Cougar Apex 70+の希望小売価格は49,500円（税込）です」<details><summary>出典</summary>`https://www.karrimor.jp/`</details>
 
 **JK**: 5万円近くするんですか！？高い！！
 
@@ -124,7 +124,7 @@ Tags: Backpack, Guide
 
 **先生**: さらに**フロントアクセス**機能がある。リュックの正面からもジッパーで中身を取り出せるから、パッキングで奥に入れてしまった物も簡単に出せる。
 
-**参考情報**: 「フロントアクセスや多彩なポケットは、荷物の整理や素早い出し入れに貢献し、利便性が高いと評価されています」<details><summary>出典</summary>`https://www.kojitusanso.jp/`</details>
+> **参考情報**: 「フロントアクセスや多彩なポケットは、荷物の整理や素早い出し入れに貢献し、利便性が高いと評価されています」<details><summary>出典</summary>`https://www.kojitusanso.jp/`</details>
 
 **JK**: へえ、普通は上から荷物を出し入れするだけですもんね。
 
@@ -134,7 +134,7 @@ Tags: Backpack, Guide
 
 **先生**: 鋭いな。確かにCougar Apexは**軽量モデルと比較すると重い**。だが、その分**背負い心地が抜群**で、実際に背負うと体感重量は軽く感じる。
 
-**参考情報**: 「全体的に頑丈な作りであるため、ザック自体の重量は約2,740g（55-75Lモデル）と、他の軽量パックと比較すると重いという意見もあります」<details><summary>出典</summary>`https://www.a-kimama.com/`</details>
+> **参考情報**: 「全体的に頑丈な作りであるため、ザック自体の重量は約2,740g（55-75Lモデル）と、他の軽量パックと比較すると重いという意見もあります」<details><summary>出典</summary>`https://www.a-kimama.com/`</details>
 
 #### こんな人におすすめ
 
@@ -163,13 +163,13 @@ Tags: Backpack, Guide
 
 **先生**: そうだ。リッド（雨蓋）を伸ばしたり、圧縮ストラップを緩めたりすることで、55Lから75Lまで容量を調整できる。
 
-**参考情報**: 「容量55-75Lの可変容量で、1泊から数泊のテント泊や小屋泊、長期縦走にも対応可能です。リッド（雨蓋）を伸ばすことでさらに容量を増やすことができます」<details><summary>出典</summary>`https://www.mountain-dc.com/`</details>
+> **参考情報**: 「容量55-75Lの可変容量で、1泊から数泊のテント泊や小屋泊、長期縦走にも対応可能です。リッド（雨蓋）を伸ばすことでさらに容量を増やすことができます」<details><summary>出典</summary>`https://www.mountain-dc.com/`</details>
 
 **JK**: へえ、行く山によって調整できるんですね。
 
 **先生**: このモデルの最大の特徴は**抜群の背負い心地**だ。肉厚なヒップベルトと背面パッドによって、荷重が**肩3：腰7**の割合で分散される。
 
-**参考情報**: 「肉厚なヒップベルトと背面パッド、一体化したショルダーベルトにより、荷重が肩3：腰7の割合で見事に分散され、実際の重量よりも軽く感じると評判です」<details><summary>出典</summary>`https://www.yamakei-online.com/`</details>
+> **参考情報**: 「肉厚なヒップベルトと背面パッド、一体化したショルダーベルトにより、荷重が肩3：腰7の割合で見事に分散され、実際の重量よりも軽く感じると評判です」<details><summary>出典</summary>`https://www.yamakei-online.com/`</details>
 
 **JK**: 肩3、腰7？それって肩より腰に重さが乗るってこと？
 
@@ -220,7 +220,7 @@ Tags: Backpack, Guide
 
 **先生**: 55-70Lの可変容量で、女性の体型に合わせてショルダーハーネスやヒップベルトの形状が最適化されている。
 
-**参考情報**: 「肩、腰、背中には厚手のパッドが配置されており、高い安心感と快適なフィット感を提供します。特に細身の女性にとって、肩や腰への干渉が少ない点が喜ばれています」<details><summary>出典</summary>`https://www.a-kimama.com/`</details>
+> **参考情報**: 「肩、腰、背中には厚手のパッドが配置されており、高い安心感と快適なフィット感を提供します。特に細身の女性にとって、肩や腰への干渉が少ない点が喜ばれています」<details><summary>出典</summary>`https://www.a-kimama.com/`</details>
 
 **JK**: 肩や腰への干渉が少ない？
 
@@ -230,13 +230,13 @@ Tags: Backpack, Guide
 
 **先生**: それに**横幅がスリムな形状**だから、狭い登山道でも歩きやすい。走った時の揺れも少ないと評判だぞ。
 
-**参考情報**: 「横幅がスリムな形状のため、狭い場所での動きやすさや、走った際の揺れが少ない一体感があります」<details><summary>出典</summary>`https://www.yamakei-online.com/`</details>
+> **参考情報**: 「横幅がスリムな形状のため、狭い場所での動きやすさや、走った際の揺れが少ない一体感があります」<details><summary>出典</summary>`https://www.yamakei-online.com/`</details>
 
 **JK**: 走る予定はないですけど…（笑）。でもスリムなのはいいかも。
 
 **先生**: ポケットも充実している。特に**ヒップベルトのポケットが大きくて**、スマートフォンや財布も入る。サコッシュを別に持たなくていいから便利だぞ。
 
-**参考情報**: 「ヒップベルトのポケットも大きく、スマートフォンや財布なども収納できるため、サコッシュが不要になるほどの使い勝手の良さがあります」<details><summary>出典</summary>`https://www.mountain-dc.com/`</details>
+> **参考情報**: 「ヒップベルトのポケットも大きく、スマートフォンや財布なども収納できるため、サコッシュが不要になるほどの使い勝手の良さがあります」<details><summary>出典</summary>`https://www.mountain-dc.com/`</details>
 
 **JK**: えっ、サコッシュいらないんですか！それめっちゃ便利！
 
@@ -246,7 +246,7 @@ Tags: Backpack, Guide
 
 **先生**: 濡れたレインウェアやアイゼンを入れても、メッシュのように中身が見えたり破れたりしにくい。気にせずガンガン放り込めるのは地味に便利だぞ。
 
-**参考情報**: 「外側のポケットにはメッシュ素材が使われておらず、丈夫なナイロン素材であるため、アイゼンや濡れたレインウェアなども気にせず収納できます」<details><summary>出典</summary>`https://www.mountain-dc.com/`</details>
+> **参考情報**: 「外側のポケットにはメッシュ素材が使われておらず、丈夫なナイロン素材であるため、アイゼンや濡れたレインウェアなども気にせず収納できます」<details><summary>出典</summary>`https://www.mountain-dc.com/`</details>
 
 #### 主なスペック
 
@@ -299,13 +299,13 @@ Tags: Backpack, Guide
 
 **先生**: 用途による。Ridge 50+は**3Dバックパネル**を内蔵していて、背中へのフィット感と安定性は高い。
 
-**参考情報**: 「3Dバックパネルを内蔵しており、フィット感と安定性を高めています」<details><summary>出典</summary>`https://www.yamatabitabi.com/`</details>
+> **参考情報**: 「3Dバックパネルを内蔵しており、フィット感と安定性を高めています」<details><summary>出典</summary>`https://www.yamatabitabi.com/`</details>
 
 **JK**: 3Dバックパネルって何ですか？
 
 **先生**: 背中に当たる部分が立体的な形状になっていて、背中のカーブにフィットしやすい構造のことだ。これがあると荷物が揺れにくく、長時間歩いても疲れにくい。
 
-**参考情報**: 「荷重バランスの良さが評価されており、荷物が多くても揺れにくいという意見があります」<details><summary>出典</summary>`https://richardh.work/`</details>
+> **参考情報**: 「荷重バランスの良さが評価されており、荷物が多くても揺れにくいという意見があります」<details><summary>出典</summary>`https://richardh.work/`</details>
 
 **JK**: へえ、軽いのにちゃんと考えられてるんですね。
 
@@ -354,7 +354,7 @@ Tags: Backpack, Guide
 
 **先生**: このモデルの最大の特徴は**エアスペースシステム**だ。背面部に空間を確保して、背中の蒸れを軽減する。
 
-**参考情報**: 「通気性を高めるために、緩やかに湾曲したワイヤーフレームによって背面部に空間を確保するシステムを採用しています。これにより、背中の汗や蒸れを軽減し、快適性を向上させています」<details><summary>出典</summary>`https://www.kompas.co.jp/`</details>
+> **参考情報**: 「通気性を高めるために、緩やかに湾曲したワイヤーフレームによって背面部に空間を確保するシステムを採用しています。これにより、背中の汗や蒸れを軽減し、快適性を向上させています」<details><summary>出典</summary>`https://www.kompas.co.jp/`</details>
 
 **JK**: えっ、背中とリュックの間に隙間があるってこと？
 
@@ -364,7 +364,7 @@ Tags: Backpack, Guide
 
 **先生**: それに**容量表示以上に収納力がある**という評価もある。40Lだけど、工夫次第で1泊のテント泊にも使えるぞ。
 
-**参考情報**: 「Karrimor Intrepid 40は、その容量表示以上に収納力があるとも評されており、安定した背負い心地と機能性で幅広い登山・トレッキングシーンでの活躍が期待できるバックパックです」<details><summary>出典</summary>`https://www.outdoorgearzine.com/`</details>
+> **参考情報**: 「Karrimor Intrepid 40は、その容量表示以上に収納力があるとも評されており、安定した背負い心地と機能性で幅広い登山・トレッキングシーンでの活躍が期待できるバックパックです」<details><summary>出典</summary>`https://www.outdoorgearzine.com/`</details>
 
 **JK**: えっ、40Lでテント泊できるんですか？
 
@@ -394,7 +394,7 @@ Tags: Backpack, Guide
 
 **先生**: 一番よく言われるのは**重量**だな。Cougar系は2.5〜2.7kgあって、軽量モデルと比較すると重い。
 
-**参考情報**: 「一部の大型モデル（例：Cougar 55-75）は、ザック自体の重量が2.68kgと比較重い場合があります。この重さが、特に長距離のハイキングでは大きな負担となることがあります」<details><summary>出典</summary>`https://www.thegreatoutdoorsmag.com/`</details>
+> **参考情報**: 「一部の大型モデル（例：Cougar 55-75）は、ザック自体の重量が2.68kgと比較重い場合があります。この重さが、特に長距離のハイキングでは大きな負担となることがあります」<details><summary>出典</summary>`https://www.thegreatoutdoorsmag.com/`</details>
 
 **JK**: やっぱり！さっきから気になってました！
 
@@ -437,9 +437,9 @@ Tags: Backpack, Guide
 | **女性モデル** | Cougar Grace | ディバ | エーリエル |
 | **重量傾向** | やや重め | やや重め | 比較的軽量 |
 
-**参考情報**: 「グレゴリーは『背負うのではなく、着る』という哲学のもと、フィット感と快適性を追求したバックパックを製造しているアメリカのブランドです」<details><summary>出典</summary>`https://www.gregory.jp/`</details>
+> **参考情報**: 「グレゴリーは『背負うのではなく、着る』という哲学のもと、フィット感と快適性を追求したバックパックを製造しているアメリカのブランドです」<details><summary>出典</summary>`https://www.gregory.jp/`</details>
 
-**参考情報**: 「オスプレーは、フィット感と通気性に優れており、特に『アンチグラビティ (Anti-Gravity)』などの革新的なサスペンションシステムが有名です」<details><summary>出典</summary>`https://www.yamahack.com/`</details>
+> **参考情報**: 「オスプレーは、フィット感と通気性に優れており、特に『アンチグラビティ (Anti-Gravity)』などの革新的なサスペンションシステムが有名です」<details><summary>出典</summary>`https://www.yamahack.com/`</details>
 
 **JK**: なるほど、オスプレーは通気性重視で軽いんですね。
 
@@ -463,7 +463,7 @@ Tags: Backpack, Guide
 | 3泊以上の縦走 | 55L〜64L |
 | 長期縦走・遠征・冬山テント泊 | 70L以上 |
 
-**参考情報**: 「一般的に、テント泊登山では50L以上の容量が推奨されます」<details><summary>出典</summary>`https://www.stridelab.jp/`</details>
+> **参考情報**: 「一般的に、テント泊登山では50L以上の容量が推奨されます」<details><summary>出典</summary>`https://www.stridelab.jp/`</details>
 
 **JK**: 1-2泊なら50〜65Lですか。結構幅がありますね。
 
@@ -473,7 +473,7 @@ Tags: Backpack, Guide
 
 **先生**: 調理器具や食材を持っていくとかなりの容量を食うからな。フリーズドライ中心ならコンパクトだが、生の食材を持っていくなら大きめのリュックが必要だ。
 
-**参考情報**: 「容量が大きすぎると、不必要な荷物まで詰め込んでしまい、結果的に重くなることがあります」<details><summary>出典</summary>`https://www.yamano-media.com/`</details>
+> **参考情報**: 「容量が大きすぎると、不必要な荷物まで詰め込んでしまい、結果的に重くなることがあります」<details><summary>出典</summary>`https://www.yamano-media.com/`</details>
 
 **JK**: じゃあ大きいの買っとけば安心？
 
@@ -483,7 +483,7 @@ Tags: Backpack, Guide
 
 **先生**: だから**必要な装備をリストアップして、それに合った容量を選ぶ**のが正解だ。足りなくなるかもと心配なら、**拡張機能のあるモデル**を選べばいい。
 
-**参考情報**: 「容量だけでなく、体にフィットするかどうかが最も重要です。特に背面長（背中の長さ）が合っているかを確認しましょう」<details><summary>出典</summary>`https://www.ishii-sports.com/`</details>
+> **参考情報**: 「容量だけでなく、体にフィットするかどうかが最も重要です。特に背面長（背中の長さ）が合っているかを確認しましょう」<details><summary>出典</summary>`https://www.ishii-sports.com/`</details>
 
 ---
 

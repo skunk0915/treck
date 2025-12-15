@@ -31,7 +31,7 @@ Tags: Guide, Food
 
 **先生**: そこが落とし穴だ。シャリバテは「空腹を感じる前に」起こることがある。気づいた時には手遅れ、というケースも多い。
 
-**参考情報**: 「登山では平地よりもはるかに多くのエネルギーを消費するため、こまめな栄養補給が安全な行動につながります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExvFUdpTsAw6O7EWAQD2ZeoBkU5F7fU22unzNR2rKK-d9CbSvLMjMyaEYWLOt8yc74KuGerH5cZoWbuZ-7Myrn9byh4ak8eYlxJSpw8hiXIJqgVHe-JHo45O641bM=`</details>
+> **参考情報**: 「登山では平地よりもはるかに多くのエネルギーを消費するため、こまめな栄養補給が安全な行動につながります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExvFUdpTsAw6O7EWAQD2ZeoBkU5F7fU22unzNR2rKK-d9CbSvLMjMyaEYWLOt8yc74KuGerH5cZoWbuZ-7Myrn9byh4ak8eYlxJSpw8hiXIJqgVHe-JHo45O641bM=`</details>
 
 **JK**: じゃあ、どうすればいいんですか？
 
@@ -49,7 +49,7 @@ Tags: Guide, Food
 
 **先生**: 日帰り登山なら、全体で**600〜2,000kcal**を消費する。昼食とは別に、行動食で**400〜800kcal**を補給するのが目安だ。
 
-**参考情報**: 「1時間〜1時間半ごとに100〜200kcal程度をこまめに補給するのが効果的」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe3ERvpAcGPG4pmFyE8_mkHHwLWG1c2cBiJKGuPElavcJR-bzObuP3blB3o7bEpwtPKSOlC83Snu8A08L_kkySM42EGKWhqCTU4DirMccuUZd-KHsARNkVQK2vQUbA_sGY1xQhBTBSKLVx`</details>
+> **参考情報**: 「1時間〜1時間半ごとに100〜200kcal程度をこまめに補給するのが効果的」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe3ERvpAcGPG4pmFyE8_mkHHwLWG1c2cBiJKGuPElavcJR-bzObuP3blB3o7bEpwtPKSOlC83Snu8A08L_kkySM42EGKWhqCTU4DirMccuUZd-KHsARNkVQK2vQUbA_sGY1xQhBTBSKLVx`</details>
 
 **JK**: 一泊二日だともっと必要ですよね？
 
@@ -67,7 +67,7 @@ Tags: Guide, Food
 
 **先生**: まず**糖質**。これが最も重要なエネルギー源だ。体内で素早く吸収されて、すぐにエネルギーに変わる。
 
-**参考情報**: 「糖質が不足すると、シャリバテと呼ばれるエネルギー切れの状態になり、筋肉が動かなくなったり、脳の活動が低下して注意力や判断力が落ちる危険性があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGScj6rMA2wjOAdJtEFf-FOhTPdxDOGFcNtQFph2VItscKVevGrJxCtdwP2brfFj339vsJT-rLoBmma7Zw45ZTJM0yHi8ruCclUtsEvzdUlCB77ocAz6JzzaK2bAw==`</details>
+> **参考情報**: 「糖質が不足すると、シャリバテと呼ばれるエネルギー切れの状態になり、筋肉が動かなくなったり、脳の活動が低下して注意力や判断力が落ちる危険性があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGScj6rMA2wjOAdJtEFf-FOhTPdxDOGFcNtQFph2VItscKVevGrJxCtdwP2brfFj339vsJT-rLoBmma7Zw45ZTJM0yHi8ruCclUtsEvzdUlCB77ocAz6JzzaK2bAw==`</details>
 
 **JK**: 糖質が足りないと脳も動かなくなるんですか？怖い…。
 
@@ -89,7 +89,7 @@ Tags: Guide, Food
 
 **先生**: 登山は例外だ。大量の汗をかくと、水分だけでなくナトリウムなどの電解質も失われる。水だけを飲み続けると、体内の塩分濃度が薄まって**低ナトリウム血症**という危険な状態になる可能性がある。
 
-**参考情報**: 「大量の汗をかくことで、水分だけでなくナトリウム（塩分）やカリウムなどの電解質も失われるため、これらを適切に補給することが体調維持に不可欠」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqzhfhS_pq6ouldCVj3Cg3rJp4j__x9_aRwK0oJYSFfpyIuoPvn4ckK06X9WVhFI_-M6G9adTfmXxxC5yTlc11Yl3jjWscB5wHdyCAXIHIw8BAMvO0pztWjziueJ5IAN91v4A=`</details>
+> **参考情報**: 「大量の汗をかくことで、水分だけでなくナトリウム（塩分）やカリウムなどの電解質も失われるため、これらを適切に補給することが体調維持に不可欠」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqzhfhS_pq6ouldCVj3Cg3rJp4j__x9_aRwK0oJYSFfpyIuoPvn4ckK06X9WVhFI_-M6G9adTfmXxxC5yTlc11Yl3jjWscB5wHdyCAXIHIw8BAMvO0pztWjziueJ5IAN91v4A=`</details>
 
 **JK**: 水を飲みすぎるのも危ないんですか！？初めて知りました…。
 
@@ -126,7 +126,7 @@ Tags: Guide, Food
 
 **先生**: 侮ってはいけない。スポーツようかんは登山のために設計された優れものだ。
 
-**参考情報**: 「パッケージは片手でワンプッシュで食べられる設計で、袋を破る必要がなく、手が汚れず、ゴミも出にくい」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhjBJeec0VYCYy5QEEZNd_GzxE7rtHvjmMm8n9MIBSz0wpnzemfbbhMTf-n0rI2ZLfRRVS2idLq3gmv28jTQes2SvrS4UGIMKKkD_OLEjY5znk15MhRSgVkcs2_cip5BSmbpU9dsyM97UMI0fYvuGJpd-8`</details>
+> **参考情報**: 「パッケージは片手でワンプッシュで食べられる設計で、袋を破る必要がなく、手が汚れず、ゴミも出にくい」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhjBJeec0VYCYy5QEEZNd_GzxE7rtHvjmMm8n9MIBSz0wpnzemfbbhMTf-n0rI2ZLfRRVS2idLq3gmv28jTQes2SvrS4UGIMKKkD_OLEjY5znk15MhRSgVkcs2_cip5BSmbpU9dsyM97UMI0fYvuGJpd-8`</details>
 
 #### 主なスペック
 
@@ -153,7 +153,7 @@ Tags: Guide, Food
 
 **先生**: 次は**ミックスナッツ**。これも行動食の定番だ。
 
-**参考情報**: 「ナッツは一般的に高カロリーであり、登山中の大量のエネルギー消費を効率的に補給するのに最適です。登山では1時間あたりおよそ350kcalを消費する」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoY1gYBUDAImBuNjjmhB8L4Z10S8aNnE-oZeYPjbyZC9ld_s9zRnN1a1_MGI_Qb05H4iZoWXpKra5KGC9Jlp4sOrNYX5Z509I1-_CgZxQqMHBVrOvukDowcpIJtmOepK8rjWphxDh9xhvoR5XJuRwypgEPAKGVRmZvCd5ZYR5qEh9LbB4IDT3iuCuthQ97qzU3fAIhn_f3gF5VhA==`</details>
+> **参考情報**: 「ナッツは一般的に高カロリーであり、登山中の大量のエネルギー消費を効率的に補給するのに最適です。登山では1時間あたりおよそ350kcalを消費する」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoY1gYBUDAImBuNjjmhB8L4Z10S8aNnE-oZeYPjbyZC9ld_s9zRnN1a1_MGI_Qb05H4iZoWXpKra5KGC9Jlp4sOrNYX5Z509I1-_CgZxQqMHBVrOvukDowcpIJtmOepK8rjWphxDh9xhvoR5XJuRwypgEPAKGVRmZvCd5ZYR5qEh9LbB4IDT3iuCuthQ97qzU3fAIhn_f3gF5VhA==`</details>
 
 #### 主なスペック（100gあたり）
 
@@ -194,7 +194,7 @@ Tags: Guide, Food
 
 **先生**: **ドライフルーツ**も優秀な行動食だ。
 
-**参考情報**: 「ドライフルーツは、糖質が豊富で即座にエネルギーに変換されるため、登山中の素早い栄養補給に最適」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMRIWT5g2Tbj0O4tDhuzH5A5E7GDzhJkmpLmRN6BHCR9s3V7Ca0-8ra-leVe60fpf0ocYmMiOObti8X3zEkTcguierD6NBN70DqJ3aLNNkP_HsRrIa4yIPDEDVNeZ9qfWjMVy8KqbZ3aTJE0XllniKSAIQrERH-V4=`</details>
+> **参考情報**: 「ドライフルーツは、糖質が豊富で即座にエネルギーに変換されるため、登山中の素早い栄養補給に最適」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMRIWT5g2Tbj0O4tDhuzH5A5E7GDzhJkmpLmRN6BHCR9s3V7Ca0-8ra-leVe60fpf0ocYmMiOObti8X3zEkTcguierD6NBN70DqJ3aLNNkP_HsRrIa4yIPDEDVNeZ9qfWjMVy8KqbZ3aTJE0XllniKSAIQrERH-V4=`</details>
 
 **JK**: ドライフルーツって、なんかオシャレな感じする！
 
@@ -228,7 +228,7 @@ Tags: Guide, Food
 
 #### カロリーメイト
 
-**参考情報**: 「カロリーメイトは、登山行動食の定番として広く知られています。糖質、脂質、タンパク質のほか、11種類のビタミンと6種類のミネラルをバランス良く摂取できる」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_uA35PCZIiBtYDVyuIihd836t3osTai9y_wRa_3sJZ97V4rH-IjOOX7L155qb1kOdSK_ZKzn0Nif5K7xbXXSf9eMKOgSOS5LPFKcJoS21F0NZfhoYUrOYWDEb5elKioakuFIWcNRSXhAl3_bZ8Rll`</details>
+> **参考情報**: 「カロリーメイトは、登山行動食の定番として広く知られています。糖質、脂質、タンパク質のほか、11種類のビタミンと6種類のミネラルをバランス良く摂取できる」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_uA35PCZIiBtYDVyuIihd836t3osTai9y_wRa_3sJZ97V4rH-IjOOX7L155qb1kOdSK_ZKzn0Nif5K7xbXXSf9eMKOgSOS5LPFKcJoS21F0NZfhoYUrOYWDEb5elKioakuFIWcNRSXhAl3_bZ8Rll`</details>
 
 *   1本約100kcal（4本入り1箱で約400kcal）
 *   11種のビタミン、6種のミネラル配合
@@ -255,7 +255,7 @@ Tags: Guide, Food
 
 **先生**: 意外かもしれないが、**和菓子**も優秀な行動食だ。
 
-**参考情報**: 「和菓子は脂質が少ないため、洋菓子に比べて消化しやすく、登山中でも胃に負担をかけにくい」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAbHa8PMwqBsZT4x22_FBCZjE6VnFc6WJkisIrwQ8Jj6aVRZBeRv17rHw_yG4QL7E3KnjT5DfZ7Jh7vM58exhD6XtqCd0YDJtnD7S5V6k6l3xtC6HWY_Lyrsl1181rSzCKZL4Hkui7qsIdetsTJtZ9Ros=`</details>
+> **参考情報**: 「和菓子は脂質が少ないため、洋菓子に比べて消化しやすく、登山中でも胃に負担をかけにくい」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAbHa8PMwqBsZT4x22_FBCZjE6VnFc6WJkisIrwQ8Jj6aVRZBeRv17rHw_yG4QL7E3KnjT5DfZ7Jh7vM58exhD6XtqCd0YDJtnD7S5V6k6l3xtC6HWY_Lyrsl1181rSzCKZL4Hkui7qsIdetsTJtZ9Ros=`</details>
 
 #### カロリー比較
 
@@ -279,7 +279,7 @@ Tags: Guide, Food
 
 **先生**: チョコレートは高カロリーで即効性があり、テオブロミンという成分にはリラックス効果もある。ただし、夏山では**溶ける**という致命的な弱点がある。
 
-**参考情報**: 「大東カカオの『やまチョコ』は、特許を取得した製法で作られており、45度でも溶けない耐熱性が特徴」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXcAL43k3tWpXU_pw7DT63d5Kdin0iwAckpJvSkjEP1lHxEQ_Ds9OItpLgNQUYSPYG24dTmkaKP2hWTNQuNR6nopPOo6T7VvRUk_EUho7R1Sscb4MVGW1bOr0jEjmFca-doQ==`</details>
+> **参考情報**: 「大東カカオの『やまチョコ』は、特許を取得した製法で作られており、45度でも溶けない耐熱性が特徴」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXcAL43k3tWpXU_pw7DT63d5Kdin0iwAckpJvSkjEP1lHxEQ_Ds9OItpLgNQUYSPYG24dTmkaKP2hWTNQuNR6nopPOo6T7VvRUk_EUho7R1Sscb4MVGW1bOr0jEjmFca-doQ==`</details>
 
 #### 夏でも溶けにくいチョコレート
 
@@ -309,7 +309,7 @@ Tags: Guide, Food
 
 **先生**: 疲れて固形物を食べる気力がない時は、**ゼリー飲料**の出番だ。
 
-**参考情報**: 「ウイダーinゼリー エネルギーは1パック180gで180kcalのエネルギーを補給でき、おにぎり1個分に相当するエネルギーを手軽に摂取できる」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYFHajx8GiaG4H1Q5plNOz6ByPWzF4ChQAXS-JDArRHXLPNFFLNMnpTBgcDDYkv4He4Jc15stxtzX89HGyTlkVjCqybe7DbrkLva0Z8n71DlafiXY=`</details>
+> **参考情報**: 「ウイダーinゼリー エネルギーは1パック180gで180kcalのエネルギーを補給でき、おにぎり1個分に相当するエネルギーを手軽に摂取できる」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYFHajx8GiaG4H1Q5plNOz6ByPWzF4ChQAXS-JDArRHXLPNFFLNMnpTBgcDDYkv4He4Jc15stxtzX89HGyTlkVjCqybe7DbrkLva0Z8n71DlafiXY=`</details>
 
 #### 主な製品
 
@@ -337,7 +337,7 @@ Tags: Guide, Food
 
 **先生**: 忘れてはならないのが**塩分補給**だ。
 
-**参考情報**: 「熱中症予防のためには、『喉が渇く前に』こまめに水分と塩分を補給することが大切」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXSKPuN1Th3lMgl3mZ3BhH8Y8aDS15-MTnYBEZG-8RdGPQn_34c_Nak6tqT_MEsCIpE2-Tm2lboY6L2fNlvDfTGfNyoWJJRnoP4cueQLuZUuKIkjBeY-LEXtstZnnV3r1vDDULbpjTvKxmPOZXILsFNxLf`</details>
+> **参考情報**: 「熱中症予防のためには、『喉が渇く前に』こまめに水分と塩分を補給することが大切」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXSKPuN1Th3lMgl3mZ3BhH8Y8aDS15-MTnYBEZG-8RdGPQn_34c_Nak6tqT_MEsCIpE2-Tm2lboY6L2fNlvDfTGfNyoWJJRnoP4cueQLuZUuKIkjBeY-LEXtstZnnV3r1vDDULbpjTvKxmPOZXILsFNxLf`</details>
 
 #### 塩飴
 
@@ -369,7 +369,7 @@ Tags: Guide, Food
 
 **先生**: **おにぎりやパン**も炭水化物補給には優秀だが、夏場は注意が必要だ。
 
-**参考情報**: 「夏の登山では、気温と湿度が高いため、おにぎり、パン、サンドイッチといった行動食は腐敗しやすく、食中毒のリスクが高まる」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPJGgWSBbXg0jnSdhwuRI4t8K5-6rttagH5KZvzAFpuZac1A5vgpigBGVKY6nGKnhqQ0i2NCDBMDDLsxvTfm2IwJkeYClyXrpUz3XuDal3jbcGNczgpFRqiMXmBLU_pASR1FRklgU=`</details>
+> **参考情報**: 「夏の登山では、気温と湿度が高いため、おにぎり、パン、サンドイッチといった行動食は腐敗しやすく、食中毒のリスクが高まる」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPJGgWSBbXg0jnSdhwuRI4t8K5-6rttagH5KZvzAFpuZac1A5vgpigBGVKY6nGKnhqQ0i2NCDBMDDLsxvTfm2IwJkeYClyXrpUz3XuDal3jbcGNczgpFRqiMXmBLU_pASR1FRklgU=`</details>
 
 #### おにぎりの注意点と対策
 

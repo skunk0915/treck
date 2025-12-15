@@ -53,7 +53,7 @@ Tags: Camping, Guide
 
 **先生**: そうだな。スノーピークの収納ケースの中で最も人気が高いのがシェルフコンテナだ。人気の理由は、収納ボックスと棚の2通りの使い方ができることにある。
 
-**参考情報**: 「収納ボックスと棚の2役をこなす機能性と美しいデザインから、キャンパーを中心に高い人気を誇るアイテムです」<details><summary>出典</summary>`https://nap-camp.com/`</details>
+> **参考情報**: 「収納ボックスと棚の2役をこなす機能性と美しいデザインから、キャンパーを中心に高い人気を誇るアイテムです」<details><summary>出典</summary>`https://nap-camp.com/`</details>
 
 **JK**: 棚として使える！？収納ケースなのに！？
 
@@ -65,7 +65,7 @@ Tags: Camping, Guide
 
 **先生**: シェルフコンテナには25と50の2サイズがある。まず25から説明しよう。
 
-**参考情報**: 「コンパクトで持ち運びやすく、車載しやすい点がメリットです」<details><summary>出典</summary>`https://znjii.com/`</details>
+> **参考情報**: 「コンパクトで持ち運びやすく、車載しやすい点がメリットです」<details><summary>出典</summary>`https://znjii.com/`</details>
 
 #### 主なスペック
 - **製品型番**: UG-025G
@@ -86,7 +86,7 @@ Tags: Camping, Guide
 
 **先生**: そこは確かにデメリットだな。だが、シェルフコンテナ25は50サイズと比べてコンパクトで取り回しがいい。実際、多くのベテランキャンパーは「50を1個買うより、25を2個買う方が使いやすい」と言っているぞ。
 
-**参考情報**: 「50サイズは大きすぎて車の積載で小回りが利かなかったり、重すぎると感じるユーザーもいるため、複数の25サイズを組み合わせる方が良い」<details><summary>出典</summary>`https://taro01.com/`</details>
+> **参考情報**: 「50サイズは大きすぎて車の積載で小回りが利かなかったり、重すぎると感じるユーザーもいるため、複数の25サイズを組み合わせる方が良い」<details><summary>出典</summary>`https://taro01.com/`</details>
 
 **JK**: へぇ〜、プロはそう使うんですね。でも1個14,520円って…2個買ったら3万円近いじゃないですか！
 
@@ -109,7 +109,7 @@ Tags: Camping, Guide
 
 **先生**: 次に50サイズだ。25の約2倍の容量がある。
 
-**参考情報**: 「25よりも一回り大きく、多くの荷物を収納できます」<details><summary>出典</summary>`https://colorful-camp.com/`</details>
+> **参考情報**: 「25よりも一回り大きく、多くの荷物を収納できます」<details><summary>出典</summary>`https://colorful-camp.com/`</details>
 
 #### 主なスペック
 - **製品型番**: UG-055G
@@ -151,7 +151,7 @@ Tags: Camping, Guide
 
 **先生**: よし、整理しよう。
 
-**参考情報**: 「無骨なスチールのシルバー感と温かみのある竹の持ち手の組み合わせが、シンプルながらも上質感を醸し出しており、キャンプサイトに置くだけでおしゃれに見える」<details><summary>出典</summary>`https://kitagaga.com/`</details>
+> **参考情報**: 「無骨なスチールのシルバー感と温かみのある竹の持ち手の組み合わせが、シンプルながらも上質感を醸し出しており、キャンプサイトに置くだけでおしゃれに見える」<details><summary>出典</summary>`https://kitagaga.com/`</details>
 
 #### シェルフコンテナのメリット
 
@@ -189,7 +189,7 @@ Tags: Camping, Guide
 
 **先生**: 残念ながら純正の天板は販売されていない。だが、DIYで自作するキャンパーが多い。材料費は2,000〜3,000円程度で作れるぞ。
 
-**参考情報**: 「コンテナ本体より1cm長くすると見た目が綺麗になります」<details><summary>出典</summary>`https://parukyanblog.com/`</details>
+> **参考情報**: 「コンテナ本体より1cm長くすると見た目が綺麗になります」<details><summary>出典</summary>`https://parukyanblog.com/`</details>
 
 **JK**: え、そんなに安くできるんですか！？
 
@@ -231,7 +231,7 @@ Tags: Camping, Guide
 
 **先生**: 鋭いな。ペグやハンマーのような鋭利で重いものを収納するなら、マルチコンテナの方が向いている。
 
-**参考情報**: 「主に6号帆布という厚手の生地で作られており、ペグやハンマーのような先端が尖った重いギアを入れても破れにくい」<details><summary>出典</summary>`https://mizutamablog.com/`</details>
+> **参考情報**: 「主に6号帆布という厚手の生地で作られており、ペグやハンマーのような先端が尖った重いギアを入れても破れにくい」<details><summary>出典</summary>`https://mizutamablog.com/`</details>
 
 **JK**: マルチコンテナって、布のバッグみたいなやつですよね？
 
@@ -270,7 +270,7 @@ Tags: Camping, Guide
 
 ### マルチコンテナ M ― ペグ収納の王道サイズ
 
-**参考情報**: 「ペグ（特に30cmや40cmのソリッドステーク）、ハンマー、設営道具一式などを収納するのに最適」<details><summary>出典</summary>`https://mizutamablog.com/`</details>
+> **参考情報**: 「ペグ（特に30cmや40cmのソリッドステーク）、ハンマー、設営道具一式などを収納するのに最適」<details><summary>出典</summary>`https://mizutamablog.com/`</details>
 
 #### 主なスペック
 - **製品型番**: UG-074R
@@ -332,7 +332,7 @@ Tags: Camping, Guide
 
 ### マルチコンテナ Sユニット ― IGTとの相性抜群
 
-**参考情報**: 「6号帆布より厚手の10号帆布が使われているため、破れやほつれに強く、長期間の使用にも耐える頑丈さが特筆されています」<details><summary>出典</summary>`https://photostudio-info.com/`</details>
+> **参考情報**: 「6号帆布より厚手の10号帆布が使われているため、破れやほつれに強く、長期間の使用にも耐える頑丈さが特筆されています」<details><summary>出典</summary>`https://photostudio-info.com/`</details>
 
 #### 主なスペック
 - **製品型番**: UG-078
@@ -353,7 +353,7 @@ Tags: Camping, Guide
 
 **先生**: いや、そうとも限らない。Sユニットは他のマルチコンテナより厚手の10号帆布を使っているため、より頑丈だ。また、シェルフコンテナ50に2つ重ねてぴったり収まるサイズなので、組み合わせて使うこともできる。
 
-**参考情報**: 「シェルコン50に2つ重ねてぴったり収まる」<details><summary>出典</summary>`https://log-farm.com/`</details>
+> **参考情報**: 「シェルコン50に2つ重ねてぴったり収まる」<details><summary>出典</summary>`https://log-farm.com/`</details>
 
 **JK**: シェルフコンテナの中にマルチコンテナを入れる…！なんかロシアのマトリョーシカみたい！
 
@@ -396,7 +396,7 @@ Tags: Camping, Guide
 
 **先生**: まあ、厳密には収納ケースではないな。だが、キャンプサイトの整理整頓という意味では重要なアイテムだ。
 
-**参考情報**: 「夜間やサイトを離れる際には、ガビングバッグの上部にある巾着を締めることで、動物にゴミを荒らされるのを防げます」<details><summary>出典</summary>`https://little-lamp.com/`</details>
+> **参考情報**: 「夜間やサイトを離れる際には、ガビングバッグの上部にある巾着を締めることで、動物にゴミを荒らされるのを防げます」<details><summary>出典</summary>`https://little-lamp.com/`</details>
 
 **JK**: 動物対策もできるんですか？
 
@@ -406,7 +406,7 @@ Tags: Camping, Guide
 
 ### ウォータープルーフユニットギアバッグ ― 防水収納＋簡易シンク
 
-**参考情報**: 「キャンプ用品の持ち運びや、簡易的なシンクとしても使用可能です」<details><summary>出典</summary>`https://hanmio.blog/`</details>
+> **参考情報**: 「キャンプ用品の持ち運びや、簡易的なシンクとしても使用可能です」<details><summary>出典</summary>`https://hanmio.blog/`</details>
 
 **先生**: 防水性のあるEVA素材のバッグで、収納ケースとしてだけでなく、簡易的なシンクとしても使える。使った食器を水に浸けておいて、洗い場まで運ぶといった使い方ができる。
 

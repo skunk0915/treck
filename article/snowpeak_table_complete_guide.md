@@ -50,7 +50,7 @@ Tags: Camping, Guide
 
 **先生**: 直訳すればそうだな。だがIGTの本質は**「カスタマイズ性」**だ。フレームにバーナーや天板、トレーなどのユニットを自由に組み合わせて、自分だけの調理スペースを作れる。
 
-**参考情報**: 「IGTシステムは、フレームにバーナーやプレートなどのユニットを自由に組み込むことができる、高いカスタマイズ性が特徴です。脚の高さも30cm、40cm、66cm、83cmと複数展開されており、グランドスタイルからハイスタイルまで対応します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkWgy8FHRvbyeAUbKF9uEmt6CmYWkS1kqG1ZK2ji32bRPcCtuBXvWg8XxpK2s_EijM9RcAE6TulEqfSBu6YpKwdaee_JgAH5-MEX5cK-ANadbgQkvnGo2p6cfkQRPJO2KUZJvGI5nkyeWYFQV0OpBft2Zdq6i_nAdSLUhJ-gvgZjLVAFAZVTIUnjEMeA-MEFe-SPu56NvDO0iX-6ZwCjZ6vVpggB1_f7uaWtHz7Ac0PhieGKG0R_X4RY9wcTNfGguXyqpQ3eOSSrRJ0DnDExYr58WTui2r7hPTgs2fpubCch_WSdrRqNZa_tgy6bLUvO4HmiXdaZdcYwlm3LAFHP20b6Ke3RTXQjrN2zkiEqxIKgfEOhW7xJDGkhXLzaLELlA=`</details>
+> **参考情報**: 「IGTシステムは、フレームにバーナーやプレートなどのユニットを自由に組み込むことができる、高いカスタマイズ性が特徴です。脚の高さも30cm、40cm、66cm、83cmと複数展開されており、グランドスタイルからハイスタイルまで対応します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkWgy8FHRvbyeAUbKF9uEmt6CmYWkS1kqG1ZK2ji32bRPcCtuBXvWg8XxpK2s_EijM9RcAE6TulEqfSBu6YpKwdaee_JgAH5-MEX5cK-ANadbgQkvnGo2p6cfkQRPJO2KUZJvGI5nkyeWYFQV0OpBft2Zdq6i_nAdSLUhJ-gvgZjLVAFAZVTIUnjEMeA-MEFe-SPu56NvDO0iX-6ZwCjZ6vVpggB1_f7uaWtHz7Ac0PhieGKG0R_X4RY9wcTNfGguXyqpQ3eOSSrRJ0DnDExYr58WTui2r7hPTgs2fpubCch_WSdrRqNZa_tgy6bLUvO4HmiXdaZdcYwlm3LAFHP20b6Ke3RTXQjrN2zkiEqxIKgfEOhW7xJDGkhXLzaLELlA=`</details>
 
 **JK**: えっ、バーナーを組み込めるんですか！？
 
@@ -77,7 +77,7 @@ Tags: Camping, Guide
 - 3ユニットスペース搭載
 - 価格：約20,293円（税込）
 
-**参考情報**: 「Entry IGT functions as a foundational IGT frame with three units of space, allowing users to integrate various IGT accessories like burners and other inserts.（エントリーIGTは3ユニットスペースを持つIGTフレームの基盤として機能し、バーナーやその他のインサートなど様々なIGTアクセサリーを統合できます。）」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeGOU8ll-u5QD78CFGUgl7Jz2a-YxgNJSlQrz3V3kM1zqXiD1JcXh3llAzlSDio5Nig9fNFzGualO2HfkNBgAPvhPCUea1kHMtN2yYP10qMz8iVAwePOVA-LjHuLSzHP5woRTZRHzFibfp83cWZPWunAL7LhfO4g==`</details>
+> **参考情報**: 「Entry IGT functions as a foundational IGT frame with three units of space, allowing users to integrate various IGT accessories like burners and other inserts.（エントリーIGTは3ユニットスペースを持つIGTフレームの基盤として機能し、バーナーやその他のインサートなど様々なIGTアクセサリーを統合できます。）」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeGOU8ll-u5QD78CFGUgl7Jz2a-YxgNJSlQrz3V3kM1zqXiD1JcXh3llAzlSDio5Nig9fNFzGualO2HfkNBgAPvhPCUea1kHMtN2yYP10qMz8iVAwePOVA-LjHuLSzHP5woRTZRHzFibfp83cWZPWunAL7LhfO4g==`</details>
 
 #### こんな人におすすめ
 - IGTシステムを試してみたい入門者
@@ -102,7 +102,7 @@ Tags: Camping, Guide
 
 **先生**: これはIGTフレームに連結して使う**拡張用の天板**だ。L字型やU字型にレイアウトを組んで、作業スペースを大幅に広げられる。
 
-**参考情報**: 「Multi Function Table is primarily an extension piece designed to expand the Snow Peak IGT system, rather than a standalone table.（マルチファンクションテーブルは主にIGTシステムを拡張するための延長パーツとして設計されており、単体では使用できません。）」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn6A-VvE0WgzXg2Ko-UNMNXdrbFtvdGvjFlFWKC-4pRtH4bb4_WLT1nPXw64Wss0o17Vhck9p9l-C71dtZv_mIBQg6T3H_0uYEHjIq_xvZQ7ebUrcyqq8tbuGa1Wem1mlQ3qHtu5E=`</details>
+> **参考情報**: 「Multi Function Table is primarily an extension piece designed to expand the Snow Peak IGT system, rather than a standalone table.（マルチファンクションテーブルは主にIGTシステムを拡張するための延長パーツとして設計されており、単体では使用できません。）」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn6A-VvE0WgzXg2Ko-UNMNXdrbFtvdGvjFlFWKC-4pRtH4bb4_WLT1nPXw64Wss0o17Vhck9p9l-C71dtZv_mIBQg6T3H_0uYEHjIq_xvZQ7ebUrcyqq8tbuGa1Wem1mlQ3qHtu5E=`</details>
 
 **JK**: え、単体じゃ使えないんですか？
 
@@ -117,7 +117,7 @@ Tags: Camping, Guide
 
 **先生**: お、よく調べたな。竹集成材の内部にハニカム構造を採用したことで、従来比**約30～40％の軽量化**を実現している。
 
-**参考情報**: 「竹集成材の内部にハニカム構造を採用し、強度を保ちながら約30～40％の軽量化を実現したモデルです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoDuutquYQhkWPTTDmjX7CQf4NIvaZuzT1PGczOVYTa_vo88SfkXjvm4bPMNvt5NzoNIIGJFAVvZ7QH7fRp2piM1wCyKnfUTIVPc1fWhTALaj_dAhPDVXPYb9hVXhryPsWWV8anfd915vybz8=`</details>
+> **参考情報**: 「竹集成材の内部にハニカム構造を採用し、強度を保ちながら約30～40％の軽量化を実現したモデルです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoDuutquYQhkWPTTDmjX7CQf4NIvaZuzT1PGczOVYTa_vo88SfkXjvm4bPMNvt5NzoNIIGJFAVvZ7QH7fRp2piM1wCyKnfUTIVPc1fWhTALaj_dAhPDVXPYb9hVXhryPsWWV8anfd915vybz8=`</details>
 
 **JK**: 30％軽くなるのはありがたいですね！でも値段は上がりますか？
 
@@ -149,7 +149,7 @@ Tags: Camping, Guide
 
 **先生**: それならワンアクションテーブルだ。名前の通り、**天板を開くだけで脚が自動展開**して設営完了。まさにワンアクションだな。
 
-**参考情報**: 「Its key feature is the unique mechanism where the legs automatically deploy as the two tabletops are unfolded, enabling fast setup and takedown.（最大の特徴は、2枚の天板を開くと脚が自動的に展開するユニークなメカニズムで、素早いセットアップと撤収が可能です。）」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHH7wD-XwSO-QvGbgTJ6yoMcmJZYKDSe9hQH2qUvxb0PFSHCcf4rjomX6_3fF97tg-_i9OF2Van9BRUo4b9KdeU7KAGEA1pDz0aN2hCBZMkamqp5HZj6vEIfv5oFhExL9M-KDCl4LORvkfP348ojr6Xc_dDgpmPyrvqXM=`</details>
+> **参考情報**: 「Its key feature is the unique mechanism where the legs automatically deploy as the two tabletops are unfolded, enabling fast setup and takedown.（最大の特徴は、2枚の天板を開くと脚が自動的に展開するユニークなメカニズムで、素早いセットアップと撤収が可能です。）」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHH7wD-XwSO-QvGbgTJ6yoMcmJZYKDSe9hQH2qUvxb0PFSHCcf4rjomX6_3fF97tg-_i9OF2Van9BRUo4b9KdeU7KAGEA1pDz0aN2hCBZMkamqp5HZj6vEIfv5oFhExL9M-KDCl4LORvkfP348ojr6Xc_dDgpmPyrvqXM=`</details>
 
 **JK**: えっ、開くだけ？本当に？
 
@@ -171,7 +171,7 @@ Tags: Camping, Guide
 - ナイロン製キャリーケース付属
 - 価格：50,600円（税込）
 
-**参考情報**: 「安定感が非常に高い。少々の衝撃が加わっても倒れる心配は少ない」「設置は広げて置くだけ！その名のとおりワンアクションで使いやすい」「天板は竹製なので錆びにも強い。長く愛用したい人にうってつけ」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPtnhcqTuQadAA8xrxNLfHYn3VQCN5G1J67IKAZWlBHOwDwZMaM6hum2vlxWhfH7RjQEyvIA6zIV2-Ts7fHg61YySmDEvzFeRXCL7JoRU_KTvDv0LpT6m8-PRmoTc=`</details>
+> **参考情報**: 「安定感が非常に高い。少々の衝撃が加わっても倒れる心配は少ない」「設置は広げて置くだけ！その名のとおりワンアクションで使いやすい」「天板は竹製なので錆びにも強い。長く愛用したい人にうってつけ」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPtnhcqTuQadAA8xrxNLfHYn3VQCN5G1J67IKAZWlBHOwDwZMaM6hum2vlxWhfH7RjQEyvIA6zIV2-Ts7fHg61YySmDEvzFeRXCL7JoRU_KTvDv0LpT6m8-PRmoTc=`</details>
 
 **JK**: 5万円…高っ！テーブルにこの値段ってどうなんですか？
 
@@ -218,7 +218,7 @@ Tags: Camping, Guide
 
 **先生**: その通り、囲炉裏スタイルだな。ファミリーキャンプでは特に重宝する。焚き火台との距離を保てるから、小さい子どもがいても安心だ。
 
-**参考情報**: 「頑丈なオールステンレス製で、重い鍋やスキレットを直接置いても安定し、熱にも強いのが魅力です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJ2zP_h7NE67awn-kGzzGuRnQtnG62jQT9wN49DmeRfZ1W3KNwZZV6U0os9u-RmfUfKCxyaYrJHbghzWfqs-J0ao5jI9lfRnWeX4ZsD7gwu9vxgjsvKBcx6TZ46w==`</details>
+> **参考情報**: 「頑丈なオールステンレス製で、重い鍋やスキレットを直接置いても安定し、熱にも強いのが魅力です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJ2zP_h7NE67awn-kGzzGuRnQtnG62jQT9wN49DmeRfZ1W3KNwZZV6U0os9u-RmfUfKCxyaYrJHbghzWfqs-J0ao5jI9lfRnWeX4ZsD7gwu9vxgjsvKBcx6TZ46w==`</details>
 
 #### 主なスペック
 - 高さ：40cm（ロースタイル）
@@ -237,7 +237,7 @@ Tags: Camping, Guide
 
 **先生**: 重いのはデメリットだな。車の積載に余裕がないと厳しい。あとステンレス天板は傷が目立ちやすい。付属の収納ケースも頼りないから、別途専用のギアトートを買う人が多い。
 
-**参考情報**: 「2年使っても歪みやグラつきは全くない」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkAtn1OruJPr37GKYVRXTl7MwlxKBPwKbo4VXrrQbgjarW1bKLPE9XdFiMmSJvB-qa3ZeoUTrTSF0fY37f8TrmecSH3xguIE1IOfHiojdJDGqCDZWa19TB93Vc`</details>
+> **参考情報**: 「2年使っても歪みやグラつきは全くない」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkAtn1OruJPr37GKYVRXTl7MwlxKBPwKbo4VXrrQbgjarW1bKLPE9XdFiMmSJvB-qa3ZeoUTrTSF0fY37f8TrmecSH3xguIE1IOfHiojdJDGqCDZWa19TB93Vc`</details>
 
 **JK**: 2年使っても歪みなしってすごくないですか？
 
@@ -273,7 +273,7 @@ Tags: Camping, Guide
 
 **先生**: ああ、**重量わずか270g**だからな。ソロキャンプはもちろん、登山やバックパッキングにも最適だ。
 
-**参考情報**: 「270gと軽量ながら安定感も抜群。シンプルなデザインも魅力」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSU9JowxwOxbyqfewAcsC3w0ZOMEOcNPH4k0AMtToCKLX0bSS5BF216eLClVvbYB6ZiYuWQC5D5rqPOocn2Sw0TTiPcnOhSCIK5QtkDH-Sd8SrWYpUZRKxUOJrVnSP_Q==`</details>
+> **参考情報**: 「270gと軽量ながら安定感も抜群。シンプルなデザインも魅力」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSU9JowxwOxbyqfewAcsC3w0ZOMEOcNPH4k0AMtToCKLX0bSS5BF216eLClVvbYB6ZiYuWQC5D5rqPOocn2Sw0TTiPcnOhSCIK5QtkDH-Sd8SrWYpUZRKxUOJrVnSP_Q==`</details>
 
 **JK**: 270g！？ペットボトル1本より軽いじゃないですか！
 
@@ -295,7 +295,7 @@ Tags: Camping, Guide
 
 **先生**: 使える。ただし天板はアルミなので、燃焼器具を使うときは高温になる可能性がある。そこは注意が必要だ。
 
-**参考情報**: 「本体重量が約270gと非常に軽く、収納時は薄く折りたためるため、携帯性に優れています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnwit1_e9FBFiCBwRbR9heN5fG2Pl_5gLuIsT4rT6o-2CdIYQpwFtkJtQ7IJozvcWs3BsaZgw0ggDhxwiyznnL89SARXl5nE7RI4lFbuQEQOyoiJVZI4AW`</details>
+> **参考情報**: 「本体重量が約270gと非常に軽く、収納時は薄く折りたためるため、携帯性に優れています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnwit1_e9FBFiCBwRbR9heN5fG2Pl_5gLuIsT4rT6o-2CdIYQpwFtkJtQ7IJozvcWs3BsaZgw0ggDhxwiyznnL89SARXl5nE7RI4lFbuQEQOyoiJVZI4AW`</details>
 
 #### こんな人におすすめ
 - ソロキャンプ・登山でテーブルが欲しい方
@@ -321,7 +321,7 @@ Tags: Camping, Guide
 
 **先生**: 「My」つまり「私の」テーブルという意味だな。ソロキャンプのメインテーブルにも、ファミリーキャンプのサイドテーブルにも使える万能選手だ。
 
-**参考情報**: 「2秒でセット！天板を開くだけで素早く設置できる点が特に好評です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_Vq2kgvCKl-xVBGYxlod5iJ18ohboFqg-0PxLA62mJrdoHqD1IP072VK_OHHseRo8wL6bcSoXmCPIsqCCDIsamzcRjgW8_Bv4GtKPF-S2Ul35u-x3isG6uAGGO6COUKRPhCOO5tQ=`</details>
+> **参考情報**: 「2秒でセット！天板を開くだけで素早く設置できる点が特に好評です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_Vq2kgvCKl-xVBGYxlod5iJ18ohboFqg-0PxLA62mJrdoHqD1IP072VK_OHHseRo8wL6bcSoXmCPIsqCCDIsamzcRjgW8_Bv4GtKPF-S2Ul35u-x3isG6uAGGO6COUKRPhCOO5tQ=`</details>
 
 **JK**: 2秒設営！？
 
@@ -355,7 +355,7 @@ Tags: Camping, Guide
 
 **先生**: **オールステンレス製**だ。焚き火の近くで使っても、熱でダメージを受けにくい。熱い鍋やスキレットを直接置ける。
 
-**参考情報**: 「オールステンレスで頑丈」「焚き火の近くでも安心して使える」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSU9JowxwOxbyqfewAcsC3w0ZOMEOcNPH4k0AMtToCKLX0bSS5BF216eLClVvbYB6ZiYuWQC5D5rqPOocn2Sw0TTiPcnOhSCIK5QtkDH-Sd8SrWYpUZRKxUOJrVnSP_Q==`</details>
+> **参考情報**: 「オールステンレスで頑丈」「焚き火の近くでも安心して使える」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSU9JowxwOxbyqfewAcsC3w0ZOMEOcNPH4k0AMtToCKLX0bSS5BF216eLClVvbYB6ZiYuWQC5D5rqPOocn2Sw0TTiPcnOhSCIK5QtkDH-Sd8SrWYpUZRKxUOJrVnSP_Q==`</details>
 
 #### 主なスペック
 - 材質：オールステンレス
@@ -382,7 +382,7 @@ Tags: Camping, Guide
 - 塩分・調味料・薬品が付着した場合は固く絞った布で拭き取り、十分乾燥
 - ひどい汚れは薄めた中性洗剤を浸した布で汚れを落とし、水拭き後に乾拭き
 
-**参考情報**: 「暖房の熱が直接当たる場所や長時間直射日光に当たる場所、夏場の車内などでの保管は避けてください。これらの環境では、反りや歪み、割れが発生する可能性があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETlWFG1vSpe9mqv5XtM1REMIPsmUErLguAuU5XqL_jUrLLZr8vXIIbR-J2mqYPdi-0zCb1dT3euzCZeTJykru98XVdk7IqVner-jfpPoLuaeRJMaaZwWeLWuosmatjFFDI-LeVYfvRgSxDFqs9SbEepRXRBmiw6viOtQCSDZUmFn1aDHiWsYK97tEkLiQGrq0ilWTpnyfWpbfOZoMfBtK09qs=`</details>
+> **参考情報**: 「暖房の熱が直接当たる場所や長時間直射日光に当たる場所、夏場の車内などでの保管は避けてください。これらの環境では、反りや歪み、割れが発生する可能性があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETlWFG1vSpe9mqv5XtM1REMIPsmUErLguAuU5XqL_jUrLLZr8vXIIbR-J2mqYPdi-0zCb1dT3euzCZeTJykru98XVdk7IqVner-jfpPoLuaeRJMaaZwWeLWuosmatjFFDI-LeVYfvRgSxDFqs9SbEepRXRBmiw6viOtQCSDZUmFn1aDHiWsYK97tEkLiQGrq0ilWTpnyfWpbfOZoMfBtK09qs=`</details>
 
 **JK**: えっ、夏場の車内はダメなんですか？
 
@@ -423,7 +423,7 @@ Tags: Camping, Guide
 
 **先生**: スノーピークは**保証期間を設けていない**代わりに、製造上の欠陥による故障は無料で修理・交換してくれる。それ以外でも適正価格で修理を受けられる。
 
-**参考情報**: 「スノーピーク製品は、長期間の使用を前提として設計されており、保証期間を設けていません。製造上の欠陥が原因で製品の機能が損なわれた場合は、無料で修理または交換を受けることができます。その他の場合は、適正な価格で修理してもらえます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETT43RDsSsiut9FCpVsQozZ8sH8sb5MNceh-GHbfIpz7Tfjtj-VKX0GJfoD4_tl4YrPmb5JdY9W7o6VxqE8c2cmisZP8tqQP1wG0na5WVj0Mq-YH5osH1LCBPepgB1qEBv2v3TPlSIyc3ArT8bMFtUwrNXhArHO89vuZAGJFSWPIQR5K-jdljfNW4LDO33rNjmx7I-gS_FDQAot6-i7fafj_npSRHQVIoKm_wimQ9gSqTkJyh3foubB2tBw4Up5zTY7nVqkgv5ZrhRgkg0yGc97A==`</details>
+> **参考情報**: 「スノーピーク製品は、長期間の使用を前提として設計されており、保証期間を設けていません。製造上の欠陥が原因で製品の機能が損なわれた場合は、無料で修理または交換を受けることができます。その他の場合は、適正な価格で修理してもらえます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETT43RDsSsiut9FCpVsQozZ8sH8sb5MNceh-GHbfIpz7Tfjtj-VKX0GJfoD4_tl4YrPmb5JdY9W7o6VxqE8c2cmisZP8tqQP1wG0na5WVj0Mq-YH5osH1LCBPepgB1qEBv2v3TPlSIyc3ArT8bMFtUwrNXhArHO89vuZAGJFSWPIQR5K-jdljfNW4LDO33rNjmx7I-gS_FDQAot6-i7fafj_npSRHQVIoKm_wimQ9gSqTkJyh3foubB2tBw4Up5zTY7nVqkgv5ZrhRgkg0yGc97A==`</details>
 
 **JK**: 保証期間なしって逆にすごいですね。一生使える前提ってことですか。
 
@@ -468,7 +468,7 @@ Tags: Camping, Guide
 
 **先生**: 確かに安くはない。だが**「価格に見合う価値がある」**と感じるユーザーが大多数だ。何年も使える耐久性と、使うたびに感じる満足度は、安物には出せない。
 
-**参考情報**: 「品質に見合った価格設定のため、比較的高価であるという声もありますが、その高い耐久性と満足度から「価格に見合う価値がある」と感じるユーザーが多いようです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPtnhcqTuQadAA8xrxNLfHYn3VQCN5G1J67IKAZWlBHOwDwZMaM6hum2vlxWhfH7RjQEyvIA6zIV2-Ts7fHg61YySmDEvzFeRXCL7JoRU_KTvDv0LpT6m8-PRmoTc=`</details>
+> **参考情報**: 「品質に見合った価格設定のため、比較的高価であるという声もありますが、その高い耐久性と満足度から「価格に見合う価値がある」と感じるユーザーが多いようです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPtnhcqTuQadAA8xrxNLfHYn3VQCN5G1J67IKAZWlBHOwDwZMaM6hum2vlxWhfH7RjQEyvIA6zIV2-Ts7fHg61YySmDEvzFeRXCL7JoRU_KTvDv0LpT6m8-PRmoTc=`</details>
 
 **JK**: 長く使うこと考えたら、初期投資は仕方ないですかね。
 

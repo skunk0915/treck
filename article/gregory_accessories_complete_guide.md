@@ -36,7 +36,7 @@ Tags: Bag, Guide
 
 **先生**: ダメではないが、用途に合わないものを選ぶと結局使わなくなる。グレゴリーは登山用バックパックで培った技術を小型バッグにも惜しみなく投入しているから、それぞれの特徴を理解して選んだほうが満足度は高いぞ。
 
-**参考情報**: 「創業以来、高品質な素材と丁寧な縫製にこだわり、YKK製のファスナーを使用するなど、長く使える信頼性があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIBiOg5W1TBKuwHlOKbpbJmcahXhHTcwRyRWYks-JG__f20CIHZHZ02wFrew8TezdiQFDuxhoXGzUqNDSzSH4ygkfkHKj4fI_1hxCY5xtbmUA-5CyDKGD2n8FvjPGe6lsIvfF4_sJBZ6sNsRlEed-t3fpDWtZRdw==`</details>
+> **参考情報**: 「創業以来、高品質な素材と丁寧な縫製にこだわり、YKK製のファスナーを使用するなど、長く使える信頼性があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIBiOg5W1TBKuwHlOKbpbJmcahXhHTcwRyRWYks-JG__f20CIHZHZ02wFrew8TezdiQFDuxhoXGzUqNDSzSH4ygkfkHKj4fI_1hxCY5xtbmUA-5CyDKGD2n8FvjPGe6lsIvfF4_sJBZ6sNsRlEed-t3fpDWtZRdw==`</details>
 
 ### 主なシリーズ一覧
 
@@ -62,13 +62,13 @@ Tags: Bag, Guide
 
 **先生**: 落とすのは直したほうがいいが、バッグの中で他の荷物とぶつかって傷つくのを防げるのは大きいな。
 
-**参考情報**: 「電子機器や貴重品を保護するために全面にパッドが入ったミニショルダーバッグです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH2EHl2VhqP_cfHHXFokywl3qS6dCO9Uj_TbCRoPcOcQiOr8eHuzeS3-zFmGGWYSM9y-ZrqT4p_u15G1Go8SRv0KiC0m4y1YcV0d_wapPgxMFyA6eycFaQdxRVu_btJjSEMVcqacQ8N-j6flTtSvfdHe7p`</details>
+> **参考情報**: 「電子機器や貴重品を保護するために全面にパッドが入ったミニショルダーバッグです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH2EHl2VhqP_cfHHXFokywl3qS6dCO9Uj_TbCRoPcOcQiOr8eHuzeS3-zFmGGWYSM9y-ZrqT4p_u15G1Go8SRv0KiC0m4y1YcV0d_wapPgxMFyA6eycFaQdxRVu_btJjSEMVcqacQ8N-j6flTtSvfdHe7p`</details>
 
 **JK**: サイズはどのくらいなんですか？
 
 **先生**: SとMの2サイズ展開だ。Sサイズは2L、Mサイズは2.5L。Mサイズなら500mlペットボトル、長財布、スマートフォン、鍵くらいは余裕で入る。
 
-**参考情報**: 「容量は2.5Lで、500mlペットボトル、長財布、スマートフォン、鍵などを収納できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvlITcEwsLAXiOnMb2wlnwhe4fN0iw0eiCX007IPjluuKg9ekxfj2lycKIIiDrDzWKCqP2ELonsCwFqZM2iDXswtfOJFGmyiw7hhWhS3-76pEHpAfhvdkAkv1MDocwZHw-9Yr553vuC4DXeKcIJA_0OQ==`</details>
+> **参考情報**: 「容量は2.5Lで、500mlペットボトル、長財布、スマートフォン、鍵などを収納できます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvlITcEwsLAXiOnMb2wlnwhe4fN0iw0eiCX007IPjluuKg9ekxfj2lycKIIiDrDzWKCqP2ELonsCwFqZM2iDXswtfOJFGmyiw7hhWhS3-76pEHpAfhvdkAkv1MDocwZHw-9Yr553vuC4DXeKcIJA_0OQ==`</details>
 
 **JK**: 2.5Lって言われてもピンとこないんですけど…。
 
@@ -123,7 +123,7 @@ Tags: Bag, Guide
 
 **先生**: 要するに、腰のカーブに沿うように作られているということだ。普通のウエストバッグは平らな形だが、テールメイトは最初から曲がっている。だから体にフィットして、動いてもズレにくい。
 
-**参考情報**: 「人間工学に基づいた立体裁断構造で、腰の曲線に沿うように作られています。これにより、体にしっかりフィットし、快適な着用感を提供します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDQqbInbnHfOFfEboZwkhimCc80RLnqFMXDds-XnF5ijvNSlcz-eYzzJryXP8CX1X_pk4MA5awrZ_tp_T3t3XWDojMOaEEQxXx22DTl3JyiohAxMJpHWf0sg49jx-ZFNQ4R2QPQ8Xmp-zDBUiiiJ3hMwHL3ctDnwHqJLORJ-AL5MZVyrL_1mLm9QTkgF0F88AFikWHQuE=`</details>
+> **参考情報**: 「人間工学に基づいた立体裁断構造で、腰の曲線に沿うように作られています。これにより、体にしっかりフィットし、快適な着用感を提供します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDQqbInbnHfOFfEboZwkhimCc80RLnqFMXDds-XnF5ijvNSlcz-eYzzJryXP8CX1X_pk4MA5awrZ_tp_T3t3XWDojMOaEEQxXx22DTl3JyiohAxMJpHWf0sg49jx-ZFNQ4R2QPQ8Xmp-zDBUiiiJ3hMwHL3ctDnwHqJLORJ-AL5MZVyrL_1mLm9QTkgF0F88AFikWHQuE=`</details>
 
 **JK**: へー、だから人気なんですね。でも見た目がちょっと…おじさんっぽくないですか？
 
@@ -141,7 +141,7 @@ Tags: Bag, Guide
 
 **先生**: そうだ。以前は「スモール」の意味だったが、今は「スタンダード」のSという意味合いが強い。500mlペットボトルや折りたたみ傘も余裕で入る。
 
-**参考情報**: 「テールメイトSは8L容量で、500mlペットボトルや折りたたみ傘も収納可能。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHozotMgUZV5Fgj8s5RoiCOeqOuBI2U8ZItHv8ChCG3siIHrOAiRPuYltnQ2Llj993zEtSoS0bTbtkcR4nBqNzP2yf6A7q4okMpNFCAI_DcLmAXd-0uBn3UN3LhJWt1kNppZzScoSpMIE42UmlSgBxt`</details>
+> **参考情報**: 「テールメイトSは8L容量で、500mlペットボトルや折りたたみ傘も収納可能。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHozotMgUZV5Fgj8s5RoiCOeqOuBI2U8ZItHv8ChCG3siIHrOAiRPuYltnQ2Llj993zEtSoS0bTbtkcR4nBqNzP2yf6A7q4okMpNFCAI_DcLmAXd-0uBn3UN3LhJWt1kNppZzScoSpMIE42UmlSgBxt`</details>
 
 **JK**: でも8Lって、結構重くなりそう…。
 
@@ -157,7 +157,7 @@ Tags: Bag, Guide
 
 **先生**: 「とても小さい」という意味だ。容量は1.5L、重さは約175g。財布、スマホ、鍵くらいの最小限の荷物向けだな。
 
-**参考情報**: 「シンプルで小さく、手ぶらで気軽に出かけたい時に最適なサイズです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5iD9kkOp08bcm417hqCB0a9ao_UNpc1Gq8v8i6oLCwLGvtcle1TaM79m4LaQ0HRgtLqxhpOSKNK7ShBL51HIL6hNpk4n_grb3tPNwKXauJEPMkzp_76uT_OSP3p3xRJVDGHKOeMNT-T6FtlAROhTt9Q==`</details>
+> **参考情報**: 「シンプルで小さく、手ぶらで気軽に出かけたい時に最適なサイズです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5iD9kkOp08bcm417hqCB0a9ao_UNpc1Gq8v8i6oLCwLGvtcle1TaM79m4LaQ0HRgtLqxhpOSKNK7ShBL51HIL6hNpk4n_grb3tPNwKXauJEPMkzp_76uT_OSP3p3xRJVDGHKOeMNT-T6FtlAROhTt9Q==`</details>
 
 **JK**: あ、それくらいなら私にちょうどいいかも！
 
@@ -200,7 +200,7 @@ Tags: Bag, Guide
 
 **先生**: ショルダーバッグ、ポーチ、ベルトポーチ、そしてバッグインバッグ。背面にホック付きストラップがあって、ベルトやリュックのショルダーベルトに装着できる。
 
-**参考情報**: 「コンパクトな縦型デザインが特徴で、ショルダーバッグとしてはもちろん、ポーチやベルトポーチ、バッグインバッグとしても使える多様性があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlARINIQpzjGds09kLKhOph0YBpIpDWuyEEe4Hz08SK3Og7P-HD199KO7gkTUJaZtqkVtM2h9oa8-Dr1Cr7QxxTGZguKCBSsomuO6vA1xxJeBMZkqHAWKosXRrheA=`</details>
+> **参考情報**: 「コンパクトな縦型デザインが特徴で、ショルダーバッグとしてはもちろん、ポーチやベルトポーチ、バッグインバッグとしても使える多様性があります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlARINIQpzjGds09kLKhOph0YBpIpDWuyEEe4Hz08SK3Og7P-HD199KO7gkTUJaZtqkVtM2h9oa8-Dr1Cr7QxxTGZguKCBSsomuO6vA1xxJeBMZkqHAWKosXRrheA=`</details>
 
 **JK**: えっ、リュックにつけられるんですか！？それ便利じゃないですか！
 
@@ -218,7 +218,7 @@ Tags: Bag, Guide
 
 **先生**: スマートフォン、財布、ハンカチ、ワイヤレスイヤホン、モバイルバッテリーくらいは入る。500mlペットボトルも入るが、それだけでパンパンになるな。
 
-**参考情報**: 「スマートフォン、財布、ハンカチ、ワイヤレスイヤホン、モバイルバッテリーなど、日常の必需品を収納するのに便利です。500mlペットボトルも収納可能ですが、他の荷物が入るとパンパンになることがあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3lpfW7QxaQCRKkIKLZU5mpCkeXhxgh08_u6gufctfBLvAIvns0Na61V19cGkzKzMbcZNpP4yNoGDdvTvlBa4s24vsYnPfQKT-qcGxBxLsJ63H8AjNOWc2Ckqk8Q==`</details>
+> **参考情報**: 「スマートフォン、財布、ハンカチ、ワイヤレスイヤホン、モバイルバッテリーなど、日常の必需品を収納するのに便利です。500mlペットボトルも収納可能ですが、他の荷物が入るとパンパンになることがあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3lpfW7QxaQCRKkIKLZU5mpCkeXhxgh08_u6gufctfBLvAIvns0Na61V19cGkzKzMbcZNpP4yNoGDdvTvlBa4s24vsYnPfQKT-qcGxBxLsJ63H8AjNOWc2Ckqk8Q==`</details>
 
 **JK**: まあ、ミニバッグですもんね。
 
@@ -226,7 +226,7 @@ Tags: Bag, Guide
 
 **先生**: Lサイズになると収納力がぐっと上がる。iPad mini 7が縦向きに入るサイズだ。
 
-**参考情報**: 「LサイズはiPad mini 7が縦向きに収納できるなど、特定のガジェット収納に適したサイズもあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw9KVsY0O0Kl0-qgdCdWkX0k_HzRmhsfMCtF7NOpxTtX1nHBMPoZjFVRsWZe8qaaPUgzYrutjflm0ikFGYokyock-QEa6emdodV9fkT1TCb7kkrJ0ihqEbculDnThNTE9QUNKjuGfwhH4IA_Wh`</details>
+> **参考情報**: 「LサイズはiPad mini 7が縦向きに収納できるなど、特定のガジェット収納に適したサイズもあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw9KVsY0O0Kl0-qgdCdWkX0k_HzRmhsfMCtF7NOpxTtX1nHBMPoZjFVRsWZe8qaaPUgzYrutjflm0ikFGYokyock-QEa6emdodV9fkT1TCb7kkrJ0ihqEbculDnThNTE9QUNKjuGfwhH4IA_Wh`</details>
 
 **JK**: iPad入るの！？それはすごい！
 
@@ -263,7 +263,7 @@ Tags: Bag, Guide
 
 **先生**: 三日月型だな。体のラインに自然に沿うように設計されていて、ショルダーバッグの中でも特に掛け心地がいい。
 
-**参考情報**: 「体にフィットする三日月型のフォルムが特徴で、快適な掛け心地を提供します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEttF7Rx2LwZiGG5h_fM7TRWXR7dmisQA7gn0Bfxc8-VWhYgRQXciUc-XcmuPanw6UDRsXRSFy_Dy6tlpVORdqOKGrV1GAy7GvbfnVObzsDm2Kb8sXx1gyzIad6PGGfov1aaDT0iEA9p8qQGg==`</details>
+> **参考情報**: 「体にフィットする三日月型のフォルムが特徴で、快適な掛け心地を提供します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEttF7Rx2LwZiGG5h_fM7TRWXR7dmisQA7gn0Bfxc8-VWhYgRQXciUc-XcmuPanw6UDRsXRSFy_Dy6tlpVORdqOKGrV1GAy7GvbfnVObzsDm2Kb8sXx1gyzIad6PGGfov1aaDT0iEA9p8qQGg==`</details>
 
 **JK**: へー、形に意味があるんだ。
 
@@ -273,7 +273,7 @@ Tags: Bag, Guide
 
 **先生**: そうだ。MサイズならA4サイズのノートや手帳、500mlペットボトルも余裕で入る。通勤や通学でも使えるサイズだな。
 
-**参考情報**: 「MサイズはA4サイズのノートや手帳、500mlのペットボトルも収納可能で、日常使いからちょっとした旅行のサブバッグまで多目的に使えます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzg9FS6w4x67_cU-eZcNic5_DlsaEE37189us_tucRZ4h86Gi1rLPDCSn2PsFhFT89Whya4lkX_DzaLic0MWXNlPVBz6_HKWjxw8MsXcsxZJmxMZUS4ixVw2cezmtcaSx3lkategOQlvUHNMy6h3YLt0HgTJe9b_nSs-Nj61jX`</details>
+> **参考情報**: 「MサイズはA4サイズのノートや手帳、500mlのペットボトルも収納可能で、日常使いからちょっとした旅行のサブバッグまで多目的に使えます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzg9FS6w4x67_cU-eZcNic5_DlsaEE37189us_tucRZ4h86Gi1rLPDCSn2PsFhFT89Whya4lkX_DzaLic0MWXNlPVBz6_HKWjxw8MsXcsxZJmxMZUS4ixVw2cezmtcaSx3lkategOQlvUHNMy6h3YLt0HgTJe9b_nSs-Nj61jX`</details>
 
 **JK**: じゃあこれ、普通にショルダーバッグとしてちゃんと使えるんですね。
 
@@ -313,7 +313,7 @@ Tags: Bag, Guide
 
 **先生**: 片方の肩にかけて、体の前か後ろに回すタイプだな。スウィッチスリングの特徴は「左右どちらの肩にもかけられる」ことだ。
 
-**参考情報**: 「ショルダーストラップは左右どちらの肩にも下げられるように設計されており、パッド補強されているため、長時間の使用でも肩への負担を軽減します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz4o1mNh-wXAjUkFniXivcNHN-3A1cOqQdKzw78ELcYwxv1vZRTNJIfEASh1YPuSEGf8avTlg5QU3ftsKeDBTgxnmCQMxZH0Lmn2minq5jS8SHlYLlZlvFI_GpnPwGAcTMhK8p`</details>
+> **参考情報**: 「ショルダーストラップは左右どちらの肩にも下げられるように設計されており、パッド補強されているため、長時間の使用でも肩への負担を軽減します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz4o1mNh-wXAjUkFniXivcNHN-3A1cOqQdKzw78ELcYwxv1vZRTNJIfEASh1YPuSEGf8avTlg5QU3ftsKeDBTgxnmCQMxZH0Lmn2minq5jS8SHlYLlZlvFI_GpnPwGAcTMhK8p`</details>
 
 **JK**: え、普通のスリングバッグって左右決まってるんですか？
 
@@ -323,7 +323,7 @@ Tags: Bag, Guide
 
 **先生**: 容量は約5〜5.5Lで、500mlペットボトル、長財布、A5サイズノートくらいは入る。
 
-**参考情報**: 「500mlペットボトルや長財布、A5サイズのノートなども収納可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0nhK_C_ydAWcYJc8uzBC6lxgFzC1w1k2eKzUGOtglP-qLR_cM2VHY7uR7F2k5dE96JnrWN800VSUa5YK6vsXo2DqxPbJRKV0iBJ2ExdA4kdWccCq__i8I62fpv_QPmDRmQ3jXDljskByt6ObP7qOtfZ5HKN29pNiYf0eq`</details>
+> **参考情報**: 「500mlペットボトルや長財布、A5サイズのノートなども収納可能です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0nhK_C_ydAWcYJc8uzBC6lxgFzC1w1k2eKzUGOtglP-qLR_cM2VHY7uR7F2k5dE96JnrWN800VSUa5YK6vsXo2DqxPbJRKV0iBJ2ExdA4kdWccCq__i8I62fpv_QPmDRmQ3jXDljskByt6ObP7qOtfZ5HKN29pNiYf0eq`</details>
 
 **JK**: あとなんか、ポールがついてるように見えるんですけど？
 
@@ -368,7 +368,7 @@ Tags: Bag, Guide
 
 **先生**: トランスファーショルダーはMサイズで2つ、Lサイズで3つのポケットがある。フロントポケットにはキーフォブ（鍵用フック）もついていて、鍵が迷子にならない。
 
-**参考情報**: 「多くのポケットが付いており、荷物を細かく整理して収納できるため、取り出したいものに素早くアクセスできます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEVhARBBNDLI1Ukj_NZMXL9wCzsPkZFtPSzDH-PH44mdqqR0urzsfp3BuZr7KfsVNEs7odErykFOcBTLLEE5qC5s-EC93Wc6A9oRTwR72VA6Eaefh29usyP594-ET5vMd1UYFjxdwt`</details>
+> **参考情報**: 「多くのポケットが付いており、荷物を細かく整理して収納できるため、取り出したいものに素早くアクセスできます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEVhARBBNDLI1Ukj_NZMXL9wCzsPkZFtPSzDH-PH44mdqqR0urzsfp3BuZr7KfsVNEs7odErykFOcBTLLEE5qC5s-EC93Wc6A9oRTwR72VA6Eaefh29usyP594-ET5vMd1UYFjxdwt`</details>
 
 **JK**: 鍵フックついてるの嬉しい！いつもバッグの底で行方不明になるんです…。
 
@@ -376,7 +376,7 @@ Tags: Bag, Guide
 
 #### トランスファーショルダーM
 
-**参考情報**: 「トランスファーショルダーMは容量約3リットルから3.5リットルです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA93zuuYtVinmvnZIPc9PWbqEMYsO7mCVGGlYqGUt_Lxaiojcwf_4JAdXy15oYPdtqOuE82a3yGm5PkmFf1bdiXP2X3RoscHmGFUph5AEHyfrsTMSZRXM-m86ZDoO-m23dtjAlcdpSLFHBsLH1MMNpW8vp4NXo5GjIrg==`</details>
+> **参考情報**: 「トランスファーショルダーMは容量約3リットルから3.5リットルです。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA93zuuYtVinmvnZIPc9PWbqEMYsO7mCVGGlYqGUt_Lxaiojcwf_4JAdXy15oYPdtqOuE82a3yGm5PkmFf1bdiXP2X3RoscHmGFUph5AEHyfrsTMSZRXM-m86ZDoO-m23dtjAlcdpSLFHBsLH1MMNpW8vp4NXo5GjIrg==`</details>
 
 - 容量: 約3〜3.5L
 - 重量: 約175g〜195g
@@ -419,13 +419,13 @@ Tags: Bag, Guide
 
 **先生**: そうだ。肩にかけているのを忘れるくらい軽い。
 
-**参考情報**: 「シンプルでスタイリッシュなデザインが魅力で、グレゴリーのデイパックをそのままサコッシュにしたような"らしさ"が随所に感じられます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH89t4BDQccQcmP1lRBCtOdPHpcGLB-vlgtcvDOtsbPS3IaPmBrtLwM-YiMOMtkrCQ-CGHofKaoQPa48g7XGHqufMsNzdvBruZ4CTlnXQPCrlx8MahABg7w0bSTz7vzV_pO-wyD40vtcOMvTVHiZMA=`</details>
+> **参考情報**: 「シンプルでスタイリッシュなデザインが魅力で、グレゴリーのデイパックをそのままサコッシュにしたような"らしさ"が随所に感じられます。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH89t4BDQccQcmP1lRBCtOdPHpcGLB-vlgtcvDOtsbPS3IaPmBrtLwM-YiMOMtkrCQ-CGHofKaoQPa48g7XGHqufMsNzdvBruZ4CTlnXQPCrlx8MahABg7w0bSTz7vzV_pO-wyD40vtcOMvTVHiZMA=`</details>
 
 **JK**: でも軽いってことは、ペラペラで安っぽいんじゃ？
 
 **先生**: いや、デイパックにも使われている厚めの生地を採用しているから耐久性は問題ない。クラシックロゴパッチや皮革製ジッパープルもついていて、グレゴリーらしさがしっかり出ている。
 
-**参考情報**: 「複数のポケットを備えており、小物の整理がしやすい設計です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfklOONpqIQ0xIsRR2JdSCoQukAuFfBsSWwUbxdRqmfIYOvM2Vqe70YVjzJsMr5xp2eqVFEiG71MxUhQ43-vekVodtq65fpcQZVKBYISCrPTJuKmZu5NyVHPoJI1OmGXaoWWwe`</details>
+> **参考情報**: 「複数のポケットを備えており、小物の整理がしやすい設計です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfklOONpqIQ0xIsRR2JdSCoQukAuFfBsSWwUbxdRqmfIYOvM2Vqe70YVjzJsMr5xp2eqVFEiG71MxUhQ43-vekVodtq65fpcQZVKBYISCrPTJuKmZu5NyVHPoJI1OmGXaoWWwe`</details>
 
 **JK**: 容量はどのくらいですか？
 

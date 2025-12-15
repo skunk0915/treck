@@ -59,19 +59,19 @@ Tags: Headwear, Guide
 
 **先生**: まずは冬用ビーニーの定番、Bird Head Toqueだ。これは**ウールとリサイクルポリエステルのブレンド**で、自然な保温性と快適性を両立している。
 
-**参考情報**: 「50% wool and 50% polyester for the main body, with 100% polyester lining」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/bird-head-toque`</details>
+> **参考情報**: 「50% wool and 50% polyester for the main body, with 100% polyester lining」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/bird-head-toque`</details>
 
 **JK**: ウールって、あのチクチクするやつですか？冬のセーターみたいな…
 
 **先生**: いい質問だ。でもこのトークには**ブラッシュドポリエステルバンド**と**インナーフリースヘッドバンド**が付いていて、直接肌にウールが触れないようになっているんだ。
 
-**参考情報**: 「A brushed polyester band adds technical performance and a layer of softness. Inside you'll find an inner fleece headband」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/bird-head-toque`</details>
+> **参考情報**: 「A brushed polyester band adds technical performance and a layer of softness. Inside you'll find an inner fleece headband」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/bird-head-toque`</details>
 
 **JK**: なるほど！それなら安心ですね。でもウールって何がいいんですか？
 
 **先生**: ウールは天然の保温性があって、汗をかいても暖かさを保ちやすいんだ。化繊だけのビーニーと違って、濡れても冷たくなりにくい。だから冬山クライミングやスキーに最適なんだよ。
 
-**参考情報**: 「designed for multiple activities including alpine climbing, skiing, snowboarding, hiking, and trekking」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/bird-head-toque`</details>
+> **参考情報**: 「designed for multiple activities including alpine climbing, skiing, snowboarding, hiking, and trekking」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/bird-head-toque`</details>
 
 **JK**: じゃあ、がっつり雪山行く人向けってことですね。
 
@@ -83,7 +83,7 @@ Tags: Headwear, Guide
 - インナーフリースヘッドバンド付き
 - 価格: $50（約€59.90）
 
-**参考情報**: 「The six-panel construction ensures a secure and ergonomic fit」「sold at a retail price of $50」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/bird-head-toque`</details>
+> **参考情報**: 「The six-panel construction ensures a secure and ergonomic fit」「sold at a retail price of $50」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/bird-head-toque`</details>
 
 ### こんな人におすすめ
 - 冬山クライミングをする人
@@ -104,7 +104,7 @@ Tags: Headwear, Guide
 
 **先生**: 次はWord Head Toqueだ。これの最大の特徴は**リバーシブル仕様**なんだ。片面にArc'teryxのグラフィック、もう片面は単色デザインになっている。
 
-**参考情報**: 「reversible design with an Arc'teryx graphic on one side and a solid color on the other」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/word-head-toque`</details>
+> **参考情報**: 「reversible design with an Arc'teryx graphic on one side and a solid color on the other」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/word-head-toque`</details>
 
 **JK**: えっ、裏返して使えるってことですか？それめっちゃ便利じゃないですか！
 
@@ -114,7 +114,7 @@ Tags: Headwear, Guide
 
 **先生**: いや、こっちは**ウール、ポリエステル、ナイロン、エラスタンのブレンド**で、50%がリサイクル素材だ。Bird Headよりも伸縮性が高くてフィットしやすい。
 
-**参考情報**: 「made from a durable blend of wool, polyester, nylon, and elastane, with 50% of the materials being recycled」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/word-head-toque`</details>
+> **参考情報**: 「made from a durable blend of wool, polyester, nylon, and elastane, with 50% of the materials being recycled」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/word-head-toque`</details>
 
 **JK**: リサイクル素材ってエコですね！最近そういうの気になるんですよ。
 
@@ -128,7 +128,7 @@ Tags: Headwear, Guide
 - 流線型のクローズフィットビーニー
 - 価格: $50
 
-**参考情報**: 「The six-dart construction provides a secure and comfortable fit」「price is $50.00」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/word-head-toque`</details>
+> **参考情報**: 「The six-dart construction provides a secure and comfortable fit」「price is $50.00」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/word-head-toque`</details>
 
 ### こんな人におすすめ
 - 冬山スポーツ全般（スキー、スノーボード、ハイキング）
@@ -137,7 +137,7 @@ Tags: Headwear, Guide
 - 伸縮性の高いフィットが好みの人
 - 環境に配慮した製品を選びたい人
 
-**参考情報**: 「designed for versatile use in winter mountain sports, training, hiking, and everyday wear」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/word-head-toque`</details>
+> **参考情報**: 「designed for versatile use in winter mountain sports, training, hiking, and everyday wear」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/word-head-toque`</details>
 
 ### 注意点
 - Bird Headほどのウール含有量ではない（保温性は若干劣る可能性）
@@ -151,13 +151,13 @@ Tags: Headwear, Guide
 
 **先生**: Grotto Toqueは**都市部からアルパインまでシームレスに移行できる**デザインが特徴だ。100%リサイクルポリエステル製で、カラフルで抽象的なバードロゴが印象的なんだ。
 
-**参考情報**: 「mid-length winter toque made from 100% recycled polyester with a colorful, abstract Arc'teryx bird logo, designed to transition from urban to alpine settings」<details><summary>出典</summary>`https://www.rei.com/product/222933/arcteryx-grotto-toque-hat`</details>
+> **参考情報**: 「mid-length winter toque made from 100% recycled polyester with a colorful, abstract Arc'teryx bird logo, designed to transition from urban to alpine settings」<details><summary>出典</summary>`https://www.rei.com/product/222933/arcteryx-grotto-toque-hat`</details>
 
 **JK**: カラフルなデザインっていいですね！でも、機能性はどうなんですか？
 
 **先生**: ユーザーレビューを見ると「ファッションと機能性の完璧なミックス」という評価が多いな。保温性が高いけど過熱しない絶妙な重量バランスで、非常に柔らかく快適だと評判だ。
 
-**参考情報**: 「Customers describe it as 'the perfect mix of fashion and functionality' and note it's 'a super warm beanie'」「'the perfect weight' that keeps heads warm without overheating. It's also really soft and comfortable」<details><summary>出典</summary>`https://www.rei.com/product/222933/arcteryx-grotto-toque-hat`</details>
+> **参考情報**: 「Customers describe it as 'the perfect mix of fashion and functionality' and note it's 'a super warm beanie'」「'the perfect weight' that keeps heads warm without overheating. It's also really soft and comfortable」<details><summary>出典</summary>`https://www.rei.com/product/222933/arcteryx-grotto-toque-hat`</details>
 
 **JK**: めっちゃ良さそうじゃないですか！これ買います！
 
@@ -167,13 +167,13 @@ Tags: Headwear, Guide
 
 **先生**: 一部のユーザーから「今年のGrotto Toqueの素材変更に極めて失望している」「以前のバージョンはもっと厚く、安っぽく感じなかった」という声が上がっているんだ。
 
-**参考情報**: 「'extremely disappointed in the switch on the grotto toque this year of material' noting previous versions 'were so much thicker, less cheap feeling'」<details><summary>出典</summary>`https://www.rei.com/product/222933/arcteryx-grotto-toque-hat`</details>
+> **参考情報**: 「'extremely disappointed in the switch on the grotto toque this year of material' noting previous versions 'were so much thicker, less cheap feeling'」<details><summary>出典</summary>`https://www.rei.com/product/222933/arcteryx-grotto-toque-hat`</details>
 
 **JK**: えぇ…アークテリクスなのに品質落ちるとか…
 
 **先生**: 耐久性についても「数日間の通常使用後に毛羽立ちが現れ、2週間後に生地がほつれ始めた」「爪が引っかかって糸を引き抜いた」「1回の着用後に穴が開いた」という報告があるんだ。
 
-**参考情報**: 「after just a few days of normal use, lint appeared, and after two weeks, the fabric started to unravel」「a simple hangnail from my finger could catch, and rip thread from the beanie」<details><summary>出典</summary>`https://www.rei.com/product/222933/arcteryx-grotto-toque-hat`</details>
+> **参考情報**: 「after just a few days of normal use, lint appeared, and after two weeks, the fabric started to unravel」「a simple hangnail from my finger could catch, and rip thread from the beanie」<details><summary>出典</summary>`https://www.rei.com/product/222933/arcteryx-grotto-toque-hat`</details>
 
 **JK**: それはちょっと…高いお金払ってそれは困りますね。
 
@@ -205,13 +205,13 @@ Tags: Headwear, Guide
 
 **先生**: Mallow Toqueは**Arcyda Toqueの進化版**として登場したモデルだ。テックウール50%、リサイクルポリエステル50%のブレンドで、自然な快適性と技術的パフォーマンスを融合している。
 
-**参考情報**: 「made from a blend of performance polyester and wool」「Mallow Toque represents an evolved iteration of the beloved Arcyda Toque」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/mallow-toque`</details>
+> **参考情報**: 「made from a blend of performance polyester and wool」「Mallow Toque represents an evolved iteration of the beloved Arcyda Toque」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/mallow-toque`</details>
 
 **JK**: Arcyda Toqueって何ですか？
 
 **先生**: 以前あったモデルで、これが進化してMallow Toqueになったんだ。クリーンでロープロファイルなデザインと、シームレスな完全ファッション加工のクラウンが特徴だな。
 
-**参考情報**: 「Clean low-profile design with a seamless fully fashioned crown」<details><summary>出典</summary>`https://www.ellis-brigham.com/arcteryx-mallow-toque-beanie-233904937`</details>
+> **参考情報**: 「Clean low-profile design with a seamless fully fashioned crown」<details><summary>出典</summary>`https://www.ellis-brigham.com/arcteryx-mallow-toque-beanie-233904937`</details>
 
 **JK**: ロープロファイルって何ですか？
 
@@ -221,7 +221,7 @@ Tags: Headwear, Guide
 
 **先生**: さらに、2x2構造の袖口で伸縮性を高めていて、快適でストレスフリーなフィット感を実現している。耳の上は二重層で追加の暖かさがあるし、ブリムの深さ調整でサイズ調整も可能なんだ。
 
-**参考情報**: 「2x2構造の袖口で伸縮性を高め、快適でしっかりとしたストレスフリーなフィット感を実現」「Double layered over your ears for extra warmth also makes the Arc'teryx Mallow Toque nicely sizeable by simply adjusting the depth of the brim」<details><summary>出典</summary>`https://www.snowandrock.com/p/arc-teryx-mens-mallow-toque-beanie-B13JFC0234.html`</details>
+> **参考情報**: 「2x2構造の袖口で伸縮性を高め、快適でしっかりとしたストレスフリーなフィット感を実現」「Double layered over your ears for extra warmth also makes the Arc'teryx Mallow Toque nicely sizeable by simply adjusting the depth of the brim」<details><summary>出典</summary>`https://www.snowandrock.com/p/arc-teryx-mens-mallow-toque-beanie-B13JFC0234.html`</details>
 
 **JK**: めっちゃ高機能じゃないですか！これBird Headより良さそう。
 
@@ -235,7 +235,7 @@ Tags: Headwear, Guide
 - 耳の上は二重層で追加の暖かさ
 - ブリムの深さ調整でサイズ調整可能
 
-**参考情報**: 「Weight: 111g」「Fabric: Tech Wool knit for a blend of natural comfort and technical performance」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/mallow-toque`</details>
+> **参考情報**: 「Weight: 111g」「Fabric: Tech Wool knit for a blend of natural comfort and technical performance」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/mallow-toque`</details>
 
 ### こんな人におすすめ
 - オンマウンテンからアフターアドベンチャーまで使いたい人
@@ -243,7 +243,7 @@ Tags: Headwear, Guide
 - ロープロファイルなデザインが好きな人
 - フィット感を細かく調整したい人
 
-**参考情報**: 「It effortlessly moves from on-mountain to après-adventure」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/mallow-toque`</details>
+> **参考情報**: 「It effortlessly moves from on-mountain to après-adventure」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/mallow-toque`</details>
 
 ### 注意点
 - 重量が111gと他モデルより重い
@@ -257,37 +257,37 @@ Tags: Headwear, Guide
 
 **先生**: Embroidered Bird Toqueは**100%リサイクルポリエステルニット**で、フリースライニングのヘッドバンドが特徴だ。
 
-**参考情報**: 「made from 100% recycled polyester knit that's warm, soft, breathable with wicking fibers, and features fleece lining in the headband」<details><summary>出典</summary>`https://www.rei.com/product/255580/arcteryx-embroidered-bird-toque`</details>
+> **参考情報**: 「made from 100% recycled polyester knit that's warm, soft, breathable with wicking fibers, and features fleece lining in the headband」<details><summary>出典</summary>`https://www.rei.com/product/255580/arcteryx-embroidered-bird-toque`</details>
 
 **JK**: フリースライニングって何がいいんですか？
 
 **先生**: フリースライニングは風を防ぎながら過熱を防ぐ効果があるんだ。特にゴーグルの下でもしっかりフィットするようにデザインされている。
 
-**参考情報**: 「The fit is designed to hold snug, even under goggles」「fleece lining that 'Keeps wind out without overheating'」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/embroidered-bird-toque`</details>
+> **参考情報**: 「The fit is designed to hold snug, even under goggles」「fleece lining that 'Keeps wind out without overheating'」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/embroidered-bird-toque`</details>
 
 **JK**: スキーヤーにぴったりってことですね！
 
 **先生**: その通り。ユーザーレビューでも「クリーンでクラシックなトーク、素晴らしいフィットと快適性」と高評価だ。
 
-**参考情報**: 「Customers praised it as a 'Clean and classic toque with great fit and comfort'」<details><summary>出典</summary>`https://www.zappos.com/product/review/9882178`</details>
+> **参考情報**: 「Customers praised it as a 'Clean and classic toque with great fit and comfort'」<details><summary>出典</summary>`https://www.zappos.com/product/review/9882178`</details>
 
 **JK**: でも、これもGrottoみたいに品質問題ありますか？
 
 **先生**: 残念ながら、一部のユーザーから「すでにステッチがほつれて引っ張られている」「生地に引っかかりや小さな穴が発生する」という報告があるんだ。
 
-**参考情報**: 「Some noted quality issues with stitching already out and pulled」「fabric developing pulls and small holes」<details><summary>出典</summary>`https://www.zappos.com/product/review/9882178`</details>
+> **参考情報**: 「Some noted quality issues with stitching already out and pulled」「fabric developing pulls and small holes」<details><summary>出典</summary>`https://www.zappos.com/product/review/9882178`</details>
 
 **JK**: えぇ…またですか…
 
 **先生**: それと「サイズが小さめ」という指摘もある。頭が大きめの人は注意が必要だな。
 
-**参考情報**: 「one reviewer mentioned it runs small」<details><summary>出典</summary>`https://www.zappos.com/product/review/9882178`</details>
+> **参考情報**: 「one reviewer mentioned it runs small」<details><summary>出典</summary>`https://www.zappos.com/product/review/9882178`</details>
 
 **JK**: うーん、ちょっと微妙ですね…
 
 **先生**: ただし、Amazon Japanでは5つ星評価もあるし、全ての人が問題を経験しているわけじゃない。慎重に扱えば長く使えるだろう。
 
-**参考情報**: 「The product shows a 5 out of 5 stars rating with 1 global rating」<details><summary>出典</summary>`https://amazon.co.jp/アークテリクス-ARCTERYX-エンブロイダードバードトーク-X000010066/dp/B0FNWSVP9G`</details>
+> **参考情報**: 「The product shows a 5 out of 5 stars rating with 1 global rating」<details><summary>出典</summary>`https://amazon.co.jp/アークテリクス-ARCTERYX-エンブロイダードバードトーク-X000010066/dp/B0FNWSVP9G`</details>
 
 ### 主なスペック
 - 素材: 100%リサイクルポリエステルニット
@@ -309,7 +309,7 @@ Tags: Headwear, Guide
 - 慎重に扱う必要がある
 - 市場価格が$96-$175と幅広い（リテーラーによって変動）
 
-**参考情報**: 「market price $96-$175 (varies by retailer)」<details><summary>出典</summary>`https://www.zappos.com/product/review/9882178`</details>
+> **参考情報**: 「market price $96-$175 (varies by retailer)」<details><summary>出典</summary>`https://www.zappos.com/product/review/9882178`</details>
 
 ---
 
@@ -323,7 +323,7 @@ Tags: Headwear, Guide
 
 **先生**: 2025-2026シーズンの価格で€39.90だ。他のモデルが$50や€59.90なのに比べるとかなりお得だな。
 
-**参考情報**: 「€39.90 (2025-2026 season, the most affordable model)」<details><summary>出典</summary>`https://www.montaz.com/en/arc-teryx-rho-toque-black-p247983.html`</details>
+> **参考情報**: 「€39.90 (2025-2026 season, the most affordable model)」<details><summary>出典</summary>`https://www.montaz.com/en/arc-teryx-rho-toque-black-p247983.html`</details>
 
 **JK**: えっ、それめっちゃ安いじゃないですか！何か機能削られてるんですか？
 
@@ -357,7 +357,7 @@ Tags: Headwear, Guide
 
 **先生**: ここからは夏用キャップを見ていこう。まずはElaho Capだ。これは**UPF 50+のサンプロテクション**を備えたパッカブルキャップなんだ。
 
-**参考情報**: 「polyester plain weave fabric has a UPF 50+ rating for sun protection」<details><summary>出典</summary>`https://www.altitude-sports.com/products/arcteryx-elaho-cap-unisex-llll-arc-23198`</details>
+> **参考情報**: 「polyester plain weave fabric has a UPF 50+ rating for sun protection」<details><summary>出典</summary>`https://www.altitude-sports.com/products/arcteryx-elaho-cap-unisex-llll-arc-23198`</details>
 
 **JK**: UPF 50+って何ですか？日焼け止めのSPFみたいなやつ？
 
@@ -371,7 +371,7 @@ Tags: Headwear, Guide
 
 **先生**: それがElaho Capの素晴らしいところだ。**完全にパッカブルで、ラミネート加工のつばは型崩れしないのに圧縮可能**なんだ。ポケットやバックパックに簡単に収納できる。
 
-**参考情報**: 「The laminated brim holds its shape, but is fully compressible to allow the cap to fit easily in a pocket or backpack」<details><summary>出典</summary>`https://www.campsaver.com/arc-teryx-elaho-cap.html`</details>
+> **参考情報**: 「The laminated brim holds its shape, but is fully compressible to allow the cap to fit easily in a pocket or backpack」<details><summary>出典</summary>`https://www.campsaver.com/arc-teryx-elaho-cap.html`</details>
 
 **JK**: えっ、つばが型崩れしないのに圧縮できるって、どういう仕組みですか？
 
@@ -381,19 +381,19 @@ Tags: Headwear, Guide
 
 **先生**: わずか45g（0.045 kg）だ。スマホの半分以下の重さだな。
 
-**参考情報**: 「Weight: 0.045 kg」<details><summary>出典</summary>`https://www.altitude-sports.com/products/arcteryx-elaho-cap-unisex-llll-arc-23198`</details>
+> **参考情報**: 「Weight: 0.045 kg」<details><summary>出典</summary>`https://www.altitude-sports.com/products/arcteryx-elaho-cap-unisex-llll-arc-23198`</details>
 
 **JK**: めっちゃ軽い！これなら持っていくの全然苦じゃないですね。
 
 **先生**: さらに、背面ストラップには**取り外し可能なクリップ**が付いていて、ベルトやベルトループ、パックストラップから吊るせるんだ。使わない時も便利だろ？
 
-**参考情報**: 「The back strap has a detachable clip, so the hat can be hung from a belt, belt loop, or pack strap」<details><summary>出典</summary>`https://www.altitude-sports.com/products/arcteryx-elaho-cap-unisex-llll-arc-23198`</details>
+> **参考情報**: 「The back strap has a detachable clip, so the hat can be hung from a belt, belt loop, or pack strap」<details><summary>出典</summary>`https://www.altitude-sports.com/products/arcteryx-elaho-cap-unisex-llll-arc-23198`</details>
 
 **JK**: 至れり尽くせりじゃないですか！でも、防水性はどうなんですか？夏の山って夕立ちとかありますよね。
 
 **先生**: 実は、Elaho Capは**防水性には特化していない**んだ。通気性と日除けに重点を置いているから、本降りの雨には向かない。雨対策には別途レインウェアが必要だな。
 
-**参考情報**: 「I did not find specific information about waterproof performance (防水性能) for this cap. The design appears to focus on breathability, sun protection, and packability rather than waterproofing」<details><summary>出典</summary>`https://www.altitude-sports.com/products/arcteryx-elaho-cap-unisex-llll-arc-23198`</details>
+> **参考情報**: 「I did not find specific information about waterproof performance (防水性能) for this cap. The design appears to focus on breathability, sun protection, and packability rather than waterproofing」<details><summary>出典</summary>`https://www.altitude-sports.com/products/arcteryx-elaho-cap-unisex-llll-arc-23198`</details>
 
 **JK**: なるほど、用途が違うんですね。晴れた日のハイキングにはめっちゃ良さそう。
 
@@ -427,13 +427,13 @@ Tags: Headwear, Guide
 
 **先生**: Calvus Capは**重量49gの超軽量キャップ**で、ストレッチ性と通気性に優れているんだ。
 
-**参考情報**: 「重量49gの超軽量キャップ」「ストレッチ性と通気性に優れる」<details><summary>出典</summary>`https://campify.jp/magazine/arcteryx-cap/`</details>
+> **参考情報**: 「重量49gの超軽量キャップ」「ストレッチ性と通気性に優れる」<details><summary>出典</summary>`https://campify.jp/magazine/arcteryx-cap/`</details>
 
 **JK**: 49g！Elahoの45gとほぼ同じですね。
 
 **先生**: その通り。さらにCalvus Capには**耐久撥水加工**が施されているから、多少の雨を防ぎ、蒸れを逃してくれるんだ。
 
-**参考情報**: 「耐久撥水加工を施しているので、多少の雨を防ぎ、蒸れを逃してくれます」<details><summary>出典</summary>`https://campify.jp/magazine/arcteryx-cap/`</details>
+> **参考情報**: 「耐久撥水加工を施しているので、多少の雨を防ぎ、蒸れを逃してくれます」<details><summary>出典</summary>`https://campify.jp/magazine/arcteryx-cap/`</details>
 
 **JK**: あれ、Elahoは防水じゃないって言ってましたけど、こっちは撥水なんですね。
 
@@ -449,7 +449,7 @@ Tags: Headwear, Guide
 - ストレッチ性と通気性に優れる
 - 多少の雨を防ぎ、蒸れを逃す
 
-**参考情報**: 「優れた通気素材を使用し、耐久撥水加工を施している」<details><summary>出典</summary>`https://campify.jp/magazine/arcteryx-cap/`</details>
+> **参考情報**: 「優れた通気素材を使用し、耐久撥水加工を施している」<details><summary>出典</summary>`https://campify.jp/magazine/arcteryx-cap/`</details>
 
 ### こんな人におすすめ
 - 夏のトレイルランニングをする人
@@ -470,13 +470,13 @@ Tags: Headwear, Guide
 
 **先生**: Norvan Hatは**トレイルランニングに特化**したモデルだ。超軽量で優れた通気性があるんだ。
 
-**参考情報**: 「超軽量」「優れた通気性」「夏の気候下でのトレイルランニングで活躍」<details><summary>出典</summary>`https://arcteryx.jp/products/norvan-hat`</details>
+> **参考情報**: 「超軽量」「優れた通気性」「夏の気候下でのトレイルランニングで活躍」<details><summary>出典</summary>`https://arcteryx.jp/products/norvan-hat`</details>
 
 **JK**: トレイルランニング特化って、何が違うんですか？
 
 **先生**: ヘッドバンドを**片引きで締められるセキュアフィット**機能があるんだ。激しい動きでも帽子がずれないように設計されている。
 
-**参考情報**: 「ヘッドバンドを片引きで締められるセキュアフィット」<details><summary>出典</summary>`https://arcteryx.jp/products/norvan-hat`</details>
+> **参考情報**: 「ヘッドバンドを片引きで締められるセキュアフィット」<details><summary>出典</summary>`https://arcteryx.jp/products/norvan-hat`</details>
 
 **JK**: あぁ、走っている時に帽子がずれるとめっちゃストレスですもんね。
 
@@ -506,7 +506,7 @@ Tags: Headwear, Guide
 
 **先生**: Small Bird Hatは**6パネルのベースボール型キャップ**で、どんなシーンにも使いやすい王道モデルだ。
 
-**参考情報**: 「6パネルのベースボール型キャップ」「どんなシーンにも使いやすい王道モデル」<details><summary>出典</summary>`https://campify.jp/magazine/arcteryx-cap/`</details>
+> **参考情報**: 「6パネルのベースボール型キャップ」「どんなシーンにも使いやすい王道モデル」<details><summary>出典</summary>`https://campify.jp/magazine/arcteryx-cap/`</details>
 
 **JK**: ベースボールキャップって、普通の野球帽みたいな形ってことですか？
 
@@ -534,7 +534,7 @@ Tags: Headwear, Guide
 
 **先生**: Trucker Hatは**軽量ポリエステルフロントパネル**に、サイドは**メッシュ素材**で切り替えられていて、通気性と透湿性に優れるモデルだ。
 
-**参考情報**: 「軽量ポリエステルフロントパネルに、サイドはメッシュ素材で切り替えられ、通気性はもちろん透湿性にも優れ、蒸し暑い季節も快適なかぶり心地」<details><summary>出典</summary>`https://arcteryx.jp/products/bird-word-trucker-hat`</details>
+> **参考情報**: 「軽量ポリエステルフロントパネルに、サイドはメッシュ素材で切り替えられ、通気性はもちろん透湿性にも優れ、蒸し暑い季節も快適なかぶり心地」<details><summary>出典</summary>`https://arcteryx.jp/products/bird-word-trucker-hat`</details>
 
 **JK**: トラッカーキャップって、後ろがメッシュのやつですよね。
 
@@ -544,13 +544,13 @@ Tags: Headwear, Guide
 
 **先生**: Bucket Hatは**取り外し可能な統合バックル**付きで、ショックコードでクイックフィット調整が可能だ。
 
-**参考情報**: 「取り外し可能な統合バックル付き」「ショックコードでクイックフィット調整可能」<details><summary>出典</summary>`https://arcteryx.jp/products/bucket-hat`</details>
+> **参考情報**: 「取り外し可能な統合バックル付き」「ショックコードでクイックフィット調整可能」<details><summary>出典</summary>`https://arcteryx.jp/products/bucket-hat`</details>
 
 ### Gore 5 Panel Hat（ゴア 5 パネル ハット）
 
 **先生**: Gore 5 Panel Hatは**調整可能なバックル**付きでセキュアフィットを実現している。
 
-**参考情報**: 「調整可能なバックル付き」「セキュアフィット」<details><summary>出典</summary>`https://arcteryx.jp/products/gore-5-panel-hat`</details>
+> **参考情報**: 「調整可能なバックル付き」「セキュアフィット」<details><summary>出典</summary>`https://arcteryx.jp/products/gore-5-panel-hat`</details>
 
 ---
 
@@ -564,7 +564,7 @@ Tags: Headwear, Guide
 
 **先生**: アークテリクスの帽子は**高い通気性**と**撥水性**を備えている。登山で暑くなっても帽子内が蒸れずに快適なんだ。
 
-**参考情報**: 「高い通気性と撥水性が備わっており、登山で暑くなっても帽子内が蒸れずに快適なかぶり心地」<details><summary>出典</summary>`https://corp.tacklenote.jp/columns/mountaineering-hat-arcteryx/`</details>
+> **参考情報**: 「高い通気性と撥水性が備わっており、登山で暑くなっても帽子内が蒸れずに快適なかぶり心地」<details><summary>出典</summary>`https://corp.tacklenote.jp/columns/mountaineering-hat-arcteryx/`</details>
 
 **JK**: 吸湿速乾性もあるんですか？
 
@@ -574,7 +574,7 @@ Tags: Headwear, Guide
 
 **先生**: デザインとカラーバリエーションが豊富で、数ある商品から自分にぴったりのキャップを見つけることができる。クリーンでロープロファイルなデザインが多く、Arc'teryxのアイコニックなバードロゴが印象的だ。
 
-**参考情報**: 「デザイン、カラーバリエーション共に豊富なので、数ある商品のなかから自分にぴったりのキャップを見つけることが可能」<details><summary>出典</summary>`https://corp.tacklenote.jp/columns/mountaineering-hat-arcteryx/`</details>
+> **参考情報**: 「デザイン、カラーバリエーション共に豊富なので、数ある商品のなかから自分にぴったりのキャップを見つけることが可能」<details><summary>出典</summary>`https://corp.tacklenote.jp/columns/mountaineering-hat-arcteryx/`</details>
 
 **JK**: やっぱりバードロゴかっこいいですよね！
 
@@ -582,13 +582,13 @@ Tags: Headwear, Guide
 
 **先生**: 実はアークテリクスの帽子は比較的手頃な価格なんだ。キャップは5,000円以下のものが多く、全体的に5千円～7千円の価格帯で、ほとんどの製品が6千円前後で購入できる。
 
-**参考情報**: 「アークテリクスの帽子は5千円～7千円で購入可能で、ほとんどの製品が6千円前後で購入することができます。キャップは5,000円以下のものがほとんど」<details><summary>出典</summary>`https://corp.tacklenote.jp/columns/mountaineering-hat-arcteryx/`</details>
+> **参考情報**: 「アークテリクスの帽子は5千円～7千円で購入可能で、ほとんどの製品が6千円前後で購入することができます。キャップは5,000円以下のものがほとんど」<details><summary>出典</summary>`https://corp.tacklenote.jp/columns/mountaineering-hat-arcteryx/`</details>
 
 **JK**: えっ、意外と安い！ジャケットとか何万円もするイメージだったんですけど。
 
 **先生**: そうなんだ。だから「憧れのブランドを手頃価格から取り入れられる」入門アイテムとしても人気なんだよ。
 
-**参考情報**: 「Arc'teryx製品の中でも手に入れやすい価格帯」「憧れのブランドを手頃価格から取り入れられる」<details><summary>出典</summary>`https://yamahack.com/4158`</details>
+> **参考情報**: 「Arc'teryx製品の中でも手に入れやすい価格帯」「憧れのブランドを手頃価格から取り入れられる」<details><summary>出典</summary>`https://yamahack.com/4158`</details>
 
 ---
 
@@ -598,7 +598,7 @@ Tags: Headwear, Guide
 
 **先生**: アークテリクスの帽子は**頭囲の最も長い部分を測定**して最適なサイズを見つけるんだ。
 
-**参考情報**: 「Arc'teryx hat sizing is based on head circumference - you should measure the longest part of your head to find the optimal size」<details><summary>出典</summary>`https://arcteryx.jp/pages/hats`</details>
+> **参考情報**: 「Arc'teryx hat sizing is based on head circumference - you should measure the longest part of your head to find the optimal size」<details><summary>出典</summary>`https://arcteryx.jp/pages/hats`</details>
 
 **JK**: 測り方がわからないんですけど…
 
@@ -608,7 +608,7 @@ Tags: Headwear, Guide
 
 **先生**: 多くのモデルが**ワンサイズ展開**だが、一部のキャップは**S-Mサイズ**と**L-XLサイズ**がある。さらに調整可能なストラップやバックルで微調整できるモデルも多い。
 
-**参考情報**: 「Many Arc'teryx hats include adjustable features」「Arc'teryx hats commonly come in S-M sizes, L-XL sizes, with adjustable straps and buckles on most models」<details><summary>出典</summary>`https://arcteryx.jp/pages/hats`</details>
+> **参考情報**: 「Many Arc'teryx hats include adjustable features」「Arc'teryx hats commonly come in S-M sizes, L-XL sizes, with adjustable straps and buckles on most models」<details><summary>出典</summary>`https://arcteryx.jp/pages/hats`</details>
 
 **JK**: じゃあ、ワンサイズでも調整できるから大丈夫ってことですね。
 
@@ -622,7 +622,7 @@ Tags: Headwear, Guide
 - **吸湿発散性、速乾性のヘッドバンド**
 - **通気性のあるストレッチ素材**
 
-**参考情報**: 「Hats typically include moisture-wicking, quick-dry headbands and breathable stretch materials」<details><summary>出典</summary>`https://arcteryx.jp/pages/hats`</details>
+> **参考情報**: 「Hats typically include moisture-wicking, quick-dry headbands and breathable stretch materials」<details><summary>出典</summary>`https://arcteryx.jp/pages/hats`</details>
 
 ---
 
@@ -671,7 +671,7 @@ Tags: Headwear, Guide
 - フィット感
 - 技術的パフォーマンス
 
-**参考情報**: 「Positive: Comfort, warmth, fleece lining, fit」<details><summary>出典</summary>`https://www.rei.com/product/222933/arcteryx-grotto-toque-hat`</details>
+> **参考情報**: 「Positive: Comfort, warmth, fleece lining, fit」<details><summary>出典</summary>`https://www.rei.com/product/222933/arcteryx-grotto-toque-hat`</details>
 
 ### ネガティブフィードバック（特にGrotto Toque）
 
@@ -685,7 +685,7 @@ Tags: Headwear, Guide
 - **サイズ感の問題（小さめという指摘）**
 - **色の不一致**
 
-**参考情報**: 「Quality concerns include reports that 'after just a few days of normal use, lint appeared, and after two weeks, the fabric started to unravel'」<details><summary>出典</summary>`https://www.rei.com/product/222933/arcteryx-grotto-toque-hat`</details>
+> **参考情報**: 「Quality concerns include reports that 'after just a few days of normal use, lint appeared, and after two weeks, the fabric started to unravel'」<details><summary>出典</summary>`https://www.rei.com/product/222933/arcteryx-grotto-toque-hat`</details>
 
 **JK**: それって、高いお金払う価値あるんですか？
 
@@ -717,17 +717,17 @@ Tags: Headwear, Guide
 - **Calvus Cap**: 超軽量49g、ストレッチ性と通気性抜群
 - **Norvan Hat**: トレイルランニング特化、セキュアフィット
 
-**参考情報**: 「Calvus Cap（カルバスキャップ）は重量49gの超軽量キャップで、ストレッチ性と通気性に優れており、夏に強くおすすめできるモデル」<details><summary>出典</summary>`https://campify.jp/magazine/arcteryx-cap/`</details>
+> **参考情報**: 「Calvus Cap（カルバスキャップ）は重量49gの超軽量キャップで、ストレッチ性と通気性に優れており、夏に強くおすすめできるモデル」<details><summary>出典</summary>`https://campify.jp/magazine/arcteryx-cap/`</details>
 
 #### UVプロテクション
 - **Elaho Cap**: UPF 50+、パッカブル、45g
 
-**参考情報**: 「Elaho Cap (イラオ キャップ) - UPF 50+で紫外線対策、パッカブルで携帯性抜群」<details><summary>出典</summary>`https://www.altitude-sports.com/products/arcteryx-elaho-cap-unisex-llll-arc-23198`</details>
+> **参考情報**: 「Elaho Cap (イラオ キャップ) - UPF 50+で紫外線対策、パッカブルで携帯性抜群」<details><summary>出典</summary>`https://www.altitude-sports.com/products/arcteryx-elaho-cap-unisex-llll-arc-23198`</details>
 
 #### パッカブル性
 - **Elaho Cap**: つばが型崩れしない、圧縮可能
 
-**参考情報**: 「つばは型崩れしないような加工がされているので、収納可能なキャップです。小さく圧縮できるので、ポケットやバックパックに簡単に入れることができます」<details><summary>出典</summary>`https://campify.jp/magazine/arcteryx-cap/`</details>
+> **参考情報**: 「つばは型崩れしないような加工がされているので、収納可能なキャップです。小さく圧縮できるので、ポケットやバックパックに簡単に入れることができます」<details><summary>出典</summary>`https://campify.jp/magazine/arcteryx-cap/`</details>
 
 ### 冬シーズン
 
@@ -735,60 +735,60 @@ Tags: Headwear, Guide
 - **Word Head Toque**: リバーシブル仕様、$50
 - **Crest Toque**: Arc'teryx "A"ロゴ入り
 
-**参考情報**: 「Word Head Toque（ワード ヘッド トーク）はリバーシブル仕様で、伸縮性の高いフリースライニングを備え、冬場のアクティブシーンに最適」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/word-head-toque`</details>
+> **参考情報**: 「Word Head Toque（ワード ヘッド トーク）はリバーシブル仕様で、伸縮性の高いフリースライニングを備え、冬場のアクティブシーンに最適」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/word-head-toque`</details>
 
 #### ウールブレンド
 - **Bird Head Toque**: ウール50% + リサイクルポリエステル50%、$50
 - **Mallow Toque**: テックウール50% + リサイクルポリエステル50%、111g
 
-**参考情報**: 「Bird Head Toque（バード ヘッド トーク）は薄手のメリノブレンドが頭部の温度調整に役立つモデル」<details><summary>出典</summary>`https://campify.jp/magazine/arcteryx-cap/`</details>
+> **参考情報**: 「Bird Head Toque（バード ヘッド トーク）は薄手のメリノブレンドが頭部の温度調整に役立つモデル」<details><summary>出典</summary>`https://campify.jp/magazine/arcteryx-cap/`</details>
 
 #### 都市部～山岳
 - **Grotto Toque**: ただし最近の品質には注意
 
-**参考情報**: 「Grotto Toque - 都市部からアルパインまで（ただし最近の品質には注意）」<details><summary>出典</summary>`https://www.rei.com/product/222933/arcteryx-grotto-toque-hat`</details>
+> **参考情報**: 「Grotto Toque - 都市部からアルパインまで（ただし最近の品質には注意）」<details><summary>出典</summary>`https://www.rei.com/product/222933/arcteryx-grotto-toque-hat`</details>
 
 ### 予算重視
 
 #### 最安値
 - **Rho Toque**: €39.90
 
-**参考情報**: 「Rho Toque - €39.90（最安値）」<details><summary>出典</summary>`https://www.montaz.com/en/arc-teryx-rho-toque-black-p247983.html`</details>
+> **参考情報**: 「Rho Toque - €39.90（最安値）」<details><summary>出典</summary>`https://www.montaz.com/en/arc-teryx-rho-toque-black-p247983.html`</details>
 
 #### ミッドレンジ
 - **Bird Head Toque**: $50
 - **Word Head Toque**: $50
 
-**参考情報**: 「Bird Head Toque, Word Head Toque ($50)」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/bird-head-toque`</details>
+> **参考情報**: 「Bird Head Toque, Word Head Toque ($50)」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/bird-head-toque`</details>
 
 #### キャップ
 - **ほとんどが5,000円以下**
 
-**参考情報**: 「キャップ: ほとんどが5,000円以下」<details><summary>出典</summary>`https://corp.tacklenote.jp/columns/mountaineering-hat-arcteryx/`</details>
+> **参考情報**: 「キャップ: ほとんどが5,000円以下」<details><summary>出典</summary>`https://corp.tacklenote.jp/columns/mountaineering-hat-arcteryx/`</details>
 
 ### 用途別
 
 #### トレイルランニング
 - **Norvan Hat**: セキュアフィット
 
-**参考情報**: 「Norvan Hat - トレイルランニング特化、セキュアフィット」<details><summary>出典</summary>`https://arcteryx.jp/products/norvan-hat`</details>
+> **参考情報**: 「Norvan Hat - トレイルランニング特化、セキュアフィット」<details><summary>出典</summary>`https://arcteryx.jp/products/norvan-hat`</details>
 
 #### アルパインクライミング/スキー
 - **Bird Head Toque**: ウールブレンド、保温性高い
 
-**参考情報**: 「Bird Head Toque - アルパインクライミング/スキー対応、ウールブレンド」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/bird-head-toque`</details>
+> **参考情報**: 「Bird Head Toque - アルパインクライミング/スキー対応、ウールブレンド」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/bird-head-toque`</details>
 
 #### オールラウンド
 - **Word Head Toque**: リバーシブルで使い分け可能
 
-**参考情報**: 「Word Head Toque - オールラウンド、リバーシブルで使い分け可能」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/word-head-toque`</details>
+> **参考情報**: 「Word Head Toque - オールラウンド、リバーシブルで使い分け可能」<details><summary>出典</summary>`https://arcteryx.com/us/en/shop/word-head-toque`</details>
 
 #### タウンユース
 - **Grotto Toque**: 都市部～アルパイン（品質注意）
 - **Embroidered Bird Toque**: クラシックデザイン
 - **Small Bird Hat**: 王道ベースボールキャップ
 
-**参考情報**: 「タウンユース: Grotto Toque、Embroidered Bird Toque」<details><summary>出典</summary>`https://www.rei.com/product/222933/arcteryx-grotto-toque-hat`</details>
+> **参考情報**: 「タウンユース: Grotto Toque、Embroidered Bird Toque」<details><summary>出典</summary>`https://www.rei.com/product/222933/arcteryx-grotto-toque-hat`</details>
 
 **JK**: めっちゃわかりやすい！私は夏のハイキングが多いから、Elaho Cap買います！
 

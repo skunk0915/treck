@@ -34,13 +34,13 @@ Tags: Rainwear, Guide
 
 **先生**: そうだ。カリマーは元々イギリスのブランドで、「Carry More（もっと運べる)」が名前の由来。バックパックが有名だが、レインウェアも作っていた。ただ、2022年以前は「超軽量だけど簡易的なモデル」と「雪山向けのゴツいモデル」の両極端で、普通の登山で使いやすい中間モデルが少なかったんだ。
 
-**参考情報**: 「2022年以前のカリマーのレインウェアには、雪山向けのエクスペンション的なウェアや簡易的な撥水処理のウェアはあったものの、最も需要が高いとされる「ボリュームゾーン」の中間的なレインウェアが不足していたという指摘があります。これは、2022年以降にGORE-TEX素材を採用したモデルを投入することで解消されつつあるとされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF80MdmngrcqAoe_m77DXMYiJPk1whekh3Ky041pkx8R3aIyZ2HTt_l0JyXy0Dj8f82nm3mvKI-vYA4Wjw2RVF0kuqy28mNGA3nU6mz3wzQLa7zIX1v8Xtgr06yGZTfaRtos9lOJ6GuvSMSoKWET-jYpYGKXHUO3B-MNWE23zjR2wMEhLSS2AnSj6Ny`</details>
+> **参考情報**: 「2022年以前のカリマーのレインウェアには、雪山向けのエクスペンション的なウェアや簡易的な撥水処理のウェアはあったものの、最も需要が高いとされる「ボリュームゾーン」の中間的なレインウェアが不足していたという指摘があります。これは、2022年以降にGORE-TEX素材を採用したモデルを投入することで解消されつつあるとされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF80MdmngrcqAoe_m77DXMYiJPk1whekh3Ky041pkx8R3aIyZ2HTt_l0JyXy0Dj8f82nm3mvKI-vYA4Wjw2RVF0kuqy28mNGA3nU6mz3wzQLa7zIX1v8Xtgr06yGZTfaRtos9lOJ6GuvSMSoKWET-jYpYGKXHUO3B-MNWE23zjR2wMEhLSS2AnSj6Ny`</details>
 
 **JK**: じゃあ今はどうなんですか？
 
 **先生**: 2022年からGORE-TEXを本格的に採用し始めた。これで「日帰り登山から北アルプスの縦走まで使える、ちょうどいいレインウェア」が充実したんだ。
 
-**参考情報**: 「2022年からカリマーのレインウェアに本格的に採用されている素材で、高い防水性、防風性、透湿性を兼ね備えています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtTy-vdWkIUM7xNkcQJuEwyoMq4FTUmyG8z-vbKKb-1jzS6v73y9bJAqGCeVGIuI9TXFsqXD-bxgulilRhL_yCQnRSB5Nhxn8QbteG19ENZPJfcSY=`</details>
+> **参考情報**: 「2022年からカリマーのレインウェアに本格的に採用されている素材で、高い防水性、防風性、透湿性を兼ね備えています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtTy-vdWkIUM7xNkcQJuEwyoMq4FTUmyG8z-vbKKb-1jzS6v73y9bJAqGCeVGIuI9TXFsqXD-bxgulilRhL_yCQnRSB5Nhxn8QbteG19ENZPJfcSY=`</details>
 
 **JK**: つまり、今は初心者でも選びやすくなったってことですか？
 
@@ -56,19 +56,19 @@ Tags: Rainwear, Guide
 
 **先生**: いい質問だな。WTXは「Weathertite Extreme」の略で、カリマーが独自開発した防水透湿素材だ。
 
-**参考情報**: 「カリマーWTXは、英国のアウトドアブランドであるカリマーが独自に開発した防水透湿素材です。従来の「Weathertite」の上位バージョンにあたります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcpYdTffpuWGVzroiEwQKTuCDyLQD2B8Jw0jx7O5RBVvsiOYZXcGbUZO5I4E1TNCph73GNjpfBn5GAljqSSRMkj_KUfVmFkOblEcL_uxkuT5nOFGJZUjPLqV4W2g3CqeqmCS7O0qs0nQ==`</details>
+> **参考情報**: 「カリマーWTXは、英国のアウトドアブランドであるカリマーが独自に開発した防水透湿素材です。従来の「Weathertite」の上位バージョンにあたります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcpYdTffpuWGVzroiEwQKTuCDyLQD2B8Jw0jx7O5RBVvsiOYZXcGbUZO5I4E1TNCph73GNjpfBn5GAljqSSRMkj_KUfVmFkOblEcL_uxkuT5nOFGJZUjPLqV4W2g3CqeqmCS7O0qs0nQ==`</details>
 
 **JK**: 独自って、ゴアテックスのパクリじゃないですよね？
 
 **先生**: ははは、違うぞ。技術が全く異なる。ゴアテックスは「ePTFE（延伸ポリテトラフルオロエチレン）」という特殊なフッ素樹脂の膜を使うが、WTXは「ポリウレタン膜」を使っている。
 
-**参考情報**: 「素材表面に撥水加工が施され、中間層には特殊なポリウレタン膜が採用されています。これにより、雪や雨の侵入を防ぎつつ、内部にこもる湿気を排出して衣服内の不快な蒸れを解消します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcpYdTffpuWGVzroiEwQKTuCDyLQD2B8Jw0jx7O5RBVvsiOYZXcGbUZO5I4E1TNCph73GNjpfBn5GAljqSSRMkj_KUfVmFkOblEcL_uxkuT5nOFGJZUjPLqV4W2g3CqeqmCS7O0qs0nQ==`</details>
+> **参考情報**: 「素材表面に撥水加工が施され、中間層には特殊なポリウレタン膜が採用されています。これにより、雪や雨の侵入を防ぎつつ、内部にこもる湿気を排出して衣服内の不快な蒸れを解消します。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcpYdTffpuWGVzroiEwQKTuCDyLQD2B8Jw0jx7O5RBVvsiOYZXcGbUZO5I4E1TNCph73GNjpfBn5GAljqSSRMkj_KUfVmFkOblEcL_uxkuT5nOFGJZUjPLqV4W2g3CqeqmCS7O0qs0nQ==`</details>
 
 **JK**: で、性能はどうなんですか？ゴアテックスより劣るとか？
 
 **先生**: いや、数値上は同等だ。WTXは耐水圧20,000mm、透湿性20,000g/m²/24h以上という基準を満たしている。これはゴアテックスと同じレベルだ。
 
-**参考情報**: 「WTXの名称がつく製品は、最低でも耐水圧20,000mm、透湿性20,000g/m²/24h (B1) という高い性能基準を満たしています。これらの数値はあくまで最低値であり、製品によってはさらに高い性能を発揮するものもあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcpYdTffpuWGVzroiEwQKTuCDyLQD2B8Jw0jx7O5RBVvsiOYZXcGbUZO5I4E1TNCph73GNjpfBn5GAljqSSRMkj_KUfVmFkOblEcL_uxkuT5nOFGJZUjPLqV4W2g3CqeqmCS7O0qs0nQ==`</details>
+> **参考情報**: 「WTXの名称がつく製品は、最低でも耐水圧20,000mm、透湿性20,000g/m²/24h (B1) という高い性能基準を満たしています。これらの数値はあくまで最低値であり、製品によってはさらに高い性能を発揮するものもあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcpYdTffpuWGVzroiEwQKTuCDyLQD2B8Jw0jx7O5RBVvsiOYZXcGbUZO5I4E1TNCph73GNjpfBn5GAljqSSRMkj_KUfVmFkOblEcL_uxkuT5nOFGJZUjPLqV4W2g3CqeqmCS7O0qs0nQ==`</details>
 
 **JK**: じゃあゴアテックスじゃなくてもいいじゃないですか。安いなら。
 
@@ -89,7 +89,7 @@ Tags: Rainwear, Guide
 
 **先生**: 約180g。ちなみにジャケットとパンツを合わせても300gしかない。500mlのペットボトルより軽いということだ。
 
-**参考情報**: 「ジャケットとパンツを合わせても約300グラムと非常に軽量でコンパクトに収納できるため、ザックに入れていてもストレスを感じにくいとレビューされています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZdMPQ3gIn1jXepxeBpWPd76_t8FgeNMWcJAUMy4tFNVM5Zx1q6e8jvfPlra94ILnf77d53MWNxetpJrbJAtBrk6BZrPyvjgQzwG_m590lBa6GiJYdRppbmQEnzOu7Nm960EG6AYgQFA==`</details>
+> **参考情報**: 「ジャケットとパンツを合わせても約300グラムと非常に軽量でコンパクトに収納できるため、ザックに入れていてもストレスを感じにくいとレビューされています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZdMPQ3gIn1jXepxeBpWPd76_t8FgeNMWcJAUMy4tFNVM5Zx1q6e8jvfPlra94ILnf77d53MWNxetpJrbJAtBrk6BZrPyvjgQzwG_m590lBa6GiJYdRppbmQEnzOu7Nm960EG6AYgQFA==`</details>
 
 **JK**: えっ、軽すぎません？ちゃんと防水できるんですか？
 
@@ -107,7 +107,7 @@ Tags: Rainwear, Guide
 
 **先生**: いや、用途次第だ。beaufortの真価は「ウィンドシェル兼用」にある。雨が降らなくても、風が強い時に羽織れば快適だ。蒸れもほとんど感じない。
 
-**参考情報**: 「レインウェアとしてだけでなく、トレイルランニングやファストパッキングなどのアクティビティで薄手のウインドシェルとしても使用できる汎用性も持ち合わせています。雨天時だけでなく、風が強い状況でのウインドジャケットとしても快適で、雨具特有の蒸れもほとんど感じられないという評価もあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZdMPQ3gIn1jXepxeBpWPd76_t8FgeNMWcJAUMy4tFNVM5Zx1q6e8jvfPlra94ILnf77d53MWNxetpJrbJAtBrk6BZrPyvjgQzwG_m590lBa6GiJYdRppbmQEnzOu7Nm960EG6AYgQFA==`</details>
+> **参考情報**: 「レインウェアとしてだけでなく、トレイルランニングやファストパッキングなどのアクティビティで薄手のウインドシェルとしても使用できる汎用性も持ち合わせています。雨天時だけでなく、風が強い状況でのウインドジャケットとしても快適で、雨具特有の蒸れもほとんど感じられないという評価もあります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZdMPQ3gIn1jXepxeBpWPd76_t8FgeNMWcJAUMy4tFNVM5Zx1q6e8jvfPlra94ILnf77d53MWNxetpJrbJAtBrk6BZrPyvjgQzwG_m590lBa6GiJYdRppbmQEnzOu7Nm960EG6AYgQFA==`</details>
 
 **JK**: ああ、なるほど。「雨具」じゃなくて「防風・防水ジャケット」って感じですね。
 
@@ -145,7 +145,7 @@ Tags: Rainwear, Guide
 
 **先生**: 「G-TX Performance Rain Jacket（G-TX パフォーマンス レイン ジャケット）」は、カリマーのレインウェアの中で最も高性能なモデルだ。「最高傑作」「ほぼハードシェル」と呼ばれることもある。
 
-**参考情報**: 「多くのレビューで「最高傑作」や「ほぼハードシェル」と称されており、カリマーの山岳アパレルの中でも特に優れた製品と認識されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF0o_BrkqgGlAY91kaTyrzajxLRb-0oVCVbIZShFmrhqMW6xeXON-R0_8uDzHbmVPwGnjsw2LhfgcMoQE6lNk0AbqAHZgn1bREadN7SUXkpmRs_gndNeu1UMMSojrE8lDe4y2BWUR6Tkk7uWFxw9s5d8xnTq02Yq4AaZk0MbZX`</details>
+> **参考情報**: 「多くのレビューで「最高傑作」や「ほぼハードシェル」と称されており、カリマーの山岳アパレルの中でも特に優れた製品と認識されています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF0o_BrkqgGlAY91kaTyrzajxLRb-0oVCVbIZShFmrhqMW6xeXON-R0_8uDzHbmVPwGnjsw2LhfgcMoQE6lNk0AbqAHZgn1bREadN7SUXkpmRs_gndNeu1UMMSojrE8lDe4y2BWUR6Tkk7uWFxw9s5d8xnTq02Yq4AaZk0MbZX`</details>
 
 **JK**: ハードシェルって何ですか？
 
@@ -155,7 +155,7 @@ Tags: Rainwear, Guide
 
 **先生**: 生地はやや厚手だが、ガチガチというほどではない。「3シーズン用レインウェアと雪山用ハードシェルの中間」くらいのボリューム感だ。岩場での擦れや引っかかりに強い。
 
-**参考情報**: 「やや厚手の生地感で、3シーズン用レインウェアと雪山用ハードシェルの中間くらいのボリューム感があります。岩場での擦れや引っかかりにも強く、高い耐久性を備えています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF0o_BrkqgGlAY91kaTyrzajxLRb-0oVCVbIZShFmrhqMW6xeXON-R0_8uDzHbmVPwGnjsw2LhfgcMoQE6lNk0AbqAHZgn1bREadN7SUXkpmRs_gndNeu1UMMSojrE8lDe4y2BWUR6Tkk7uWFxw9s5d8xnTq02Yq4AaZk0MbZX`</details>
+> **参考情報**: 「やや厚手の生地感で、3シーズン用レインウェアと雪山用ハードシェルの中間くらいのボリューム感があります。岩場での擦れや引っかかりにも強く、高い耐久性を備えています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF0o_BrkqgGlAY91kaTyrzajxLRb-0oVCVbIZShFmrhqMW6xeXON-R0_8uDzHbmVPwGnjsw2LhfgcMoQE6lNk0AbqAHZgn1bREadN7SUXkpmRs_gndNeu1UMMSojrE8lDe4y2BWUR6Tkk7uWFxw9s5d8xnTq02Yq4AaZk0MbZX`</details>
 
 **JK**: で、性能はどうなんですか？
 
@@ -165,7 +165,7 @@ Tags: Rainwear, Guide
 
 **先生**: 450gだ。beaufortの2.5倍ある。ただし、ノースフェイスの同等モデルは525gだから、それと比べれば軽い方だ。
 
-**参考情報**: 「G-TX Performance rain jktは450gであり、これは登山用レインウェアの中では重い部類に入るとされていますが、THE NORTH FACEのオールマウンテンジャケット（525g）と比較すると軽量です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF80MdmngrcqAoe_m77DXMYiJPk1whekh3Ky041pkx8R3aIyZ2HTt_l0JyXy0Dj8f82nm3mvKI-vYA4Wjw2RVF0kuqy28mNGA3nU6mz3wzQLa7zIX1v8Xtgr06yGZTfaRtos9lOJ6GuvSMSoKWET-jYpYGKXHUO3B-MNWE23zjR2wMEhLSS2AnSj6Ny`</details>
+> **参考情報**: 「G-TX Performance rain jktは450gであり、これは登山用レインウェアの中では重い部類に入るとされていますが、THE NORTH FACEのオールマウンテンジャケット（525g）と比較すると軽量です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF80MdmngrcqAoe_m77DXMYiJPk1whekh3Ky041pkx8R3aIyZ2HTt_l0JyXy0Dj8f82nm3mvKI-vYA4Wjw2RVF0kuqy28mNGA3nU6mz3wzQLa7zIX1v8Xtgr06yGZTfaRtos9lOJ6GuvSMSoKWET-jYpYGKXHUO3B-MNWE23zjR2wMEhLSS2AnSj6Ny`</details>
 
 **JK**: うわ、やっぱり重い…
 
@@ -217,7 +217,7 @@ Tags: Rainwear, Guide
 
 **先生**: 「WTX LT rain jacket（WTX LTレインジャケット）」は、2024年初頭に登場した比較的新しいモデルだ。カリマー独自のWTX™素材を使い、「ソフトな着心地」が特徴だ。
 
-**参考情報**: 「2024年初頭にリリースされた「WTX LT rain jkt」を含むWTX LTレインシリーズは、カリマー独自の防水透湿素材WTX™を採用しています。」「ソフトな着心地でありながら、耐水圧20,000mm、透湿性20,000g/m2/24hという高機能を持ち、快適性と機能性のバランスに優れています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLf3tPEdWGgttkEK0z4sLNz9bJGodlE5ckM07bZ-70SH0iodgv9OaHZ7_b7b5g31OcnAvP8JRK3Aop43DiP-3YI3_03qIXlBW9vQ2_ugg_9qwT1j4bZoY=`</details>
+> **参考情報**: 「2024年初頭にリリースされた「WTX LT rain jkt」を含むWTX LTレインシリーズは、カリマー独自の防水透湿素材WTX™を採用しています。」「ソフトな着心地でありながら、耐水圧20,000mm、透湿性20,000g/m2/24hという高機能を持ち、快適性と機能性のバランスに優れています。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLf3tPEdWGgttkEK0z4sLNz9bJGodlE5ckM07bZ-70SH0iodgv9OaHZ7_b7b5g31OcnAvP8JRK3Aop43DiP-3YI3_03qIXlBW9vQ2_ugg_9qwT1j4bZoY=`</details>
 
 **JK**: ソフトって、柔らかいってことですか？
 
@@ -239,7 +239,7 @@ Tags: Rainwear, Guide
 
 **先生**: 31,900円（税込）。beaufortより高いが、G-TX Performanceよりは1.4万円以上安い。
 
-**参考情報**: 「WTX LT rain jkt: 31,900円（税込）」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLf3tPEdWGgttkEK0z4sLNz9bJGodlE5ckM07bZ-70SH0iodgv9OaHZ7_b7b5g31OcnAvP8JRK3Aop43DiP-3YI3_03qIXlBW9vQ2_ugg_9qwT1j4bZoY=`</details>
+> **参考情報**: 「WTX LT rain jkt: 31,900円（税込）」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLf3tPEdWGgttkEK0z4sLNz9bJGodlE5ckM07bZ-70SH0iodgv9OaHZ7_b7b5g31OcnAvP8JRK3Aop43DiP-3YI3_03qIXlBW9vQ2_ugg_9qwT1j4bZoY=`</details>
 
 **JK**: おお、これは「ちょうどいい」ですね！
 
@@ -344,7 +344,7 @@ Tags: Rainwear, Guide
 
 **先生**: 初心者には確かにおすすめだ。ただ、もっと軽さを求めるなら「G-TX Paclite Plus」という選択肢もある。GORE-TEX Paclite Plusは軽量性に特化したゴアテックスだ。
 
-**参考情報**: 「GORE-TEX Paclite® Plus: 軽量性、薄さ、コンパクト性に優れており、ファストハイクなどスピード感を求める登山に適しています。肌離れが良いのも特徴です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtTy-vdWkIUM7xNkcQJuEwyoMq4FTUmyG8z-vbKKb-1jzS6v73y9bJAqGCeVGIuI9TXFsqXD-bxgulilRhL_yCQnRSB5Nhxn8QbteG19ENZPJfcSY=`</details>
+> **参考情報**: 「GORE-TEX Paclite® Plus: 軽量性、薄さ、コンパクト性に優れており、ファストハイクなどスピード感を求める登山に適しています。肌離れが良いのも特徴です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtTy-vdWkIUM7xNkcQJuEwyoMq4FTUmyG8z-vbKKb-1jzS6v73y9bJAqGCeVGIuI9TXFsqXD-bxgulilRhL_yCQnRSB5Nhxn8QbteG19ENZPJfcSY=`</details>
 
 **JK**: でも36,300円…高いなあ。
 
@@ -384,7 +384,7 @@ Tags: Rainwear, Guide
 
 **先生**: 面倒だが、これをやらないと撥水性が落ちる。皮脂や汗、土汚れが撥水加工を邪魔するんだ。
 
-**参考情報**: 「レインウェアは使用するたびに洗濯することが推奨されており、これによりウェアの寿命を延ばすことができます。目に見えにくい皮脂や土汚れも、撥水性や透湿性の低下の原因となるため、こまめな洗濯が大切です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqdZKSTYjml9bBkVqPdNGrszW3WtKXH07GReuLeo7X_BPSEv5IzQHsKCy1tIN_v_IWz67QuHwityrbI9KwDfg5fLbf2l-Vkul4-kuIRSElhxl4FhG443U1u_Sg28c4ol0Pn_vWJt4Ru11N9msjyOkVkQ04nw==`</details>
+> **参考情報**: 「レインウェアは使用するたびに洗濯することが推奨されており、これによりウェアの寿命を延ばすことができます。目に見えにくい皮脂や土汚れも、撥水性や透湿性の低下の原因となるため、こまめな洗濯が大切です。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqdZKSTYjml9bBkVqPdNGrszW3WtKXH07GReuLeo7X_BPSEv5IzQHsKCy1tIN_v_IWz67QuHwityrbI9KwDfg5fLbf2l-Vkul4-kuIRSElhxl4FhG443U1u_Sg28c4ol0Pn_vWJt4Ru11N9msjyOkVkQ04nw==`</details>
 
 **JK**: でも普通の洗剤でいいんですか？
 
@@ -416,7 +416,7 @@ Tags: Rainwear, Guide
 
 **先生**: 確かに、一般的な登山用レインウェアと比べれば重い部類だ。ただし、ノースフェイスのオールマウンテンジャケットは525gだから、それよりは軽い。高性能モデルはどれも重くなる傾向がある。
 
-**参考情報**: 「G-TX Performance rain jktは450gであり、これは登山用レインウェアの中では重い部類に入るとされていますが、THE NORTH FACEのオールマウンテンジャケット（525g）と比較すると軽量です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF80MdmngrcqAoe_m77DXMYiJPk1whekh3Ky041pkx8R3aIyZ2HTt_l0JyXy0Dj8f82nm3mvKI-vYA4Wjw2RVF0kuqy28mNGA3nU6mz3wzQLa7zIX1v8Xtgr06yGZTfaRtos9lOJ6GuvSMSoKWET-jYpYGKXHUO3B-MNWE23zjR2wMEhLSS2AnSj6Ny`</details>
+> **参考情報**: 「G-TX Performance rain jktは450gであり、これは登山用レインウェアの中では重い部類に入るとされていますが、THE NORTH FACEのオールマウンテンジャケット（525g）と比較すると軽量です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF80MdmngrcqAoe_m77DXMYiJPk1whekh3Ky041pkx8R3aIyZ2HTt_l0JyXy0Dj8f82nm3mvKI-vYA4Wjw2RVF0kuqy28mNGA3nU6mz3wzQLa7zIX1v8Xtgr06yGZTfaRtos9lOJ6GuvSMSoKWET-jYpYGKXHUO3B-MNWE23zjR2wMEhLSS2AnSj6Ny`</details>
 
 **JK**: じゃあ妥協点ですね。
 
@@ -432,7 +432,7 @@ Tags: Rainwear, Guide
 
 **先生**: そうだな。WTXはまだ新しい素材だから、「10年後どうなるか」はわからない。ゴアテックスは何十年も使われてきた実績がある。
 
-**参考情報**: 「カリマーWTXは、英国のアウトドアブランドであるカリマーが独自に開発した防水透湿素材です。従来の「Weathertite」の上位バージョンにあたります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcpYdTffpuWGVzroiEwQKTuCDyLQD2B8Jw0jx7O5RBVvsiOYZXcGbUZO5I4E1TNCph73GNjpfBn5GAljqSSRMkj_KUfVmFkOblEcL_uxkuT5nOFGJZUjPLqV4W2g3CqeqmCS7O0qs0nQ==`</details>
+> **参考情報**: 「カリマーWTXは、英国のアウトドアブランドであるカリマーが独自に開発した防水透湿素材です。従来の「Weathertite」の上位バージョンにあたります。」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcpYdTffpuWGVzroiEwQKTuCDyLQD2B8Jw0jx7O5RBVvsiOYZXcGbUZO5I4E1TNCph73GNjpfBn5GAljqSSRMkj_KUfVmFkOblEcL_uxkuT5nOFGJZUjPLqV4W2g3CqeqmCS7O0qs0nQ==`</details>
 
 ### Q3. 街でも着られますか？
 
@@ -454,7 +454,7 @@ Tags: Rainwear, Guide
 
 **先生**: 2022年以前のモデルは、撥水性の持続がイマイチという口コミがある。丁寧にメンテしても撥水が落ちやすかったらしい。
 
-**参考情報**: 「以前のカリマーのレインウェアについては、撥水性の低下が指摘されたケースもあります。ユーザーの中には、丁寧なメンテナンスを行っても撥水性が長続きせず、買い替えを検討したという経験談があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF80MdmngrcqAoe_m77DXMYiJPk1whekh3Ky041pkx8R3aIyZ2HTt_l0JyXy0Dj8f82nm3mvKI-vYA4Wjw2RVF0kuqy28mNGA3nU6mz3wzQLa7zIX1v8Xtgr06yGZTfaRtos9lOJ6GuvSMSoKWET-jYpYGKXHUO3B-MNWE23zjR2wMEhLSS2AnSj6Ny`</details>
+> **参考情報**: 「以前のカリマーのレインウェアについては、撥水性の低下が指摘されたケースもあります。ユーザーの中には、丁寧なメンテナンスを行っても撥水性が長続きせず、買い替えを検討したという経験談があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF80MdmngrcqAoe_m77DXMYiJPk1whekh3Ky041pkx8R3aIyZ2HTt_l0JyXy0Dj8f82nm3mvKI-vYA4Wjw2RVF0kuqy28mNGA3nU6mz3wzQLa7zIX1v8Xtgr06yGZTfaRtos9lOJ6GuvSMSoKWET-jYpYGKXHUO3B-MNWE23zjR2wMEhLSS2AnSj6Ny`</details>
 
 **JK**: じゃあ新しいモデルの方が安心ですね。
 

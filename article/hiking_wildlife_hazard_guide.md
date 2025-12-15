@@ -32,7 +32,7 @@ Tags: Safety, Guide
 
 **先生**: だからこそ、正しい知識と準備が大切なんだ。知っていれば防げることも多いし、万が一遭遇しても冷静に対処できる。
 
-**参考情報**: 「2024年においても、クマの出没件数は全国的に過去最多を記録しており、里山や人気の登山コースでも目撃情報が増えています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3kUKzXpsmT0Ufke8lUFSHpHYngb93Q_MNaPmlYM4keUmtbO_gfg3Hd85C6Y60H92H7bIxxgsx6ao8Sdf8rabZIP7mpxmdjGUYQgI5ARW50XyM7ZKpkF7AHeBO01s=`</details>
+> **参考情報**: 「2024年においても、クマの出没件数は全国的に過去最多を記録しており、里山や人気の登山コースでも目撃情報が増えています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3kUKzXpsmT0Ufke8lUFSHpHYngb93Q_MNaPmlYM4keUmtbO_gfg3Hd85C6Y60H92H7bIxxgsx6ao8Sdf8rabZIP7mpxmdjGUYQgI5ARW50XyM7ZKpkF7AHeBO01s=`</details>
 
 **JK**: わかりました…。ちゃんと勉強します。
 
@@ -66,7 +66,7 @@ Tags: Safety, Guide
 
 **JK**: …優先しません。
 
-**参考情報**: 「熊鈴の主な効果は、音によって人間の存在を熊に知らせ、接近を避けてもらうことにあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoMqgr0ObjVdm7otTzTEl-bmzGJD5r2Ght7MkemDMVIotszSwM8rFsXGYbZGZz6ZehBuq0Kw-brpvuGmVQg7j5a8Ll9LIQyAXEbD8bgFqYfrFXb9Y=`</details>
+> **参考情報**: 「熊鈴の主な効果は、音によって人間の存在を熊に知らせ、接近を避けてもらうことにあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoMqgr0ObjVdm7otTzTEl-bmzGJD5r2Ght7MkemDMVIotszSwM8rFsXGYbZGZz6ZehBuq0Kw-brpvuGmVQg7j5a8Ll9LIQyAXEbD8bgFqYfrFXb9Y=`</details>
 
 #### 2. 事前に出没情報を確認する
 
@@ -100,7 +100,7 @@ Tags: Safety, Guide
 
 **先生**: 可愛いからこそ危険なんだ。子グマの近くには必ず母グマがいる。母親は子を守るために非常に攻撃的になる。
 
-**参考情報**: 「子グマを見かけても決して近づかないでください。近くに母グマがいる可能性が非常に高く、子を守るために攻撃的になることがあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyVbT0oN04VdtgwsjXT8d14a7Bw90f7ojWv06ugwwWL68V8fei1jRwMRF30K1jghpgnwKNuSUvL3hFfmGubYO4rZVdVnpcT_9GoUDcYUxD_JDUJ2HYGMkCjSyGjc-PVtfomAjNcipnznXApWuz7Z0R2P0qkChKyTf7VyK-UHL8MQ==`</details>
+> **参考情報**: 「子グマを見かけても決して近づかないでください。近くに母グマがいる可能性が非常に高く、子を守るために攻撃的になることがあります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyVbT0oN04VdtgwsjXT8d14a7Bw90f7ojWv06ugwwWL68V8fei1jRwMRF30K1jghpgnwKNuSUvL3hFfmGubYO4rZVdVnpcT_9GoUDcYUxD_JDUJ2HYGMkCjSyGjc-PVtfomAjNcipnznXApWuz7Z0R2P0qkChKyTf7VyK-UHL8MQ==`</details>
 
 **JK**: 可愛さに釣られて命を落とすとか…シャレにならないですね。
 
@@ -118,7 +118,7 @@ Tags: Safety, Guide
 
 **先生**: 絶対にダメだ。背を向けて走ると、クマの追跡本能を刺激してしまう。クマは時速40〜50kmで走れる。人間が逃げ切れるわけがない。
 
-**参考情報**: 「背中を見せて走って逃げるのは、クマの追跡本能を刺激する可能性があるため避けてください」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG4yBRQmkhRVOAvxjIvdmQJfS9Te_R9PYAiS0wfRgm-eCyT9-PEJfWLZ1gbgTc2s4sk6Zd16syDdSHLomBped5lGwdBw_zcbpU46BiaWHgqa5wpdxZJC0PfS9le4V8qOp4v3zjB3S7mJ-z0JFFMKpwEuYXYkVKKeAdww==`</details>
+> **参考情報**: 「背中を見せて走って逃げるのは、クマの追跡本能を刺激する可能性があるため避けてください」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG4yBRQmkhRVOAvxjIvdmQJfS9Te_R9PYAiS0wfRgm-eCyT9-PEJfWLZ1gbgTc2s4sk6Zd16syDdSHLomBped5lGwdBw_zcbpU46BiaWHgqa5wpdxZJC0PfS9le4V8qOp4v3zjB3S7mJ-z0JFFMKpwEuYXYkVKKeAdww==`</details>
 
 **JK**: 時速50km!? 原付より速いじゃないですか！
 
@@ -138,7 +138,7 @@ Tags: Safety, Guide
 
 **先生**: 最悪の場合、攻撃を受けてしまったら、両腕で顔と頭部を守り、うつ伏せになって致命的なダメージを最小限に抑える。
 
-**参考情報**: 「クマによる直接攻撃を受けてしまった場合は、顔面や頭部への攻撃が多いとされています。両腕で顔面や頭部を覆い、すぐにうつ伏せになるなどして、致命的なダメージを最小限に抑える防御姿勢を取りましょう」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYhvZK4S-mqndYvWvD7J7o6rowGD18ARM1fOKCne7F_GqAkNUEeTyFWpVGSNvUlZWWrkVIQfeLqQ07oDq4IiRTy7busK07beRMe3QTW24_rOzO07L28aUd2JSzuIRjN2_5b_8=`</details>
+> **参考情報**: 「クマによる直接攻撃を受けてしまった場合は、顔面や頭部への攻撃が多いとされています。両腕で顔面や頭部を覆い、すぐにうつ伏せになるなどして、致命的なダメージを最小限に抑える防御姿勢を取りましょう」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYhvZK4S-mqndYvWvD7J7o6rowGD18ARM1fOKCne7F_GqAkNUEeTyFWpVGSNvUlZWWrkVIQfeLqQ07oDq4IiRTy7busK07beRMe3QTW24_rOzO07L28aUd2JSzuIRjN2_5b_8=`</details>
 
 **JK**: そこまでの状況にならないよう、予防が大事ってことですね…。
 
@@ -154,7 +154,7 @@ Tags: Safety, Guide
 
 **先生**: 真鍮製は高音で澄んだ音色で遠くまで届きやすい。鉄製は低く乾いた音で控えめ。アルミ製は軽量で錆びにくい。
 
-**参考情報**: 「真鍮製で高音が遠くまで届きやすく、片手で消音操作が可能です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq_zUAc9W7Ee_oyVgVYkH5lVHVbIcBo5dWZ49RL4FH-5ORcvfPxDeWEXUQWinQT1T4oDL_uuHJdo1TAOeyYMC-EFPunKPRNAyaOlfm0xco2W7KuiGgmRNrYWwCDIIXoG91gu1TKCw=`</details>
+> **参考情報**: 「真鍮製で高音が遠くまで届きやすく、片手で消音操作が可能です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq_zUAc9W7Ee_oyVgVYkH5lVHVbIcBo5dWZ49RL4FH-5ORcvfPxDeWEXUQWinQT1T4oDL_uuHJdo1TAOeyYMC-EFPunKPRNAyaOlfm0xco2W7KuiGgmRNrYWwCDIIXoG91gu1TKCw=`</details>
 
 **JK**: 消音機能って必要ですか？
 
@@ -186,7 +186,7 @@ Tags: Safety, Guide
 
 **先生**: 公称値では5〜10mだが、実際の屋外では風の影響を受ける。効果的に撃退できる距離は**3〜5m程度**と思っておいたほうがいい。
 
-**参考情報**: 「効果的にクマを撃退できる距離は約3m～5mとされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGccixeqQ3709nrd8lxS1r7ed5acmm_5rBCdYFrAtMNJKIT1TmzMXNeREuy3_do7Iue1Kx-BzBCMGrQ0BEQ79lSAoe_imvrOZcqdn_a0YdFa2Ml4A-OsX5GPEOp0P3QxzC0e-pk`</details>
+> **参考情報**: 「効果的にクマを撃退できる距離は約3m～5mとされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGccixeqQ3709nrd8lxS1r7ed5acmm_5rBCdYFrAtMNJKIT1TmzMXNeREuy3_do7Iue1Kx-BzBCMGrQ0BEQ79lSAoe_imvrOZcqdn_a0YdFa2Ml4A-OsX5GPEOp0P3QxzC0e-pk`</details>
 
 **JK**: 3mってめちゃくちゃ近いですね…。
 
@@ -225,7 +225,7 @@ Tags: Safety, Guide
 
 **先生**: アナフィラキシーショックだ。蜂毒に対するアレルギー反応で、血圧低下、呼吸困難、意識消失などを引き起こす。刺されてから数分〜1時間で症状が出ることが多い。
 
-**参考情報**: 「アナフィラキシーショックの可能性があります。これらの症状は刺されてから数分から30分～1時間程度で現れることが多く、重症化すると命に関わる」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVDVjvxyzdVwSgYK8iABdJa90JdOah2dhW1SmCtqj-JuYSKYSQptB3N-CiqjNuUTMBtszour9kMplDPS3heonXwcSeL5d-Zeu1VmFl9NaWNgR4ZGxJpQTVXdqGXlJicoph`</details>
+> **参考情報**: 「アナフィラキシーショックの可能性があります。これらの症状は刺されてから数分から30分～1時間程度で現れることが多く、重症化すると命に関わる」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVDVjvxyzdVwSgYK8iABdJa90JdOah2dhW1SmCtqj-JuYSKYSQptB3N-CiqjNuUTMBtszour9kMplDPS3heonXwcSeL5d-Zeu1VmFl9NaWNgR4ZGxJpQTVXdqGXlJicoph`</details>
 
 **JK**: 怖すぎ…。でも過去に刺されたことなければ大丈夫ですよね？
 
@@ -241,7 +241,7 @@ Tags: Safety, Guide
 
 **先生**: そう、頭部も狙われやすい。だから帽子で髪を隠すのが効果的だ。
 
-**参考情報**: 「ハチは黒い色に攻撃する習性があるため、白っぽい明るい色の服を着用し、肌の露出を避けることが重要です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-pwnd8gGE963ULk41AOEG8fVyJo8AavYZ3wWtp6dm52njhw3t6RACT4at7ymfiNkRykDdNinwsGJykWtH7KxI8YNbdIE_UWtKE5DpPG8bEzkgxRZfo6HDiWvW`</details>
+> **参考情報**: 「ハチは黒い色に攻撃する習性があるため、白っぽい明るい色の服を着用し、肌の露出を避けることが重要です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-pwnd8gGE963ULk41AOEG8fVyJo8AavYZ3wWtp6dm52njhw3t6RACT4at7ymfiNkRykDdNinwsGJykWtH7KxI8YNbdIE_UWtKE5DpPG8bEzkgxRZfo6HDiWvW`</details>
 
 **JK**: 登山って地味な服が多いと思ってたけど、理由があったんですね。
 
@@ -261,7 +261,7 @@ Tags: Safety, Guide
 
 **先生**: 気持ちはわかるが、それが最も危険だ。蜂を刺激すると攻撃モードに入る。ゆっくり静かにその場を離れるか、動きを止めて蜂が去るのを待つことだ。
 
-**参考情報**: 「ハチが周囲を飛び回って警戒している場合、手で払ったり急に走って逃げたりすると刺激してしまいます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeCv6x2c1Sg55Yd1fieSADUOXAxWxK2AF9A71pHaZ3fqMIjn0mSfntPu_ETJhxfs3xcQm2CBJIbJvxzaw0880-MzTVuDCp64YNUQQ1xcc-xqzxnxVNg9chBprrVjs7XFIu6g5tS6PP5Z5GIpLsfJdjPr2M`</details>
+> **参考情報**: 「ハチが周囲を飛び回って警戒している場合、手で払ったり急に走って逃げたりすると刺激してしまいます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeCv6x2c1Sg55Yd1fieSADUOXAxWxK2AF9A71pHaZ3fqMIjn0mSfntPu_ETJhxfs3xcQm2CBJIbJvxzaw0880-MzTVuDCp64YNUQQ1xcc-xqzxnxVNg9chBprrVjs7XFIu6g5tS6PP5Z5GIpLsfJdjPr2M`</details>
 
 **JK**: 顎をカチカチ鳴らすのが威嚇って聞いたんですけど本当ですか？
 
@@ -277,7 +277,7 @@ Tags: Safety, Guide
 
 **先生**: 刺されると、毒液に含まれるフェロモンで他の蜂が誘引される。集団攻撃を避けるために、最低でも10〜20m、できれば100m以上離れることだ。
 
-**参考情報**: 「ハチに刺されると、毒液に含まれるフェロモンによって他のハチが誘引され、集団で攻撃される危険があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfdhQi9lGFpymb5iQ9_fYLOJcD2zWLqKdvcLF06Xzzf9zx0W5driPOR7EhXsxHE43RQkaE0ghVwJHsQwmFrRyuJCEUXRD9ZwaOzAZF3RSQf72Ec1QeHKfx4jR28rr-WDGVug==`</details>
+> **参考情報**: 「ハチに刺されると、毒液に含まれるフェロモンによって他のハチが誘引され、集団で攻撃される危険があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfdhQi9lGFpymb5iQ9_fYLOJcD2zWLqKdvcLF06Xzzf9zx0W5driPOR7EhXsxHE43RQkaE0ghVwJHsQwmFrRyuJCEUXRD9ZwaOzAZF3RSQf72Ec1QeHKfx4jR28rr-WDGVug==`</details>
 
 **JK**: 100m!? 刺された痛みで走れますかね…。
 
@@ -295,7 +295,7 @@ Tags: Safety, Guide
 
 **先生**: 蜂の毒は水溶性だから、流水で数分間洗い流すと毒を薄められる。ペットボトルの水を勢いよくかけるのも効果的だ。
 
-**参考情報**: 「ハチの毒は水溶性なので、刺された部位をきれいな流水で数分間よく洗い流すことで、毒液を薄める効果が期待できます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGILuVoeGr0FFHwWgDYZ-i0V382ZlZaL8jB5MsTnXNRLm930z20l9NscKSbnMDAARs_m27JjAZoxnd-CQGW0J4YgEU8jMcltU1CpDLXTpn48C7CT_JtUPFB8ClKapMXyY5EYpvnCOna`</details>
+> **参考情報**: 「ハチの毒は水溶性なので、刺された部位をきれいな流水で数分間よく洗い流すことで、毒液を薄める効果が期待できます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGILuVoeGr0FFHwWgDYZ-i0V382ZlZaL8jB5MsTnXNRLm930z20l9NscKSbnMDAARs_m27JjAZoxnd-CQGW0J4YgEU8jMcltU1CpDLXTpn48C7CT_JtUPFB8ClKapMXyY5EYpvnCOna`</details>
 
 #### 4. 冷やして薬を塗る
 
@@ -323,7 +323,7 @@ Tags: Safety, Guide
 
 **先生**: 医師の処方が必要だ。過去にアナフィラキシーを起こしたことがある人や、蜂アレルギーと診断された人は処方してもらえる。
 
-**参考情報**: 「アレルギー体質の方やアナフィラキシーショックの既往がある場合は、アドレナリン自己注射薬（エピペン）を携帯することが勧められます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAxkFO7usSlxZBPAOvkiAeEINinHh_A9vUpA8u-jK2twbMviPD3iRwymwFBfKvZsngphMgjKxGbbaCS6Ze7ZTz8U_L27VU1ntPNqbpFVeA1YF23lvXdl1qutiirxY=`</details>
+> **参考情報**: 「アレルギー体質の方やアナフィラキシーショックの既往がある場合は、アドレナリン自己注射薬（エピペン）を携帯することが勧められます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAxkFO7usSlxZBPAOvkiAeEINinHh_A9vUpA8u-jK2twbMviPD3iRwymwFBfKvZsngphMgjKxGbbaCS6Ze7ZTz8U_L27VU1ntPNqbpFVeA1YF23lvXdl1qutiirxY=`</details>
 
 **JK**: 使い方難しそう…。
 
@@ -365,7 +365,7 @@ Tags: Safety, Guide
 
 **先生**: 国内の蛇の中で最も強い毒を持つと言われている。血液や組織を破壊する「出血毒」だ。
 
-**参考情報**: 「マムシの牙は厚手の生地も貫通する可能性があるため、足首から脛にかけてゲイター（スパッツ）を着用するとより安全です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqzJ-5xu6nHHdQWQ9gjTbUYEdWq4HEcCnaLGfF10hBfXy18guQ4BPfZJkuC43-KgEUEAiHStQjwXh4TnsULQPj5kJob_zDPYZEAaUJqrCT7Q8mj0mLlvJpPQXCF8YBJpbr1TbqIrllCgu8UiGbMxFb`</details>
+> **参考情報**: 「マムシの牙は厚手の生地も貫通する可能性があるため、足首から脛にかけてゲイター（スパッツ）を着用するとより安全です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqzJ-5xu6nHHdQWQ9gjTbUYEdWq4HEcCnaLGfF10hBfXy18guQ4BPfZJkuC43-KgEUEAiHStQjwXh4TnsULQPj5kJob_zDPYZEAaUJqrCT7Q8mj0mLlvJpPQXCF8YBJpbr1TbqIrllCgu8UiGbMxFb`</details>
 
 #### ヤマカガシの特徴
 
@@ -375,7 +375,7 @@ Tags: Safety, Guide
 
 **先生**: 幼体は特に鮮やかだが、成体は地域によって色が変わることもある。厄介なのは、咬まれても初期症状が軽くて重症化に気づきにくいことだ。
 
-**参考情報**: 「ヤマカガシは咬まれても初期症状が軽く、痛みを伴わないこともあるため、重症化に気づきにくい場合があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHehLV3aEza7IVKVOSudAkN7TN1aUEGgVWVlb0-rS7zI4WujXnSZWUY0mTGB23UkpAmq7XPkUaP4WLKNBq5CuvVTWkaoXfSj3PKGqY0LQSXBO1Dw8DRV9Kp-ku0FIQghBlJPOejZRFcDcgGeHpmRfonGXYDNoezvvgsk7TrBt8Es93UuUT4MXrlNic=`</details>
+> **参考情報**: 「ヤマカガシは咬まれても初期症状が軽く、痛みを伴わないこともあるため、重症化に気づきにくい場合があります」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHehLV3aEza7IVKVOSudAkN7TN1aUEGgVWVlb0-rS7zI4WujXnSZWUY0mTGB23UkpAmq7XPkUaP4WLKNBq5CuvVTWkaoXfSj3PKGqY0LQSXBO1Dw8DRV9Kp-ku0FIQghBlJPOejZRFcDcgGeHpmRfonGXYDNoezvvgsk7TrBt8Es93UuUT4MXrlNic=`</details>
 
 **JK**: 痛くないのに毒が回るって怖いですね…。
 
@@ -393,7 +393,7 @@ Tags: Safety, Guide
 
 **先生**: 蛇は基本的に臆病で、自分から人を襲うことは稀だ。問題は気づかずに踏んでしまったり、不用意に手を出したりすることで咬まれるケースだ。
 
-**参考情報**: 「ヘビは基本的に臆病で、自ら積極的に人を襲うことは稀です。多くの場合、気づかずに踏んでしまったり、不用意に手を出したりすることで咬まれます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9ccFfrW5fhqcpYji0bny38fF4qo6QHfth1p8C1VCTUbkgx22FXzJlO1mmVqnH9CWps6Lmm7NsdOie38N7np5-jhRtM04-vbpkXdvXroQkOdagtP6gOQ==`</details>
+> **参考情報**: 「ヘビは基本的に臆病で、自ら積極的に人を襲うことは稀です。多くの場合、気づかずに踏んでしまったり、不用意に手を出したりすることで咬まれます」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9ccFfrW5fhqcpYji0bny38fF4qo6QHfth1p8C1VCTUbkgx22FXzJlO1mmVqnH9CWps6Lmm7NsdOie38N7np5-jhRtM04-vbpkXdvXroQkOdagtP6gOQ==`</details>
 
 **JK**: どこに潜んでいることが多いんですか？
 
@@ -421,7 +421,7 @@ Tags: Safety, Guide
 
 **先生**: 患部を動かさず、心臓より低い位置に保つ。傷口を流水で洗い流して、すぐに救急車を呼ぶか医療機関に行くことだ。
 
-**参考情報**: 「すぐに救急車（119番）を呼ぶか、速やかに最寄りの医療機関を受診してください。症状が軽度に見えても、数時間後に重篤化する可能性があるため、必ず早期に受診しましょう」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfWfJ0yaq6ByCzTyaxi0vVkL7BON3KlqhJ-NJ6SpePnBYud3aCy3pncR5hfF5SWbV28eB5fY6y9uvP4_UOX1040i4lzG7ScuM0ScOPMKYHSb5S4w6p8AD-Kez2pt17jlxNjlLxiW1bAY3GcxvsHsnjsK6UFkCWHL_Vlf_ntEvqOYhigow_XRRCgGh3nlZI0g==`</details>
+> **参考情報**: 「すぐに救急車（119番）を呼ぶか、速やかに最寄りの医療機関を受診してください。症状が軽度に見えても、数時間後に重篤化する可能性があるため、必ず早期に受診しましょう」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfWfJ0yaq6ByCzTyaxi0vVkL7BON3KlqhJ-NJ6SpePnBYud3aCy3pncR5hfF5SWbV28eB5fY6y9uvP4_UOX1040i4lzG7ScuM0ScOPMKYHSb5S4w6p8AD-Kez2pt17jlxNjlLxiW1bAY3GcxvsHsnjsK6UFkCWHL_Vlf_ntEvqOYhigow_XRRCgGh3nlZI0g==`</details>
 
 **JK**: 咬んだ蛇の写真は撮ったほうがいいですか？
 
@@ -443,7 +443,7 @@ Tags: Safety, Guide
 
 **先生**: 湿度の高い場所を好む。雨上がりや沢沿い、日当たりの悪い湿った場所に多い。活動時期は4月から10月、特に6月から9月がピークだ。
 
-**参考情報**: 「ヤマビルはシカやイノシシなどの野生動物によって運ばれることが多く、これらの動物の生息域拡大がヤマビルの増加の一因とされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbKqbSSR6K8oIvGjepQUbLoegkctV1kB3f6fDhU_UEQx2xxvClSvA4_2O-AYPwcqsYpTSZye0u3P2mI8_ON_dRfBQkS7veGY0g2grOuhDq_dEU4NcjEGyR6BfOe-1aTuihOBWEOUXIhU7m2VSbXP-xZ1JPA4w_C6gM7-jtLaC002c4nA==`</details>
+> **参考情報**: 「ヤマビルはシカやイノシシなどの野生動物によって運ばれることが多く、これらの動物の生息域拡大がヤマビルの増加の一因とされています」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbKqbSSR6K8oIvGjepQUbLoegkctV1kB3f6fDhU_UEQx2xxvClSvA4_2O-AYPwcqsYpTSZye0u3P2mI8_ON_dRfBQkS7veGY0g2grOuhDq_dEU4NcjEGyR6BfOe-1aTuihOBWEOUXIhU7m2VSbXP-xZ1JPA4w_C6gM7-jtLaC002c4nA==`</details>
 
 **JK**: シカやイノシシが運んでくるんですか？
 
@@ -455,7 +455,7 @@ Tags: Safety, Guide
 
 **先生**: 長袖・長ズボンで肌の露出を避け、ズボンの裾を靴下の中に入れる。これでかなり防げる。
 
-**参考情報**: 「長袖・長ズボンを着用し、肌の露出を避けることが最も基本的な対策です。ヤマビルは服の上から噛みつくことはほとんどありません」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9bWoVGIJxW-AKEYZDHljSMdZcpuCvhjLdIh3Xl7t30NxctslrHqdphnHlHomMVQp0-JEUElTmqal-y3Z8Dy2X0x3CXyVc25Gsj37zz1p-kXRJv6TeyUJvY1GP-fCULUpPcI4CcdsZyAgx9uu4DP85sVz9uuu3SIU3-48sJrGwIdE=`</details>
+> **参考情報**: 「長袖・長ズボンを着用し、肌の露出を避けることが最も基本的な対策です。ヤマビルは服の上から噛みつくことはほとんどありません」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9bWoVGIJxW-AKEYZDHljSMdZcpuCvhjLdIh3Xl7t30NxctslrHqdphnHlHomMVQp0-JEUElTmqal-y3Z8Dy2X0x3CXyVc25Gsj37zz1p-kXRJv6TeyUJvY1GP-fCULUpPcI4CcdsZyAgx9uu4DP85sVz9uuu3SIU3-48sJrGwIdE=`</details>
 
 **JK**: ズボンを靴下に入れるの、見た目ダサくないですか？
 
@@ -475,7 +475,7 @@ Tags: Safety, Guide
 
 **先生**: 水と塩を8:2の割合で混ぜた20%濃度の食塩水も忌避効果がある。小さなスプレーボトルに入れて持っていくといい。
 
-**参考情報**: 「水と塩を8:2の割合で混ぜた20%濃度の食塩水は、ヤマビルを寄せ付けない効果があり、吸い付いたヤマビルを剥がす際にも有効です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCKA_D1YpembqO38pJkXkEbtOWqIC1xYjB7pYcCb113PxBXo48OqRXssutReXxcsYFUW68Fe_OO5wP5vQhZN1STiWIXj5c6f0n2QzaoS58ZDXEdAU=`</details>
+> **参考情報**: 「水と塩を8:2の割合で混ぜた20%濃度の食塩水は、ヤマビルを寄せ付けない効果があり、吸い付いたヤマビルを剥がす際にも有効です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCKA_D1YpembqO38pJkXkEbtOWqIC1xYjB7pYcCb113PxBXo48OqRXssutReXxcsYFUW68Fe_OO5wP5vQhZN1STiWIXj5c6f0n2QzaoS58ZDXEdAU=`</details>
 
 **JK**: 塩で作れるなら安上がりでいいですね！
 
@@ -493,7 +493,7 @@ Tags: Safety, Guide
 
 **先生**: まず無理に引き剥がさないこと。
 
-**参考情報**: 「吸血中のヤマビルを無理に引き剥がすと、ヤマビルの口器が皮膚に残り、化膿する原因になることがあるため、避けましょう」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfU4-B8Sm48FOw4-8kcMoBUTPJO1RNRzu1pqotAyfVemvYIbhJAnNnuC3Mxv8DFzw_-NXrBoLy0BR6qxq9tzXvvWFgW5FecOd_ElYihfE0hSxYYNKG23-9mw==`</details>
+> **参考情報**: 「吸血中のヤマビルを無理に引き剥がすと、ヤマビルの口器が皮膚に残り、化膿する原因になることがあるため、避けましょう」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfU4-B8Sm48FOw4-8kcMoBUTPJO1RNRzu1pqotAyfVemvYIbhJAnNnuC3Mxv8DFzw_-NXrBoLy0BR6qxq9tzXvvWFgW5FecOd_ElYihfE0hSxYYNKG23-9mw==`</details>
 
 **JK**: 引っ張っちゃダメなんですか？
 
@@ -511,7 +511,7 @@ Tags: Safety, Guide
 
 **先生**: ヤマビルの唾液には血液を固まりにくくする成分（ヒルジン）が含まれていて、2時間くらい出血が続くこともある。ただし総失血量は多くないから、落ち着いて対処すれば大丈夫だ。
 
-**参考情報**: 「ヤマビルの唾液成分の影響で、出血が2時間程度続くことがありますが、総失血量は多くありません」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcR21Zh7Z75SaXN_lA3yXapi6GJujrdOKmVc7JifdhWRPM_Ayz4HfLefJgvRIl9e8175GPEL6FZXoWNJao9YgxZRFW8BN0V71Gw-XH7xco1hBERWXsmuWH5Fc1UStiwUgCTgRKCirIFE8RsdLT6IWLLaKlj5D8MI9_fnZCJRaYgl10mD3uJ04hZxs=`</details>
+> **参考情報**: 「ヤマビルの唾液成分の影響で、出血が2時間程度続くことがありますが、総失血量は多くありません」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcR21Zh7Z75SaXN_lA3yXapi6GJujrdOKmVc7JifdhWRPM_Ayz4HfLefJgvRIl9e8175GPEL6FZXoWNJao9YgxZRFW8BN0V71Gw-XH7xco1hBERWXsmuWH5Fc1UStiwUgCTgRKCirIFE8RsdLT6IWLLaKlj5D8MI9_fnZCJRaYgl10mD3uJ04hZxs=`</details>
 
 **JK**: 2時間も！？でも命に別状はないんですね。
 
@@ -531,7 +531,7 @@ Tags: Safety, Guide
 
 **先生**: 傷口の大きさに合ったマウスピースを選んで、患部にしっかり当ててピストンを引く。60〜90秒そのままにして、蜂や蛇の場合は3分以上続ける。
 
-**参考情報**: 「刺されたり咬まれたりしたら、直ちに（遅くとも2分以内に）ポイズンリムーバーを使用することが最も効果的です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnVO70ABB2CEhom05-LF93JbxRJ_wqZJeqmfC2Wu2DPkXpXK6OfbQGMg0HngdROdWXjKqcGaUOP061EQn3l0Lp-5Wjw6Bjpnl6RBucTPUd2lpArplcAuRVcRv6V-OzFQBAZEd8cZg9kRqaPBY9tZ4kg2u8_w==`</details>
+> **参考情報**: 「刺されたり咬まれたりしたら、直ちに（遅くとも2分以内に）ポイズンリムーバーを使用することが最も効果的です」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnVO70ABB2CEhom05-LF93JbxRJ_wqZJeqmfC2Wu2DPkXpXK6OfbQGMg0HngdROdWXjKqcGaUOP061EQn3l0Lp-5Wjw6Bjpnl6RBucTPUd2lpArplcAuRVcRv6V-OzFQBAZEd8cZg9kRqaPBY9tZ4kg2u8_w==`</details>
 
 **JK**: 効果はあるんですか？
 

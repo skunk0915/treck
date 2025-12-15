@@ -59,7 +59,7 @@ Tags: Trekking Shoes, Guide
 
 **先生**: 無難というより「万能」だな。日帰りハイキングから北アルプスの縦走まで、3シーズン（春・夏・秋）の登山に幅広く対応できる。
 
-**参考情報**: 「低山ハイク、日帰り登山、軽登山、さらにはアルプス縦走まで、3シーズンの幅広い登山シーンで活躍する万能型シューズ」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYFTNyZ2RuH7olHk0bDvBf-phfRBezMsJZKBbu-_usFXB6slkxq--fj-QrXXzw9FsGmt4CgnInbQ4IgcbtX4FAb0JwOT-ShyX9_5NwNntXi6cd8w==`</details>
+> **参考情報**: 「低山ハイク、日帰り登山、軽登山、さらにはアルプス縦走まで、3シーズンの幅広い登山シーンで活躍する万能型シューズ」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYFTNyZ2RuH7olHk0bDvBf-phfRBezMsJZKBbu-_usFXB6slkxq--fj-QrXXzw9FsGmt4CgnInbQ4IgcbtX4FAb0JwOT-ShyX9_5NwNntXi6cd8w==`</details>
 
 ### クレストンの3つの強み
 
@@ -67,7 +67,7 @@ Tags: Trekking Shoes, Guide
 
 #### 1. 防水透湿メンブレン
 
-**参考情報**: 「HydroSealやFUTURELIGHTといったノースフェイス独自の防水透湿メンブレンを採用しており、雨の浸入を防ぎながら靴内部の蒸れを排出します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUbwh5duUAjNUWzcAIr2lQtZCOEt8z7ZUC9-kxu3Pv_--IPVf_gDq4GThvjJksDKdTPsP0plnPHp35_FL7-J-Ayv8PCbShQG3JrM4CO8xVjr-aMOufA47j_DrinDy4jcnaM9cF8aEn`</details>
+> **参考情報**: 「HydroSealやFUTURELIGHTといったノースフェイス独自の防水透湿メンブレンを採用しており、雨の浸入を防ぎながら靴内部の蒸れを排出します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUbwh5duUAjNUWzcAIr2lQtZCOEt8z7ZUC9-kxu3Pv_--IPVf_gDq4GThvjJksDKdTPsP0plnPHp35_FL7-J-Ayv8PCbShQG3JrM4CO8xVjr-aMOufA47j_DrinDy4jcnaM9cF8aEn`</details>
 
 **JK**: HydroSeal？FUTURELIGHT？また呪文が出てきましたよ。
 
@@ -79,7 +79,7 @@ Tags: Trekking Shoes, Guide
 
 #### 2. Vibram XS-Trekアウトソール
 
-**参考情報**: 「アウトソールにはVibram XS-Trekラバーが採用されており、ドライからウェットな路面まで様々なコンディションで高いグリップ力を発揮します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUbwh5duUAjNUWzcAIr2lQtZCOEt8z7ZUC9-kxu3Pv_--IPVf_gDq4GThvjJksDKdTPsP0plnPHp35_FL7-J-Ayv8PCbShQG3JrM4CO8xVjr-aMOufA47j_DrinDy4jcnaM9cF8aEn`</details>
+> **参考情報**: 「アウトソールにはVibram XS-Trekラバーが採用されており、ドライからウェットな路面まで様々なコンディションで高いグリップ力を発揮します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUbwh5duUAjNUWzcAIr2lQtZCOEt8z7ZUC9-kxu3Pv_--IPVf_gDq4GThvjJksDKdTPsP0plnPHp35_FL7-J-Ayv8PCbShQG3JrM4CO8xVjr-aMOufA47j_DrinDy4jcnaM9cF8aEn`</details>
 
 **JK**: ビブラムって他のブランドの靴でも見たことあります。
 
@@ -91,7 +91,7 @@ Tags: Trekking Shoes, Guide
 
 #### 3. 日本人向けラスト（足型）
 
-**参考情報**: 「日本人の足型に合わせたラストを採用しており、指先にゆとりを持たせた設計で、高いフィット感と安定性を提供します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd-eh-7O8wHKBvZtEOuXJWuN5vFmmrq2EV2GoqEHGrKIaadpmpVLf8EbHkfahvu488gOj7y1sBFFPdyL4MYvHzDjTXCinGs9K7wwiUecrl4q6wf0jIpEtr`</details>
+> **参考情報**: 「日本人の足型に合わせたラストを採用しており、指先にゆとりを持たせた設計で、高いフィット感と安定性を提供します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd-eh-7O8wHKBvZtEOuXJWuN5vFmmrq2EV2GoqEHGrKIaadpmpVLf8EbHkfahvu488gOj7y1sBFFPdyL4MYvHzDjTXCinGs9K7wwiUecrl4q6wf0jIpEtr`</details>
 
 **JK**: 日本人向けって、幅広ってことですか？
 
@@ -103,7 +103,7 @@ Tags: Trekking Shoes, Guide
 
 ### クレストンの足首サポート機能
 
-**参考情報**: 「CRADLEヒールテクノロジーがかかとを囲むようにサポートし、着地時の衝撃を吸収して横ブレを軽減します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUbwh5duUAjNUWzcAIr2lQtZCOEt8z7ZUC9-kxu3Pv_--IPVf_gDq4GThvjJksDKdTPsP0plnPHp35_FL7-J-Ayv8PCbShQG3JrM4CO8xVjr-aMOufA47j_DrinDy4jcnaM9cF8aEn`</details>
+> **参考情報**: 「CRADLEヒールテクノロジーがかかとを囲むようにサポートし、着地時の衝撃を吸収して横ブレを軽減します」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUbwh5duUAjNUWzcAIr2lQtZCOEt8z7ZUC9-kxu3Pv_--IPVf_gDq4GThvjJksDKdTPsP0plnPHp35_FL7-J-Ayv8PCbShQG3JrM4CO8xVjr-aMOufA47j_DrinDy4jcnaM9cF8aEn`</details>
 
 **先生**: クレストンには**CRADLEヒールテクノロジー**というかかとのサポート機構がある。かかと周りを包み込むように支えてくれるので、不整地での横ブレが軽減される。
 
@@ -151,7 +151,7 @@ Tags: Trekking Shoes, Guide
 
 **先生**: ベクティブの核心は3つの技術の組み合わせにある。**3Dプレート**、**ロッカー形状のミッドソール**、**SurfaceCTRLアウトソール**だ。
 
-**参考情報**: 「VECTIVテクノロジーは3つの基本的な柱で構成されています：専用プレート、幾何学的に設計されたミッドソール、高トラクションアウトソール」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlvwJuwsTSiUSwU2Fz6hpaLUEb7yUcRrejN66fUP_wc5FMRUVx4RTqUm3qVu0HEaVfNcHR5kfD3oz9YPRiMO_K-npThrCrb4PQqVQHwNTihCg56DLPnx5rbsuknzx5vCaeElsc8G48MU545tunwKFpWOQLHsxyeYeHz7z73NUXKB-jldnYC0gxPJhN7S0=`</details>
+> **参考情報**: 「VECTIVテクノロジーは3つの基本的な柱で構成されています：専用プレート、幾何学的に設計されたミッドソール、高トラクションアウトソール」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlvwJuwsTSiUSwU2Fz6hpaLUEb7yUcRrejN66fUP_wc5FMRUVx4RTqUm3qVu0HEaVfNcHR5kfD3oz9YPRiMO_K-npThrCrb4PQqVQHwNTihCg56DLPnx5rbsuknzx5vCaeElsc8G48MU545tunwKFpWOQLHsxyeYeHz7z73NUXKB-jldnYC0gxPJhN7S0=`</details>
 
 **JK**: えーと、つまり何がすごいんですか？普通の言葉で説明してください。
 
@@ -159,7 +159,7 @@ Tags: Trekking Shoes, Guide
 
 #### 1. 3Dプレートの推進力
 
-**参考情報**: 「カーボンファイバープレートまたはTPUプレートを採用。プレートはフラットではなく3D形状で、ヒールからトウまでフルレングスで走り、推進力と安定性の両方を提供」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtLAv-EvXjZvHuEMPz9bOTfZmFFXl_LpiNA7LMrk8-86MOY6JcNty-GukyzyQhJJ4RapY-ixSLJTqiOyyGWBcQoIKKwdN4lHXbjPDaTConnHOuhS1Kh2k=`</details>
+> **参考情報**: 「カーボンファイバープレートまたはTPUプレートを採用。プレートはフラットではなく3D形状で、ヒールからトウまでフルレングスで走り、推進力と安定性の両方を提供」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtLAv-EvXjZvHuEMPz9bOTfZmFFXl_LpiNA7LMrk8-86MOY6JcNty-GukyzyQhJJ4RapY-ixSLJTqiOyyGWBcQoIKKwdN4lHXbjPDaTConnHOuhS1Kh2k=`</details>
 
 **JK**: カーボンプレートって、マラソンシューズについてるやつですよね？
 
@@ -171,7 +171,7 @@ Tags: Trekking Shoes, Guide
 
 #### 2. ロッカー形状で転がるように進む
 
-**参考情報**: 「ミッドソールはロッキングチェアの底のような顕著なロッカー形状で、エネルギーを運動量に変換し自然な前方回転運動を促進」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyls9l-rj0OPY98MMKgxNl8di0IezpbP-9IaivlekSFsYKJ8cv0vuwG3-OkCruBxCtZA-iHsDVfVcP5TQKCb7t2B8dQ_dGHdC9L3nhGRDn-dmjmRyDjR9M9yn08xsPZ7xDf6VnG_RdJxVl56KvATBIch1Rt0TrNHV2I0m92uw=`</details>
+> **参考情報**: 「ミッドソールはロッキングチェアの底のような顕著なロッカー形状で、エネルギーを運動量に変換し自然な前方回転運動を促進」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyls9l-rj0OPY98MMKgxNl8di0IezpbP-9IaivlekSFsYKJ8cv0vuwG3-OkCruBxCtZA-iHsDVfVcP5TQKCb7t2B8dQ_dGHdC9L3nhGRDn-dmjmRyDjR9M9yn08xsPZ7xDf6VnG_RdJxVl56KvATBIch1Rt0TrNHV2I0m92uw=`</details>
 
 **JK**: ロッキングチェアって、揺り椅子ですか？
 
@@ -183,7 +183,7 @@ Tags: Trekking Shoes, Guide
 
 #### 3. SurfaceCTRLアウトソール
 
-**参考情報**: 「ノースフェイス独自のSurfaceCTRLラバーアウトソールは、ドライとウェットの両方で信頼性の高いグリップを提供」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlvwJuwsTSiUSwU2Fz6hpaLUEb7yUcRrejN66fUP_wc5FMRUVx4RTqUm3qVu0HEaVfNcHR5kfD3oz9YPRiMO_K-npThrCrb4PQqVQHwNTihCg56DLPnx5rbsuknzx5vCaeElsc8G48MU545tunwKFpWOQLHsxyeYeHz7z73NUXKB-jldnYC0gxPJhN7S0=`</details>
+> **参考情報**: 「ノースフェイス独自のSurfaceCTRLラバーアウトソールは、ドライとウェットの両方で信頼性の高いグリップを提供」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlvwJuwsTSiUSwU2Fz6hpaLUEb7yUcRrejN66fUP_wc5FMRUVx4RTqUm3qVu0HEaVfNcHR5kfD3oz9YPRiMO_K-npThrCrb4PQqVQHwNTihCg56DLPnx5rbsuknzx5vCaeElsc8G48MU545tunwKFpWOQLHsxyeYeHz7z73NUXKB-jldnYC0gxPJhN7S0=`</details>
 
 **先生**: ソールはノースフェイス独自の**SurfaceCTRL**ラバーを採用している。ビブラムほどの知名度はないが、濡れた路面でのグリップは十分だ。
 
@@ -195,7 +195,7 @@ Tags: Trekking Shoes, Guide
 
 #### Summit VECTIV Pro 3（最上位モデル）
 
-**参考情報**: 「エリートおよびウルトラトレイルランナー向けの最上位モデル。ダブルスタックカーボンファイバープレートシステム、超軽量窒素注入DREAMフォームを搭載し、最高のクッション性と反発力を提供」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGddIA32wTFEX0fOgogEbeJHGWKchFG_TjNWVIgP-ZlPUJq8GyFRiqF3lV9lD7iAvRmT-5G2e5PVF03kPKiBjf260CUjRdVc93ZvGv6dw5TEtuIsm25KPDdbMZyGZ7YArSC`</details>
+> **参考情報**: 「エリートおよびウルトラトレイルランナー向けの最上位モデル。ダブルスタックカーボンファイバープレートシステム、超軽量窒素注入DREAMフォームを搭載し、最高のクッション性と反発力を提供」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGddIA32wTFEX0fOgogEbeJHGWKchFG_TjNWVIgP-ZlPUJq8GyFRiqF3lV9lD7iAvRmT-5G2e5PVF03kPKiBjf260CUjRdVc93ZvGv6dw5TEtuIsm25KPDdbMZyGZ7YArSC`</details>
 
 - 型番: NF02501
 - 価格: 28,050円〜33,000円
@@ -207,7 +207,7 @@ Tags: Trekking Shoes, Guide
 
 #### Summit VECTIV Sky 2（軽量スピードモデル）
 
-**参考情報**: 「VECTIVラインナップで最軽量のオプション。スピード重視のラン、短〜中距離、またはテクニカルな垂直地形向けに設計」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY0nJHzdgdsQTeQAZAjGeFa33Lzls0uLXClNJaflBT9QsgmvykbJFOcquVQyFs9MlQqk_M4dSH9IVCNpFSHu3x4J_SE6vINNaLTFB-jbLpCiuTDXP8-fM=`</details>
+> **参考情報**: 「VECTIVラインナップで最軽量のオプション。スピード重視のラン、短〜中距離、またはテクニカルな垂直地形向けに設計」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY0nJHzdgdsQTeQAZAjGeFa33Lzls0uLXClNJaflBT9QsgmvykbJFOcquVQyFs9MlQqk_M4dSH9IVCNpFSHu3x4J_SE6vINNaLTFB-jbLpCiuTDXP8-fM=`</details>
 
 - 型番: NF02502
 - 価格: 23,900円〜28,600円
@@ -217,24 +217,24 @@ Tags: Trekking Shoes, Guide
 
 #### VECTIV Enduris 4（万能ロングディスタンスモデル）
 
-**参考情報**: 「ロングディスタンスのトレイルレースでの完走を目指すランナー向け。VECTIVシステムは歩行や走行時のエネルギーを推進力に変え、安定した走りをサポート」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuV1Gg208V2t4pmgBMoA87Tb9ELmUCo9fmBCci6II2tKZ-3p8S0wTP8bImf9hTWRQ0w-YJzTeCTcVYOHjsWZ1bAK7yCvnd8bmZ5oNaSH8vPI4bGauqGjqnFEJTbWv60atqSsUlLpwJbA==`</details>
+> **参考情報**: 「ロングディスタンスのトレイルレースでの完走を目指すランナー向け。VECTIVシステムは歩行や走行時のエネルギーを推進力に変え、安定した走りをサポート」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuV1Gg208V2t4pmgBMoA87Tb9ELmUCo9fmBCci6II2tKZ-3p8S0wTP8bImf9hTWRQ0w-YJzTeCTcVYOHjsWZ1bAK7yCvnd8bmZ5oNaSH8vPI4bGauqGjqnFEJTbWv60atqSsUlLpwJbA==`</details>
 
 - 型番: NF02503
 - 価格: 定価24,200円（セール時13,900円〜21,780円程度）
 - 重量: 約285g（US9片足）
 - ラグ深さ: 4.0mm
 
-**参考情報**: 「耐久性と速乾性に優れたブリーザブルメッシュを採用。フィット感を高めるウィングタン構造と、タンや履き口内部に配されたクッション素材により、締め付け感を軽減」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuV1Gg208V2t4pmgBMoA87Tb9ELmUCo9fmBCci6II2tKZ-3p8S0wTP8bImf9hTWRQ0w-YJzTeCTcVYOHjsWZ1bAK7yCvnd8bmZ5oNaSH8vPI4bGauqGjqnFEJTbWv60atqSsUlLpwJbA==`</details>
+> **参考情報**: 「耐久性と速乾性に優れたブリーザブルメッシュを採用。フィット感を高めるウィングタン構造と、タンや履き口内部に配されたクッション素材により、締め付け感を軽減」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuV1Gg208V2t4pmgBMoA87Tb9ELmUCo9fmBCci6II2tKZ-3p8S0wTP8bImf9hTWRQ0w-YJzTeCTcVYOHjsWZ1bAK7yCvnd8bmZ5oNaSH8vPI4bGauqGjqnFEJTbWv60atqSsUlLpwJbA==`</details>
 
 **JK**: これならセールで1万円台で買えることもあるんですね！
 
 **先生**: そうだ。エンデュリスはベクティブ入門として最適なモデルだ。TPUプレート搭載でVECTIVの恩恵を十分に受けられるし、日本人の足型にも合いやすい設計になっている。
 
-**参考情報**: 「日本人の足幅に合うよう、つま先部分を広めに取った設計」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgByNS1M3jcChHvwcKpwEHh5s3wIdoIHx997dKTi6A_dM0BBNR9NnOyGPvzu8etKH9CdhhVf6q0GEwIJ9PBBhpHsEXrNBZSZa62CXpXav1sR86J5TvMAl_hQffOvs=`</details>
+> **参考情報**: 「日本人の足幅に合うよう、つま先部分を広めに取った設計」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgByNS1M3jcChHvwcKpwEHh5s3wIdoIHx997dKTi6A_dM0BBNR9NnOyGPvzu8etKH9CdhhVf6q0GEwIJ9PBBhpHsEXrNBZSZa62CXpXav1sR86J5TvMAl_hQffOvs=`</details>
 
 #### VECTIV Escape（トレッキング兼用モデル）
 
-**参考情報**: 「VECTIVシステムを搭載したトレッキングシューズ。安定性、推進力、グリップ力によって歩行や走行時のエネルギー効率を高める。アッパーには縫い目のない丸編みニットを採用し、軽量でありながら摩耗しやすい部分はTPUで保護」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9AWoDWsDwE0BIlH_OzRSS3MHSxhpAhvDF3Yb_C480b46_-6CFRrFnqgUFxdOOZYKcLqnFgJw5YxZ-7OmiXM7uPDeiPL1sXJmvZ9JheFI0FePVMUOG2tJa3v_yC2QU0509MqDzRK71ceWTA1CVummMA5DxiA==`</details>
+> **参考情報**: 「VECTIVシステムを搭載したトレッキングシューズ。安定性、推進力、グリップ力によって歩行や走行時のエネルギー効率を高める。アッパーには縫い目のない丸編みニットを採用し、軽量でありながら摩耗しやすい部分はTPUで保護」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9AWoDWsDwE0BIlH_OzRSS3MHSxhpAhvDF3Yb_C480b46_-6CFRrFnqgUFxdOOZYKcLqnFgJw5YxZ-7OmiXM7uPDeiPL1sXJmvZ9JheFI0FePVMUOG2tJa3v_yC2QU0509MqDzRK71ceWTA1CVummMA5DxiA==`</details>
 
 - 型番: NF02131
 - 特徴: ハイキングにも日常使いにも対応
@@ -276,17 +276,17 @@ Tags: Trekking Shoes, Guide
 
 ### スクランブラー（Scrambler）シリーズ
 
-**参考情報**: 「アッパーにはGORE-TEX Invisible Fitを採用しており、優れた防水性と透湿性を両立。防水性を維持しつつ高いフィット感を実現」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-IZDG92vo4ViKPs_FP0doehfsX2ba0aGvE4M1YydyxnNY0nkqXyfDChmdPgVWJFZXp7XsRI2ZF9MKyuuKabdKiiQsgDkbnY3bx3Kte6qZlpKBvbnAy88XLoQCptiBHqMlKwwjsL9UVlyR8Ukt1jrcmQ==`</details>
+> **参考情報**: 「アッパーにはGORE-TEX Invisible Fitを採用しており、優れた防水性と透湿性を両立。防水性を維持しつつ高いフィット感を実現」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-IZDG92vo4ViKPs_FP0doehfsX2ba0aGvE4M1YydyxnNY0nkqXyfDChmdPgVWJFZXp7XsRI2ZF9MKyuuKabdKiiQsgDkbnY3bx3Kte6qZlpKBvbnAy88XLoQCptiBHqMlKwwjsL9UVlyR8Ukt1jrcmQ==`</details>
 
 **JK**: GORE-TEX Invisible Fitって何ですか？普通のゴアテックスと違うんですか？
 
 **先生**: 通常のゴアテックスは靴の中に「靴下のような」防水層が入っているんだが、Invisible Fitはアッパー素材に直接ゴアテックスを貼り合わせている。だから薄くて軽く、フィット感も良くなる。
 
-**参考情報**: 「ミッドソールには足に馴染みやすく、適度な衝撃吸収性を持つ圧縮成型EVAを使用。アウトソールにはAMPHI-GRIPラバーが採用されており、ドライとウェットの両方の環境で安定したグリップ力を発揮」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-IZDG92vo4ViKPs_FP0doehfsX2ba0aGvE4M1YydyxnNY0nkqXyfDChmdPgVWJFZXp7XsRI2ZF9MKyuuKabdKiiQsgDkbnY3bx3Kte6qZlpKBvbnAy88XLoQCptiBHqMlKwwjsL9UVlyR8Ukt1jrcmQ==`</details>
+> **参考情報**: 「ミッドソールには足に馴染みやすく、適度な衝撃吸収性を持つ圧縮成型EVAを使用。アウトソールにはAMPHI-GRIPラバーが採用されており、ドライとウェットの両方の環境で安定したグリップ力を発揮」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-IZDG92vo4ViKPs_FP0doehfsX2ba0aGvE4M1YydyxnNY0nkqXyfDChmdPgVWJFZXp7XsRI2ZF9MKyuuKabdKiiQsgDkbnY3bx3Kte6qZlpKBvbnAy88XLoQCptiBHqMlKwwjsL9UVlyR8Ukt1jrcmQ==`</details>
 
 **JK**: デザインもおしゃれですよね。
 
-**参考情報**: 「側面には等高線をイメージしたグラフィックがデザインされており、マイクロスエードの柔らかな素材感を活かしたエンボス加工で仕上げ。ミリタリーライクなワントーンのデザイン」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-IZDG92vo4ViKPs_FP0doehfsX2ba0aGvE4M1YydyxnNY0nkqXyfDChmdPgVWJFZXp7XsRI2ZF9MKyuuKabdKiiQsgDkbnY3bx3Kte6qZlpKBvbnAy88XLoQCptiBHqMlKwwjsL9UVlyR8Ukt1jrcmQ==`</details>
+> **参考情報**: 「側面には等高線をイメージしたグラフィックがデザインされており、マイクロスエードの柔らかな素材感を活かしたエンボス加工で仕上げ。ミリタリーライクなワントーンのデザイン」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-IZDG92vo4ViKPs_FP0doehfsX2ba0aGvE4M1YydyxnNY0nkqXyfDChmdPgVWJFZXp7XsRI2ZF9MKyuuKabdKiiQsgDkbnY3bx3Kte6qZlpKBvbnAy88XLoQCptiBHqMlKwwjsL9UVlyR8Ukt1jrcmQ==`</details>
 
 **先生**: そうだな、スクランブラーはデザイン性も評価が高い。等高線をモチーフにしたグラフィックは、山好きの心をくすぐる。街履きにも違和感がないから、旅行にも使いやすい。
 
@@ -302,13 +302,13 @@ Tags: Trekking Shoes, Guide
 
 ### スローダウンレザー（Slow Down Leather）シリーズ
 
-**参考情報**: 「地図にないバリエーションルートでの使用も想定。汎用性、安定性、グリップ性のバランスに優れる。オフトレイルハイクの耐久性を維持しつつ軽量化」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIpx6shIKLCVbcJ-_Ga5q8-j7ph9QcSrk0UTuJnxpyvBtSYHJ6ChpaSfFX2YLy9w820QeolNLKuAkRskTRNM-b6hN-MUCmf8_4CIS7Kji4n3r2zg==`</details>
+> **参考情報**: 「地図にないバリエーションルートでの使用も想定。汎用性、安定性、グリップ性のバランスに優れる。オフトレイルハイクの耐久性を維持しつつ軽量化」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIpx6shIKLCVbcJ-_Ga5q8-j7ph9QcSrk0UTuJnxpyvBtSYHJ6ChpaSfFX2YLy9w820QeolNLKuAkRskTRNM-b6hN-MUCmf8_4CIS7Kji4n3r2zg==`</details>
 
 **JK**: バリエーションルートって何ですか？
 
 **先生**: 一般的な登山道ではない、地図に載っていないようなルートのことだ。岩場や藪漕ぎ、沢登りなど。そういった過酷な環境でも壊れにくい耐久性を持っている。
 
-**参考情報**: 「3シーズンの低山ハイキングや日帰り登山におすすめ。岩場でも歩きやすい安定性と軽量性を兼ね備え、高耐久性からバリエーションルートの歩行にも適している」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIpx6shIKLCVbcJ-_Ga5q8-j7ph9QcSrk0UTuJnxpyvBtSYHJ6ChpaSfFX2YLy9w820QeolNLKuAkRskTRNM-b6hN-MUCmf8_4CIS7Kji4n3r2zg==`</details>
+> **参考情報**: 「3シーズンの低山ハイキングや日帰り登山におすすめ。岩場でも歩きやすい安定性と軽量性を兼ね備え、高耐久性からバリエーションルートの歩行にも適している」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIpx6shIKLCVbcJ-_Ga5q8-j7ph9QcSrk0UTuJnxpyvBtSYHJ6ChpaSfFX2YLy9w820QeolNLKuAkRskTRNM-b6hN-MUCmf8_4CIS7Kji4n3r2zg==`</details>
 
 #### 主なスペック
 - アッパー: CORDURA RIP STOPナイロン、ヌバックレザー、TPU補強
@@ -331,7 +331,7 @@ Tags: Trekking Shoes, Guide
 
 > **Image Prompt:** クライミングゲレンデに向かうクライマーが、クラッグストーンを履いてアプローチする様子。背景に岩壁が見える。
 
-**参考情報**: 「軽量性と高いグリップ力が特徴のアプローチ＆ハイキングシューズ。通気性の良いアッパーには高強度のスペクトラヤーンが使用され、シューズ全体の強度を高めている」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOgcIMWfQBMAIiA06gnBWUs4B4TP3E-cUwtg5UVYB9djTswLzTFjJu1bvKSm7bHsmOOBue3P0eyLiHFlDSFGxKFsWg2gXUKeAWPpD59d9Uc9pPhXgM4lzIVsifaP0N0sVY`</details>
+> **参考情報**: 「軽量性と高いグリップ力が特徴のアプローチ＆ハイキングシューズ。通気性の良いアッパーには高強度のスペクトラヤーンが使用され、シューズ全体の強度を高めている」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOgcIMWfQBMAIiA06gnBWUs4B4TP3E-cUwtg5UVYB9djTswLzTFjJu1bvKSm7bHsmOOBue3P0eyLiHFlDSFGxKFsWg2gXUKeAWPpD59d9Uc9pPhXgM4lzIVsifaP0N0sVY`</details>
 
 **JK**: アプローチシューズって、クライミングする人専用ですか？
 
@@ -356,7 +356,7 @@ Tags: Trekking Shoes, Guide
 
 **先生**: **ヌプシブーティー**シリーズだな。これは厳密には登山靴というよりウィンターブーツだが、雪山のアプローチや冬のアウトドアに重宝する。
 
-**参考情報**: 「Nuptse Bootie WP Logo Short（¥24,970）は防水透湿素材Techproofを採用し、優れた保温性を発揮」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGu3vtz8ysu45sbDN6MlpK9_XPeNfLOiCbi2Q2aaBIw69rp2KYYUrHFnjKD57ZS2KXb_t1d4cGg7cbDqQVvJU80dcaYqUbnY2Suli66ZKdK_cSfd8fALJ2nCJZO8pqxe8E2E7x3Kn6HnsIhyKFPoJ4n`</details>
+> **参考情報**: 「Nuptse Bootie WP Logo Short（¥24,970）は防水透湿素材Techproofを採用し、優れた保温性を発揮」<details><summary>出典</summary>`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGu3vtz8ysu45sbDN6MlpK9_XPeNfLOiCbi2Q2aaBIw69rp2KYYUrHFnjKD57ZS2KXb_t1d4cGg7cbDqQVvJU80dcaYqUbnY2Suli66ZKdK_cSfd8fALJ2nCJZO8pqxe8E2E7x3Kn6HnsIhyKFPoJ4n`</details>
 
 ### 2024年の主なモデル
 
