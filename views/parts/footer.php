@@ -2,6 +2,7 @@
         <div class="container">
             <p>&copy; <?php echo date('Y'); ?> <?php echo htmlspecialchars($siteName); ?> All rights reserved.</p>
         </div>
+        <script src="http://localhost:4173/embed.js" data-site-key="sc_pk_IXSmqrVkj5OYb9Tx7EcsnvUQ" async></script>
     </footer>
     <button id="backToTop" class="back-to-top" aria-label="ページトップへ戻る">▲</button>
     
