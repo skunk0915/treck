@@ -23,3 +23,12 @@ PHPを用いた静的サイトジェネレータ（SSG）によって構築さ�
   - `views/parts/footer.php` (フッターテンプレートの `</body>` 直前に挿入)
   - `views/layout.ejs` (レイアウトテンプレートに挿入)
   - `static/` 配下のすべての静的HTMLファイル（計219個）の `</body>` 直前に一括挿入
+
+### 2026-07-14: Xserver VPS (xserver-vps-mizy) へのデプロイ
+- 本番サーバーの Xserver VPS に新規にブログ環境をデプロイしました。
+- **デプロイ構成**:
+  - デプロイ先パス: `/var/www/sensei-omoi`
+  - Webサーバー: Nginx (リバースプロキシ) + PHP-FPM (PHP 8.5)
+  - 公開URL: `https://sensei-omoi.162.43.25.182.sslip.io/`
+  - SSL証明書: Let's Encrypt (Certbot) による HTTPS 化を適用
+
