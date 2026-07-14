@@ -14,5 +14,6 @@
     <script src="<?php echo $baseUrl; ?>/js/toc.js" defer></script>
     <script src="<?php echo $baseUrl; ?>/js/hamburger.js" defer></script>
     <?php if (isset($extraScripts)) echo $extraScripts; ?>
+    <script src="https://chatbot.162.43.25.182.sslip.io/chat-widget.js" data-site-id="demo-tenant-id" defer></script>
 </body>
 </html>

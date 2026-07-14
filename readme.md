@@ -1,0 +1,25 @@
+# 先生、それ、重くないですか？ (Treck)
+
+登山ギアやハイキングのコツを紹介するブログサイトです。
+PHPを用いた静的サイトジェネレータ（SSG）によって構築されています。
+
+## プロジェクト構成
+
+- `article/`: 記事のMarkdownファイル
+- `views/`: テンプレートファイル（PHP, EJS）
+  - `views/parts/footer.php`: 共通フッターテンプレート
+- `static/`: ビルドされた静的HTMLファイル（公開ディレクトリ）
+- `build.php`: 静的ファイル生成スクリプト
+- `build_local.php`: タグの同期およびビルド実行用スクリプト
+
+## 改修履歴
+
+### 2026-07-14: チャットボット埋め込みコードの追加
+- サイト全体にチャットボットを導入するため、以下の埋め込みコードを `</body>` 直前に挿入しました。
+  ```html
+  <script src="https://chatbot.162.43.25.182.sslip.io/chat-widget.js" data-site-id="demo-tenant-id" defer></script>
+  ```
+- **変更対象ファイル**:
+  - `views/parts/footer.php` (フッターテンプレートの `</body>` 直前に挿入)
+  - `views/layout.ejs` (レイアウトテンプレートに挿入)
+  - `static/` 配下のすべての静的HTMLファイル（計219個）の `</body>` 直前に一括挿入

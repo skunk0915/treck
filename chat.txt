@@ -13,3 +13,12 @@ USER: 下記を実装するにはどうしたらいい？
 AI: 共通フッターファイル（views/parts/footer.php）の共通フッターの閉じタグ（</footer>）の直前に、ご指定のscriptタグを配置する修正を行いました。
 編集したファイルパス:  
 - views/parts/footer.php
+
+2026-07-14 14:52:00  
+USER: これをしたい。「https://sensei-omoi.pages.dev/」
+AI: 共通フッターファイル（views/parts/footer.php）およびレイアウトファイル（views/layout.ejs）の</body>タグの直前に指定のチャットボット埋め込みコード（https://chatbot.162.43.25.182.sslip.io/chat-widget.js）を追加しました。また、ローカルでPHPビルドが実行できない環境のため、Pythonスクリプトを用いてstatic/配下の全静的HTMLファイル（計219個）の</body>直前にも同様の埋め込みコードを一括挿入しました。
+編集したファイルパス:  
+- views/parts/footer.php
+- views/layout.ejs
+- static/以下のHTMLファイル群（219ファイル）
+- readme.md
