@@ -32,3 +32,13 @@ PHPを用いた静的サイトジェネレータ（SSG）によって構築さ�
   - 公開URL: `https://sensei-omoi.162.43.25.182.sslip.io/`
   - SSL証明書: Let's Encrypt (Certbot) による HTTPS 化を適用
 
+### 2026-07-27: Kagoya VPS (kagoya-vps-mizy) へのデプロイ・ドメイン紐づけ
+- 本番サーバーを Kagoya VPS (`133.18.144.38`) へ切り替え、ドメイン `sensei-omoi.flow-t.net` として公開・デプロイしました。
+- **デプロイ構成**:
+  - サーバー: Kagoya VPS (IP: `133.18.144.38`)
+  - デプロイ先パス: `/var/www/sensei-omoi`
+  - Webサーバー: Nginx (`root /var/www/sensei-omoi/static;`)
+  - 公開URL: `https://sensei-omoi.flow-t.net/`
+  - SSL証明書: Let's Encrypt (Certbot) による HTTPS 対応
+
+

@@ -29,3 +29,11 @@ AI: 自動デプロイが正常に反映されていない状態だったため�
 編集したファイルパス:  
 - readme.md
 - chat.txt
+
+2026-07-27 14:34:54  
+USER: それもうなくなってるな。カゴヤｖｐｓにflow-t.netドメイン紐づいてるよね。カゴヤでsensei-omoi.flow-t.netとしてデプロイされたい
+AI: 最新のプロジェクトファイルをKagoya VPS (133.18.144.38) の /var/www/sensei-omoi に転送・同期し、サーバー上で php build.php を実行して静的コンテンツを生成しました。Nginx設定（/etc/nginx/sites-available/sensei-omoi.conf）のドキュメントルートを /var/www/sensei-omoi/static に更新し、Certbot により sensei-omoi.flow-t.net 用の Let's Encrypt SSL証明書を取得・適用して https://sensei-omoi.flow-t.net/ での公開およびチャットボット等の動作用設定を完了しました。
+編集したファイルパス:  
+- readme.md
+- chat.txt
+
