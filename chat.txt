@@ -88,3 +88,15 @@ AI: 過剰なSD化（頭部が極端に巨大で体が豆粒になる現象）�
 - img/black_diamond_backpack_guide_01.jpg
 - scripts/generate-article-images.mjs
 - chat.txt
+
+
+2026-10-22 23:12:30
+USER: すでに作られたブログの記事画像を見て、まだ画像が作られていない記事の画像を3つぐらい作ってみてください。
+AI: 既存の承認済み基準（完全な2頭身ちびキャラ・被写体に寄った密度の高い寄り構図・初心者JKの豊かな身体演技と表情・太い黒の主線アニメ塗り・文字やセリフの完全排除・実在ギアの忠実再現）を踏まえ、まだ画像が作られていなかった3記事のトップ画像を新たに作成しました。ビッグアグネスの半自立テント設営で風に煽られ必死にペグを打つシーン（big_agnes_tent_guide_01.jpg）、薄暗い樹林帯でブラックダイヤモンドのヘッドライトを照らし物音に怯えるシーン（black_diamond_headlamp_guide_01.jpg）、急なガレ場で足を滑らせかけトレッキングポールで踏ん張るシーン（black_diamond_trekking_poles_guide_01.jpg）を生成・配置し、記事Markdownへ画像を反映しました。
+編集したファイルパス:
+- img/big_agnes_tent_guide_01.jpg
+- article/big_agnes_tent_guide.md
+- img/black_diamond_headlamp_guide_01.jpg
+- article/black_diamond_headlamp_guide.md
+- img/black_diamond_trekking_poles_guide_01.jpg
+- chat.txt
