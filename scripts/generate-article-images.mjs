@@ -206,23 +206,38 @@ function buildPrompt(item) {
   const storyInfo = buildStorySceneInstruction(item);
   const altOrHint = item.alt || item.promptHint || '';
 
+  // 服装ルール: 服自体がテーマならそのアイテム優先、そうでなければ jk_yama_ref.png のおしゃれ山ガールスタイル
+  const isClothingTheme = /hardshell|jacket|fleece|down|parka|rainwear|pants|tights|baselayer|underwear|hat|cap|glove|ウェア|ジャケット|フリース|ダウン|パンツ|タイツ|雨具/.test(
+    `${item.slug} ${item.title}`
+  );
+
   const promptText = `
 画像生成ツールで登山ブログの記事アイキャッチ画像を1枚生成してください（アスペクト比 16:9 横長）。
 
-【最重要ルール: 完全な２頭身（2 heads tall chibi / 頭と体の比率は１：１）】
-⚠️ ３頭身以上やリアル等身は絶対に禁止です！
-- 頭の大きさと身体（胴体＋足）のサイズ比率は１：１（完全な【２頭身】の超デフォルメちびキャラ体型）。
-- 頭が丸くて大きく、手足がちょこんと短い愛嬌たっぷりの２頭身SDキャラクターとして描いてください。
-- 添付の caravan_style.jpg と同じ、くっきりとした太い黒の輪郭線（太い主線のアニメ塗り）で描いてください。
-- 顔立ちと髪型は添付の jk_face.jpg（茶髪ショートボブ）に合わせてください。
+【キャラクターの頭身とスタイル（最重要ルール）】
+⚠️ 0.5頭身〜2頭身未満のような「頭が巨大で身体が豆粒の過剰なSD化」は絶対に禁止です！
+- 頭身バランス: 添付の jk_yama_ref.png と【完全に同じ頭身】で描いてください。
+  - 頭と身体のサイズ比率は「１：２」（頭身は約2.5〜3頭身）。
+  - 頭のサイズに対して首から下の身体・手足に適度な長さがあり、全体のバランスが自然なアニメデフォルメ体型。
+- 顔立ちと髪型: 添付の jk_face.png（茶髪ショートボブ、ジト目で愛嬌のある目元）。
+- 輪郭線と塗り: 添付の jk_yama_ref.png と同じ、くっきりとした太い黒の主線、セル画調のアニメ塗り。
 - ⚠️ 文字、セリフ、吹き出し、アルファベット、擬音テキストは画像内に絶対に描かないでください（完全禁止）。
 
+【服装（重要ルール）】
+${
+  isClothingTheme
+    ? `- 記事テーマのウェアを最優先: ${storyInfo.gear}
+- 下半身や全体の着こなしは 添付の jk_yama_ref.png を踏まえたおしゃれな山ガールコーデ（山スカート＋濃色サポートタイツ、またはトレッキングパンツ、登山靴）。`
+    : `- 服装: 添付の jk_yama_ref.png のおしゃれ山ガールスタイルを忠実に着用させてください。
+  （ビビッドピンクのマウンテンパーカー、腰に巻いたチェック柄シャツ、黄緑の山スカート、濃色サポートタイツ、赤・黒の登山靴）。`
+}
+- 学生服・セーラー服は完全禁止。
+
 【構図の指定（最重要: 被写体にぐっと寄った密度の高いアングル）】
-⚠️ 遠くから全身を小さく撮る引きの構図（ロングショット）は完全禁止です（余白がスカスカで単調に間延びし、頭身が伸びてしまうため）。
+⚠️ 遠くから全身を小さく撮る引きの構図（ロングショット）は完全禁止です（余白がスカスカで単調に間延びし、頭身が崩れる原因になるため）。
 - カメラ位置: キャラクターや主役ギアにぐっと接近した【寄り構図（ミディアムショット〜クローズアップ）】。
 - 画面の大半を、生き生きと演技しているキャラクターとアウトドアギアが大きく密度高く占めるように配置する。
 - ⚠️ パースを強調するような極端な遠近感や魚眼レンズ効果は一切不要です（禁止）。自然なカメラのまま、被写体にぐっと寄って捉えてください。
-- 岩場登攀なら上から見下ろすハイアングル寄りで必死にしがみつく姿、足元・靴ならローアングル寄り、ザックやテントなら腰を下ろしてギアと向き合う寄り構図など、シチュエーションに応じた密度の高い構図。
 
 【ストーリー性とキャラクターの演技（最重要）】
 ⚠️ 単調な立ち絵や静止ポーズは禁止です。一目でシチュエーションと感情がわかるストーリーを描いてください。
@@ -230,10 +245,9 @@ function buildPrompt(item) {
 ${altOrHint ? `※記事の個別コンテキスト: 「${altOrHint}」` : ''}
 - 初心者JKの表情と仕草: テキストやセリフを使わず、目・口・冷や汗などの表情と、身体の重心・仕草（しがみつく、腰が引ける、膝が震える、へばる、驚く、喜ぶなど）だけで感情豊かに表現してください。
 
-【服装と道具の実在性】
-- 服装: 山ガールのアウトドア登山ウェア（マウンテンパーカー、トレッキングパンツ、グローブ、ザック）。学生服は禁止。
+【道具の実在性】
 - 道具: ${storyInfo.gear} 実在する道具を忠実にイラスト化してください。架空の道具は厳禁。
-- 背景: 切り立った岩肌、樹林帯、山並み、雲海など、シチュエーションに即したリアルな日本の山岳自然風景。
+- 背景: 切り立った岩肌、山頂、樹林帯、山並み、雲海など、シチュエーションに即したリアルな日本の山岳自然風景。
 
 それ以外の作業は一切せず、最後に GENERATED とだけ出力してください。
 `.trim();
@@ -247,10 +261,10 @@ function generateOne(item) {
     rmSync(WORK_DIR, { recursive: true, force: true });
     mkdirSync(WORK_DIR, { recursive: true });
 
-    const faceRef = resolve(IMG_DIR, 'jk-body.jpg');
-    const styleRef = resolve(IMG_DIR, 'caravan_shoes_guide_01.jpg');
-    if (existsSync(faceRef)) copyFileSync(faceRef, resolve(WORK_DIR, 'jk_face.jpg'));
-    if (existsSync(styleRef)) copyFileSync(styleRef, resolve(WORK_DIR, 'caravan_style.jpg'));
+    const faceRef = resolve(IMG_DIR, 'jk.png');
+    const yamaRef = resolve(IMG_DIR, 'jk_yama_ref.png');
+    if (existsSync(faceRef)) copyFileSync(faceRef, resolve(WORK_DIR, 'jk_face.png'));
+    if (existsSync(yamaRef)) copyFileSync(yamaRef, resolve(WORK_DIR, 'jk_yama_ref.png'));
 
     const startedAt = Date.now();
     const prompt = buildPrompt(item);

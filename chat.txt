@@ -77,3 +77,14 @@ AI: 「完全な２頭身ちびキャラ（頭部比率1:1）」「被写体に�
 - article/jetboil_guide.md
 - article/black_diamond_backpack_guide.md
 - chat.txt
+
+2026-10-22 23:12:00
+USER: だめだ。これ２頭身じゃなくて０．５頭身ぐらいでｓｄにしすぎ。服装がださい。/Volumes/8TB/pj外部/treck/素材/jk-yamaの服装を使って。ただし服自体がその記事のテーマの場合はそのアイテムが優先
+AI: 過剰なSD化（頭部が極端に巨大で体が豆粒になる現象）を解消し、頭と身体のサイズ比率を「１：２（約2.5〜3頭身）」とする基準に修正しました。また、服装を「素材/jk-yama/jk-yama00.png」のおしゃれな山ガールコーデ（ビビッドピンクパーカー、インナー、腰巻きチェックシャツ、黄緑山スカート、タイツ、登山靴）をベースとし、服自体が記事テーマの場合のみ該当ギア（アークテリクス等）を優先するルールを徹底しました。指定3画像（arcteryx_hardshell_complete_guide_01.jpg、jetboil_guide_01.jpg、black_diamond_backpack_guide_01.jpg）を再生成し、スクリプト（scripts/generate-article-images.mjs）の共通生成ロジックへ反映しました。
+編集したファイルパス:
+- img/jk_yama_ref.png
+- img/arcteryx_hardshell_complete_guide_01.jpg
+- img/jetboil_guide_01.jpg
+- img/black_diamond_backpack_guide_01.jpg
+- scripts/generate-article-images.mjs
+- chat.txt
