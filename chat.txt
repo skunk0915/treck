@@ -66,3 +66,14 @@ AI: 遠景からの引きの構図（ロングショット）が画面の間延�
 - scripts/generate-article-images.mjs
 - img/approach_shoes_guide_01.jpg
 - chat.txt
+
+2026-10-22 23:00:00
+USER: これだ。こういうの。あと３記事画像作成して。ここまでのポイントを３画像とも踏まえたものができればそれで残りの画像全作成を命じる
+AI: 「完全な２頭身ちびキャラ（頭部比率1:1）」「被写体に接近した寄り構図（スカスカ感・間延びの排除）」「初心者JKの表情と身体演技（喜怒哀楽）」「文字・セリフ禁止」「実在ギアの忠実再現」「太い主線アニメ塗り」の全ポイントを徹底し、異なる3つのシチュエーションの記事トップ画像（arcteryx_hardshell_complete_guide_01.jpg、jetboil_guide_01.jpg、black_diamond_backpack_guide_01.jpg）を作成し、記事Markdownへ画像を反映しました。
+編集したファイルパス:
+- img/arcteryx_hardshell_complete_guide_01.jpg
+- img/jetboil_guide_01.jpg
+- img/black_diamond_backpack_guide_01.jpg
+- article/jetboil_guide.md
+- article/black_diamond_backpack_guide.md
+- chat.txt
