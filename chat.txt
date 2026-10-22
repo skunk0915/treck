@@ -90,9 +90,9 @@ AI: 過剰なSD化（頭部が極端に巨大で体が豆粒になる現象）�
 - chat.txt
 
 
-2026-10-22 23:12:30
+2026-10-22 23:33:00
 USER: すでに作られたブログの記事画像を見て、まだ画像が作られていない記事の画像を3つぐらい作ってみてください。
-AI: 既存の承認済み基準（完全な2頭身ちびキャラ・被写体に寄った密度の高い寄り構図・初心者JKの豊かな身体演技と表情・太い黒の主線アニメ塗り・文字やセリフの完全排除・実在ギアの忠実再現）を踏まえ、まだ画像が作られていなかった3記事のトップ画像を新たに作成しました。ビッグアグネスの半自立テント設営で風に煽られ必死にペグを打つシーン（big_agnes_tent_guide_01.jpg）、薄暗い樹林帯でブラックダイヤモンドのヘッドライトを照らし物音に怯えるシーン（black_diamond_headlamp_guide_01.jpg）、急なガレ場で足を滑らせかけトレッキングポールで踏ん張るシーン（black_diamond_trekking_poles_guide_01.jpg）を生成・配置し、記事Markdownへ画像を反映しました。
+AI: 直前セッションの極端なデフォルメ調整を引きずらず、ブログ本来の初期アイキャッチ画像（about-mv.jpg、soto_windmaster_guide_01.jpg、montbell_stellaridge_guide_01.jpg等）の世界観に回帰しました。「雄大で美しい山岳自然の背景」「約3.5頭身のジト目アニメ体型」「本格的な山ガール登山ウェアと実在ギアの自然な調和」「文字・セリフ・アルファベットの完全排除」を徹底し、未作成だった3記事のトップ画像（ビッグアグネスの半自立テント設営: big_agnes_tent_guide_01.jpg、夕暮れ山道でのヘッドランプ歩行: black_diamond_headlamp_guide_01.jpg、稜線トレイルでのトレッキングポール歩行: black_diamond_trekking_poles_guide_01.jpg）を作成・配置し、記事Markdownへ反映しました。
 編集したファイルパス:
 - img/big_agnes_tent_guide_01.jpg
 - article/big_agnes_tent_guide.md
