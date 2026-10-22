@@ -2,16 +2,16 @@
 /**
  * generate-article-images.mjs — 記事トップ画像（サムネイル）一括自律生成ワーカー
  *
- * 【重要要件】
+ * 【検証済み・確定ルール】
  * 1. 外部APIは一切使用禁止。サブスクの Antigravity CLI（~/.local/bin/agy）を非対話（-p）で1枚ずつ実行。
- * 2. 【最重要・等身の厳守】: 確実に「3頭身くらい」のデフォルメちびキャラ（3 heads tall chibi style）。
- *    リアル等身や4頭身以上は絶対に禁止。頭が大きめで手足が短い愛嬌のある3頭身スタイル。
- * 3. 【「ダイナミック」指示は撤廃】: 奇抜な魚眼や極端なパースは使わず、自然な構図にする。
- * 4. 【初心者JKの豊かな喜怒哀楽】: アウトドア初心者ならではのリアルな感情（へばる・困る等のトラブルだけでなく、感動・ドヤ顔・ワクワク・ホッとする等、喜怒哀楽をバランスよく豊かに表現）。
- * 5. 【服装の厳格な指示】: 参照画像（jk-body.jpg）のセーラー服（学生服）は禁止。必ず記事に合った山ガール登山ウェア・アウトドアファッションへ着せ替える。
- * 6. 【道具の実在性と忠実な再現】: 記事の主役ギア、または実在する定番ギア（キャラバン C1_02S, カリマー Ridge, モンベル等）を忠実にイラスト化。
- * 7. 【レートリミット対策】: 画像生成専用レートリミット（LIMIT <分>）を正確に検知し、安全マージン付きで自動スリープ・自動再開。
- * 8. 全記事完了まで自動継続。
+ * 2. 【最重要・頭身比率】: 頭と身体のサイズ比率は１：２（約2〜2.5頭身のデフォルメちびキャラ体型）。リアル等身や4頭身以上は完全禁止。
+ * 3. 【輪郭線】: caravan_shoes_guide_01.jpg を参照し、くっきりとした「太い黒の輪郭線（太い主線アニメ塗り）」を厳守（細い線はNG）。
+ * 4. 【文字・セリフ禁止】: セリフ、吹き出し、アルファベット、文字の書き込みは完全禁止。
+ * 5. 【明確なシチュエーション・喜怒哀楽】: 記事のテーマと道具の役割が一目でわかる具体的な登山の困難・日常シーンを描く（初心者JKの困惑、汗、感動、達成感、ドヤ顔等）。
+ * 6. 【服装】: 学生服（セーラー服）は禁止。必ず記事に合った山ガール登山ウェア・アウトドアファッションへ着せ替える。
+ * 7. 【道具の実在性と忠実な再現】: 記事の主役ギア、または実在する定番ギア（キャラバン C1_02S, カリマー Ridge, モンベル等）を忠実にイラスト化。
+ * 8. 【レートリミット対策】: 画像生成専用レートリミット（LIMIT <分>）を検知し、安全マージン付きで自動スリープ・自動再開。
+ * 9. 全記事完了まで自動継続。
  */
 
 import { spawn, execFileSync } from 'node:child_process';
@@ -87,21 +87,6 @@ function imageFormat(path) {
   }
 }
 
-function getReferenceImage() {
-  const masterRef = resolve(IMG_DIR, 'jk-body.jpg');
-  if (existsSync(masterRef)) return masterRef;
-
-  const candidates = [
-    resolve(IMG_DIR, 'caravan_shoes_guide_01.jpg'),
-    resolve(IMG_DIR, 'mammut_backpack_article_01.jpg'),
-    resolve(IMG_DIR, 'bear_bell_guide_01.jpg'),
-  ];
-  for (const c of candidates) {
-    if (existsSync(c)) return c;
-  }
-  return null;
-}
-
 /** 未作成記事の一覧を取得 */
 export function getPendingArticles() {
   const files = readdirSync(ARTICLE_DIR)
@@ -146,7 +131,7 @@ export function getPendingArticles() {
   return pending;
 }
 
-/** 記事テーマに合わせた初心者JKのシチュエーション・感情表現（喜怒哀楽）・実在ギアの演出指示 */
+/** 記事テーマに合わせた初心者JKの具体的な登山のシチュエーションと道具の役割 */
 function buildSceneInstruction(item) {
   const { slug, title, alt, promptHint } = item;
   const text = `${slug} ${title} ${alt} ${promptHint}`.toLowerCase();
@@ -155,15 +140,15 @@ function buildSceneInstruction(item) {
   if (/approach|shoes|boots|foot|歩行|technique|walking|stock|pole|trekking_shoes/.test(text)) {
     return {
       gear: '実在する登山靴・アプローチシューズ（例: スポルティバ TX4 または TX5、キャラバン C1_02S）を忠実にイラスト化。',
-      scene: '【シチュエーションと感情】岩場のある登山道で、「よいしょ…！」と真剣なジト目で一歩を踏み出し、靴のグリップを確かめながら慎重に歩いている初心者JKの可愛らしい姿。自然なアングルで、キャラクターの全身（3頭身）と着用している登山靴、山道の岩肌がしっかりと見える構図。'
+      scene: '大きな岩や岩棚が重なる険しい岩場の登山道。JKが両手を岩にかけながら、登山靴・アプローチシューズを履いた足で岩のステップを踏みしめ、「ここ登るの…！？」と冷や汗をかきながら必死によじ登っているリアルな登攀シーン。'
     };
   }
 
   // 2. ザック・リュック・パッキング系
   if (/backpack|zack|bag|packing|ridge|saas_fee|aircontact|baltoro|ducan|trion/.test(text)) {
     return {
-      gear: '記事に登場する実在の特定ザック（例: カリマー Ridge 30、ミレー Saas Fee、マムート Trion/Ducan等）のブランドロゴ、カラー、ポケット形状を忠実にイラスト化。',
-      scene: '【シチュエーションと感情】自分の体に対して大きめのザックを背負い、「重っ…！でもカッコいいかも！」と少し誇らしげなドヤ顔と困り顔が混ざったような初心者らしい表情。山小屋前や登山道の自然な立ち姿。'
+      gear: '記事に登場する実在の特定ザック（例: カリマー Ridge 30、ミレー Saas Fee、ドイター Aircontact、マムート Trion等）のブランドロゴ、カラー、ポケット形状を忠実にイラスト化。',
+      scene: '山小屋前や休憩スポットで、自分の体に対して大きなザックを背負い、「重っ…！でもカッコいいかも！」と少し誇らしげなドヤ顔と困り顔が混ざった初心者らしい愛嬌あるポーズ。または荷物が入り切らずザックに体重を乗せて無理やり閉めようと奮闘するシーン。'
     };
   }
 
@@ -171,7 +156,7 @@ function buildSceneInstruction(item) {
   if (/rain|hardshell|weather|storm|wind|typhoon|snow|winter|寒|雨|fleece|down|insulated/.test(text)) {
     return {
       gear: '実在する防水透湿ジャケット（例: モンベル ストームクルーザー、アークテリクス ベータジャケット等）の鮮やかなカラーとフード、ブランドロゴを忠実にイラスト化。',
-      scene: '【シチュエーションと感情】霧雨や小雨が降る登山道で、フードを被りながら「雨降ってきたけど、このカッパ弾いてる！」と袖の水滴を不思議そうに見つめる、初心者らしい素直なリアクション。'
+      scene: '雨が降る山道で、フードをすっぽり被りながら「雨降ってきたけど、このジャケット水滴を弾いてる！」と袖を不思議そうに見つめたり、小雨の中を慎重に歩くリアルな山歩きシーン。'
     };
   }
 
@@ -179,7 +164,7 @@ function buildSceneInstruction(item) {
   if (/tent|tarp|shelter|mat|sleeping|camp|宿泊|ステラリッジ|エアライズ/.test(text)) {
     return {
       gear: '実在する山岳テント（例: モンベル ステラリッジ、アライテント エアライズ、MSR エリクサー等）を忠実にイラスト化。',
-      scene: '【シチュエーションと感情】テント場の美しい山並みを背景に、設営したテントの横で「できたー！」と満足そうに笑みを浮かべたり、テントからちょこんと顔を出して外の景色にワクワクしている初心者JKの微笑ましい姿。'
+      scene: '夕暮れや青空の美しいテント場で、設営したテントの横でペグハンマーを手に「できたー！」と満足そうに笑みを浮かべたり、テントから顔を出して山並みにワクワクしている微笑ましいシーン。'
     };
   }
 
@@ -187,7 +172,7 @@ function buildSceneInstruction(item) {
   if (/burner|cooker|stove|cup|bottle|food|snacks|ごはん|メスティン/.test(text)) {
     return {
       gear: '実在するアウトドア用バーナー・クッカー（例: SOTO ウィンドマスター、プリムス 153、スノーピーク等）を忠実にイラスト化。',
-      scene: '【シチュエーションと感情】山頂のベンチや岩の上で、湯気の立つマグカップやクッカーを両手で持ち、「ふーふー」しながら嬉しそうに温かい飲み物や山ごはんを味わっている至福の表情。'
+      scene: '山頂のベンチや岩の上で、湯気の立つマグカップやクッカーを両手で持ち、「ふーふー」しながら嬉しそうに温かい飲み物や山ごはんを味わっている至福の表情。'
     };
   }
 
@@ -195,14 +180,14 @@ function buildSceneInstruction(item) {
   if (/bear|bell|headlamp|first_aid|trouble|safety|gps|cocoheli|救助|遭難|熊/.test(text)) {
     return {
       gear: '実在する熊鈴やヘッドランプ、エマージェンシー小物を忠実にイラスト化。',
-      scene: '【シチュエーションと感情】静かな樹林帯の山道で、ザックにつけた熊鈴を「リンリン鳴ってちょっと恥ずかしいな…」と気にしながらジト目で歩いているユーモラスな表情。'
+      scene: '静かな樹林帯の山道で、ザックにつけた熊鈴を「リンリン鳴ってちょっと恥ずかしいな…」と気にしながらジト目で歩いているユーモラスなシーン。'
     };
   }
 
   // 7. 初心者ガイド・コース選び・高山病・バテ対策系
   return {
     gear: '実在する定番ギア（キャラバン C1_02S登山靴、カリマー Ridge 30ザック、モンベルウェア）を忠実にイラスト化。',
-    scene: '【シチュエーションと感情】山道を歩きながら、「山頂まであとどれくらいですか…？」と少し疲れた表情を浮かべたり、逆に登頂して「着いたー！」と達成感いっぱいに喜んでいる、初心者のリアルな感情が伝わるシーン。'
+    scene: '急な山道で膝に手をついて「山頂まだですか…？」と息を切らしてへばっているリアルな初心者姿、または山頂標識の横で両手を広げて達成感いっぱいに喜んでいるシーン。'
   };
 }
 
@@ -212,47 +197,46 @@ function buildPrompt(item) {
   const altOrHint = item.alt || item.promptHint || '';
 
   const promptText = `
-画像生成ツールで登山ブログの記事トップ画像（サムネイル）を1枚だけ生成してください（アスペクト比 16:9 横長）。
+画像生成ツールで登山ブログの記事アイキャッチ画像を1枚生成してください（アスペクト比 16:9 横長）。
 
-【最優先要件: 3頭身のデフォルメちびキャラ（等身の厳守）】
-⚠️ 等身が高くなることは絶対に禁止です！
-- 必ず頭のサイズが全体の約1/3を占める「3頭身くらい」のデフォルメちびキャラ（3 heads tall chibi style）で描いてください。
-- 4頭身以上やリアル等身は絶対にNGです。頭が大きめで手足が短く、愛嬌のあるちびキャラ等身を厳格に維持してください。
-- 極端な魚眼レンズやパース歪み（手足を巨大に突き出す構図）は禁止です。自然な視野角で、キャラクターの全身が画面に可愛らしく収まるようにしてください。
+【最重要ルール: キャラクターの頭身と輪郭線】
+- 頭と身体のサイズ比率は１：２（約2〜2.5頭身のデフォルメちびキャラ体型）。
+- リアル等身や大人びた頭身（3.5頭身以上）は絶対に禁止！必ず頭が大きく手足が短いちびキャラ体型にしてください。
+- 添付の caravan_style.jpg と同じ、くっきりとした太い黒の輪郭線（太い主線のアニメ塗り）で描いてください。線が細いのはNGです。
+- 顔立ちと髪型は添付の jk_face.jpg（茶髪ショートボブ、ジト目で愛嬌のある目元）に合わせてください。
+- ⚠️ 文字、セリフ、吹き出し、アルファベット等のテキストは画像内に絶対に描かないでください（完全禁止）。
 
-【キャラクターと服装の指定（学生服は禁止）】
-- 作業フォルダ内の jk_ref.jpg（img/jk-body.jpg）を参照画像として画像生成ツールに渡し、キャラクターの顔立ち（茶髪ショートボブ、ジト目で愛嬌のある目元、3頭身のちびキャラ造形）と画風（アニメ調、くっきりした黒の主線、鮮明なアニメ塗り）を完全に一致させてください。
-- ⚠️ 参照画像では学生服（セーラー服）を着ていますが、学生服は絶対に描かないでください！記事内容が登山・アウトドアのため、必ず記事テーマに合った「山ガール登山ウェア（機能性マウンテンパーカー、トレッキングパンツ、山スカート＋タイツ、登山帽子など）」に着せ替えてください。
+【服装（学生服禁止）】
+- 学生服・セーラー服は禁止。
+- 記事内容に合った山ガールのアウトドア登山ウェア（機能性マウンテンパーカー、トレッキングパンツ、登山用グローブ、小型ザックなど）。
 
-【シチュエーションと初心者JKの感情表現（喜怒哀楽）】
-${sceneInfo.scene}
+【明確なシチュエーションとストーリー（一目でわかる登山の場面）】
+- シーン: ${sceneInfo.scene}
 ${altOrHint ? `※記事の個別コンテキスト: 「${altOrHint}」` : ''}
+- 表情: 初心者らしい喜怒哀楽（困惑、冷や汗、真剣、ドヤ顔、感動など）を豊かに表現。
 
 【道具の実在性と忠実な再現】
-${sceneInfo.gear}
-- 架空の適当な道具を描くことは厳禁。指定された実在の登山道具を忠実にイラスト化して身につけさせてください。
-- 背景: 美しい日本の山岳風景（樹林帯の登山道、岩場、稜線、山小屋前、雲海など、シーンに合った自然な山岳風景）。
+- 道具: ${sceneInfo.gear}
+- 架空の適当な道具を描くことは厳禁。実在する登山道具を忠実にイラスト化してください。
+- 背景: 青空や遠くにそびえる山並み、切り立った岩場や美しい樹林帯など、リアルな日本の山岳自然風景。
 
-それ以外の作業（参照画像の読み込み以外のファイル閲覧・編集・コピー、コマンド実行、解説文の出力）は一切しないでください。
-
-最後に次のどれか1行だけを出力してください。
-- 生成できた: GENERATED
-- 画像生成の利用上限（レートリミット）に達している: LIMIT <解除までの分数（整数）>（分数が分からなければ LIMIT unknown）
-- それ以外の理由で生成できない: FAILED <理由>
+それ以外の作業は一切せず、最後に GENERATED とだけ出力してください。
 `.trim();
 
   return promptText;
 }
 
 /** agy -p で1枚生成 */
-function generateOne(item, refImage) {
+function generateOne(item) {
   return new Promise((done) => {
     rmSync(WORK_DIR, { recursive: true, force: true });
     mkdirSync(WORK_DIR, { recursive: true });
 
-    if (refImage && existsSync(refImage)) {
-      copyFileSync(refImage, resolve(WORK_DIR, 'jk_ref.jpg'));
-    }
+    // 参照画像2枚を作業ディレクトリに配置
+    const faceRef = resolve(IMG_DIR, 'jk-body.jpg');
+    const styleRef = resolve(IMG_DIR, 'caravan_shoes_guide_01.jpg');
+    if (existsSync(faceRef)) copyFileSync(faceRef, resolve(WORK_DIR, 'jk_face.jpg'));
+    if (existsSync(styleRef)) copyFileSync(styleRef, resolve(WORK_DIR, 'caravan_style.jpg'));
 
     const startedAt = Date.now();
     const prompt = buildPrompt(item);
@@ -380,13 +364,8 @@ function commitProgress(item) {
 
 async function main() {
   log('====================================================');
-  log('記事トップ画像一括自律生成ワーカー起動（3頭身・喜怒哀楽・実在ギア）');
+  log('記事トップ画像一括自律生成ワーカー起動（頭身比率1:2・太い主線・セリフ禁止）');
   log('====================================================');
-
-  const refImage = getReferenceImage();
-  if (refImage) {
-    log(`🎨 キャラクター参照画像: ${basename(refImage)}`);
-  }
 
   for (;;) {
     const pending = getPendingArticles();
@@ -400,7 +379,7 @@ async function main() {
     const current = pending[0];
     log(`👉 処理開始: [${current.slug}] ${current.title}`);
 
-    const result = await generateOne(current, refImage);
+    const result = await generateOne(current);
 
     if (result.kind === 'saved') {
       log(`✅ 生成成功: ${result.path}`);
